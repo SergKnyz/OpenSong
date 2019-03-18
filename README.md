@@ -1,8 +1,9 @@
 # OpenSongRu
 Русские христианские песни в формате Open Song XML.
 Не знаете, что это? Хотите попробовать?
- 1. Установите программы:
- * [OpenSong](https://sourceforge.net/projects/opensong/) или [OpenChords](https://sourceforge.net/projects/openchords/) на ваш компьютер, 
+ 1. Установите на ваш компьютер программы:
+ * [OpenChords](https://sourceforge.net/projects/openchords/)  или
+ * [OpenSong](https://sourceforge.net/projects/opensong/) 
  * [OpenSongApp](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) мобильное приложение на ваш Android-смартфон.
 
  2. Скачайте нашу базу песен:

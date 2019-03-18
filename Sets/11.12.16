@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="11.12.16">
+  <slide_groups>
+    <slide_group name="Ты живой Господь" type="song" presentation="V1 P C B " path="OpenChords/" transition="0" />
+    <slide_group name="Иисус с того момента" type="song" presentation="V1 C V2 V3" path="OpenChords/" transition="0" />
+    <slide_group name="Мы будем славить Имя Твоё" type="song" presentation="V1 C B B2 V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Преданный решительный" type="song" presentation="V1 C V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Истина Твоя" type="song" presentation="V1 C " path="OpenChords/" transition="0" />
+    <slide_group name="Божий дизайн" type="song" presentation="I V1 V2 C V3 " path="OpenChords/" transition="0" />
+    <slide_group name="Христос воскрес" type="song" presentation="V1 C V2 " path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

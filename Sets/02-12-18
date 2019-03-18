@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="02-12-18">
+  <slide_groups>
+    <slide_group name="Ты живой Господь" type="song" presentation="V P C B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Стоял Ты пред всем творением" type="song" presentation="V1 V2 P1 V3 P2 C" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Иисус Ты мой Господь" type="song" presentation="V1 V2 C1 V3 V4 C2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Иду за Тобой" type="song" presentation="V1 C V2 E" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Разломи мое сердце на части" type="song" presentation="V1 P C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="На Тебя взираю я" type="song" presentation="V1 C1 V2 C2 V3 C3 V4 C4 V5 C5" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты омой меня F" type="song" presentation="V1 C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Он есть Господь царит в высоте" type="song" presentation="I V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

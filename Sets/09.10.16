@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="09.10.16">
+  <slide_groups>
+    <slide_group name="Бесконечную милость" type="song" presentation="V1 C B" path="OpenChords/" transition="0" />
+    <slide_group name="Изливайте сердце ваше" type="song" presentation="V1 C" path="OpenChords/" transition="0" />
+    <slide_group name="Мы любим славить" type="song" presentation="V1  C" path="OpenChords/" transition="0" />
+    <slide_group name="Крест Голгофский" type="song" presentation=" V1 C" path="OpenChords/" transition="0" />
+    <slide_group name="За все Тебя Господь я благодарю" type="song" presentation="V1  C V2 V3 " path="OpenChords/" transition="0" />
+    <slide_group name="Как могуч Ты" type="song" presentation="V1 " path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

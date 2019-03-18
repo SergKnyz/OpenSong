@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="21.01.17">
+  <slide_groups>
+    <slide_group name="Ликуйте небеса" type="song" presentation="V1 C1 C2 C3" path="OpenChords/" transition="0" />
+    <slide_group name="Аллилуйя Аллилуйя" type="song" presentation="I V1 C1 B " path="OpenChords/" transition="0" />
+    <slide_group name="Имя Иисуса" type="song" presentation="C V1 V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Лишь в Тебе моя радость полна" type="song" presentation="V1 C1 B " path="OpenChords/" transition="0" />
+    <slide_group name="Поклоняюсь я у Твоих ног" type="song" presentation="V1 C " path="OpenChords/" transition="0" />
+    <slide_group name="Иисус  Твою победу празднуем" type="song" presentation="C V1 V2 " path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

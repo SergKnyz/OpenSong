@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="16.10.16">
+  <slide_groups>
+    <slide_group name="Мой Господь спасибо" type="song" presentation="I V1 C" path="OpenChords/" transition="0" />
+    <slide_group name="Святый Святый Ты Господь" type="song" presentation="V1 P C" path="OpenChords/" transition="0" />
+    <slide_group name="Я благодарен" type="song" presentation="V1 V2 V3" path="OpenChords/" transition="0" />
+    <slide_group name="Измени меня сердце мое обнови" type="song" presentation="V1 C V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Открываю окна" type="song" presentation="V1 C V2" path="OpenChords/" transition="0" />
+    <slide_group name="За все Тебя Господь я благодарю" type="song" presentation="V1  C V2 V3 " path="OpenChords/" transition="0" />
+    <slide_group name="Господу Богу твоему поклоняйся" type="song" presentation="C V1 V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Бог есть любовь" type="song" presentation="C1 V1 V2 SOLO V3 C2" path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

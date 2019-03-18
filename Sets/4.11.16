@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="4.11.16">
+  <slide_groups>
+    <slide_group name="Вместе звучно" type="song" presentation="V1 C" path="OpenChords/" transition="0" />
+    <slide_group name="Иисус Христос Господь" type="song" presentation="V1 C " path="OpenChords/" transition="0" />
+    <slide_group name="Мир увидит Божье Царство" type="song" presentation="V1 C " path="OpenChords/" transition="0" />
+    <slide_group name="Возношу свои руки к небу" type="song" presentation="V1 V2 C " path="OpenChords/" transition="0" />
+    <slide_group name="Только Ты один" type="song" presentation="V1 V2 C V3 " path="OpenChords/" transition="0" />
+    <slide_group name="Каждый миг" type="song" presentation="V1 C B" path="OpenChords/" transition="0" />
+    <slide_group name="Крест Голгофский" type="song" presentation=" V1 C" path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

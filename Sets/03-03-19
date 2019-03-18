@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="03-03-19">
+  <slide_groups>
+    <slide_group name="Иисус Ты мой Господь" type="song" presentation="V1 V2 C1 V3 V4 C2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Моя надежда Ты мой Бог" type="song" presentation="V1 P C1 C2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Превыше силы" type="song" presentation="V1 C V2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты искупил мир от греха" type="song" presentation="V1  C1 V2 V3 C2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Измени меня сердце мое обнови" type="song" presentation="V1 C1 V2 C2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="На Тебя взираю я" type="song" presentation="V1 C1 V2 C2 V3 C3 V4 C4 V5 C5" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Иисус Христос в ту ночь" type="song" presentation="I V1 C V2 V3 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

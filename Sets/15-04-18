@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="15-04-18">
+  <slide_groups>
+    <slide_group name="Приди настала пора" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="ИХ мой Спаситель и Бог" type="song" presentation="V1 V2 C B V3" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Снова Своей любовью Ты" type="song" presentation="V1 P C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Только Ты один" type="song" presentation="V1 V2 C V3 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Превыше силы" type="song" presentation="I V1 C V2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Честь и величье" type="song" presentation="V C B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

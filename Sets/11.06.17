@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="11.06.17">
+  <slide_groups>
+    <slide_group name="Ликуйте небеса" type="song" presentation="V1 C1 C2 C3" path="OpenChords/" transition="0" />
+    <slide_group name="У той песни нет конца" type="song" presentation="I V1 C V2 B " path="OpenChords/" transition="0" />
+    <slide_group name="Всем сердцем моим F" type="song" presentation="V1 V2 V3 V4" path="OpenChords/" transition="0" />
+    <slide_group name="Восхвалю" type="song" presentation="V1 V2 C " path="OpenChords/" transition="0" />
+    <slide_group name="За меня Ты жизнь отдал" type="song" presentation="V1 C" path="OpenChords/" transition="0" />
+    <slide_group name="Все земные невзгоды пройдут" type="song" presentation="V1 C" path="OpenChords/" transition="0" />
+    <slide_group name="Бог моя скала" type="song" presentation="V " path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

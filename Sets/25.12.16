@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="25.12.16">
+  <slide_groups>
+    <slide_group name="Моя надежда Ты мой Бог" type="song" presentation="V1 PC C1 C2 " path="OpenChords/" transition="0" />
+    <slide_group name="Бог моя сила Тебе я пою" type="song" presentation="C V1 V2 B " path="OpenChords/" transition="0" />
+    <slide_group name="И.Х. мой Спаситель и Бог" type="song" presentation="V1 V2 C B V3" path="OpenChords/" transition="0" />
+    <slide_group name="Моё сердце ждёт Тебя" type="song" presentation="V1 V2 " path="OpenChords/" transition="0" />
+    <slide_group name="На Тебя взираю я" type="song" presentation="V1 C1 V2 C2 V3 C3 " path="OpenChords/" transition="0" />
+    <slide_group name="Ты моя слава" type="song" presentation="C V1 PC V2 " path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

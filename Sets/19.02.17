@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="19.02.17">
+  <slide_groups>
+    <slide_group name="Иисус Христос Господь" type="song" presentation="V1 C " path="OpenChords/" transition="0" />
+    <slide_group name="Вместе звучно Em" type="song" presentation="V1 C " path="OpenChords/" transition="0" />
+    <slide_group name="Наш Бог Он прекрасный" type="song" presentation="V C " path="OpenChords/" transition="0" />
+    <slide_group name="Пусть слепой скажет вижу" type="song" presentation="I V1 C" path="OpenChords/" transition="0" />
+    <slide_group name="Радость в Господе" type="song" presentation="C V B " path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

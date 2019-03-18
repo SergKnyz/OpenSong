@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="07-01-19">
+  <slide_groups>
+    <slide_group name="Ликуйте небеса" type="song" presentation="V1 C1 C2 C3" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Вся земля хвалу поёт" type="song" presentation="V1 C V2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Вся земля полна славы и хвалы" type="song" presentation="V1 C1 V2  S C2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

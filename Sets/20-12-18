@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="20-12-18">
+  <slide_groups>
+    <slide_group name="Я благодарен" type="song" presentation="V1 V2 V3" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Пусть сердце моё будет чисто" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Славь Господа" type="song" presentation="V1 C1 V2 C2 V3 C3  " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты то чем я дышу" type="song" presentation="V1 V2 C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты лоза мы ветви" type="song" presentation="V B C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Верю я в Иисуса" type="song" presentation="V1 C1 V2 C2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Мир радость и любовь" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

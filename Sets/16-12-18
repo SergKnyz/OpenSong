@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="16-12-18">
+  <slide_groups>
+    <slide_group name="Моё сердце ждёт Тебя G" type="song" presentation="V1 V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="В Твоём Святом присутствии" type="song" presentation="" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Истина Твоя" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Святой Всемогущий" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Святый Бог в небесах" type="song" presentation="" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты живой Господь" type="song" presentation="V P C B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Да прославим Тебя" type="song" presentation="C V1 V2 V3" path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

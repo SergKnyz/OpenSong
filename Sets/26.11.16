@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="26.11.16">
+  <slide_groups>
+    <slide_group name="Как глубока Твоя любовь" type="song" presentation="V1 V2 C " path="OpenChords/" transition="0" />
+    <slide_group name="Святый Святый Ты достоин" type="song" presentation="V1 V2 C " path="OpenChords/" transition="0" />
+    <slide_group name="Совершенство Твоё" type="song" presentation="I V1 PC C " path="OpenChords/" transition="0" />
+    <slide_group name="Милости Твоей" type="song" presentation="I V1 C B " path="OpenChords/" transition="0" />
+    <slide_group name="Верю я" type="song" presentation="V1 C V2 B" path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

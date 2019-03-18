@@ -1,0 +1,738 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=2">
+    <script>
+        var previousPages = [];
+
+        function scrollSmoothTo(to, duration) {
+            if (duration <= 0) return;
+            var currentPosition = Math.max(window.pageYOffset, document.documentElement.scrollTop, document.body.scrollTop); 
+            var difference = to - currentPosition;
+            var perTick = difference / duration * 10;
+
+            //we want to repaint the screen after we are done scrolling
+            if (currentPosition === to - perTick || currentPosition === to + perTick) {
+                window.scroll(0, to-1);
+                paintAllElementsWithCss();
+                return;
+            }
+
+            setTimeout(function () {
+                var newPosition = currentPosition + perTick;
+                window.scroll(0, newPosition);
+
+                scrollSmoothTo(to, duration - 10);
+            }, 10);
+        }
+
+
+         //is element completely visible
+         function isElementInViewport(el) {
+             var rect = el.getBoundingClientRect();
+
+             return (
+                 rect.top >= 0 &&
+                 rect.left >= 0 &&
+                 rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /*or $(window).height() */
+                 rect.right <= (window.innerWidth || document.documentElement.clientWidth) /*or $(window).width() */
+             );
+        }
+
+         function getMaxSongElementIndex() {
+             var counter = 1;
+             while (true) {
+                 var elementToCheck = document.getElementById('SongElement' + counter);
+                 if (elementToCheck == null)
+                     return counter - 1;
+                 counter++;
+             }
+         }
+
+         //check if songelement full visible on the screen
+         function isSongElementCompletelyVisible(index) {
+             var elementToCheck = document.getElementById('SongElement' + index);
+             var isVisible = isElementInViewport(elementToCheck);
+             return isVisible
+         }
+
+         //check if songelement fully invisible
+         function isSongElementCompletelyInvisible(index) {
+             return !isSongElementCompletelyVisible(index);
+         }
+
+         //index of the first element in the song that is visible on the screen
+         function getFirstVisibleSongElementIndex() {
+             var maxSongElementCount = getMaxSongElementIndex();
+             for (i = 1; i <= maxSongElementCount; i++) {
+                 if (isSongElementCompletelyVisible(i))
+                     return i;
+             }
+         }
+
+         function findFirstOffScreenElementIndex() {
+             var maxSongElementCount = getMaxSongElementIndex();
+             var indexOfFirstVisibleElement = getFirstVisibleSongElementIndex();
+             for (i = indexOfFirstVisibleElement; i <= maxSongElementCount; i++) {
+                 if (isSongElementCompletelyVisible(i) == false)
+                     return i;
+
+             }
+         }
+
+         //scroll to song element in index
+         function smoothScrollToElement(index) {
+             var yPos = document.getElementById('SongElement' + index).offsetTop;
+             scrollSmoothTo(yPos, 400);
+         }
+
+         //scroll to element
+         function scrollToElement(index) {
+             var yPos = document.getElementById('SongElement' + index).offsetTop;
+             window.scroll(0, yPos);
+         }
+
+         //paint all elements with different css
+         function paintAllElementsWithCss() {
+
+             var maxSongElementCount = getMaxSongElementIndex();
+             for (i = 1; i <= maxSongElementCount; i++) {
+                 var element = document.getElementById("SongElement" + i);
+
+                 if (element.className != "DisplaySongName") {
+                     if (isSongElementCompletelyVisible(i))
+                         element.setAttribute("class", "DisplaySongVerse");
+                     else
+                         element.setAttribute("class", "DisplaySongVerseOffPage");
+                 }
+             }
+
+         }
+
+         //scroll down by one screen
+         function scrollDown() {
+             var firstOffScreenElementIndex = findFirstOffScreenElementIndex();
+             var firstElementIndex = getFirstVisibleSongElementIndex();
+             if (firstElementIndex != null) {
+                 previousPages.push(firstElementIndex);
+             }
+             if (firstOffScreenElementIndex != null) {
+                 smoothScrollToElement(firstOffScreenElementIndex);
+             }
+         }
+
+         //scroll up by one screen
+         function scrollUp() {
+             var previousPageIndex = previousPages.pop();
+             if (previousPageIndex != null)
+                 smoothScrollToElement(previousPageIndex)
+             else 
+                 smoothScrollToElement(1) //scroll to top of page
+         }
+
+         window.onload = function () {
+             paintAllElementsWithCss();
+         }
+
+         //add keyboard binding
+         document.addEventListener("keydown", keyDownInWindow, false);
+         function keyDownInWindow(e) {
+             if (e.keyCode == 32 || e.keyCode == 40) //if spacebar or down arrow
+             {
+                 scrollDown();
+                 e.preventDefault(); //swallow the event
+             }
+             else if (e.keyCode == 38) //if up arrow is pressed
+             {
+                 scrollUp();
+                 e.preventDefault(); //swallow the event
+             }
+             else if (e.keyCode == 116) //swallow f5 key presses
+             {
+                 e.preventDefault(); //swallow the event
+             }
+         }
+
+         function getBaseUrl() {
+             var pathArray = location.href.split('/');
+             var protocol = pathArray[0];
+             var host = pathArray[2];
+             var url = protocol + '//' + host;
+             return url
+         }
+
+         //call ajax to url and return text
+         function callAjax(url, callback) {
+             var xmlhttp;
+             var currentHostSongName;
+             // compatible with IE7+, Firefox, Chrome, Opera, Safari
+             xmlhttp = new XMLHttpRequest();
+             xmlhttp.onreadystatechange = function () {
+                 if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                     callback(xmlhttp);
+                 }
+             }
+             xmlhttp.open("GET", getBaseUrl() + url, true);
+             xmlhttp.send();
+             return currentHostSongName;
+         }
+
+         function compareHostSongAndCurrentSongAsync_Complete(xmlHttpResult) {
+             //current song name
+             var currentSongName = document.getElementById('SongName').value;
+             //host song name
+             var hostSongName = xmlHttpResult.responseText;
+             //if they are different reload the song
+             if (currentSongName !== hostSongName) {
+                 //reload page and scroll to top of page
+                 location.reload(true);
+                 document.body.scrollTop = document.documentElement.scrollTop = 0;
+             }
+         }
+
+         //compare host song and current song asynchonously
+         function compareHostSongAndCurrentSongAsync() {
+             callAjax('/SongName', compareHostSongAndCurrentSongAsync_Complete);
+         }
+
+     
+    </script>
+    <style>
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+        content: '';
+        content: none;
+    }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+body {
+    background-color: #FFFFFF;
+    padding-bottom: 1080px;
+}
+
+@media print {
+    body {
+        padding-bottom: 0px;
+    }
+}
+
+.DisplaySongVerse {
+    padding: 5px;
+    margin-bottom: 20px;
+    break-inside: avoid-column;
+    -webkit-column-break-inside: avoid;
+    border: 2px solid #DCDCDC;
+    border-radius: 7px;
+    margin-right: 10px;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(15%, #FFFFFF), color-stop(100%, #FFFFFF));
+    background: #FFFFFF; /* Old browsers */
+    background: -moz-linear-gradient(top,#FFFFFF 0%, #FFFFFF 15%, #FFFFFF 100%); /* FF3.6+ */
+    background: -o-linear-gradient(top,#FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,#FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* IE10+ */
+    background: linear-gradient(to bottom,#FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#FFFFFF',GradientType=0 ); /* IE6-9 */
+    display: table;
+    vertical-align: top;
+}
+
+.DisplaySongVerseOffPage {
+    padding: 5px;
+    margin-bottom: 20px;
+    break-inside: avoid-column;
+    -webkit-column-break-inside: avoid;
+    border: 2px solid #DCDCDC;
+    border-radius: 7px;
+    margin-right: 10px;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(15%, #FFFFFF), color-stop(100%, #FFFFFF));
+    background: #FFFFFF; /* Old browsers */
+    background: -moz-linear-gradient(top,#FFFFFF 0%, #FFFFFF 15%, #FFFFFF 100%); /* FF3.6+ */
+    background: -o-linear-gradient(top,#FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,#FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* IE10+ */
+    background: linear-gradient(to bottom,#FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#FFFFFF',GradientType=0 ); /* IE6-9 */
+    display: table;
+    vertical-align: top;
+}
+
+.DisplaySongName {
+    -webkit-column-break-inside: avoid;
+    font-size: 12px;
+    font-weight: Bold;
+    font-family: "Arial", Courier, monospace;
+    color: #000000;
+    width: 100%;
+}
+
+.DisplaySongOrder {
+    font: bold 36px;
+    color: #FF8040;
+}
+
+.DisplayLineVerseHeading {
+    font-size: 10px;
+    font-weight: Italic;
+    font-family: "Arial", Courier, monospace;
+    color: #000000;
+    line-height: 110%;
+}
+
+.DisplayLineVerseLyrics {
+    display: inline-block;
+}
+
+.DisplayLineChord {
+    font-size: 18px;
+    font-weight: Bold;
+    font-family: "Lucida Console", Courier, monospace;
+    color: #000000;
+}
+
+.DisplayLineLyrics {
+    font-size: 18px;
+    font-weight: Regular;
+    font-family: "Lucida Console", Courier, monospace;
+    color: #000000;
+}
+
+.DisplayLineVerseNotes {
+    margin-left: auto;
+    margin-right: 0px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 12px;
+    font-weight: Italic;
+    font-family: "Tahoma", Courier, monospace;
+    color: #000000;
+}
+
+.DisplayBody body {
+    background-color: black;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+    </style>
+
+    <meta charset="utf-8">
+    <title>15-04-18</title>
+</head>
+<body>
+
+        <input id="SongName" type="hidden" value="Приди настала пора" />
+        <div ID="SongElement1" class="DisplaySongName">Приди настала пора (Key - E) 4/4</div>
+            <div ID="SongElement2" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Куплет </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;E</p>
+                            <p class="DisplayLineLyrics">Приди,&nbsp;настала&nbsp;пора</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A/E&nbsp;E</p>
+                            <p class="DisplayLineLyrics">Поклоненья.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;H7</p>
+                            <p class="DisplayLineLyrics">Приди,&nbsp;настала&nbsp;пора</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Отдать&nbsp;Ему&nbsp;сердца.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;E</p>
+                            <p class="DisplayLineLyrics">Приди,&nbsp;такой,&nbsp;как&nbsp;ты&nbsp;есть,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A/E&nbsp;&nbsp;&nbsp;E</p>
+                            <p class="DisplayLineLyrics">Поклонись&nbsp;Ему.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;H7</p>
+                            <p class="DisplayLineLyrics">Приди,&nbsp;такой,&nbsp;как&nbsp;ты&nbsp;есть,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Перед&nbsp;Богом&nbsp;твоим.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;E</p>
+                            <p class="DisplayLineLyrics">Приди...</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement3" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Припев </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E</p>
+                            <p class="DisplayLineLyrics">Однажды&nbsp;каждый&nbsp;провозгласит:</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E</p>
+                            <p class="DisplayLineLyrics">"Ты&nbsp;есть&nbsp;Бог!"</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E</p>
+                            <p class="DisplayLineLyrics">Однажды&nbsp;склонятся&nbsp;пред&nbsp;Тобой.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#m</p>
+                            <p class="DisplayLineLyrics">Но&nbsp;все&nbsp;сокровища&nbsp;небес&nbsp;для&nbsp;тех,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H7</p>
+                            <p class="DisplayLineLyrics">кто&nbsp;здесь&nbsp;сейчас&nbsp;с&nbsp;Тобой.</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+        <input id="SongName" type="hidden" value="ИХ мой Спаситель и Бог" />
+        <div ID="SongElement4" class="DisplaySongName">ИХ мой Спаситель и Бог (Key - A) 2/4</div>
+            <div ID="SongElement5" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Куплет 1</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D/A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E/G#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Иисус&nbsp;Христос&nbsp;мой&nbsp;Спаситель&nbsp;и&nbsp;Бог,</p>
+                            <p class="DisplayLineChord">A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D/A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E/G#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A-C#7/F</p>
+                            <p class="DisplayLineLyrics">Освободивший&nbsp;меня&nbsp;от&nbsp;грехов.</p>
+                            <p class="DisplayLineChord">&nbsp;F#m7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hm7&nbsp;&nbsp;&nbsp;E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A-C#7/F</p>
+                            <p class="DisplayLineLyrics">Жизнью&nbsp;святою&nbsp;наполнил&nbsp;меня,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;F#m7&nbsp;&nbsp;Hm7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D</p>
+                            <p class="DisplayLineLyrics">Благодарю,&nbsp;Боже&nbsp;славлю&nbsp;Тебя.</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement6" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Куплет 2</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D/A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E/G#&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Я&nbsp;поклоняюсь&nbsp;пред&nbsp;троном&nbsp;Твоим.</p>
+                            <p class="DisplayLineChord">A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D/A&nbsp;&nbsp;&nbsp;E/G#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A-C#7/F</p>
+                            <p class="DisplayLineLyrics">Иисус&nbsp;со&nbsp;мною&nbsp;навеки&nbsp;я&nbsp;с&nbsp;Ним.</p>
+                            <p class="DisplayLineChord">&nbsp;F#m7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hm7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A-C#7/F</p>
+                            <p class="DisplayLineLyrics">Радостно&nbsp;сердце&nbsp;вторит&nbsp;любя,</p>
+                            <p class="DisplayLineChord">&nbsp;F#m7&nbsp;&nbsp;&nbsp;Hm7&nbsp;&nbsp;&nbsp;&nbsp;E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esus&nbsp;E</p>
+                            <p class="DisplayLineLyrics">Буду&nbsp;я&nbsp;вечно&nbsp;славить&nbsp;Тебя,&nbsp;Иисус!</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement7" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Припев </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#7/F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/E&nbsp;&nbsp;&nbsp;Dm6</p>
+                            <p class="DisplayLineLyrics">Я&nbsp;знаю,&nbsp;Ты&nbsp;Верный,&nbsp;Господь&nbsp;мой&nbsp;неизменный.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#7/F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/E&nbsp;&nbsp;Dm6</p>
+                            <p class="DisplayLineLyrics">Во&nbsp;веки&nbsp;Ты&nbsp;Сущий,&nbsp;Господь&nbsp;мой&nbsp;Всемогущий.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#7/F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;/E&nbsp;&nbsp;&nbsp;Dm6</p>
+                            <p class="DisplayLineLyrics">Великий,&nbsp;Священный,&nbsp;Мой&nbsp;Бог&nbsp;благословенный.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#7/F&nbsp;&nbsp;F#m&nbsp;&nbsp;/E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm6</p>
+                            <p class="DisplayLineLyrics">Всем&nbsp;сердцем,&nbsp;душою,&nbsp;Хочу&nbsp;я&nbsp;быть&nbsp;с&nbsp;Тобою!</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement8" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Мост </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G7&nbsp;&nbsp;&nbsp;&nbsp;F#m7&nbsp;&nbsp;&nbsp;E7</p>
+                            <p class="DisplayLineLyrics">Иисус,&nbsp;Иисус&nbsp;Иисус,&nbsp;Иисус</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement9" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Куплет 3</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D/A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E/G#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Духом&nbsp;святым&nbsp;излилась&nbsp;благодать,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D/A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E/G#&nbsp;&nbsp;&nbsp;&nbsp;A-C#7/F</p>
+                            <p class="DisplayLineLyrics">В&nbsp;сердце&nbsp;моё,&nbsp;славой&nbsp;Божьей&nbsp;сиять.</p>
+                            <p class="DisplayLineChord">&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A-C#7/F</p>
+                            <p class="DisplayLineLyrics">Пусть&nbsp;ярче&nbsp;солнца&nbsp;огонь&nbsp;Твой&nbsp;горит,</p>
+                            <p class="DisplayLineChord">&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7</p>
+                            <p class="DisplayLineLyrics">Через&nbsp;меня,&nbsp;всем&nbsp;вокруг&nbsp;говорит,&nbsp;всегда.</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+        <input id="SongName" type="hidden" value="Снова Своей любовью Ты" />
+        <div ID="SongElement10" class="DisplaySongName">Снова Своей любовью Ты (Key - A) 4/4</div>
+            <div ID="SongElement11" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Куплет 1</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E/G#</p>
+                            <p class="DisplayLineLyrics">Снова&nbsp;Своей&nbsp;любовью</p>
+                            <p class="DisplayLineChord">&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7-A</p>
+                            <p class="DisplayLineLyrics">Ты,&nbsp;Господь,&nbsp;достиг&nbsp;меня.</p>
+                            <p class="DisplayLineChord">A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E/G#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hm&nbsp;Esus-E7</p>
+                            <p class="DisplayLineLyrics">От&nbsp;ранней&nbsp;зари&nbsp;Тебя&nbsp;ищу.</p>
+                            <p class="DisplayLineChord">A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E/G#</p>
+                            <p class="DisplayLineLyrics">Победу&nbsp;над&nbsp;страхом&nbsp;дал</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7-A</p>
+                            <p class="DisplayLineLyrics">И&nbsp;стопы&nbsp;утвердил&nbsp;мои.</p>
+                            <p class="DisplayLineChord">&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hm-E</p>
+                            <p class="DisplayLineLyrics">Только&nbsp;Тебе&nbsp;принадлежу!</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement12" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Предприпев </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">F#m&nbsp;&nbsp;&nbsp;C#m/E&nbsp;&nbsp;D</p>
+                            <p class="DisplayLineLyrics">Я&nbsp;вдыхаю&nbsp;ту&nbsp;жизнь,&nbsp;Господь,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;E7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#7/E</p>
+                            <p class="DisplayLineLyrics">Что&nbsp;есть&nbsp;в&nbsp;&nbsp;Тебе.</p>
+                            <p class="DisplayLineChord">&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H7/9&nbsp;D/E-E7</p>
+                            <p class="DisplayLineLyrics">Ты&nbsp;наполняешь&nbsp;сердце&nbsp;мне!</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement13" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Припев </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hm</p>
+                            <p class="DisplayLineLyrics">Стою&nbsp;пред&nbsp;Тобою&nbsp;в&nbsp;величии&nbsp;славы&nbsp;Твоей.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esus-E7&nbsp;A&nbsp;&nbsp;Hm-E7</p>
+                            <p class="DisplayLineLyrics">Восхищаюсь&nbsp;Тобой!</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hm</p>
+                            <p class="DisplayLineLyrics">К&nbsp;Тебе&nbsp;прикасаюсь&nbsp;и&nbsp;Ты&nbsp;открываешь&nbsp;с&nbsp;небес</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7</p>
+                            <p class="DisplayLineLyrics">Свою&nbsp;волю,&nbsp;Господь!</p>
+                            <p class="DisplayLineChord">end:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7</p>
+                            <p class="DisplayLineLyrics">Свою&nbsp;волю,&nbsp;Господь!</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+        <input id="SongName" type="hidden" value="Только Ты один" />
+        <div ID="SongElement14" class="DisplaySongName">Только Ты один (Key - F) 4/4</div>
+            <div ID="SongElement15" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Куплет 1</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C/E&nbsp;Dm</p>
+                            <p class="DisplayLineLyrics">Только&nbsp;Ты&nbsp;один</p>
+                            <p class="DisplayLineChord">Gm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;C7</p>
+                            <p class="DisplayLineLyrics">Так&nbsp;коснулся&nbsp;сердца&nbsp;моего.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;F7/Eb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B/D&nbsp;&nbsp;&nbsp;Bm/Db</p>
+                            <p class="DisplayLineLyrics">Твоей&nbsp;милости&nbsp;живая&nbsp;река</p>
+                            <p class="DisplayLineChord">F/C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C7&nbsp;&nbsp;&nbsp;F</p>
+                            <p class="DisplayLineLyrics">В&nbsp;вечности&nbsp;течет.</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement16" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Куплет 2</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C/E&nbsp;Dm</p>
+                            <p class="DisplayLineLyrics">Только&nbsp;Ты&nbsp;один</p>
+                            <p class="DisplayLineChord">Gm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C7</p>
+                            <p class="DisplayLineLyrics">На&nbsp;Голгофе&nbsp;жизнь&nbsp;отдал&nbsp;за&nbsp;меня.</p>
+                            <p class="DisplayLineChord">F&nbsp;&nbsp;&nbsp;&nbsp;F7/Eb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B/D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm/Db</p>
+                            <p class="DisplayLineLyrics">Истекает&nbsp;драгоценная&nbsp;Кровь</p>
+                            <p class="DisplayLineChord">F/C&nbsp;&nbsp;&nbsp;&nbsp;C7&nbsp;&nbsp;&nbsp;F</p>
+                            <p class="DisplayLineLyrics">Агнца&nbsp;Божьего.</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement17" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Припев </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm</p>
+                            <p class="DisplayLineLyrics">Милость&nbsp;Твоя&nbsp;как&nbsp;река&nbsp;широка</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;Gm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F</p>
+                            <p class="DisplayLineLyrics">Несёт&nbsp;исцеление&nbsp;в&nbsp;сердца.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm</p>
+                            <p class="DisplayLineLyrics">В&nbsp;объятьях&nbsp;Твоих&nbsp;нахожу&nbsp;я&nbsp;покой.</p>
+                            <p class="DisplayLineChord">&nbsp;Gm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C7</p>
+                            <p class="DisplayLineLyrics">Ты&nbsp;один&nbsp;такой.</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement18" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Куплет 3</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C/E&nbsp;&nbsp;&nbsp;Dm</p>
+                            <p class="DisplayLineLyrics">Только&nbsp;Ты&nbsp;один</p>
+                            <p class="DisplayLineChord">Gm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;C7</p>
+                            <p class="DisplayLineLyrics">Мне&nbsp;отдал&nbsp;сокровища&nbsp;Свои.</p>
+                            <p class="DisplayLineChord">&nbsp;F&nbsp;&nbsp;&nbsp;F7/Eb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B/D&nbsp;&nbsp;&nbsp;Bm/Db</p>
+                            <p class="DisplayLineLyrics">Небеса&nbsp;открыты&nbsp;предо&nbsp;мной,</p>
+                            <p class="DisplayLineChord">F/C&nbsp;C7&nbsp;&nbsp;&nbsp;F</p>
+                            <p class="DisplayLineLyrics">Я&nbsp;иду&nbsp;домой.</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+        <input id="SongName" type="hidden" value="Превыше силы" />
+        <div ID="SongElement19" class="DisplaySongName">Превыше силы (Key - G) 4/4</div>
+            <div ID="SongElement20" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Вступление </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;G&nbsp;-&nbsp;C&nbsp;-&nbsp;D&nbsp;-&nbsp;G</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement21" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Куплет 1</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Превыше&nbsp;силы,&nbsp;превыше&nbsp;царств.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Превыше&nbsp;славы&nbsp;и&nbsp;всех&nbsp;земных&nbsp;богатств.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C-G</p>
+                            <p class="DisplayLineLyrics">Превыше&nbsp;мудрости&nbsp;и&nbsp;всех&nbsp;путей&nbsp;людских.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D</p>
+                            <p class="DisplayLineLyrics">Великий&nbsp;Бог,&nbsp;Владыка&nbsp;всей&nbsp;земли.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Превыше&nbsp;солнца&nbsp;и&nbsp;всех&nbsp;планет.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Превыше&nbsp;всех&nbsp;чудес,&nbsp;какие&nbsp;видел&nbsp;свет.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C-G</p>
+                            <p class="DisplayLineLyrics">Превознесён&nbsp;над&nbsp;небом&nbsp;и&nbsp;землей.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H7</p>
+                            <p class="DisplayLineLyrics">И&nbsp;нет&nbsp;пути&nbsp;прекраснее,&nbsp;чем&nbsp;Твой.</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement22" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Припев </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Мира&nbsp;грех&nbsp;Ты&nbsp;вознёс&nbsp;на&nbsp;крест.</p>
+                            <p class="DisplayLineChord">&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Был&nbsp;распят,&nbsp;но&nbsp;в&nbsp;третий&nbsp;день&nbsp;воскрес.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em/D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;G/H</p>
+                            <p class="DisplayLineLyrics">Как&nbsp;цветок,&nbsp;растоптанный&nbsp;в&nbsp;пыли.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C-D</p>
+                            <p class="DisplayLineLyrics">Отвержен&nbsp;был,&nbsp;но&nbsp;всё&nbsp;простил.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">В&nbsp;небесах&nbsp;-&nbsp;Всемогущий&nbsp;Бог,&nbsp;на&nbsp;земле&nbsp;-&nbsp;отверженный&nbsp;цветок.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em/D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;G/H</p>
+                            <p class="DisplayLineLyrics">Я&nbsp;люблю&nbsp;смотреть&nbsp;в&nbsp;глаза&nbsp;Твои</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am-G/H&nbsp;&nbsp;&nbsp;&nbsp;C-D7&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Бесценный&nbsp;дар&nbsp;для&nbsp;меня&nbsp;это&nbsp;Ты</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement23" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Куплет 2</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;D7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G-Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Ты&nbsp;над&nbsp;всеми&nbsp;и&nbsp;во&nbsp;всём&nbsp;Вечной&nbsp;славой&nbsp;и&nbsp;светом&nbsp;озарён</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em/D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C-G/H</p>
+                            <p class="DisplayLineLyrics">Выше&nbsp;всех&nbsp;престолов&nbsp;и&nbsp;царей</p>
+                            <p class="DisplayLineChord">&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am/G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D/F#</p>
+                            <p class="DisplayLineLyrics">Каждый&nbsp;миг&nbsp;ты&nbsp;помнишь&nbsp;обо&nbsp;мне</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;D7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;D7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Ты&nbsp;надежду&nbsp;подарил&nbsp;И&nbsp;навеки&nbsp;я&nbsp;в&nbsp;руках&nbsp;Твоих</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em/D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C-G/H</p>
+                            <p class="DisplayLineLyrics">Каждый&nbsp;день&nbsp;восходит,&nbsp;как&nbsp;заря</p>
+                            <p class="DisplayLineChord">&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am/G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am/F#-H</p>
+                            <p class="DisplayLineLyrics">Милость&nbsp;безграничная&nbsp;Твоя</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+        <input id="SongName" type="hidden" value="Честь и величье" />
+        <div ID="SongElement24" class="DisplaySongName">Честь и величье (Key - C) 4/4 Moderate</div>
+            <div ID="SongElement25" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Куплет </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C</p>
+                            <p class="DisplayLineLyrics">Честь&nbsp;и&nbsp;величье,&nbsp;силу&nbsp;и&nbsp;славу</p>
+                            <p class="DisplayLineChord">&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Ветхому&nbsp;днями&nbsp;поём.</p>
+                            <p class="DisplayLineChord">&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C</p>
+                            <p class="DisplayLineLyrics">Пусть&nbsp;всё&nbsp;творенье&nbsp;с&nbsp;благословеньем</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am</p>
+                            <p class="DisplayLineLyrics">К&nbsp;Ветхому&nbsp;днями&nbsp;придёт.</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement26" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Припев </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Языки&nbsp;земли&nbsp;и&nbsp;небес&nbsp;лишь&nbsp;Тебя&nbsp;прославят.</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Преклонятся&nbsp;все&nbsp;пред&nbsp;Твоим&nbsp;престолом.</p>
+                            <p class="DisplayLineChord">&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Будешь&nbsp;Ты,&nbsp;Господь,&nbsp;вознесён</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;G&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G7</p>
+                            <p class="DisplayLineLyrics">И&nbsp;царствию&nbsp;Твоему&nbsp;нет&nbsp;конца,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C</p>
+                            <p class="DisplayLineLyrics">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;О,&nbsp;Ветхий&nbsp;днями!</p>
+                            <p class="DisplayLineChord">end:&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement27" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Мост </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C</p>
+                            <p class="DisplayLineLyrics">Господь&nbsp;воцарится&nbsp;над&nbsp;всей&nbsp;землёй!</p>
+                            <p class="DisplayLineChord">&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C</p>
+                            <p class="DisplayLineLyrics">Песню&nbsp;славы&nbsp;Богу&nbsp;воспой!</p>
+                            <p class="DisplayLineChord">&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;С</p>
+                            <p class="DisplayLineLyrics">Никто&nbsp;не&nbsp;сравнится,&nbsp;Господь,&nbsp;с&nbsp;Тобой!</p>
+                            <p class="DisplayLineChord">&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C</p>
+                            <p class="DisplayLineLyrics">Песню&nbsp;славы&nbsp;Богу&nbsp;воспой!</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+
+</body>
+</html>

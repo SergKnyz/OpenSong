@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DisplayAndPrintSettings>
+  <settingsType>PrintSettings</settingsType>
+  <ShowNotes>true</ShowNotes>
+  <ShowChords>true</ShowChords>
+  <ShowLyrics>true</ShowLyrics>
+  <SongOrientation>Вертикально</SongOrientation>
+  <BackgroundColorHex>#FFFFFF</BackgroundColorHex>
+  <VerseHeadingBackgroundColorHex>#FFFFFF</VerseHeadingBackgroundColorHex>
+  <PartialVerseHeadingBackgroundColorHex>#FFFFFF</PartialVerseHeadingBackgroundColorHex>
+  <VerseLyricsBackgroundColor1Hex>#FFFFFF</VerseLyricsBackgroundColor1Hex>
+  <VerseLyricsBackgroundColor2Hex>#FFFFFF</VerseLyricsBackgroundColor2Hex>
+  <VerseBorderColorHex>#DCDCDC</VerseBorderColorHex>
+  <TitleFormat>
+  <FontName>Times New Roman</FontName>
+  <FontSize>12</FontSize>
+  <FontStyle>Bold</FontStyle>
+  <FontColorHex>#000000</FontColorHex></TitleFormat>
+  <ChordFormat>
+  <FontName>Consolas</FontName>
+  <FontSize>18</FontSize>
+  <FontStyle>Bold</FontStyle>
+  <FontColorHex>#000000</FontColorHex></ChordFormat>
+  <LyricsFormat>
+  <FontName>Consolas</FontName>
+  <FontSize>18</FontSize>
+  <FontStyle>Regular</FontStyle>
+  <FontColorHex>#000000</FontColorHex></LyricsFormat>
+  <HeadingsFormat>
+  <FontName>Times New Roman</FontName>
+  <FontSize>10</FontSize>
+  <FontStyle>Italic</FontStyle>
+  <FontColorHex>#000000</FontColorHex></HeadingsFormat>
+  <Order1Format>
+  <FontName>Courier New</FontName>
+  <FontSize>12</FontSize>
+  <FontStyle>Bold</FontStyle>
+  <FontColorHex>Black</FontColorHex></Order1Format>
+  <Order2Format>
+  <FontName>Courier New</FontName>
+  <FontSize>12</FontSize>
+  <FontStyle>Bold</FontStyle>
+  <FontColorHex>Gray</FontColorHex></Order2Format>
+  <NoteFormat>
+  <FontName>Tahoma</FontName>
+  <FontSize>12</FontSize>
+  <FontStyle>Italic</FontStyle>
+  <FontColorHex>#000000</FontColorHex></NoteFormat>
+  <page points="true" inches="true" top="0" bottom="0" left="0" right="0" height="0" width="0"/>
+</DisplayAndPrintSettings>

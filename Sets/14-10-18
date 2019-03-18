@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="14-10-18">
+  <slide_groups>
+    <slide_group name="Аллилуйя Аллилуйя" type="song" presentation="I V C B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Вся жизнь лишь в Тебе" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Изливайте сердце ваше" type="song" presentation="V1 C" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты прекраснее всего на свете" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Поклоняюсь я у Твоих ног" type="song" presentation="V1 C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Мир радость и любовь" type="song" presentation="V1 C1 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Шалом мои друзья" type="song" presentation="V1 V2 C V3 V4" path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

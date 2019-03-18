@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="03-02-19">
+  <slide_groups>
+    <slide_group name="Бог есть любовь" type="song" presentation="C1 V1 V2 SOLO V3 C2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Жертвой Иисуса Христа" type="song" presentation="V1 C B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Тебя прославлю" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Милости Твоей" type="song" presentation="I V1 C B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Разломи мое сердце на части" type="song" presentation="V1 P C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты моя слава" type="song" presentation="C V1 P V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Возвожу мои очи к горам" type="song" presentation="I V C B E" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Кровь Твоя очищает меня" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

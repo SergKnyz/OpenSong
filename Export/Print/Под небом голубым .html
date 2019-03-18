@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <script>
+	//is element completely visible
+	function isElementInViewport (el) {
+		var rect = el.getBoundingClientRect();
+
+		return (
+			rect.top >= 0 &&
+			rect.left >= 0 &&
+			rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /*or $(window).height() */
+			rect.right <= (window.innerWidth || document.documentElement.clientWidth) /*or $(window).width() */
+		);		
+	}
+
+	//Finds y value of given object
+	function findPos(obj) {
+		var curtop = 0;
+		if (obj.offsetParent) {
+			do {
+				curtop += obj.offsetTop;
+			} while (obj = obj.offsetParent);
+			return [curtop];
+		}
+	}
+
+	function getMaxSongElementIndex() {
+		var counter = 1;
+		while (true)
+		{
+			var elementToCheck = document.getElementById('SongElement' + counter);
+			if (elementToCheck == null)
+				return counter-1;
+			counter++;
+		}
+	}
+	
+	//check if songelement full visible on the screen
+	function isSongElementCompletelyVisible(index) {
+		var elementToCheck = document.getElementById('SongElement' + index);
+		var isVisible = isElementInViewport(elementToCheck);
+		return isVisible
+	}
+
+	//check if songelement fully invisible
+	function isSongElementCompletelyInvisible(index) {
+		return !isSongElementCompletelyVisible(index);
+	}
+	
+	//index of the first element in the song that is visible on the screen
+	function getFirstVisibleSongElementIndex() {
+		var maxSongElementCount = getMaxSongElementIndex();
+		for (i = 1; i <= maxSongElementCount; i++)  
+		{
+			if (isSongElementCompletelyVisible(i))
+				return i;
+		}
+	}
+
+	function findFirstOffScreenElementIndex() {
+		var maxSongElementCount = getMaxSongElementIndex();
+		var indexOfFirstVisibleElement = getFirstVisibleSongElementIndex();
+		for (i = indexOfFirstVisibleElement; i <= maxSongElementCount; i++) 
+		{
+			if (isSongElementCompletelyVisible(i) == false)
+				return i;
+		
+		}
+	}
+
+	//scroll to song element in index
+	function scrollToSongElement(index)
+	{
+		var y = findPos(document.getElementById('SongElement' + index)) - 1;
+		window.scroll(0,y);
+	}
+
+	//paint all elements with different css
+	function paintAllElementsWithCss() {
+		
+		var maxSongElementCount = getMaxSongElementIndex();
+		for (i = 1; i <= maxSongElementCount; i++) 
+		{
+			var element = document.getElementById("SongElement" + i);
+		
+			if (isSongElementCompletelyVisible(i))
+				element.setAttribute("class", "DisplaySongVerse");
+			else
+				element.setAttribute("class", "DisplaySongVerseOffPage");
+		}
+	
+	}
+
+	//scroll down by one screen
+	function scrollDown() {
+		var firstOffScreenElementIndex = findFirstOffScreenElementIndex();
+		if (firstOffScreenElementIndex != null) {
+			scrollToSongElement(firstOffScreenElementIndex);
+			paintAllElementsWithCss();
+		}
+	}
+
+	//scroll up by one screen
+	function scrollUp()
+	{
+	    oldFirstVisible = getFirstVisibleSongElementIndex();
+		newCurrentElement = oldFirstVisible;
+		while (newCurrentElement > 1)
+		{
+			newCurrentElement--;
+			scrollToSongElement(newCurrentElement);
+			paintAllElementsWithCss();
+			if (isSongElementCompletelyInvisible(oldFirstVisible)) return;
+		}
+	}
+
+	window.onload = function() {
+		paintAllElementsWithCss();
+	}
+
+	//add keyboard binding
+	document.addEventListener("keydown", keyDownInWindow, false);
+	function keyDownInWindow(e) {
+		if (e.keyCode == 32 || e.keyCode == 40) //if spacebar or down arrow
+		{
+			scrollDown();
+			e.preventDefault(); //swallow the event
+		}
+		else if (e.keyCode == 38) //if up arrow is pressed
+		{
+			scrollUp();
+			e.preventDefault(); //swallow the event
+		}
+		else if (e.keyCode == 116) //swallow f5 key presses
+		{
+			e.preventDefault(); //swallow the event
+		}
+	}
+
+	function getBaseUrl() {
+		var pathArray = location.href.split( '/' );
+		var protocol = pathArray[0];
+		var host = pathArray[2];
+		var url = protocol + '//' + host;
+		return url
+	}
+
+	//call ajax to url and return text
+	function callAjax(url, callback) {
+			var xmlhttp;
+			var currentHostSongName;
+			// compatible with IE7+, Firefox, Chrome, Opera, Safari
+			xmlhttp = new XMLHttpRequest();
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+					callback(xmlhttp);
+				}
+			}
+			xmlhttp.open("GET",getBaseUrl() + url, true);
+			xmlhttp.send();
+			return currentHostSongName;
+	}
+
+	function compareHostSongAndCurrentSongAsync_Complete(xmlHttpResult) 
+	{
+		//current song name 
+		var currentSongName = document.getElementById('SongName').value;
+		//host song name
+		var hostSongName = xmlHttpResult.responseText;
+		//if they are different reload the song
+		if (currentSongName !== hostSongName)
+		{
+			//reload page and scroll to top of page
+			location.reload(true);
+			document.body.scrollTop = document.documentElement.scrollTop = 0;
+		}
+	}
+
+	//compare host song and current song asynchonously
+	function compareHostSongAndCurrentSongAsync() {
+		callAjax('/SongName', compareHostSongAndCurrentSongAsync_Complete);
+	}
+
+    //check for song change every x milliseconds
+	//var timeout = setInterval(compareHostSongAndCurrentSongAsync, 1000);
+</script>
+    <style>/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.DisplayPage {
+
+}
+
+body {
+    background-color: #FFFFFF;
+    padding-bottom: 1080px;
+
+}
+
+@media print { 
+	body
+	{ 
+		padding-bottom: 0px;
+	}
+}
+
+.DisplaySongVerse {
+    padding: 5px;
+    margin-bottom: 20px;
+    break-inside: avoid-column; 
+    -webkit-column-break-inside: avoid;
+    border: 2px solid #DCDCDC;
+    border-radius: 7px;
+    margin-right: 10px;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(15%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background: #FFFFFF; /* Old browsers */
+    background: -moz-linear-gradient(top,  #FFFFFF 0%, #FFFFFF 15%, #FFFFFF 100%); /* FF3.6+ */
+    background: -o-linear-gradient(top,  #FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#FFFFFF',GradientType=0 ); /* IE6-9 */
+    display: table;
+    vertical-align: top;
+}
+
+.DisplaySongVerseOffPage {
+    padding: 5px;
+    margin-bottom: 20px;
+    break-inside: avoid-column; 
+    -webkit-column-break-inside: avoid;
+    border: 2px solid #DCDCDC;
+    border-radius: 7px;
+    margin-right: 10px;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(15%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background: #FFFFFF; /* Old browsers */
+    background: -moz-linear-gradient(top,  #FFFFFF 0%, #FFFFFF 15%, #FFFFFF 100%); /* FF3.6+ */
+    background: -o-linear-gradient(top,  #FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#FFFFFF',GradientType=0 ); /* IE6-9 */
+    display: table;
+    vertical-align: top;
+}
+
+.DisplaySongName {
+    -webkit-column-break-inside: avoid;
+    font-size: 12px;
+    font-weight: Bold;
+    font-family: "Arial", Courier, monospace;
+    color: #000000;
+    width: 100%;
+}
+
+.DisplaySongOrder {
+    font: bold 36px;
+    color: #FF8040;
+}
+
+.DisplayLineVerseHeading {
+    font-size: 10px;
+    font-weight: Italic;
+    font-family: "Arial", Courier, monospace;
+    color: #000000;
+    line-height: 110%;
+}
+
+.DisplayLineVerseLyrics {
+    display: inline-block;
+}
+
+.DisplayLineChord {
+    font-size: 18px;
+    font-weight: Bold;
+    font-family: "Lucida Console", Courier, monospace;
+    color: #000000;
+}
+
+.DisplayLineLyrics {
+    font-size: 18px;
+    font-weight: Italic;
+    font-family: "Lucida Console", Courier, monospace;
+    color: #000000;
+}
+
+.DisplayLineVerseNotes {
+    margin-left: auto;
+    margin-right: 0px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 10px;
+    font-weight: Bold;
+    font-family: "Arial Black", Courier, monospace;
+    color: #000000;
+    
+}
+
+.DisplayBody body {
+    background-color: black;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}</style>
+    <title>Под небом голубым </title>
+</head>
+<body>
+    <input type="hidden" id="SongName" name="SongName" value="Под небом голубым">
+<div class="DisplaySongName">Под небом голубым </div>
+<div ID="SongElement1" class="DisplaySongVerse">
+<div class="DisplayLineVerseHeading">Verse&nbsp;1</div>
+<div class="DisplayLineVerseLyrics">
+<p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am</p>
+<p class="DisplayLineLyrics">Под&nbsp;небом&nbsp;голубым&nbsp;есть&nbsp;город&nbsp;золотой</p>
+<p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7</p>
+<p class="DisplayLineLyrics">С&nbsp;прозрачными&nbsp;воротами&nbsp;и&nbsp;яркою&nbsp;звездой.</p>
+<p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am</p>
+<p class="DisplayLineLyrics">А&nbsp;в&nbsp;городе&nbsp;том&nbsp;сад,&nbsp;все&nbsp;травы&nbsp;да&nbsp;цветы,</p>
+<p class="DisplayLineChord">&nbsp;&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am</p>
+<p class="DisplayLineLyrics">Гуляют&nbsp;там&nbsp;животные&nbsp;невиданной&nbsp;красы.</p>
+</div>
+<div class="DisplayLineVerseNotes">
+<br/><br/><br/>
+</div>
+</div>
+
+<div ID="SongElement2" class="DisplaySongVerse">
+<div class="DisplayLineVerseHeading">Chorus&nbsp;1</div>
+<div class="DisplayLineVerseLyrics">
+<p class="DisplayLineChord">&nbsp;&nbsp;A7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm</p>
+<p class="DisplayLineLyrics">Одно&nbsp;–&nbsp;как&nbsp;желтый&nbsp;огнегривый&nbsp;лев,</p>
+<p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;G7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C</p>
+<p class="DisplayLineLyrics">Другое&nbsp;–&nbsp;вол&nbsp;исполненных&nbsp;очей.</p>
+<p class="DisplayLineChord">&nbsp;&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7</p>
+<p class="DisplayLineLyrics">С&nbsp;ними&nbsp;золотой&nbsp;орел&nbsp;небесный,</p>
+<p class="DisplayLineChord">Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7&nbsp;Am</p>
+<p class="DisplayLineLyrics">Чей&nbsp;так&nbsp;светел&nbsp;взор&nbsp;незабываемый.</p>
+</div>
+<div class="DisplayLineVerseNotes">
+<br/><br/><br/>
+</div>
+</div>
+
+<div ID="SongElement3" class="DisplaySongVerse">
+<div class="DisplayLineVerseHeading">Verse&nbsp;2</div>
+<div class="DisplayLineVerseLyrics">
+<p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am</p>
+<p class="DisplayLineLyrics">А&nbsp;в&nbsp;небе&nbsp;голубом&nbsp;горит&nbsp;одна&nbsp;звезда.</p>
+<p class="DisplayLineChord">&nbsp;&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7</p>
+<p class="DisplayLineLyrics">Она&nbsp;твоя,&nbsp;о&nbsp;ангел&nbsp;мой,&nbsp;она&nbsp;твоя&nbsp;всегда.</p>
+<p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am</p>
+<p class="DisplayLineLyrics">Кто&nbsp;любит&nbsp;тот&nbsp;любим,&nbsp;кто&nbsp;светел&nbsp;–&nbsp;тот&nbsp;и&nbsp;свят.</p>
+<p class="DisplayLineChord">&nbsp;&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am</p>
+<p class="DisplayLineLyrics">Пускай&nbsp;ведет&nbsp;звезда&nbsp;тебя&nbsp;дорогой&nbsp;в&nbsp;дивный&nbsp;сад.</p>
+</div>
+<div class="DisplayLineVerseNotes">
+<br/><br/><br/>
+</div>
+</div>
+
+<div ID="SongElement4" class="DisplaySongVerse">
+<div class="DisplayLineVerseHeading">Chorus&nbsp;2</div>
+<div class="DisplayLineVerseLyrics">
+<p class="DisplayLineChord">&nbsp;&nbsp;A7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm</p>
+<p class="DisplayLineLyrics">Тебя&nbsp;там&nbsp;встретит&nbsp;огнегривый&nbsp;лев</p>
+<p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;G7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C</p>
+<p class="DisplayLineLyrics">И&nbsp;синий&nbsp;вол&nbsp;исполненных&nbsp;очей.</p>
+<p class="DisplayLineChord">&nbsp;&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7</p>
+<p class="DisplayLineLyrics">С&nbsp;ними&nbsp;золотой&nbsp;орел&nbsp;небесный,</p>
+<p class="DisplayLineChord">Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E7&nbsp;Am</p>
+<p class="DisplayLineLyrics">Чей&nbsp;так&nbsp;светел&nbsp;взор&nbsp;незабываемый.</p>
+</div>
+<div class="DisplayLineVerseNotes">
+<br/><br/>
+</div>
+</div>
+
+
+</body>
+</html>

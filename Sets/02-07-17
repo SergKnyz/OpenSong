@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="02-07-17">
+  <slide_groups>
+    <slide_group name="Блуждали все как овцы мы" type="song" presentation="I V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Сделай сердце мне" type="song" presentation="V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты омой меня F" type="song" presentation="V1 C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Скрой меня" type="song" presentation="I V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты дивный Бог Ты славный Бог" type="song" presentation="V C B" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Да славит Тебя душа моя" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="В Господнем свете" type="song" presentation="V1 C V2 E" path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

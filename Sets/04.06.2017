@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="04.06.2017">
+  <slide_groups>
+    <slide_group name="Ты моя слава" type="song" presentation="C V1 P V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Благо есть славить Господа Em" type="song" presentation="V1 C1 V2 V3 C2 " path="OpenChords/" transition="0" />
+    <slide_group name="Славь душа Господа" type="song" presentation="C V1 V2 V3 " path="OpenChords/" transition="0" />
+    <slide_group name="Славлю Тебя дивный Господь" type="song" presentation="V1 C V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Иисус Ты скала спасенья" type="song" presentation="C V1 V2" path="OpenChords/" transition="0" />
+    <slide_group name="Крест Голгофский" type="song" presentation=" V1 C" path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

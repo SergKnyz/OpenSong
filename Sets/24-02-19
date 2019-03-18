@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="24-02-19">
+  <slide_groups>
+    <slide_group name="Приди настала пора" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Аллилуйя Иисус наш Царь" type="song" presentation="V1 C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Все земные невзгоды пройдут" type="song" presentation="V1 C" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="За все Тебя Господь я благодарю" type="song" presentation="V1  C V2 V3" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Славлю Тебя дивный Господь" type="song" presentation="V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Хвала Тебе наш Господь" type="song" presentation="V C B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="17-06-18">
+  <slide_groups>
+    <slide_group name="Во имя Господа Христа" type="song" presentation="I V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Иисус Христос Господь" type="song" presentation="V1 C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Велики и чудны" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Радость от Тебя" type="song" presentation="V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Бог моя надежда" type="song" presentation="V1 C1 V2 C2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Он живущий под покровом" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

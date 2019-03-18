@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="01.04.17">
+  <slide_groups>
+    <slide_group name="Жертвой Иисуса Христа" type="song" presentation="V1 C B " path="OpenChords/" transition="0" />
+    <slide_group name="Снова Своей любовью Ты" type="song" presentation="V1 B C " path="OpenChords/" transition="0" />
+    <slide_group name="Бог мой и Царь" type="song" presentation="V C" path="OpenChords/" transition="0" />
+    <slide_group name="И вот опять я в Твоих руках" type="song" presentation="V1 C V2 B " path="OpenChords/" transition="0" />
+    <slide_group name="Моё сердце ждёт Тебя G" type="song" presentation="V1 V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Каждый день на устах моих" type="song" presentation="V1 C V2 " path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

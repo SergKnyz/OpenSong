@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="13.11.16">
+  <slide_groups>
+    <slide_group name="Иисус – Царь всей земли" type="song" presentation="V1 V2" path="OpenChords/" transition="0" />
+    <slide_group name="Зажигай огонь" type="song" presentation="C V1 V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Ты моя слава" type="song" presentation="C V1 PC V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Создатель всей вселенной" type="song" presentation="V1 C V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Тебе Господь мой Царь" type="song" presentation="V1 C V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Тебя Господь я буду славить" type="song" presentation="V1 C B " path="OpenChords/" transition="0" />
+    <slide_group name="Имя возношу Твое" type="song" presentation="V1 C " path="OpenChords/" transition="0" />
+    <slide_group name="Святый Святый Ты Господь" type="song" presentation="V1 P C" path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

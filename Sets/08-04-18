@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="08-04-18">
+  <slide_groups>
+    <slide_group name="Весна всё обновила вновь (Христос воскрес)" type="song" presentation="I V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Давайте славить Христа" type="song" presentation="V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Аллилуйя слава" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Воспойте хвалу Царю Царей" type="song" presentation="V1 V2 C V3 B C2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Аллилуйя Иисус Он живой" type="song" presentation="V1 V2 E" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Чем могу воздать" type="song" presentation="V C B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Жизнь" type="song" presentation="I V1 C1 V2 B C2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

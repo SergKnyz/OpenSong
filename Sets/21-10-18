@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="21-10-18">
+  <slide_groups>
+    <slide_group name="Тебя прославлю" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты Вседержитель благой F" type="song" presentation="V1 V2 C B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Пою я песню любви" type="song" presentation="V P C" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты дал мне новую песню" type="song" presentation="V1 V2 P C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Мой Господь спасибо" type="song" presentation="I V1 C" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Возвожу мои очи к горам" type="song" presentation="I V C B E" path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

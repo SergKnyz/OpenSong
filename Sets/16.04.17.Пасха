@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="16.04.17.Пасха">
+  <slide_groups>
+    <slide_group name="Вспоминаю тот день (Он воскрес)" type="song" presentation="V1 C1 V2 C2" path="OpenChords/" transition="0" />
+    <slide_group name="Аллилуйя Иисус наш Царь" type="song" presentation="V1 C " path="OpenChords/" transition="0" />
+    <slide_group name="Аллилуйя Иисус Он живой" type="song" presentation="V1 V2 E" path="OpenChords/" transition="0" />
+    <slide_group name="Давайте славить Христа" type="song" presentation="V1 C V2 " path="OpenChords/" transition="0" />
+    <slide_group name="Весна всё обновила вновь (Христос воскрес)" type="song" presentation="I V1 C V2 " path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

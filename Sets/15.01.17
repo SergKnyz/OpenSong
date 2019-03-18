@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="15.01.17">
+  <slide_groups>
+    <slide_group name="Буду превозносить Тебя" type="song" presentation="V1 C B " path="OpenChords/" transition="0" />
+    <slide_group name="Иисус Ты скала спасенья" type="song" presentation="C V1 V2" path="OpenChords/" transition="0" />
+    <slide_group name="Верю я" type="song" presentation="V1 C V2 B" path="OpenChords/" transition="0" />
+    <slide_group name="Тебе Господь мой Царь" type="song" presentation="V1 C V2 " path="OpenChords/" transition="0" />
+    <slide_group name="За меня Ты жизнь отдал" type="song" presentation="V1 C" path="OpenChords/" transition="0" />
+    <slide_group name="Измени меня сердце мое обнови" type="song" presentation="V1 C V2 " path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

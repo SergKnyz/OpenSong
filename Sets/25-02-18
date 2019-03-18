@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="25-02-18">
+  <slide_groups>
+    <slide_group name="Вместе звучно Em" type="song" presentation="V1 C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Прославлю я ведь ты достоин" type="song" presentation="V1 C B1 B2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты дивный Бог Ты славный Бог" type="song" presentation="V C B" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Мой Господь спасибо" type="song" presentation="I V1 C" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Измени меня сердце мое обнови" type="song" presentation="V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Иисус  Твою победу празднуем" type="song" presentation="C V1 V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="05-08-18">
+  <slide_groups>
+    <slide_group name="Я прихожу к Тебе Иисус" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Иисус Превозносим" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты лоза мы ветви" type="song" presentation="V B C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Иисус Ты мой Господь" type="song" presentation="V1 V2 C1 V3 V4 C2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Превыше силы" type="song" presentation="I V1 C V2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Надейся  на  Господа" type="song" presentation="V1 C1 V2 C2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Преданный решительный" type="song" presentation="V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

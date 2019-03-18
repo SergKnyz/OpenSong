@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserInterfaceSettings>
+  <LyricsFormat>
+    <FontName>monospace</FontName>
+    <FontSize>14</FontSize>
+    <FontStyle>Regular</FontStyle>
+    <FontColorHex>#000000</FontColorHex>
+  </LyricsFormat>
+  <NoteFormat>
+    <FontName>monospace</FontName>
+    <FontSize>16</FontSize>
+    <FontStyle>Regular</FontStyle>
+    <FontColorHex>#000000</FontColorHex>
+  </NoteFormat>
+  <TextboxFormat>
+    <FontName>serif</FontName>
+    <FontSize>9</FontSize>
+    <FontStyle>Regular</FontStyle>
+    <FontColorHex>#000000</FontColorHex>
+  </TextboxFormat>
+  <LabelFormat>
+    <FontName>serif</FontName>
+    <FontSize>9</FontSize>
+    <FontStyle>Regular</FontStyle>
+    <FontColorHex>#000000</FontColorHex>
+  </LabelFormat>
+</UserInterfaceSettings>

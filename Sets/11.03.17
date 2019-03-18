@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="11.03.17">
+  <slide_groups>
+    <slide_group name="В сиянии Царя" type="song" presentation="V1 C V2 B" path="OpenChords/" transition="0" />
+    <slide_group name="Святый Бог наш" type="song" presentation="V P C " path="OpenChords/" transition="0" />
+    <slide_group name="Стоял Ты пред всем творением" type="song" presentation="V1 V2 P1 V3 P2 C" path="OpenChords/" transition="0" />
+    <slide_group name="И.Х. мой Спаситель и Бог" type="song" presentation="V1 V2 C B V3" path="OpenChords/" transition="0" />
+    <slide_group name="Превыше силы" type="song" presentation="I V1 C V2" path="OpenChords/" transition="0" />
+    <slide_group name="Я взойду" type="song" presentation="V1 V2 " path="OpenChords/" transition="0" />
+  </slide_groups>
+</Set>

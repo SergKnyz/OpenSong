@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="03-12-17">
+  <slide_groups>
+    <slide_group name="Все народы" type="song" presentation="V1 C1 V2 C2 B" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Славим Иисуса славим" type="song" presentation="V C" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Славлю Тебя дивный Господь" type="song" presentation="V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Его имя выше всех" type="song" presentation="V1 V2 V3 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Верю я в Иисуса" type="song" presentation="V1 C1 V2 C2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Изливайте сердце ваше" type="song" presentation="V1 C" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Кровь Твоя очищает меня" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

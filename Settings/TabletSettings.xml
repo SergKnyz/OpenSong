@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DisplayAndPrintSettings>
+  <settingsType>TabletSettings</settingsType>
+  <ShowNotes>true</ShowNotes>
+  <ShowChords>true</ShowChords>
+  <ShowLyrics>true</ShowLyrics>
+  <SongOrientation>Вертикально</SongOrientation>
+  <BackgroundColorHex>#FFFFFF</BackgroundColorHex>
+  <VerseHeadingBackgroundColorHex>#DCDCDC</VerseHeadingBackgroundColorHex>
+  <PartialVerseHeadingBackgroundColorHex>#FFFFFF</PartialVerseHeadingBackgroundColorHex>
+  <VerseLyricsBackgroundColor1Hex>#FFFFFF</VerseLyricsBackgroundColor1Hex>
+  <VerseLyricsBackgroundColor2Hex>#FFFFFF</VerseLyricsBackgroundColor2Hex>
+  <VerseBorderColorHex>#DCDCDC</VerseBorderColorHex>
+  <TitleFormat>
+    <FontName>Courier New</FontName>
+    <FontSize>22</FontSize>
+    <FontStyle>Bold</FontStyle>
+    <FontColorHex>#000000</FontColorHex>
+  </TitleFormat>
+  <ChordFormat>
+    <FontName>Courier New</FontName>
+    <FontSize>22</FontSize>
+    <FontStyle>Bold</FontStyle>
+    <FontColorHex>#FF0000</FontColorHex>
+  </ChordFormat>
+  <LyricsFormat>
+    <FontName>Courier New</FontName>
+    <FontSize>22</FontSize>
+    <FontStyle>Bold</FontStyle>
+    <FontColorHex>#000000</FontColorHex>
+  </LyricsFormat>
+  <HeadingsFormat>
+    <FontName>Arial</FontName>
+    <FontSize>14</FontSize>
+    <FontStyle>Bold</FontStyle>
+    <FontColorHex>#000000</FontColorHex>
+  </HeadingsFormat>
+  <Order1Format>
+    <FontName>Courier New</FontName>
+    <FontSize>20</FontSize>
+    <FontStyle>Bold</FontStyle>
+    <FontColorHex>#FF8040</FontColorHex>
+  </Order1Format>
+  <Order2Format>
+    <FontName>Courier New</FontName>
+    <FontSize>20</FontSize>
+    <FontStyle>Bold</FontStyle>
+    <FontColorHex>#FFFF80</FontColorHex>
+  </Order2Format>
+  <NoteFormat>
+    <FontName>Courier New</FontName>
+    <FontSize>1</FontSize>
+    <FontStyle>Regular</FontStyle>
+    <FontColorHex>#80FF80</FontColorHex>
+  </NoteFormat>
+</DisplayAndPrintSettings>

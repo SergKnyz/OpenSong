@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="19-08-18">
+  <slide_groups>
+    <slide_group name="Слава слава слава Господу" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Буду превозносить Тебя" type="song" presentation="V1 C B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Когда мои руки (О Господь Бог Израиля)" type="song" presentation="V1 V2 V3 V4 C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты то чем я дышу" type="song" presentation="V1 V2 C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Иисус Иисус" type="song" presentation="" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Видел я Господа" type="song" presentation="" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Что сказать Боже" type="song" presentation="" path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

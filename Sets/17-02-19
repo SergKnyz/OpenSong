@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="17-02-19">
+  <slide_groups>
+    <slide_group name="Иисус Царь всей земли" type="song" presentation="V1 V2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Вся жизнь лишь в Тебе" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Лишь в Тебе моя радость полна" type="song" presentation="V1 C1 B1 V2 C2 B2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Перед тобой склоняюсь я 4к" type="song" presentation="V1 V2 V3 V4" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="ИХ мой Спаситель и Бог" type="song" presentation="V1 V2 C B V3" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Бог  моя надежда D" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Благо есть славить Господа Em" type="song" presentation="V1 C1 V2 V3 C2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

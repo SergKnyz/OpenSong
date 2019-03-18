@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShortcutSettings>
+  <PresentSong Control="false" Alt="false" ShortcutKey="F11" />
+  <PresentSet Control="false" Alt="false" ShortcutKey="F12" />
+  <QuitOpenChords Control="true" Alt="false" ShortcutKey="Q" />
+  <NewSong Control="true" Alt="false" ShortcutKey="N" />
+  <SaveSong Control="true" Alt="false" ShortcutKey="S" />
+  <TransposeUp Control="true" Alt="false" ShortcutKey="D0" />
+  <TransposeDown Control="true" Alt="false" ShortcutKey="D9" />
+  <CapoUp Control="true" Alt="false" ShortcutKey="D8" />
+  <CapoDown Control="true" Alt="false" ShortcutKey="D7" />
+  <AutoFormatSong Control="true" Alt="false" ShortcutKey="R" />
+  <PrintSongHtml Control="true" Alt="false" ShortcutKey="P" />
+  <ExportSetToOpenSong Control="true" Alt="false" ShortcutKey="O" />
+  <ShowHelp Control="false" Alt="false" ShortcutKey="F1" />
+  <RefreshSongList Control="false" Alt="false" ShortcutKey="F5" />
+  <RefreshSetList Control="true" Alt="false" ShortcutKey="F5" />
+  <RefreshPresentation Control="true" Alt="false" ShortcutKey="R" />
+  <AddSongToSet Control="true" Alt="false" ShortcutKey="Enter" />
+  <DeleteSong Control="true" Alt="false" ShortcutKey="Delete" />
+  <SelectRandomSong Control="true" Alt="false" ShortcutKey="M" />
+  <MoveSongUpInSet Control="true" Alt="false" ShortcutKey="Up" />
+  <MoveSongDownInSet Control="true" Alt="false" ShortcutKey="Down" />
+  <ExitPresentation Control="false" Alt="false" ShortcutKey="Escape" />
+  <IncreaseFontSize Control="false" Alt="true" ShortcutKey="P" />
+  <DecreaseFontSize Control="false" Alt="true" ShortcutKey="O" />
+  <GoToNextSong Control="true" Alt="false" ShortcutKey="Right" />
+  <GoToPreviousSong Control="true" Alt="false" ShortcutKey="Left" />
+  <ToggleChords Control="true" Alt="false" ShortcutKey="Q" />
+  <ToggleLyrics Control="true" Alt="false" ShortcutKey="W" />
+  <ToggleNotes Control="true" Alt="false" ShortcutKey="E" />
+  <ToggleMetronome Control="true" Alt="false" ShortcutKey="M" />
+</ShortcutSettings>

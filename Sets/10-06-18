@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="10-06-18">
+  <slide_groups>
+    <slide_group name="Любовь Твоя о Господь, бесконечна" type="song" presentation="V1 C1 V2 C2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Снова Своей любовью Ты" type="song" presentation="V1 P C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="ИХ мой Спаситель и Бог" type="song" presentation="V1 V2 C B V3" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Океан Божьей любви" type="song" presentation="V1 C1 V2 V3 C2 B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Поклонюсь Тебе Иисус" type="song" presentation="V1 V2  C" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Я твой Бог и твоя сила" type="song" presentation="I V1 V2 C" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="В страну молчания вселилась" type="song" presentation="V1 C V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

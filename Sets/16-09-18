@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="16-09-18">
+  <slide_groups>
+    <slide_group name="Этот день (короткая)" type="song" presentation="" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Я так рад Живой Живой" type="song" presentation="V1 V2 V3 C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Оковы пали" type="song" presentation="V1 C V2 EC" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Тебя Господь я буду славить" type="song" presentation="V1 C B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Снова Своей любовью Ты" type="song" presentation="V1 P C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Аллилуйя (акапелла)" type="song" presentation="V" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Бог призвал нас" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="В Твою крепкую руку" type="song" presentation="V1 C1 V2 C2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Встань и пойди" type="song" presentation="V1 V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Иисус - Господь" type="song" presentation="C V1 V2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Когда мои руки (О Господь Бог Израиля)" type="song" presentation="V1 V2 V3 V4 C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

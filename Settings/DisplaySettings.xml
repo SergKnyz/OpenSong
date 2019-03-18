@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DisplayAndPrintSettings>
+  <settingsType>DisplaySettings</settingsType>
+  <ShowNotes>true</ShowNotes>
+  <ShowChords>true</ShowChords>
+  <ShowLyrics>true</ShowLyrics>
+  <SongOrientation>Вертикально</SongOrientation>
+  <BackgroundColorHex>#FFFFFF</BackgroundColorHex>
+  <VerseHeadingBackgroundColorHex>#FFFFFF</VerseHeadingBackgroundColorHex>
+  <PartialVerseHeadingBackgroundColorHex>#FFFFFF</PartialVerseHeadingBackgroundColorHex>
+  <VerseLyricsBackgroundColor1Hex>#FFFFFF</VerseLyricsBackgroundColor1Hex>
+  <VerseLyricsBackgroundColor2Hex>#FFFFFF</VerseLyricsBackgroundColor2Hex>
+  <VerseBorderColorHex>#4C4848</VerseBorderColorHex>
+  <TitleFormat>
+    <FontName>Arial</FontName>
+    <FontSize>30</FontSize>
+    <FontStyle>Bold</FontStyle>
+    <FontColorHex>#000000</FontColorHex>
+  </TitleFormat>
+  <ChordFormat>
+    <FontName>Lucida Console</FontName>
+    <FontSize>22</FontSize>
+    <FontStyle>Bold</FontStyle>
+    <FontColorHex>#FF0000</FontColorHex>
+  </ChordFormat>
+  <LyricsFormat>
+    <FontName>Lucida Console</FontName>
+    <FontSize>22</FontSize>
+    <FontStyle>Italic</FontStyle>
+    <FontColorHex>#000000</FontColorHex>
+  </LyricsFormat>
+  <HeadingsFormat>
+    <FontName>Arial</FontName>
+    <FontSize>22</FontSize>
+    <FontStyle>Bold</FontStyle>
+    <FontColorHex>#0000FF</FontColorHex>
+  </HeadingsFormat>
+  <Order1Format>
+    <FontName>Courier New</FontName>
+    <FontSize>15</FontSize>
+    <FontStyle>Bold</FontStyle>
+    <FontColorHex>#FF8040</FontColorHex>
+  </Order1Format>
+  <Order2Format>
+    <FontName>Courier New</FontName>
+    <FontSize>15</FontSize>
+    <FontStyle>Bold</FontStyle>
+    <FontColorHex>#FFFF80</FontColorHex>
+  </Order2Format>
+  <NoteFormat>
+    <FontName>Arial</FontName>
+    <FontSize>18</FontSize>
+    <FontStyle>Italic</FontStyle>
+    <FontColorHex>#808080</FontColorHex>
+  </NoteFormat>
+</DisplayAndPrintSettings>

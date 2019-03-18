@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set name="27-01-19">
+  <slide_groups>
+    <slide_group name="Моё сердце ждёт Тебя G" type="song" presentation="V1 V2 " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Честь и величье" type="song" presentation="V C B " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Прославлю я ведь ты достоин" type="song" presentation="V1 C B1 B2" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Ты дал мне новую песню" type="song" presentation="V1 V2 P C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="На святой земле" type="song" presentation="V C " path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Тебе я поклонюсь" type="song" presentation="V C B" path="OpenChords\" transition="0" openchords-sub-folder="" />
+    <slide_group name="Без конца буду петь" type="song" presentation="C V B" path="OpenChords\" transition="0" openchords-sub-folder="" />
+  </slide_groups>
+</Set>

@@ -52,6 +52,7 @@
  На небесах, на небесах... На небесах!
 </lyrics>
   <ccli />
+  <tempo>Fast</tempo>
   <time_sig>4/4</time_sig>
   <copyright />
   <hymn_number />
@@ -65,6 +66,6 @@
  
 
 </notes>
-  <bbm>94</bbm>
+  <bbm>124</bbm>
   <preferFlats>False</preferFlats>
 </song>

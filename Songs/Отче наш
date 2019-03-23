@@ -40,8 +40,8 @@
 .  F7+__E7__Am
  Аминь.</lyrics>
   <ccli />
-  <tempo />
-  <time_sig />
+  <tempo>Slow</tempo>
+  <time_sig>4/4</time_sig>
   <copyright />
   <hymn_number />
   <notes>[V1]
@@ -54,7 +54,7 @@
  
 
 </notes>
-  <bbm>100</bbm>
+  <bbm>66</bbm>
   <aka>
   </aka>
   <key_line>

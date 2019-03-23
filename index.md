@@ -16,5 +16,3 @@
 4. Систематизируйте и подбирайте ваш репертуар с помощью [Airtables](https://airtable.com/shrf59t6LkyvGAQ4R).
 5. Пополняйте базу песен и делитесь с другими людьми с помощью облачных сервисов.
 6. Присоединяйтесь к [Сообществу!](https://vk.com/opensong)
-
-![os_logo](https://sergknyz.github.io/OpenSongRu/img/logo_cut.jpg)

@@ -1,5 +1,5 @@
 ### OpenSongRu
-![1](OpenSongRu/Backgrounds/Cross.jpg)
+![os_cross](https://github.com/SergKnyz/OpenSongRu/blob/master/Backgrounds/Cross.jpg)
       
 Русские песни хвалы и поклонения в формате Open Song XML.
 Не знаете, что это? Хотите попробовать?

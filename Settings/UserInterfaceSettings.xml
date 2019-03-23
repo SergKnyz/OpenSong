@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UserInterfaceSettings>
   <LyricsFormat>
-    <FontName>monospace</FontName>
-    <FontSize>14</FontSize>
+    <FontName>Lucida Console</FontName>
+    <FontSize>12</FontSize>
     <FontStyle>Regular</FontStyle>
     <FontColorHex>#000000</FontColorHex>
   </LyricsFormat>

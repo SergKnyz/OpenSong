@@ -7,8 +7,8 @@
 
 | Программа | Краткое описание | Ссылка |
 | --- | --- | --- |
-| OpenChords | qwe |[Скачать](https://sourceforge.net/projects/openchords/) |
-| OpenSong | asd |[Скачать](https://sourceforge.net/projects/opensong/) |
+| OpenChords | qwe |[Скачать](https://sourceforge.net/projects/openchords/files/latest/download) |
+| OpenSong | asd |[Скачать](https://sourceforge.net/projects/opensong/files/latest/download) |
 | OpenSongApp | zxc |[Скачать](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
 
 мобильное приложение на ваш Android-смартфон.

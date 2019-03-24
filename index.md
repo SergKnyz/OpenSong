@@ -1,4 +1,4 @@
-## OpenSongRu
+## ![logo](img/logo_cut.png)OpenSongRu
       
 Русские песни хвалы и поклонения в формате Open Song XML.
 Не знаете, что это? Хотите попробовать?

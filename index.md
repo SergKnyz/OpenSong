@@ -7,7 +7,7 @@
 
 | Программа | Краткое описание | Ссылка |
 | --- | --- | --- |
-| OpenChords | qwe |[Скачать](https://sourceforge.net/projects/openchords/files/latest/download) |
+| OpenChords | Цифровой сборник песен для гитаристов и других музыкантов. Электронная альтернатива бумажным сборникам песен. |[Скачать](https://sourceforge.net/projects/openchords/files/latest/download) |
 | OpenSong | asd |[Скачать](https://sourceforge.net/projects/opensong/files/latest/download) |
 | OpenSongApp | zxc |[Скачать](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
 

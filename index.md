@@ -6,10 +6,11 @@
 1. Установите на ваш компьютер программы:
 
 
-|  1   | [OpenChords](https://sourceforge.net/projects/openchords/) |
-| --- | --- |
-|  2   | [OpenSong](https://sourceforge.net/projects/opensong/) |
-|  3   | [OpenSongApp](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
+| OpenChords | qwe |[Скачать](https://sourceforge.net/projects/openchords/) |
+| --- | --- | --- |
+| OpenSong | asd |[Скачать](https://sourceforge.net/projects/opensong/) |
+| OpenSongApp | zxc | [Скачать](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
+
 мобильное приложение на ваш Android-смартфон.
 
 2. Скачайте нашу базу песен:  

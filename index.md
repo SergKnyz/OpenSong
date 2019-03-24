@@ -4,9 +4,10 @@
 Не знаете, что это? Хотите попробовать?
 
 1. Установите на ваш компьютер программы:
-| [OpenChords] |(https://sourceforge.net/projects/openchords/) |
-| [OpenSong]  |  (https://sourceforge.net/projects/opensong/)  |
-| [OpenSongApp]  | (https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
+
+|  1 | [OpenChords] (https://sourceforge.net/projects/openchords/) |
+|  2 | [OpenSong] (https://sourceforge.net/projects/opensong/) |
+|  3 | [OpenSongApp] (https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
 мобильное приложение на ваш Android-смартфон.
 
 2. Скачайте нашу базу песен:  

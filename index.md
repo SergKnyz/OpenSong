@@ -7,7 +7,7 @@
 
 | Программа | Краткое описание | Ссылка |
 | --- | --- | --- |
-| OpenChords | Организация и хранение песен для гитаристов и других музыкантов. Электронная альтернатива бумажным сборникам песен. |[Скачать](https://sourceforge.net/projects/openchords/files/latest/download) |
+| OpenChords | Электронная альтернатива бумажным сборникам песен. Организация и хранение песен с аккордами для музыкантов. |[Скачать](https://sourceforge.net/projects/openchords/files/latest/download) |
 | OpenSong | Приложение в основном для вывода на проектор текстов песен, стихов из Библии и т.д. |[Скачать](https://sourceforge.net/projects/opensong/files/latest/download) |
 | OpenSongApp | zxc |[Скачать](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
 

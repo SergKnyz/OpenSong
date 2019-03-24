@@ -5,11 +5,11 @@
 
 1. Установите на ваш компьютер программы:
 
-| Программа | Краткое описание | Ссылка |
-| --- | --- | --- |
-| OpenChords | Электронная альтернатива бумажным сборникам песен. Организация и хранение песен с аккордами для музыкантов. |[Скачать](https://sourceforge.net/projects/openchords/files/latest/download) |
-| OpenSong | Приложение в основном для вывода на проектор текстов песен, стихов из Библии и т.д. |[Скачать](https://sourceforge.net/projects/opensong/files/latest/download) |
-| OpenSongApp | Мобильное приложение Open Song на ваш Android-смартфон. |[Скачать](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
+|   | Программа | Краткое описание | Ссылка |
+| --- | --- | --- | --- |
+|   | OpenChords | Электронная альтернатива бумажным сборникам песен. Организация и хранение песен с аккордами для музыкантов. |[Скачать](https://sourceforge.net/projects/openchords/files/latest/download) |
+|   | OpenSong | Приложение в основном для вывода на проектор текстов песен, стихов из Библии и т.д. |[Скачать](https://sourceforge.net/projects/opensong/files/latest/download) |
+|   | OpenSongApp | Мобильное приложение Open Song на ваш Android-смартфон. |[Скачать](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
 
 
 

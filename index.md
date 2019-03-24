@@ -5,11 +5,11 @@
 
 1. Установите на ваш компьютер программы:
 
-
-| OpenChords | qwe |[Скачать](https://sourceforge.net/projects/openchords/) |
+| Программа | Краткое описание | Ссылка |
 | --- | --- | --- |
+| OpenChords | qwe |[Скачать](https://sourceforge.net/projects/openchords/) |
 | OpenSong | asd |[Скачать](https://sourceforge.net/projects/opensong/) |
-| OpenSongApp | zxc | [Скачать](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
+| OpenSongApp | zxc |[Скачать](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
 
 мобильное приложение на ваш Android-смартфон.
 

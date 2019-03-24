@@ -4,7 +4,7 @@
 Не знаете, что это? Хотите попробовать?
 
 1. Установите на ваш компьютер программы:
-| ---- |----------------|
+| --- | --- |
 |  1   | [OpenChords](https://sourceforge.net/projects/openchords/) |
 |  2   | [OpenSong](https://sourceforge.net/projects/opensong/) |
 |  3   | [OpenSongApp](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |

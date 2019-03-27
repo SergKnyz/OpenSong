@@ -10,11 +10,8 @@
 |![1](img/oc_icon.png)   | OpenChords | Электронная альтернатива бумажным сборникам песен. Организация и хранение песен с аккордами для музыкантов. |[Скачать](https://sourceforge.net/projects/openchords/files/latest/download) |
 |![2](img/os_icon.png)   | OpenSong | Приложение в основном для вывода на проектор текстов песен, стихов из Библии и т.д. |[Скачать](https://sourceforge.net/projects/opensong/files/latest/download) |
 |![3](img/osa_icon.png)  | OpenSongApp | Мобильное приложение Open Song на ваш Android-смартфон. |[Скачать](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
-
-
 * Создайте свою базу песен или скачайте нашу:  
 
-|   |   |
 | --- | --- |
 |![1](img/icon_gh.jpg) | [GitHub](https://github.com/SergKnyz/OpenSongRu/archive/master.zip)
 |![1](img/icon_gdr.jpg) | [Google Drive](https://drive.google.com/open?id=1K4NR7njvLmjtOn2Ljp7YpigRXDAG-Hb-)

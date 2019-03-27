@@ -11,11 +11,11 @@
 
 ### 2. Создайте свою базу песен или скачайте нашу:
 
- |     | Сервис |
- | --- | --- |
- |![1](img/icon_gh.jpg) | [GitHub](https://github.com/SergKnyz/OpenSongRu/archive/master.zip) |
- |![2](img/icon_gdr.png) | [Google Drive](https://drive.google.com/open?id=1K4NR7njvLmjtOn2Ljp7YpigRXDAG-Hb-) |
- |![3](img/icon_mail.png) | [Облако Mail.ru](https://cloud.mail.ru/public/BntW/H7FubED5D) |
+ |     | Сервис | Ссылка |
+ | --- | --- | --- |
+ |![1](img/icon_gh.jpg) | GitHub | [Скачать](https://github.com/SergKnyz/OpenSongRu/archive/master.zip) |
+ |![2](img/icon_gdr.png) | Google Drive | [Скачать](https://drive.google.com/open?id=1K4NR7njvLmjtOn2Ljp7YpigRXDAG-Hb-) |
+ |![3](img/icon_mail.png) | Облако Mail.ru | [Скачать](https://cloud.mail.ru/public/BntW/H7FubED5D) |
 
 ### 3. Используйте в вашем служении, пополняйте базу и делитесь с другими.
 

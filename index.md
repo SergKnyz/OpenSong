@@ -19,6 +19,6 @@
 
 ### 3. Используйте в вашем служении, пополняйте базу и делитесь с другими.
 
-### 4. Систематизируйте и подбирайте репертуар с помощью ![4](img/icon_airt.gif) [Airtables](https://airtable.com/shrf59t6LkyvGAQ4R).
+### 4. Систематизируйте и подбирайте репертуар с помощью ![4](img/icon_airt.png) [Airtables](https://airtable.com/shrf59t6LkyvGAQ4R).
 
 ### 5. Присоединяйтесь к [Сообществу!](https://vk.com/opensong)

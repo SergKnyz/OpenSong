@@ -16,7 +16,7 @@
 
 |   |   |
 | --- | --- |
-| | [GitHub](https://github.com/SergKnyz/OpenSong)
+| | [GitHub](https://github.com/SergKnyz/OpenSongRu/archive/master.zip)
 | | [Google Drive](https://drive.google.com/open?id=1K4NR7njvLmjtOn2Ljp7YpigRXDAG-Hb-)
 | | [Облако Mail.ru](https://cloud.mail.ru/public/BntW/H7FubED5D) 
 

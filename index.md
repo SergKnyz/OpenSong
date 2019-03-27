@@ -13,6 +13,7 @@
 
 Создайте свою базу песен или скачайте нашу:  
 
+|     |     |
 | --- | --- |
 |![1](img/icon_gh.jpg) | [GitHub](https://github.com/SergKnyz/OpenSongRu/archive/master.zip) |
 |![2](img/icon_gdr.jpg) | [Google Drive](https://drive.google.com/open?id=1K4NR7njvLmjtOn2Ljp7YpigRXDAG-Hb-) |

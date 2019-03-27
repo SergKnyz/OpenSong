@@ -1,10 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Видел я Господа</title>
-  <author />
+  <author></author>
+  <copyright></copyright>
   <presentation>V C</presentation>
-  <capo>0</capo>
+  <hymn_number></hymn_number>
+  <capo print="false"></capo>
+  <tempo></tempo>
+  <time_sig>4/4</time_sig>
+  <duration></duration>
+  <predelay></predelay>
+  <ccli>213</ccli>
+  <theme>;</theme>
+  <alttheme>;</alttheme>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
   <key>F</key>
+  <aka></aka>
+  <key_line></key_line>
+  <books></books>
+  <midi></midi>
+  <midi_index></midi_index>
+  <pitch></pitch>
+  <restrictions></restrictions>
+  <notes>[V]
+ 
+
+[C]
+ 
+
+</notes>
   <lyrics>[V]
 . F       C/E        
  Видел я Господа, 
@@ -20,28 +46,23 @@
  И полна вся земля, 
 .      F/A       B
  И полна вся земля
-.      F/A       B       Gdim_F
+.      F/A       B       Bdim-F
  И полна вся земля Его славы.
-
+ 
 [C]
  
-.  F       B/F     F       B/F
+.  F       Gm/F     F       B/F
  Святый, святый, святый, святый,
-.  F        Csus     (F)
+.  F A   B Gm Csus     (F)
  Святый Господь  (Господ).
-
 </lyrics>
-  <ccli>213</ccli>
-  <tempo>Moderate</tempo>
-  <time_sig>4/4</time_sig>
-  <copyright />
-  <hymn_number />
-  <notes>[V]
- 
-
-[C]
- 
-
-</notes>
-  <bbm>72</bbm>
+  <linked_songs></linked_songs>
+  <pad_file>Авто</pad_file>
+  <custom_chords></custom_chords>
+  <link_youtube></link_youtube>
+  <link_web></link_web>
+  <link_audio></link_audio>
+  <loop_audio>false</loop_audio>
+  <link_other></link_other>
+  <abcnotation></abcnotation>
 </song>

@@ -12,6 +12,7 @@
 |![3](img/osa_icon.png)  | [OpenSongApp](https://www.opensongapp.com) | Мобильное приложение Open Song на ваш Android-смартфон. |[Скачать](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
 
 2. Создайте свою базу песен или скачайте нашу:
+
  |     |     |
  | --- | --- |
  |![1](img/icon_gh.jpg) | [GitHub](https://github.com/SergKnyz/OpenSongRu/archive/master.zip) |

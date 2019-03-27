@@ -16,9 +16,9 @@
 
 |   |   |
 | --- | --- |
-|![1](img/icon_git.jpg) | [GitHub](https://github.com/SergKnyz/OpenSongRu/archive/master.zip)
+|![1](img/icon_gh.jpg) | [GitHub](https://github.com/SergKnyz/OpenSongRu/archive/master.zip)
 |![1](img/icon_gdr.jpg) | [Google Drive](https://drive.google.com/open?id=1K4NR7njvLmjtOn2Ljp7YpigRXDAG-Hb-)
-|![1](img/icon_git.jpg) | [Облако Mail.ru](https://cloud.mail.ru/public/BntW/H7FubED5D) 
+|![1](img/icon_mail.jpg) | [Облако Mail.ru](https://cloud.mail.ru/public/BntW/H7FubED5D) 
 
 3. Используйте в вашем служении.
 4. Систематизируйте и подбирайте ваш репертуар с помощью [Airtables](https://airtable.com/shrf59t6LkyvGAQ4R).

@@ -12,11 +12,14 @@
 |![3](img/osa_icon.png)  | OpenSongApp | Мобильное приложение Open Song на ваш Android-смартфон. |[Скачать](https://play.google.com/store/apps/details?id=com.garethevans.church.opensongtablet&hl=ru) |
 
 
+2. Создайте свою базу песен или скачайте нашу:  
 
-2. Скачайте нашу базу песен:  
- * [Google Drive](https://drive.google.com/open?id=1K4NR7njvLmjtOn2Ljp7YpigRXDAG-Hb-)
- * [Облако Mail.ru](https://cloud.mail.ru/public/BntW/H7FubED5D) 
- * [GitHub](https://github.com/SergKnyz/OpenSong)
+|   |   |
+| --- | --- |
+| | [GitHub](https://github.com/SergKnyz/OpenSong)
+| | [Google Drive](https://drive.google.com/open?id=1K4NR7njvLmjtOn2Ljp7YpigRXDAG-Hb-)
+| | [Облако Mail.ru](https://cloud.mail.ru/public/BntW/H7FubED5D) 
+
 3. Используйте в вашем служении.
 4. Систематизируйте и подбирайте ваш репертуар с помощью [Airtables](https://airtable.com/shrf59t6LkyvGAQ4R).
 5. Пополняйте базу песен и делитесь с другими людьми с помощью облачных сервисов.

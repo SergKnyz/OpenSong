@@ -23,6 +23,4 @@
 
 ### 5. Присоединяйтесь к Сообществу 
 
-![5](img/icon_vk.png) [ВКонтакте](https://vk.com/opensong) 
-
-и на ![5](img/icon_fb.png) [Facebook](https://fb.me/opensongru)
+![5](img/icon_vk.png) [ВКонтакте](https://vk.com/opensong) и на ![5](img/icon_fb.png) [Facebook](https://fb.me/opensongru)

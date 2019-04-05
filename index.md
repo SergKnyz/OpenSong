@@ -21,4 +21,8 @@
 
 ### 4. Систематизируйте и подбирайте репертуар с помощью ![4](img/icon_airt.png) [Airtables](https://airtable.com/shrf59t6LkyvGAQ4R).
 
-### 5. Присоединяйтесь к Сообществу ![5](img/icon_vk.png) [ВКонтакте](https://vk.com/opensong) и на ![5](img/icon_fb.png) [Facebook](https://fb.me/opensongru)
+### 5. Присоединяйтесь к Сообществу 
+
+![5](img/icon_vk.png) [ВКонтакте](https://vk.com/opensong) 
+
+и на ![5](img/icon_fb.png) [Facebook](https://fb.me/opensongru)

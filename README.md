@@ -5,4 +5,6 @@
 
 В папке [OpenSongRuLyrics](https://github.com/SergKnyz/OpenSongRu/tree/master/OpenSongRuLyrics) без аккордов.
 
+В папке [OpenSongRuNNS](https://github.com/SergKnyz/OpenSongRu/tree/master/OpenSongRuNNS) песни в формате Nashville Number System.
+
 Пользуйтесь на здоровье!

@@ -7,4 +7,6 @@
 
 В папке [OpenSongRuNNS](https://github.com/SergKnyz/OpenSongRu/tree/master/OpenSongRuNNS) песни в формате Nashville Number System.
 
+В папке [OpenSongWLA](https://github.com/SergKnyz/OpenSongRu/tree/master/OpenSongWLA) песни из базы приложения WorshipLeaderApp.
+
 Пользуйтесь на здоровье!

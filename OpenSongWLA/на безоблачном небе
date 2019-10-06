@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Русавуки</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Hm                            Em
  На безоблачном небе молодая луна,
@@ -28,6 +26,8 @@
  Зажигаются звёзды Твоею рукой.
  И великим твореньем могу до зари,
  Наслаждаться и слушать, что Ты говоришь.</lyrics>
+<author>Русавуки</author>
 <title>На безоблачном небе</title>
+<key>B</key>
 <hymn_number>1113</hymn_number>
 </song>

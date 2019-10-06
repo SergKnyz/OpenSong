@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Буду петь, прославлять,</title>
-<key>A</key>
-<author>Grace.SPb</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .   Am                            F        C          G
  Господь мне кажется, что Ты за миллионы миль от меня,
 .   Am                     F           C         G
@@ -40,6 +37,9 @@
  Прославлю руки вознеся, Твоё Слово- истина,
 .      D
  Буду петь.</lyrics>
+<author>Grace.SPb</author>
+<key>A</key>
+<title>Буду петь, прославлять,</title>
 <aka>Господь мне кажется, что Ты за миллионы миль от меня,</aka>
 <hymn_number>602</hymn_number>
 </song>

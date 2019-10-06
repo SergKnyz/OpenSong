@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2548</hymn_number>
-<title>Ты воскрес</title>
-<author>Iota worship</author>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Iota worship</author>
 <lyrics>[V1]
  Темп- 72
 
@@ -40,4 +37,7 @@
  Милости Твоей полна земля!
  Подвигом Своим примирил навеки с Богом -
  О, Иисус, я так люблю Тебя!</lyrics>
+<key>E</key>
+<title>Ты воскрес</title>
+<hymn_number>2548</hymn_number>
 </song>

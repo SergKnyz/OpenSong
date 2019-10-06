@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1648</hymn_number>
-<title>Не прожигай напрасно жизнь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Не прожигай напрасно жизнь</title>
+<key>B</key>
+<hymn_number>1648</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .       Hm              C#        F#m               D  A/C#
@@ -29,5 +30,4 @@
  кто сумел не поддаться лжи, чтоб испробовать все до края,
  И случайно, может быть, судьбу теряя.</lyrics>
 <author>Денис Попурей</author>
-<key>B</key>
 </song>

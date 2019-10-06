@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Выше звёзд</title>
-<key>F</key>
-<author>Анастасия Яценко</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Анастасия Яценко</author>
 <lyrics>[V1]
  1 куплет:
 . Fm                   Cm
@@ -36,5 +34,7 @@
  С каждым днем быстрее бег часов
  Все пройдет однажды но останется она
  Твоя любовь Твоя любовь.</lyrics>
+<key>F</key>
+<title>Выше звёзд</title>
 <hymn_number>5628</hymn_number>
 </song>

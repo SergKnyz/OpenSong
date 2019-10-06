@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>По вашим глазам читается ПВ1497</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  По вашим глазам читается:
  Что дал Господь - сбывается;
  И каждый улыбается.
@@ -18,4 +16,6 @@
  И все мы улыбаемся,
  Желая счастья вам.</lyrics>
 <hymn_number>1497</hymn_number>
+<key>D</key>
+<title>По вашим глазам читается ПВ1497</title>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>341</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .        F   F7   Bb
  Хвала, Аллилуйя, Аллилуйя,
 .F/C Dm7   G7    C G/D C7/E
@@ -18,6 +17,7 @@
    Силой Своей наполни меня,
 .  Gm.     C     C7         F
    Вечно Тебя я буду восхвалять.</lyrics>
-<key>F</key>
+<hymn_number>341</hymn_number>
 <title>Хвала, Аллилуйя ИИПВ341</title>
+<key>F</key>
 </song>

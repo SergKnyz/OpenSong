@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>138</hymn_number>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ты для меня, Спаситель,
  Сошел с святых небес,
  Оставил Ты обитель
@@ -35,5 +33,7 @@
  Всегда, во всякий миг.
  Тебе принадлежу я,
  Я весь в руках Твоих!</lyrics>
+<key>G</key>
 <title>Ты для меня Спаситель ПВ138</title>
+<hymn_number>138</hymn_number>
 </song>

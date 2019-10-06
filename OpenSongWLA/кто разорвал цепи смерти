@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2243</hymn_number>
-<title>Кто разорвал цепи смерти?</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Em
  Кто разорвал цепи смерти?
@@ -46,5 +44,7 @@
 .       D              Em
  Аллилуйя! Иисус наш Господь.</lyrics>
 <author>Новое поколение</author>
+<hymn_number>2243</hymn_number>
 <key>E</key>
+<title>Кто разорвал цепи смерти?</title>
 </song>

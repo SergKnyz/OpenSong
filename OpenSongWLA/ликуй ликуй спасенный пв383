@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>383</hymn_number>
-<title>Ликуй ликуй спасенный ПВ383</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ликуй, ликуй, спасенный!
  Пусть будет славой, радостью твоей
  Спаситель, вознесенный
@@ -30,4 +27,7 @@
  Спеши войти в собрание святых
  И, сердцем восхищенный,
  Воспой всерадостный спасенья стих.</lyrics>
+<key>D</key>
+<title>Ликуй ликуй спасенный ПВ383</title>
+<hymn_number>383</hymn_number>
 </song>

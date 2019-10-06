@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1107</hymn_number>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Последнее время</title>
+<hymn_number>1107</hymn_number>
 <author>Светлана Малова</author>
 <lyrics>[V1]
  Вст
@@ -67,5 +68,4 @@
  Иди туда любя спасай кого возможно
 .   F#                      Hm
  И помни, что тебя нашли когда-то тоже</lyrics>
-<title>Последнее время</title>
 </song>

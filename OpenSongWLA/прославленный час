@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Алексей Каратаев</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев</author>
 <lyrics>[V1]
  1 куплет:
 .H               E
@@ -58,6 +57,7 @@
    Чудесный день всё творение узнает
 .  E
    Что Ты Спаситель, Воскрес</lyrics>
-<title>Прославленный час</title>
 <hymn_number>49</hymn_number>
+<key>B</key>
+<title>Прославленный час</title>
 </song>

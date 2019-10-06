@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Слово Благодати</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <lyrics>[V1]
  Вст
 
@@ -38,7 +38,7 @@
 
 [V6]
  Припев</lyrics>
-<author>Неизвестный</author>
-<key>F</key>
 <hymn_number>1285</hymn_number>
+<key>F</key>
+<title>Слово Благодати</title>
 </song>

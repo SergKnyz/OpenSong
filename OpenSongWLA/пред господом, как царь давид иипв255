@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Пред Господом, как царь Давид ИИПВ255</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>255</hymn_number>
+<title>Пред Господом, как царь Давид ИИПВ255</title>
+<key>Cm</key>
 <lyrics>[V1]
 .      Cm            Gm
  Пред Господом, как царь Давид,
@@ -29,6 +31,4 @@
  ПредЦарём царей.
  Воскликнеммы, как Иисус Навин
  Уруин Иерихона пред Царём царей.</lyrics>
-<key>Cm</key>
-<hymn_number>255</hymn_number>
 </song>

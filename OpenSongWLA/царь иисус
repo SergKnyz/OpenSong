@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1888</hymn_number>
+<key>B</key>
+<title>Царь Иисус</title>
 <lyrics>[V1]
  1 куплет:
 .Hm         F#m     G           D
@@ -47,7 +49,5 @@
  Ты учил нас прощать, прощать другим
  Ты - Альфа и Омега
  Я верю Тебе.</lyrics>
-<key>B</key>
 <author>Божья Коровка</author>
-<title>Царь Иисус</title>
 </song>

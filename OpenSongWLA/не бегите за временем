@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>171</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .C#        G#         Bbm
  Мерцают звёзды за окном,
@@ -35,6 +34,7 @@
  Сегодня от свечи твоей
  Осталась только капля воска.</lyrics>
 <author>Дарина Кочанжи</author>
-<key>F#</key>
+<hymn_number>171</hymn_number>
 <title>Не бегите за временем</title>
+<key>F#</key>
 </song>

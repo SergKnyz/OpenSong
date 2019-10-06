@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2600</hymn_number>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Хорошо вам, детки,
  Зимним вечерком
  В комнатке уюттой
@@ -36,4 +34,6 @@
  Вы, как братья, детки,
  Приголубьте их.</lyrics>
 <title>Хорошо вам детки ПВ2600</title>
+<key>A</key>
+<hymn_number>2600</hymn_number>
 </song>

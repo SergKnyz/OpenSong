@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1778</hymn_number>
-<author>Набат</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Набат</author>
 <lyrics>[V1]
  1 куплет:
 .  C                     Em
@@ -36,5 +34,7 @@
  Много за жизнь горьких слез пролила.
  Сколько нужды, страдая, терпела,
  Мать, ты безропотно, кротко несла.</lyrics>
+<hymn_number>1778</hymn_number>
 <title>Мама</title>
+<key>C</key>
 </song>

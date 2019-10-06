@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Cm</key>
-<author>Адриана Борш</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Адриана Борш</author>
 <lyrics>[V1]
  1 куплет:
 .Cm                      Fm
@@ -36,5 +35,6 @@
  Кто грехи твои прощает и спасет тебя
  Кровь с креста еще стекает - приходи туда.</lyrics>
 <title>Кровь Христа еще стекает</title>
+<key>Cm</key>
 <hymn_number>119</hymn_number>
 </song>

@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Господа услышь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Господа услышь</title>
+<hymn_number>1671</hymn_number>
 <author>Alaniaworshipband, Кари Йобе</author>
-<key>D</key>
 <lyrics>[V1]
  1 куплет:
 .Dm                   Csus4     C  Csus4 C
@@ -40,5 +41,4 @@
    Святой, святой!
 .  Dm   Bb     F   C
    Всемогущий Бог наш!</lyrics>
-<hymn_number>1671</hymn_number>
 </song>

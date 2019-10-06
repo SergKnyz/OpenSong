@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1400</hymn_number>
-<title>Голгофа</title>
-<author>Ольга Вельгус</author>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Вельгус</author>
 <lyrics>[V1]
  1 куплет:
 . Em                 Am      Em
@@ -42,4 +39,7 @@
    Концовка:
    Сменяют друг друга долгие года,
    А Голгофа все ждет тебя.</lyrics>
+<hymn_number>1400</hymn_number>
+<title>Голгофа</title>
+<key>E</key>
 </song>

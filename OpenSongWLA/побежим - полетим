@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1198</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <title>Побежим - полетим</title>
+<hymn_number>1198</hymn_number>
+<author>Спасение церковь г. Вишневое</author>
 <lyrics>[V1]
  Куплет:
 . Em               C
@@ -29,6 +31,4 @@
 [V2]
 . C        D        Em     C       D        Em
  Только вместе с Тобой!  Только вместе с Тобой!</lyrics>
-<key>E</key>
-<author>Спасение церковь г. Вишневое</author>
 </song>

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2336</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <title>Только к Богу стремится</title>
+<hymn_number>2336</hymn_number>
 <lyrics>[V1]
 .Em           Am        H   Em
  Только к Богу стремится, к Господу душа моя
@@ -15,6 +16,5 @@
 [V4]
 .Am    Em    C      H   Em
  Он меня возвышает, ой, не споткнусь я.</lyrics>
-<key>E</key>
 <author>Алексей Захаренко</author>
 </song>

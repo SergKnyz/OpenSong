@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>404</hymn_number>
-<aka>Кругом их была тишина.</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В долине сто тучных паслися овец;
  Кругом их была тишина.
  И Пастырь за ними смотрел, как Отец;
@@ -31,6 +29,8 @@
  Принес Я заблудшую к вам&quot;.
  И ангелы вторили Божьим словам,
  И песнь их неслася по всем небесам.</lyrics>
-<key>Ab</key>
 <title>В долине сто тучных паслися овец ПВ404</title>
+<key>Ab</key>
+<hymn_number>404</hymn_number>
+<aka>Кругом их была тишина.</aka>
 </song>

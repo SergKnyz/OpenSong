@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В реке Твоей оживаем</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
+<title>В реке Твоей оживаем</title>
+<hymn_number>1616</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .            Bb        Gm
@@ -54,6 +56,4 @@
 .           Bb            Gm            Dm       F/A
    Открой поток, открой поток открой поток во мне</lyrics>
 <author>Влад Фонки, Йесус Цултуре</author>
-<key>Bb</key>
-<hymn_number>1616</hymn_number>
 </song>

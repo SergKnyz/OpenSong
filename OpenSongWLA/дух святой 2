@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Дух Святой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3196</hymn_number>
+<title>Дух Святой</title>
+<key>D</key>
 <lyrics>[V1]
 .D                     G
  Ценнее всего, важнее всего,
@@ -39,7 +41,5 @@
  Дай нам познать и принять Твою близость,
 .G          D/F#      Em       D/F#
  Дай нам испытывать любовь Твою и славу.</lyrics>
-<key>D</key>
 <author>Bethel Music, Бетхел Мусиц</author>
-<hymn_number>3196</hymn_number>
 </song>

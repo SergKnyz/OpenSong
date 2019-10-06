@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Рождение Любви</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2900</hymn_number>
+<title>Рождение Любви</title>
+<key>D</key>
 <lyrics>[V1]
  1 куплет:
 . D                      A/C#
@@ -51,6 +53,4 @@
    G                                        A
    Рожденный от Бога - есть Бог!</lyrics>
 <author>New Beginnings Worship</author>
-<key>D</key>
-<hymn_number>2900</hymn_number>
 </song>

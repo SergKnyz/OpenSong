@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Море бушует и грозно шумит ПВ2722</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Море бушует и грозно шумит,
  Свет маяка оно может закрыть.
  Но не страшитесь волн вы морей,
@@ -30,4 +28,6 @@
  Он нам сигналы дает, чтоб в цуги
  Мы могли к цели заветной прийти.</lyrics>
 <hymn_number>2722</hymn_number>
+<title>Море бушует и грозно шумит ПВ2722</title>
+<key>C</key>
 </song>

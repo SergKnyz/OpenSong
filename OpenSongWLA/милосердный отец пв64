@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>64</hymn_number>
-<title>Милосердный Отец ПВ64</title>
-<key>F#</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Милосердный Отец!
  Слаб и немощен я;
  Как несчастный слепец,
@@ -24,4 +21,7 @@
  Огнь Божественных слов,
  Чтоб на призыв святой
  Я всегда был готов!</lyrics>
+<hymn_number>64</hymn_number>
+<title>Милосердный Отец ПВ64</title>
+<key>F#</key>
 </song>

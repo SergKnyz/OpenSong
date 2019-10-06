@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>81</hymn_number>
-<title>Господь, создатель неба и земли ИИПВ81</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Господь, создатель неба и земли ИИПВ81</title>
+<key>G</key>
+<hymn_number>81</hymn_number>
 <lyrics>[V1]
 .G.           D/F#      Em       Em/D
  Господь, Создатель неба и земли,
@@ -41,5 +42,4 @@
  Своё царство утверди скорей,
 .Am D7   G
  Землю спаси.</lyrics>
-<key>G</key>
 </song>

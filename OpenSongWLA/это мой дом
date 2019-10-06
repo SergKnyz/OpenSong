@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3102</hymn_number>
-<title>Это мой дом</title>
-<key>C</key>
-<author>Ярослава Лебе-Левинецкая</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ярослава Лебе-Левинецкая</author>
 <lyrics>[V1]
  1 куплет:
  Это мой дом в сердце Твоем Господь Иисус
@@ -20,4 +17,7 @@
  Вся жизнь моя сокрыта в Тебе, Господь Иисус
  Что в сердце моем знаешь лишь Ты
  Его Ты Господин, лишь Ты - Один!</lyrics>
+<key>C</key>
+<title>Это мой дом</title>
+<hymn_number>3102</hymn_number>
 </song>

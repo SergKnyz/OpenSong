@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3563</hymn_number>
-<title>Мой Спаситель</title>
-<author>Хиллсонг Уорсхип</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Хиллсонг Уорсхип</author>
 <lyrics>[V1]
  Мой Спаситель
 
@@ -27,4 +25,6 @@
    Где мой стыд Иисус забрал
    Руки вознесу и пока дышу
    Я буду славить лишь Тебя</lyrics>
+<hymn_number>3563</hymn_number>
+<title>Мой Спаситель</title>
 </song>

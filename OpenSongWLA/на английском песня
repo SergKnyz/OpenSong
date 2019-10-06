@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ближе, Любовью Своею пленил.</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>на английском песня</title>
+<key>B</key>
+<aka>Ближе, Любовью Своею пленил.</aka>
 <hymn_number>2623</hymn_number>
-<title>на английском песня</title>
 <lyrics>[V1]
  Куплет:
 .C#m           H
@@ -34,5 +35,4 @@
 .  A  E  H        C#m
    Ооо-ооо, велика любовь Твоя.</lyrics>
 <author>Bethel Music, Бетхел Мусиц</author>
-<key>B</key>
 </song>

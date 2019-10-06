@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4830</hymn_number>
-<title>Ты словно звездный свет в ночи</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Бетхел Мусиц</author>
 <lyrics>[V1]
  Ты словно звездный свет в ночи
  Тебя не скрыть за расстоянием!
@@ -25,5 +24,6 @@
    Эммануил! Эммануил!
    Бесконечный Бог славе нет границ
    Иисус Иисус!</lyrics>
-<author>Бетхел Мусиц</author>
+<hymn_number>4830</hymn_number>
+<title>Ты словно звездный свет в ночи</title>
 </song>

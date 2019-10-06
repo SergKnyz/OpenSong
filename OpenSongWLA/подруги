@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Подруги</title>
-<author>Денис Никитин</author>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Денис Никитин</author>
 <lyrics>[C1]
    Припев:
 .  G                             Em
@@ -64,4 +62,6 @@
 .  C                                D
    Каждый день для тебя, как Уикенд, если рядом с тобой the best friend.</lyrics>
 <hymn_number>4943</hymn_number>
+<key>G</key>
+<title>Подруги</title>
 </song>

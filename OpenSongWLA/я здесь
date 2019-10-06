@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1443</hymn_number>
-<title>Я здесь</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Fm            Cm          C#            Bbm
  Как жила так много лет я Без Тебя? Не знаю я...
@@ -47,6 +45,8 @@
    Застываю я в изумлении -  не достойна милости я
 .  Fm             Cm                 C#            Bbm
    Только шепчет тихо Отец мне: Моя любовь навсегда</lyrics>
-<key>F</key>
 <author>Размер неба</author>
+<title>Я здесь</title>
+<key>F</key>
+<hymn_number>1443</hymn_number>
 </song>

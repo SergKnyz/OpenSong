@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>625</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
 <title>Напишу я на стекле</title>
+<hymn_number>625</hymn_number>
+<author>RealIvanna</author>
 <lyrics>[V1]
  1 куплет:
 .Hm             A
@@ -35,6 +37,4 @@
    погружусь в Твою Любовь я ведь теперь я навсегда Твоя!
    Мою жизнь Ты напрочь изменил! Своим взглядом сердце исцелил!
    Не оставив в вечности слова я кричу, что я люблю Тебя!</lyrics>
-<key>B</key>
-<author>RealIvanna</author>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Марина, Фернандинхо</author>
+<lyrics>[V1]
  Куплет:
 .Am              F
  Во тьме блуждали не видя, просто жили
@@ -33,8 +34,7 @@
    Его имя Иисус
 .             C G
    Его имя Иисус</lyrics>
-<author>Ольга Марина, Фернандинхо</author>
-<key>A</key>
-<title>Смерть, где твое жало</title>
 <hymn_number>3597</hymn_number>
+<title>Смерть, где твое жало</title>
+<key>A</key>
 </song>

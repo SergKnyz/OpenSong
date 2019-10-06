@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Душа твоя открыта предо мной ИИПВ99</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>99</hymn_number>
+<title>Душа твоя открыта предо мной ИИПВ99</title>
+<key>G</key>
 <lyrics>[V1]
 . G.                 Еm
  Душа твоя открыта предо мной
@@ -14,6 +16,4 @@
  Прекраснойславой Божьей спасены
  Царёмвеликим мы освящены
  Будембратом и сестрой</lyrics>
-<key>G</key>
-<hymn_number>99</hymn_number>
 </song>

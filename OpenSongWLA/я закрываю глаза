@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2034</hymn_number>
-<title>Я закрываю глаза</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Юрий Шпак</author>
 <lyrics>[V1]
 .G      Hm7          C D4 D
  Я закрываю глаза и стою пред Тобой, Иисус.
@@ -29,6 +28,7 @@
  Даже и в смертной долине Ты меня не покинешь.
 .  Hm/D      C     D4  D   G
  Твой жезл и Твой пос__ох успокоят меня.</lyrics>
-<author>Юрий Шпак</author>
+<hymn_number>2034</hymn_number>
+<title>Я закрываю глаза</title>
 <key>G</key>
 </song>

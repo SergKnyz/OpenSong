@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>316</hymn_number>
-<title>Есть для плачущих земли ПВ316</title>
-<key>Ab</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Есть для плачущих земли
  Место у креста;
  Брат мой страждущий, займи
@@ -40,4 +37,7 @@
  Нам открылись небеса
  И умолкнула гроза.
  Тихо у креста!</lyrics>
+<title>Есть для плачущих земли ПВ316</title>
+<key>Ab</key>
+<hymn_number>316</hymn_number>
 </song>

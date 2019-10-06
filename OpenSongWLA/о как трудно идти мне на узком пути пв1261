@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1261</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О, как трудно идти мне на узком пути,
  Каменистом.
  Ураган все ревет, даже ужас берет
@@ -28,6 +27,7 @@
  Нет ненастья
  Там, нет слез, нет нужды, нет мертвящей тоски,
  Только счастье, только счастье!</lyrics>
-<key>C</key>
 <title>О как трудно идти мне на узком пути ПВ1261</title>
+<key>C</key>
+<hymn_number>1261</hymn_number>
 </song>

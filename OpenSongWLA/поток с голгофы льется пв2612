@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2612</hymn_number>
-<title>Поток с Голгофы льется ПВ2612</title>
-<key>Bb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Поток с Голгофы льется,
  Для всех нас со креста.
  Источник исцеленья
@@ -36,4 +33,7 @@
  Захочешь ты служить,
  Далеких и заблудших
  К Иисусу приводить.</lyrics>
+<key>Bb</key>
+<title>Поток с Голгофы льется ПВ2612</title>
+<hymn_number>2612</hymn_number>
 </song>

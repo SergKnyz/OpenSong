@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>633</hymn_number>
-<title>Царь Небесный</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .F       C/E              Am
  Ночную тишь прервав открыл над миром небеса
@@ -36,6 +34,8 @@
    Боже Святый - в песнях всем гласят
    Царь Небесный в мир пришел сейчас
    Царь Небесный в мир пришел сейчас</lyrics>
-<key>F</key>
 <author>Hillsong Ukraine</author>
+<title>Царь Небесный</title>
+<key>F</key>
+<hymn_number>633</hymn_number>
 </song>

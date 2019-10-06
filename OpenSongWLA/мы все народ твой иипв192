@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мы все народ Твой ИИПВ192</title>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .F.        Gm7
  Мы все народ Твой,
 .C7.                 F
@@ -23,5 +21,7 @@
    Ты построй Свой храм, Господь,
 .   F Gm   C7   F
    Свою волю изъяви.</lyrics>
+<title>Мы все народ Твой ИИПВ192</title>
+<key>F</key>
 <hymn_number>192</hymn_number>
 </song>

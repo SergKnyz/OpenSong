@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Истина Твоя победила грех и смерть</aka>
-<hymn_number>3294</hymn_number>
-<title>Ты даешь мне милость</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Fm               Db
  Истина Твоя победила грех и смерть.
 .Fm               Db7+
@@ -20,6 +17,9 @@
    Ты наполняешь жизнью
 .   C7
    Сердце моё, Иисус!</lyrics>
-<key>Fm</key>
 <author>Новое Поколение церковь Новомосковск</author>
+<key>Fm</key>
+<title>Ты даешь мне милость</title>
+<aka>Истина Твоя победила грех и смерть</aka>
+<hymn_number>3294</hymn_number>
 </song>

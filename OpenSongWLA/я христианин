@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4195</hymn_number>
-<title>Я Христианин</title>
-<key>G</key>
-<author>NewSong, НеуСонг</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em         G/E   D   C
  Следуй за шагом шаг - Он заповедовал так
 .Em           C        G
@@ -63,4 +59,8 @@
 .  D
    Он поведёт
    (Тогда ты воскликнешь ...)</lyrics>
+<author>NewSong, НеуСонг</author>
+<key>G</key>
+<title>Я Христианин</title>
+<hymn_number>4195</hymn_number>
 </song>

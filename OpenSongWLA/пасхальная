@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1257</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Пасхальная</title>
+<hymn_number>1257</hymn_number>
+<author>Роенко Геннадий</author>
 <lyrics>[V1]
 .D
  1. Повсюду благовест гудит,
@@ -36,7 +39,4 @@
  Весна идёт полна чудес!
  Заря глядит уже с небес...
  Христос воскрес! Христос воскрес!</lyrics>
-<author>Роенко Геннадий</author>
-<key>D</key>
-<title>Пасхальная</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1923</hymn_number>
-<aka>Сердцем не страшись,</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Близко искупленье,
  Сердцем не страшись,
  В тайне сокрушенья
@@ -35,5 +33,7 @@
  Выйдешь в жаркий бой
  И врага с враждою
  Поразишь стрелой.</lyrics>
+<aka>Сердцем не страшись,</aka>
+<hymn_number>1923</hymn_number>
 <title>Близко искупленье ПВ1923</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>333</hymn_number>
-<title>К Богу не медля брат прибегай ПВ333</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  К Богу не медля, брат, прибегай,
  Милости Божьей не отвергай!
  Он, Милосердный, к людям идет
@@ -24,4 +21,7 @@
  Благости полный, нам говорит:
  &quot;Будьте, как дети, с верой в груди,
  Грешник, ко Мне скорее иди!&quot;</lyrics>
+<hymn_number>333</hymn_number>
+<title>К Богу не медля брат прибегай ПВ333</title>
+<key>C</key>
 </song>

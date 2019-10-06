@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>992</hymn_number>
-<title>Ты осветил мой путь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Галим Хусаинов</author>
 <lyrics>[V1]
  Куплет:
 . Hm     G      A        Hm         G      A
@@ -28,6 +27,7 @@
    Рядом с Тобой буду я.
 .        Hm          G
    Не покинешь Ты меня.</lyrics>
+<title>Ты осветил мой путь</title>
 <key>B</key>
-<author>Галим Хусаинов</author>
+<hymn_number>992</hymn_number>
 </song>

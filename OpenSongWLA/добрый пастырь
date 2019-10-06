@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Добрый Пастырь</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет: 1
 .Am               G              C
  Ты оставил небо, в этот мир пришел
@@ -51,7 +50,8 @@
 [V3]
 .Em C G
  Иисус</lyrics>
-<key>E</key>
 <author>Виктор Лавриненко</author>
+<key>E</key>
+<title>Добрый Пастырь</title>
 <hymn_number>3705</hymn_number>
 </song>

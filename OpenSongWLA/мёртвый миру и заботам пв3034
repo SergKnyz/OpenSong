@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3034</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Мёртвый миру и заботам,
  мёртвый весь я для греха:
  жить хочу лишь для Иисуса.
@@ -28,6 +27,7 @@
  буду я один, тогда
  всё ж бесстрашен, ведь с Иисусом
  быть могу уверен я.</lyrics>
-<key>F</key>
+<hymn_number>3034</hymn_number>
 <title>Мёртвый миру и заботам ПВ3034</title>
+<key>F</key>
 </song>

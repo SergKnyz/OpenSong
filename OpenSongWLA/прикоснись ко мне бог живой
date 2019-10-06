@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4395</hymn_number>
-<title>Прикоснись ко мне Бог Живой</title>
-<key>A</key>
-<author>Анна Горобчук</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Анна Горобчук</author>
 <lyrics>[V1]
  Вст
 
@@ -51,4 +48,7 @@
 
 [V7]
  Пр. : 2 раза</lyrics>
+<title>Прикоснись ко мне Бог Живой</title>
+<key>A</key>
+<hymn_number>4395</hymn_number>
 </song>

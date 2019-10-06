@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2752</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <title>Не оставлю</title>
-<key>E</key>
-<author>Екатерина Топчий</author>
+<hymn_number>2752</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .  Em          D              C             H7
@@ -37,4 +36,5 @@
  Я - Твой Бог, твой Господин!
  Белоснежную одежду
  Приготовил Я, - Один.</lyrics>
+<author>Екатерина Топчий</author>
 </song>

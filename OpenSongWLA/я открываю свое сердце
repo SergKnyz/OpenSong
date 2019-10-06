@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>362</hymn_number>
-<title>Я открываю свое сердце</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я открываю свое сердце</title>
 <key>F</key>
-<author>Holy Generation</author>
+<hymn_number>362</hymn_number>
 <lyrics>[V1]
 .Abmaj7
  Я открываю своё сердце пред Тобой
@@ -21,4 +20,5 @@
  Наполни мое сердце Дух Святой
 .   Fm
  И будь со мной</lyrics>
+<author>Holy Generation</author>
 </song>

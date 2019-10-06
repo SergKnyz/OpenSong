@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Прекрасен Ты!</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Пхил Уицкхам</author>
+<title>Прекрасен Ты!</title>
+<key>A</key>
 <lyrics>[V1]
 .A                D
  В лучах зари я вижу Твой лик
@@ -29,6 +31,4 @@
  На брачный пир с ликованьем взойдём.
  Как Агнца невеста там споём:
  Прекрасен ТЫ!</lyrics>
-<key>A</key>
-<author>Пхил Уицкхам</author>
 </song>

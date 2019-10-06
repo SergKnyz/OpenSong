@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Как прекрасен Ты</title>
-<key>B</key>
-<author>Виталий Ефремочкин</author>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .   H       F#    G#m  E
    Как прекрасен Ты  восклицаем
@@ -31,5 +28,8 @@
    Сияй Иисус, сияй Господь,
 .      G#m               E
    Чтоб видел мир Твою славу!!!</lyrics>
+<author>Виталий Ефремочкин</author>
+<title>Как прекрасен Ты</title>
+<key>B</key>
 <hymn_number>754</hymn_number>
 </song>

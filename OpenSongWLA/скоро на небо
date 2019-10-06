@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1150</hymn_number>
+<title>Скоро на Небо</title>
+<key>F</key>
+<author>Игорь Сидоров</author>
+<lyrics>[V1]
  1 куплет:
 .Fm        D#                C#              D#
  Рано утром и поздней ночью, помышляю я о том
@@ -29,8 +33,4 @@
  Закончится гроза, поднимем мы глаза, и в вечных небесах,
 .A#m           C#                    G#                    D#
  Мы обретем покой, когда придем домой в небесный наш покой.</lyrics>
-<author>Игорь Сидоров</author>
-<key>F</key>
-<title>Скоро на Небо</title>
-<hymn_number>1150</hymn_number>
 </song>

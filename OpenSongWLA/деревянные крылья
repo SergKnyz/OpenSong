@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Геша Ушивец</author>
-<key>A</key>
 <lyrics>[V1]
  1 куплет:
 .Am   Am7/G      F         E7
@@ -35,6 +34,7 @@
  Ты пленил нас телом разбитым
  Ты пленил нас неземною любовью
  Мы бежим, мы летим за Тобою.</lyrics>
-<title>Деревянные крылья</title>
 <hymn_number>1086</hymn_number>
+<key>A</key>
+<title>Деревянные крылья</title>
 </song>

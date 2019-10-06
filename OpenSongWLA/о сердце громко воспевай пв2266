@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О сердце громко воспевай ПВ2266</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О, сердце, громко воспевай
  И песню славы пой.
  Молитвой чистой возгревай
@@ -39,5 +37,7 @@
  Ясней Страну свою,
  И &quot;Свят, свят, свят!&quot; - вот песнь моя,
  Её всегда пою.</lyrics>
+<key>G</key>
+<title>О сердце громко воспевай ПВ2266</title>
 <hymn_number>2266</hymn_number>
 </song>

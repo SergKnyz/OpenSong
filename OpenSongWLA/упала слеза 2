@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>695</hymn_number>
-<author>Галим Хусаинов</author>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Am     E/G# G           D/F#
  Упала слеза на горячий песок
 .F             C         E
@@ -50,5 +47,8 @@
    Голгофа над грешной землёй поднялась
 .   F     G      Am
    И сделалась центром вселенной.</lyrics>
+<author>Галим Хусаинов</author>
 <title>Упала слеза</title>
+<key>A</key>
+<hymn_number>695</hymn_number>
 </song>

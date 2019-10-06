@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>313</hymn_number>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О Слово дорогое!
  В нем жизни полнота,
  Сокрыто в нем святое
@@ -39,5 +37,7 @@
  Что встречу я в пути,
  Во все земные годы
  Мне радостно идти!</lyrics>
+<hymn_number>313</hymn_number>
+<key>D</key>
 <title>О Слово дорогое ПВ313</title>
 </song>

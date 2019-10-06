@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3755</hymn_number>
-<title>Только Благодать</title>
-<author>Jonathan Ogden, Йонатхан Огден</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Jonathan Ogden, Йонатхан Огден</author>
 <lyrics>[V1]
  Как сирота я жил без Тебя,
  Но вдруг услышал: звал Ты меня,
@@ -51,4 +49,6 @@
 
 [V8]
  Перевод: Оксана Бондарь-Павловская</lyrics>
+<title>Только Благодать</title>
+<hymn_number>3755</hymn_number>
 </song>

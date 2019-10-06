@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>348</hymn_number>
-<title>Призови Христа о грешный ПВ348</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Призови Христа о грешный ПВ348</title>
+<key>Ab</key>
+<hymn_number>348</hymn_number>
 <lyrics>[V1]
  Призови Христа, о грешный
  И несчастный человек!
@@ -29,5 +30,4 @@
  В час желанный мы падем
  И на небе славном, новом
  Возгласим Его царем.</lyrics>
-<key>Ab</key>
 </song>

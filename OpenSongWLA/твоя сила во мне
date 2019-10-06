@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Виталий Ефремочкин</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .     Am        F
  Твоя сила во мне,
@@ -32,6 +30,8 @@
    Аллилуйя! Аллилуйя!
 .       G         C      G
    Аллилуйя! По всей земле!</lyrics>
-<title>Твоя сила во мне</title>
+<author>Виталий Ефремочкин</author>
 <hymn_number>1543</hymn_number>
+<title>Твоя сила во мне</title>
+<key>A</key>
 </song>

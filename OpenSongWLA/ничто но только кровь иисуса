@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>470</hymn_number>
-<title>Ничто но только Кровь Иисуса</title>
-<key>B</key>
-<author>Слово Жизни Music</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .       H                G#m
  Твой крест лучше всяких слов
@@ -45,4 +41,8 @@
    Кровь Твоя, омыла меня,
 .    F#                E
    Очистила меня от всякого греха</lyrics>
+<author>Слово Жизни Music</author>
+<key>B</key>
+<title>Ничто но только Кровь Иисуса</title>
+<hymn_number>470</hymn_number>
 </song>

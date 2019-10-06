@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Рождество</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>395</hymn_number>
+<title>Рождество</title>
+<key>C</key>
 <lyrics>[V1]
  1 куплет:
 . C                   G
@@ -54,6 +56,4 @@
 .          G                       A
    Твою любовь и радость мы принимаем.</lyrics>
 <author>RealIvanna</author>
-<key>C</key>
-<hymn_number>395</hymn_number>
 </song>

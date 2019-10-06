@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>54</hymn_number>
-<title>Все народы, все творенья ИИПВ54</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . E.         B./D#
  Все народы, все творенья
 .C#m7             A  A/B   E
@@ -30,4 +27,7 @@
  Признают все, что Ты -
 .               A
  Господь над всем!</lyrics>
+<key>E</key>
+<title>Все народы, все творенья ИИПВ54</title>
+<hymn_number>54</hymn_number>
 </song>

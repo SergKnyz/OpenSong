@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>657</hymn_number>
-<title>Полыхает память вся былинкою</title>
-<author>Неизвестный</author>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .A       E/G#           D
  Полыхает память вся былинкою,
@@ -37,4 +33,8 @@
  И с тех пор душа моя поет.
  С Иисусом дни все стали быльями,
  Что рождает солнечный восход</lyrics>
+<author>Неизвестный</author>
+<hymn_number>657</hymn_number>
+<title>Полыхает память вся былинкою</title>
+<key>A</key>
 </song>

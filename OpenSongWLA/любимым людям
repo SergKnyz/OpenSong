@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Любимым людям</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Nikita Isakov</author>
 <lyrics>[V1]
  1 куплет:
 .C        G/H             Am       C
@@ -59,7 +59,7 @@
  Любимым людям не забудь сказать «Люблю»__
 .  Dm                G                 C
  Любимым людям не забудь сказать «Люблю».</lyrics>
-<key>C</key>
-<author>Nikita Isakov</author>
 <hymn_number>6098</hymn_number>
+<key>C</key>
+<title>Любимым людям</title>
 </song>

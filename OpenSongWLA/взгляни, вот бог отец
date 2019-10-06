@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2331</hymn_number>
-<aka>Взгляни (Душа поет)</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Взгляни (Душа поет)</aka>
+<hymn_number>2331</hymn_number>
+<title>Взгляни, вот Бог Отец</title>
 <key>B</key>
-<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
 <lyrics>[V1]
  КУПЛЕТ 1:
 .H
@@ -93,5 +93,5 @@
  Из хвалы Он строит трон
 .           H/F#               H5
  Взгляни, вот Бог ведет нас всех Домой</lyrics>
-<title>Взгляни, вот Бог Отец</title>
+<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
 </song>

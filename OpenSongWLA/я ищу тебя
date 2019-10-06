@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2079</hymn_number>
-<key>D</key>
-<author>Reallife band</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я ищу Тебя
  И знаю найду Тебя
  Я знаю найду Тебя
@@ -14,5 +11,8 @@
  Твоя любовь столь велика
  Что не могу представить я
  И мое сердце пред Тобой сокрушается</lyrics>
+<author>Reallife band</author>
+<hymn_number>2079</hymn_number>
 <title>Я ищу Тебя</title>
+<key>D</key>
 </song>

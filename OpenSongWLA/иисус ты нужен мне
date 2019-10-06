@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2084</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус Ты нужен мне</title>
+<key>G</key>
+<hymn_number>2084</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .A             D
@@ -43,6 +45,4 @@
 .              A           E
    Христос со мною объял всю жизнь Он</lyrics>
 <author>Hillsong Ukraine</author>
-<key>G</key>
-<title>Иисус Ты нужен мне</title>
 </song>

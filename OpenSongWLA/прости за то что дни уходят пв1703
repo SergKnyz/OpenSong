@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1703</hymn_number>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Прости за то, что дни уходят,
  А труд Твой некому свершать,
  За то, что мало кто находит
@@ -35,5 +33,7 @@
    Скажи же ты нежно, скажи,
    Что в лютый мороз позволяет нам греться -
    Ответы в душе напиши.</lyrics>
+<key>D</key>
 <title>Прости за то что дни уходят ПВ1703</title>
+<hymn_number>1703</hymn_number>
 </song>

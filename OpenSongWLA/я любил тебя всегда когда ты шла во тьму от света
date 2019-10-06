@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am                 F
  Я любил тебя всегда когда ты шла во тьму от света
@@ -38,7 +36,9 @@
  Я влек тебя любовью своей на руках тебя носил
  Я Сына Своего отдал, ибо не представляю
  Быть в вечности и не иметь тебя с Собой</lyrics>
+<author>Imprintband</author>
+<key>A</key>
 <title>Я любил тебя всегда когда ты шла во тьму от света</title>
-<hymn_number>226</hymn_number>
 <aka>Вечная любовь</aka>
+<hymn_number>226</hymn_number>
 </song>

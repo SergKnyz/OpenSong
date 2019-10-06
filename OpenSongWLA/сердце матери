@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>918</hymn_number>
-<author>Наталья Литвиненко</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Наталья Литвиненко</author>
 <lyrics>[V1]
  1 куплет:
 .       Cm
@@ -51,4 +49,6 @@
  Пусть молитвы материнские текут
  О, как ценен перед Богом этот труд</lyrics>
 <title>Сердце матери</title>
+<key>C</key>
+<hymn_number>918</hymn_number>
 </song>

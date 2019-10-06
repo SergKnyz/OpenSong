@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В седые древние столетья ПВ1222</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В седые, древние столетья
  Шел Моисей своим путем,
  Приблизившись к горе, заметил
@@ -34,4 +32,6 @@
  Хочу гореть любовью к ближним,
  Господь, благослови меня.</lyrics>
 <hymn_number>1222</hymn_number>
+<title>В седые древние столетья ПВ1222</title>
+<key>D</key>
 </song>

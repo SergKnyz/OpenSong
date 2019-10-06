@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3543</hymn_number>
 <title>Молодежные вечера</title>
+<key>E</key>
 <lyrics>[V1]
  1 куплет:
 .Em  Am
@@ -35,6 +36,5 @@
  И мы песни пели в ночной тишине,
  И любить хотели сильнее людей,
  И мы жить хотели дружней.</lyrics>
-<key>E</key>
 <author>Неизвестный</author>
 </song>

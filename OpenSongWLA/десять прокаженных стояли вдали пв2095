@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Десять прокаженных стояли вдали ПВ2095</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Десять прокаженных стояли вдали ПВ2095</title>
+<hymn_number>2095</hymn_number>
 <lyrics>[V1]
  Десять прокаженных стояли вдали,
  &quot;Помилуй, Наставник!&quot; - взывали они.
@@ -27,6 +29,4 @@
  Вернулся прославить Того, Кем спасен.
  Он славил Иисуса, он славил везде.
  Один благодарный, а девять же где?</lyrics>
-<key>D</key>
-<hymn_number>2095</hymn_number>
 </song>

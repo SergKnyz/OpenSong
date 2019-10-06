@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3230</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Dm               Gm
  Я встал темно и мне не спится
@@ -80,6 +79,7 @@
  /И я увижу дверь на небо
  И буду слушать Благодать/ 2р.</lyrics>
 <author>Евгений Косенков</author>
-<key>D</key>
 <title>Я встал темно</title>
+<key>D</key>
+<hymn_number>3230</hymn_number>
 </song>

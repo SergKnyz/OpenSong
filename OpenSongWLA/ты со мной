@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев, Бетхел Мусиц</author>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Ты со мной</title>
+<hymn_number>859</hymn_number>
+<author>Алексей Каратаев, Бетхел Мусиц</author>
 <lyrics>[V1]
  1 куплет:
 .G         D     Em
@@ -35,6 +37,4 @@
 
 [V4]
  Всей душой вознесу.</lyrics>
-<title>Ты со мной</title>
-<hymn_number>859</hymn_number>
 </song>

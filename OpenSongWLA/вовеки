@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вовеки</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>13</hymn_number>
+<key>G</key>
+<title>Вовеки</title>
 <lyrics>[V1]
 .G                                            G
  Воспойте хвалу Царю царей - Любовь Его вовеки
@@ -38,7 +40,5 @@
 [C2]
 .  A                                         F#m
    Вовеки Бог нам верен, Вовеки сила в Нем...</lyrics>
-<key>G</key>
 <author>Цхрис Томлин</author>
-<hymn_number>13</hymn_number>
 </song>

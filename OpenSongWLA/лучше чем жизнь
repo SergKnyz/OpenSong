@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>988</hymn_number>
-<title>Лучше чем жизнь</title>
-<author>Hillsong Ukraine</author>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
 .G#                    D#
  Лучше, чем богатства всей земли
@@ -35,4 +32,7 @@
  Влюбляюсь всё больше в Тебя, Иисус
 .                     C#             G#
  Я с каждым днём всё больше Тебя люблю!!!</lyrics>
+<hymn_number>988</hymn_number>
+<key>Ab</key>
+<title>Лучше чем жизнь</title>
 </song>

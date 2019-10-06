@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1230</hymn_number>
+<title>Новый год</title>
+<key>F#</key>
+<author>Снежинка</author>
 <lyrics>[V1]
  1 куплет:
 . C#    G#   Bbm    Fm    F#          C#     Bbm  G#
@@ -36,7 +39,4 @@
 
 [V7]
  Не отвергни же сегодня Божью благодать.</lyrics>
-<key>F#</key>
-<author>Снежинка</author>
-<title>Новый год</title>
 </song>

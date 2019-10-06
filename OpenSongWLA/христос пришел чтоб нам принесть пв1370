@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1370</hymn_number>
-<title>Христос пришел чтоб нам принесть ПВ1370</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Христос пришел чтоб нам принесть ПВ1370</title>
+<key>Eb</key>
+<hymn_number>1370</hymn_number>
 <lyrics>[V1]
  Христос пришел, чтоб нам принесть
  Благую радостную весть:
@@ -29,5 +30,4 @@
  Во мне Ты храм Свой приготовь.
  Чтоб мог Тебя лишь я принять
  И силой всей души объять.</lyrics>
-<key>Eb</key>
 </song>

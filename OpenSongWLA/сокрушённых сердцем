@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Сокрушённых сердцем</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Сокрушённых сердцем</title>
+<hymn_number>3976</hymn_number>
 <lyrics>[V1]
  Куплет:
 .      Em                        C
@@ -23,7 +25,5 @@
    Ты мой Царь и Ты мой Бог, лишь с Тобою я не одинок ,
 .   Em
    Отец, молю приди - я так жажду !</lyrics>
-<key>E</key>
 <author>Марина Смолоногова</author>
-<hymn_number>3976</hymn_number>
 </song>

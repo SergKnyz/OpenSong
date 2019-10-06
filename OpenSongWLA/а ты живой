@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>А Ты живой</title>
+<key>Fm</key>
+<hymn_number>1565</hymn_number>
+<aka>Как многие хотели, чтоб не было Тебя,</aka>
+<author>Инна Звягинцева</author>
+<lyrics>[V1]
  1 куплет:
 .      Fm                 C#
  Как многие хотели, чтоб не было Тебя,
@@ -26,9 +31,4 @@
  Творился сам из пыли мир миллионы лет.
  Придумать всё пытались какой угодно бред,
  Ведь страшно верить в Бога, за грех давать ответ.</lyrics>
-<key>Fm</key>
-<author>Инна Звягинцева</author>
-<title>А Ты живой</title>
-<hymn_number>1565</hymn_number>
-<aka>Как многие хотели, чтоб не было Тебя,</aka>
 </song>

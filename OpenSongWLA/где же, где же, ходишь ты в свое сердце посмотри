@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3261</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Где же, где же, ходишь ты? В свое сердце посмотри</title>
+<key>E</key>
 <aka>Божий призыв</aka>
+<hymn_number>3261</hymn_number>
 <lyrics>[V1]
 .Em   C       D      Em
  1.	Где же, где же, ходишь ты?
@@ -41,7 +43,5 @@
    Ты в свободе летишь со Христом.
    Свет, в сердце твоем,
    Ты в свободе летишь с Иисусом Христом.</lyrics>
-<key>E</key>
 <author>Владимир Скобочкин</author>
-<title>Где же, где же, ходишь ты? В свое сердце посмотри</title>
 </song>

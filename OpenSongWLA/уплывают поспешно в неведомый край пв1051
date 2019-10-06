@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>797</hymn_number>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Уплывают поспешно в неведомый край
  Наши светлые, юные годы.
  Унося наши грезы в далекую даль,
@@ -35,5 +33,7 @@
  Там несбывшихся нет намерений,
  Там чертог нестареющих юнош, девиц.
  Там покорно нам будет время.</lyrics>
+<hymn_number>797</hymn_number>
 <title>Уплывают поспешно в неведомый край ПВ1051</title>
+<key>C</key>
 </song>

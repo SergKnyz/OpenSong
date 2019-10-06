@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1105</hymn_number>
+<title>Воспою всей душой</title>
+<key>D</key>
+<author>Виталий Ефремочкин, Матт Редман, Йонас Мырин, Йесус Цултуре</author>
+<lyrics>[C1]
    Припев:
 .       D         A     E/G#  F#m
    Воспою всей душой , всей душой,
@@ -40,8 +44,4 @@
  И час придет вознестись к нему
  Душа моя будет громко славить
  На небе вечно будет петь хвалу.</lyrics>
-<key>D</key>
-<author>Виталий Ефремочкин, Матт Редман, Йонас Мырин, Йесус Цултуре</author>
-<title>Воспою всей душой</title>
-<hymn_number>1105</hymn_number>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Гаснет над землей вечерняя зари ПВ2457</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4140</hymn_number>
+<title>Гаснет над землей вечерняя зари ПВ2457</title>
+<key>B</key>
 <lyrics>[V1]
  Гаснет над землей вечерняя зари,
  Солнце правды тает на закате,
@@ -37,6 +39,4 @@
  Любит Он всех без лицеприятья,
  Он Один Благой, о, поторопись,
  Наступает вечер благодати.</lyrics>
-<key>B</key>
-<hymn_number>4140</hymn_number>
 </song>

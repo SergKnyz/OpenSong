@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1711</hymn_number>
-<title>Птички Божьи домой собирайтесь ПВ1003</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Птички Божьи домой собирайтесь ПВ1003</title>
+<key>E</key>
+<hymn_number>1711</hymn_number>
 <lyrics>[V1]
  Птички Божьи, домой собирайтесь -
  Вам к отлету настала пора.
@@ -42,5 +43,4 @@
  Возрасти в благодати пора.
  Чистым маслом сердца наполняйте,
  Чтобы дух ваш поднять в небеса.</lyrics>
-<key>E</key>
 </song>

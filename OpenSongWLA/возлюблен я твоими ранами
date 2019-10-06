@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>C3 music, Ц3 мусиц</author>
-<key>E</key>
 <lyrics>[V1]
  КУПЛЕТ 1
  Очистил Ты пятна все мои
@@ -24,6 +23,7 @@
 
 [V4]
  (Перевод Андрея Тимохина)</lyrics>
-<title>Возлюблен я Твоими ранами</title>
 <hymn_number>4072</hymn_number>
+<title>Возлюблен я Твоими ранами</title>
+<key>E</key>
 </song>

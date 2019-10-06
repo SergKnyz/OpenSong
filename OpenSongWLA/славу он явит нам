@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>657</hymn_number>
-<author>Hillsong Ukraine</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Славу Он явит нам</title>
 <key>B</key>
+<hymn_number>657</hymn_number>
+<author>Hillsong Ukraine</author>
 <lyrics>[V1]
  Куплет:
 .D         Hm            F#m D/F# F#m
@@ -22,5 +23,4 @@
    О-о, в Небе слышна  Ангелов хвала
 .              A             G D Em Hm G
    Славят:  Святый, наш Господь</lyrics>
-<title>Славу Он явит нам</title>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Теперь пою хваление</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Теперь пою хваление</title>
+<aka>Бог подарил спасение</aka>
+<hymn_number>1634</hymn_number>
 <lyrics>[C1]
    Припев: 2раза
 .           D          G
@@ -28,7 +31,4 @@
  Ведь достоин славы только Он
  Дар уст положим перед трон</lyrics>
 <author>Артём Янский</author>
-<key>D</key>
-<aka>Бог подарил спасение</aka>
-<hymn_number>1634</hymn_number>
 </song>

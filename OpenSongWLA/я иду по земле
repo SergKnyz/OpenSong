@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1978</hymn_number>
-<title>Я иду по земле</title>
-<key>Ab</key>
-<author>Авен Езер</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Abm                 C#m
  Я иду по земле словно ветром гоним,
@@ -58,4 +54,8 @@
  И над гибнувшим миром свободно взлечу,
 .             E     Eb
  О услышь укрепи я молю.</lyrics>
+<author>Авен Езер</author>
+<key>Ab</key>
+<title>Я иду по земле</title>
+<hymn_number>1978</hymn_number>
 </song>

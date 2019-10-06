@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2824</hymn_number>
-<aka>Венцы</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Worship, Хиллсонг Уорсхип</author>
 <lyrics>[V1]
  КУПЛЕТ 1:
  Креста мне нет дороже
@@ -35,7 +34,8 @@
  Сложу к ногам Христа
  Мое провозглашение:
  Дороже нет креста</lyrics>
+<hymn_number>2824</hymn_number>
+<aka>Венцы</aka>
 <key>G</key>
-<author>Hillsong Worship, Хиллсонг Уорсхип</author>
 <title>Креста мне нет дороже</title>
 </song>

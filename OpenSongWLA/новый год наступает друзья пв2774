@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2774</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Новый год наступает, друзья,
  Неизвестные тайны храня.
  Что же нового он принесет,
@@ -28,6 +27,7 @@
  Они что-то напомнить хотят.
  Нам напомнить, что зимний мороз
  Дней грядущих есть точный прогноз.</lyrics>
-<key>E</key>
 <title>Новый год наступает друзья ПВ2774</title>
+<key>E</key>
+<hymn_number>2774</hymn_number>
 </song>

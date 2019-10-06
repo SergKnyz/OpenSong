@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6233</hymn_number>
+<key>C</key>
+<title>Песнь благодарения</title>
 <lyrics>[V1]
  Intro
 
@@ -41,7 +43,5 @@
    Пусть мое сердце будет прекраснее для Тебя
 .  C        C/E Am   F
    Чем эта песня и все мои слова</lyrics>
-<key>C</key>
 <author>Слово Жизни Music</author>
-<title>Песнь благодарения</title>
 </song>

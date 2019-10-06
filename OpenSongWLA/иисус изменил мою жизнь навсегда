@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус изменил мою жизнь навсегда</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
+<title>Иисус изменил мою жизнь навсегда</title>
+<hymn_number>614</hymn_number>
 <lyrics>[V1]
  Куплет:
 .Bb      C#         G#           D#
@@ -26,7 +28,5 @@
    Ни что не сравнится с Тобой, Иисус!
 .  Bb  Bbsus/G#   Bb/G  Bbsus/G#
    Ни что не сравнится с Тобой/</lyrics>
-<key>Bb</key>
 <author>Филипп Реннер</author>
-<hymn_number>614</hymn_number>
 </song>

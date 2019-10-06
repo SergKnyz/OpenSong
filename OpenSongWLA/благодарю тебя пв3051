@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3051</hymn_number>
-<aka>Создатель мой,</aka>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Благодарю Тебя,
  Создатель мой,
  что жизнь Ты спас
@@ -33,5 +30,8 @@
  Тебя, Создатель мой,
  благодарю!
  Благодарю.</lyrics>
+<key>C</key>
 <title>Благодарю Тебя ПВ3051</title>
+<hymn_number>3051</hymn_number>
+<aka>Создатель мой,</aka>
 </song>

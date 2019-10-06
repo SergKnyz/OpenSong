@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>176</hymn_number>
-<title>Радость радость непрестанно ПВ176</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Радость, радость непрестанно!
  Будем радостны всегда!
  Луч отрады, Богом данной,
@@ -23,5 +21,7 @@
  Пусть, как солнце, в нас горит!
  Любит грешных Всемогущий,
  Много благ Он нам дарит.</lyrics>
+<hymn_number>176</hymn_number>
+<title>Радость радость непрестанно ПВ176</title>
 <key>E</key>
 </song>

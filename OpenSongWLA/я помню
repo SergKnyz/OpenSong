@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>401</hymn_number>
-<title>Я помню</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>RealIvanna</author>
 <lyrics>[V1]
 .Cm Gm  Cm Gm
  Cm Gm  G#G
@@ -32,6 +31,7 @@
  Ты моя жизнь в Тебе спасение мое
  Я руки к небу подниму, чтобы воздать Тебе хвалу!
  Тому, Кто жизнь мне дал любимому Отцу!</lyrics>
-<author>RealIvanna</author>
+<hymn_number>401</hymn_number>
 <key>C</key>
+<title>Я помню</title>
 </song>

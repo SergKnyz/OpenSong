@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>168</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . D/E  A      D        E
  Лику__й! Господь грядёт,
 .  A        D     E
@@ -42,6 +41,7 @@
 [C1]
 .  Bm7        D/E      A
    Ликуй, Господь грядёт.</lyrics>
-<key>A</key>
 <title>Ликуй! Господь грядёт ИИПВ168</title>
+<key>A</key>
+<hymn_number>168</hymn_number>
 </song>

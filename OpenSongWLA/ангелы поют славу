@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Миротворец</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C                  Em
  Ангелы, поют славу ангелы,
 .      Am   F           G
@@ -41,9 +39,11 @@
  Иисус, ты спаситель мой ,
 .        Am     F          G E7/G#
  Ты мой путь и ты моя судьба.</lyrics>
-<tempo>70</tempo>
-<title>Ангелы поют славу</title>
+<author>Миротворец</author>
 <time_sig>4/4</time_sig>
-<hymn_number>7</hymn_number>
+<tempo>70</tempo>
+<key>C</key>
+<title>Ангелы поют славу</title>
 <aka>Аллилуйя Ты для нас спасение</aka>
+<hymn_number>7</hymn_number>
 </song>

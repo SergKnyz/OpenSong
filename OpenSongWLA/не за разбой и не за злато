@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5305</hymn_number>
-<title>Не за разбой и не за злато</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Не за разбой и не за злато</title>
 <key>G</key>
-<author>Песни узников - христиан</author>
+<hymn_number>5305</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .         Gm            D
@@ -53,4 +52,5 @@
  Лишь веру в Бога укрепят
  И всем грядущим поколеньям
  О правде Божьей говорят!</lyrics>
+<author>Песни узников - христиан</author>
 </song>

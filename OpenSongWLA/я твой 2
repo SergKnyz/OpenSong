@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>SokolovBrothers</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Я Твой</title>
+<hymn_number>3806</hymn_number>
+<author>SokolovBrothers</author>
 <lyrics>[V1]
  1 куплет:
 .F                 Am
@@ -39,6 +41,4 @@
  Входящих в мою жизнь.
  Пройти готов с Тобой я хоть миллион миров,
  Лишь только прикоснись.</lyrics>
-<title>Я Твой</title>
-<hymn_number>3806</hymn_number>
 </song>

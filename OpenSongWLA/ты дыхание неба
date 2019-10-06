@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3399</hymn_number>
-<title>Ты дыхание неба</title>
-<key>G</key>
-<author>Макс Дэвидсон</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .        G                D/F#
  Ты - дыхание неба, тайна нового дня
@@ -40,4 +36,8 @@
  Я твой образ рисую из запаха роз
  Посвящаю все песни тебе лишь одной
  Ты просто будь рядом со мной</lyrics>
+<author>Макс Дэвидсон</author>
+<hymn_number>3399</hymn_number>
+<key>G</key>
+<title>Ты дыхание неба</title>
 </song>

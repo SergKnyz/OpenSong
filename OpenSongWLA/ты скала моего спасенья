@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты скала моего спасенья</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5101</hymn_number>
+<title>Ты скала моего спасенья</title>
+<key>Cm</key>
+<author>Дом Хлеба</author>
 <lyrics>[V1]
  Куплет:
 .G#      Bb    Cm
@@ -31,7 +34,4 @@
    Бог - моя опора непоколебимая!
 .  Cm                  G#   Bb  Cm
    Бог - моя опора непоколебим__ая!</lyrics>
-<key>Cm</key>
-<author>Дом Хлеба</author>
-<hymn_number>5101</hymn_number>
 </song>

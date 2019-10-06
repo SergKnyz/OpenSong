@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя Хвала Тебе Господь ПВ1207</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1207</hymn_number>
+<title>Аллилуйя Хвала Тебе Господь ПВ1207</title>
+<key>E</key>
 <lyrics>[V1]
 .   Dm        Gm        Dm  A  Dm
  // Аллилуйя. Аллилуйя. Аллилуйя. //
@@ -44,6 +46,4 @@
  А если на земле я славить утомлюсь.
  Яви Голгофу мне в полночной тишине
  Среди страданий, слез, мой распятый Христос.</lyrics>
-<key>E</key>
-<hymn_number>1207</hymn_number>
 </song>

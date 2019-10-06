@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>228</hymn_number>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .   E                B7
  Один построил свой дом на песке.
 .   B7               E
@@ -31,5 +29,7 @@
  Идождь пойдёт.
  Идождь пойдёт и вода поднимется,
  Адом устоит.</lyrics>
+<hymn_number>228</hymn_number>
 <title>Один построил свой дом ИИПВ228</title>
+<key>E</key>
 </song>

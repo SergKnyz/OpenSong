@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>123</hymn_number>
-<title>Иисус – святое имя ИИПВ123</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D             Bm
  Иисус - святое имя.
 .  D                       F#m
@@ -41,5 +39,7 @@
  Ты тайна в душе м__оей.
 .   Em         Asus4 A7D
  Иисус - Ты любовь   моя.</lyrics>
+<title>Иисус – святое имя ИИПВ123</title>
 <key>D</key>
+<hymn_number>123</hymn_number>
 </song>

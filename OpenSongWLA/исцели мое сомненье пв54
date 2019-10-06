@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>54</hymn_number>
-<title>Исцели мое сомненье ПВ54</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Исцели мое сомненье,
  Что приходит иногда
  В час минутного забвенья
@@ -24,4 +21,7 @@
  От Тебя не отходил,
  Чтобы враг своей стрелою
  Дух мой слабый не смутил.</lyrics>
+<key>G</key>
+<title>Исцели мое сомненье ПВ54</title>
+<hymn_number>54</hymn_number>
 </song>

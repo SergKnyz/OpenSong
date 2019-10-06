@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Дружно дружно будем мы трудиться ПВ290</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Дружно дружно будем мы трудиться ПВ290</title>
+<hymn_number>290</hymn_number>
 <lyrics>[V1]
  Дружно, дружно будем мы трудиться,
  Дело Божье мы найдем везде;
@@ -22,6 +24,4 @@
  Мы пойдем послушно за Христом;
  Бедных, нищих, немощных и сирых
  К Агнцу Божью, к свету приведем.</lyrics>
-<key>A</key>
-<hymn_number>290</hymn_number>
 </song>

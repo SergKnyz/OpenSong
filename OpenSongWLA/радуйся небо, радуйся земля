@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2998</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Радуйся небо, радуйся земля</title>
+<key>A</key>
+<hymn_number>2998</hymn_number>
 <lyrics>[V1]
  1.
 .Am              Dm
@@ -38,7 +40,5 @@
  Да будут славословия Богу на устах
 .    E                          Am
  Да торжествуют святые о Его делах-→2 раза</lyrics>
-<key>A</key>
 <author>Путь Христа церковь, г. Нюрнберг</author>
-<title>Радуйся небо, радуйся земля</title>
 </song>

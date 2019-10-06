@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Db</key>
-<author>Kim Walker-Smith</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Intro
 
 [V2]
@@ -102,7 +100,9 @@
 
 [V5]
  Outro</lyrics>
+<author>Kim Walker-Smith</author>
 <title>Взгляд (Glimpse)</title>
-<hymn_number>2656</hymn_number>
+<key>Db</key>
 <aka>Встретил то я, что нельзя отрицать.</aka>
+<hymn_number>2656</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1539</hymn_number>
-<title>Не плач</title>
-<author>Сергей Брикса</author>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Брикса</author>
 <lyrics>[V1]
  1 куплет:
 .E         Em               H      Hm
@@ -27,4 +24,7 @@
  Господу позволь, Он возьмёт всю боль, прогонит страх,
  Как синицу глаз, тебя хранил не раз, укрыв тебя,
  В своих руках.</lyrics>
+<hymn_number>1539</hymn_number>
+<key>E</key>
+<title>Не плач</title>
 </song>

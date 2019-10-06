@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2453</hymn_number>
-<title>Зачем ты здесь?</title>
-<key>G</key>
-<author>Владимир Скобочкин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Владимир Скобочкин</author>
 <lyrics>[V1]
 .G                          Em
  1. Зачем ты здесь и для чего
@@ -47,4 +44,7 @@
 
 [V4]
  Припев.</lyrics>
+<hymn_number>2453</hymn_number>
+<key>G</key>
+<title>Зачем ты здесь?</title>
 </song>

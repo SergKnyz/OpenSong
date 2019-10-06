@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Набат</author>
-<key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
+<title>Приходи</title>
+<hymn_number>2232</hymn_number>
 <lyrics>[V1]
 .F#                               C#
  1. Драгоценная Кровь Иисуса Христа со креста
@@ -44,6 +45,5 @@
  Пролилась кровь Христа
 .F#       A#m   C#
  На кресте за тебя</lyrics>
-<title>Приходи</title>
-<hymn_number>2232</hymn_number>
+<author>Набат</author>
 </song>

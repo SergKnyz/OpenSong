@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1189</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <title>Руки к Небу подниму</title>
+<hymn_number>1189</hymn_number>
+<author>Ольга Марина</author>
 <lyrics>[V1]
  Куплет:
 .    C            Em
@@ -21,6 +23,4 @@
    Руки к Небу подниму принесу Тебе хвалу
 .            Hm    C           G/H    C
    Меня не покинешь, меня не оставишь.</lyrics>
-<author>Ольга Марина</author>
-<key>C</key>
 </song>

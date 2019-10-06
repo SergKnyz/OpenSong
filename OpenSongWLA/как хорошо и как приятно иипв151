@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>151</hymn_number>
-<aka>Братьям жить всем вместе</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Братьям жить всем вместе</aka>
+<hymn_number>151</hymn_number>
+<title>Как хорошо и как приятно ИИПВ151</title>
+<key>Em</key>
 <lyrics>[V1]
 .Em.  Am       Em
  Как хорошо и как приятно
@@ -15,6 +17,4 @@
    О как приятно и как хорошо
 .       C         D          Em
    Ла-ла-ла ла-ла-ла-ла-ла-ла  ла</lyrics>
-<key>Em</key>
-<title>Как хорошо и как приятно ИИПВ151</title>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4085</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Лев</title>
+<hymn_number>4085</hymn_number>
+<author>Bethel Music, Бетхел, Бетхел Мусиц</author>
 <lyrics>[V1]
  КУПЛЕТ 1
  Приходит Он с небес, цари падут по всей земле
@@ -28,7 +31,4 @@
 
 [V5]
  (Перевод Андрея Тимохина)</lyrics>
-<author>Bethel Music, Бетхел, Бетхел Мусиц</author>
-<key>G</key>
-<title>Лев</title>
 </song>

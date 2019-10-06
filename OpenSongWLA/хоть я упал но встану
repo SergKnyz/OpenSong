@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>268</hymn_number>
-<title>Хоть я упал но встану</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Am7      C Hm7b5
  Своей рукою Ты снимешь оковы
 .Am7        C         Dm       Dm/H
@@ -27,4 +25,6 @@
  Папа, руки поддержи!</lyrics>
 <author>Holy Generation</author>
 <key>A</key>
+<title>Хоть я упал но встану</title>
+<hymn_number>268</hymn_number>
 </song>

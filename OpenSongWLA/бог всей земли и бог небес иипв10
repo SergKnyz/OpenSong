@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бог всей земли и Бог небес ИИПВ10</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>10</hymn_number>
+<aka>Святый, святый</aka>
+<key>F</key>
+<title>Бог всей земли и Бог небес ИИПВ10</title>
 <lyrics>[V1]
 .Dm.          C            Bb C
  Бог всей земли и Бог небес,
@@ -26,7 +29,4 @@
  Осанна! лишь Тебе пою я.
 .Bb.    F           C
  Ты достоин, Божий сын.</lyrics>
-<key>F</key>
-<aka>Святый, святый</aka>
-<hymn_number>10</hymn_number>
 </song>

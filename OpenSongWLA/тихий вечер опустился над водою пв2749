@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2749</hymn_number>
-<key>B</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Тихий вечер опустился над водою,
  Бригантина поднимает паруса.
  Пригласите же сегодня вы с собою
@@ -17,5 +15,7 @@
  Знайте: штормы повинуются Ему.
  Скажет слово Он, и буря перестанет,
  Если только обратитесь вы к Нему.</lyrics>
+<hymn_number>2749</hymn_number>
 <title>Тихий вечер опустился над водою ПВ2749</title>
+<key>B</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>93</hymn_number>
-<title>Дружно хлопайте ИИПВ93</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  C              F    C
  Дружно хлопайте Господу
 .                     G C
@@ -26,4 +23,7 @@
 
 [V3]
  Господувозденьте руки.</lyrics>
+<hymn_number>93</hymn_number>
+<key>C</key>
+<title>Дружно хлопайте ИИПВ93</title>
 </song>

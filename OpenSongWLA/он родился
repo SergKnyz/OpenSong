@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Он родился</title>
-<key>Bb</key>
-<author>Трио Спасение церковь</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Bb                           D#
  День волшебный наступает, к нам приходит Рождество.
@@ -26,5 +23,8 @@
  В каждом доме свет и радость, и любовь царит в сердцах
  Гимны славы благодарности воздаются к Богу благости
  Воспевают небеса.</lyrics>
+<author>Трио Спасение церковь</author>
+<title>Он родился</title>
+<key>Bb</key>
 <hymn_number>1371</hymn_number>
 </song>

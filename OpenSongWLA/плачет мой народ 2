@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1825</hymn_number>
-<title>Плачет мой народ</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Плачет мой народ</title>
+<key>C</key>
+<hymn_number>1825</hymn_number>
+<author>Чеботарёвы</author>
 <lyrics>[V1]
  1 куплет:
 .Cm            G  C            Fm
@@ -50,6 +52,4 @@
  Сея зло и вытоптав любовь
  Кто нас исцелит, уврачует раны
  Кто освободит нас от оков</lyrics>
-<key>C</key>
-<author>Чеботарёвы</author>
 </song>

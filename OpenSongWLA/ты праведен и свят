@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4431</hymn_number>
-<title>Ты праведен и свят</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .C#m        H            A H
  Призвал меня в Свой свет.
@@ -48,5 +46,7 @@
 .     F#m                   G#
    И Слово Божье укрепит меня!</lyrics>
 <author>Нарния</author>
+<hymn_number>4431</hymn_number>
 <key>C#m</key>
+<title>Ты праведен и свят</title>
 </song>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Дарина Кочанжи</author>
-<key>A</key>
 <lyrics>[V1]
  1 куплет:
 .   Am          E       Am
@@ -35,6 +34,7 @@
  Что на земле и ненависть и зло
  Но как на небе солнце всем сияет,
  Так людям ты дари своё тепло.</lyrics>
-<title>Не теряй надежду</title>
 <hymn_number>175</hymn_number>
+<title>Не теряй надежду</title>
+<key>A</key>
 </song>

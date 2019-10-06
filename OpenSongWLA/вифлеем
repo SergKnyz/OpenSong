@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2870</hymn_number>
-<title>Вифлеем</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 . Dm                 Gm
  Спал город усталый спал как никогда
@@ -37,4 +35,7 @@
  И людей зажигает так много,так сного лет</lyrics>
 <author>Вероника и Ванесса Андрощук</author>
 <key>D</key>
+<title>Вифлеем</title>
+<aka>Спал город усталый спал как никогда</aka>
+<hymn_number>2870</hymn_number>
 </song>

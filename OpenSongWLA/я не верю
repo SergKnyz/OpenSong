@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1004</hymn_number>
-<author>Кристалл</author>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .     C H             Em
  Я искал свой светлый дом
@@ -28,5 +25,8 @@
  3 куплет:
  Мне твердят все обо всем,
  Но я счастлив, Бог - мой дом.</lyrics>
+<author>Кристалл</author>
+<hymn_number>1004</hymn_number>
+<key>C</key>
 <title>Я не верю</title>
 </song>

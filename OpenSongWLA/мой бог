@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мой Бог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Мой Бог</title>
+<hymn_number>36</hymn_number>
+<author>Skeemans Worship</author>
 <lyrics>[V1]
  1 Куплет:
 .    Am          F                 C
@@ -27,7 +30,4 @@
  Всей душей к Тебе сейчас стремлюсь
  В мире нет надежней рук Твоих
  Только Ты так возлюбил.</lyrics>
-<author>Skeemans Worship</author>
-<key>A</key>
-<hymn_number>36</hymn_number>
 </song>

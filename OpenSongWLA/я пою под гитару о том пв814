@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я пою под гитару о том ПВ814</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3103</hymn_number>
+<title>Я пою под гитару о том ПВ814</title>
+<key>G</key>
 <lyrics>[V1]
  Я пою под гитару о том,
  Что расстался со всяким грехом;
@@ -28,6 +30,4 @@
  Что на небе я встречусь с Христом
  И войду в Его дом золотой,
  Получу в нем желанный покой!</lyrics>
-<key>G</key>
-<hymn_number>3103</hymn_number>
 </song>

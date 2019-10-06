@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>251</hymn_number>
+<key>G</key>
+<title>Зажги свечу</title>
+<author>Эдем</author>
 <lyrics>[V1]
  1 куплет:
 .D#        Cm        Fm          D#
@@ -57,7 +60,4 @@
    Пусть всем станет теплей
 .  C      D    G
    От любви твоей!</lyrics>
-<key>G</key>
-<author>Эдем</author>
-<title>Зажги свечу</title>
 </song>

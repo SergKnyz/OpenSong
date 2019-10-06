@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Путь Христа церковь, г. Нюрнберг</author>
-<key>D</key>
 <lyrics>[V1]
  Dm A7 Dm / A Dm // Dm A7 Dm / A Dm
 
@@ -34,6 +33,7 @@
 . Dm                         A             Dm
  Он жизнь Иисусу посвятил и сыном Божьим стал
  Dm A7 Dm  /  A Dm  //  Dm A7 Dm   / A Dm</lyrics>
-<title>Иисус скала</title>
 <hymn_number>3120</hymn_number>
+<title>Иисус скала</title>
+<key>D</key>
 </song>

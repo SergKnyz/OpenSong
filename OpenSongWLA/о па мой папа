@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1897</hymn_number>
-<title>О Па мой Папа</title>
-<key>D</key>
-<author>Другая Реальность</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Другая Реальность</author>
 <lyrics>[V1]
  Бог всех помнит, всех Он знает
  Никого не забывает
@@ -25,4 +22,7 @@
  Славу Богу воздаю
  О спасении ликую
  Аллилуя, я танцую.</lyrics>
+<title>О Па мой Папа</title>
+<key>D</key>
+<hymn_number>1897</hymn_number>
 </song>

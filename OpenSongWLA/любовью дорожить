@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5636</hymn_number>
+<key>D</key>
+<title>Любовью дорожить</title>
+<lyrics>[V1]
  1 куплет:
 . D        Hm         G        A
  Ты все мечты мои хранила в себе,
@@ -28,8 +31,5 @@
  Я покажу тебе, что значит любовь,
 .      Hm       G              D/F#      G Asus4 A
  Будто сон ты таинственна, и теперь ты моя.</lyrics>
-<key>D</key>
 <author>Nikita Isakov</author>
-<title>Любовью дорожить</title>
-<hymn_number>5636</hymn_number>
 </song>

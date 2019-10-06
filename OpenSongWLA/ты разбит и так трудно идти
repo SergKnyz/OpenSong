@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты разбит и так трудно идти</title>
-<author>Елеватион Уорсхип</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ты разбит и так трудно идти
  И так тянут назад все грехи
  Иисус призывает
@@ -46,5 +44,7 @@
 [V3]
  Крест возьми и к награде иди
  Расскажи, что нашел ты в пути</lyrics>
+<author>Елеватион Уорсхип</author>
+<title>Ты разбит и так трудно идти</title>
 <hymn_number>4806</hymn_number>
 </song>

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1719</hymn_number>
-<title>Как и все живу на этой я земле ПВ1719</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Как и все живу на этой я земле ПВ1719</title>
+<key>E</key>
+<hymn_number>1719</hymn_number>
 <lyrics>[V1]
  Как и все, живу на этой я земле,
  Как ко всем, приходят бедствия ко мне,
@@ -25,5 +26,4 @@
  Потому что в самом её центре - Ты.
  На земле живу я, веря и любя,
  И не знаю, как жить можно без Тебя.</lyrics>
-<key>E</key>
 </song>

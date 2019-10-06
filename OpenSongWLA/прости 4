@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1662</hymn_number>
-<author>Protect</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Protect</author>
 <lyrics>[V1]
  1 куплет:
 .     Am                     C
@@ -53,5 +51,7 @@
    И дух правый и внутренний обнови.
 .        F  G    Am          G  F           G
    О Господь,   сердце чистое сотвори во мне.</lyrics>
+<hymn_number>1662</hymn_number>
 <title>Прости</title>
+<key>A</key>
 </song>

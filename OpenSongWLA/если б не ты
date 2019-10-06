@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1037</hymn_number>
-<title>Если б не Ты</title>
-<key>B</key>
-<author>G.O.N.G Worship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>G.O.N.G Worship</author>
 <lyrics>[V1]
  1 куплет:
 . H                G#m
@@ -53,4 +50,7 @@
  Я живу, ведь Ты живой
 .      E          H/D#  F#
  Я люблю, ведь Ты со мной</lyrics>
+<hymn_number>1037</hymn_number>
+<key>B</key>
+<title>Если б не Ты</title>
 </song>

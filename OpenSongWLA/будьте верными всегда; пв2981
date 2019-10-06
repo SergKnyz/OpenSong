@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Братья встаньте и трудитесь</aka>
-<hymn_number>2981</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2981</hymn_number>
+<aka>Братья встаньте и трудитесь</aka>
 <title>будьте верными всегда; ПВ2981</title>
+<key>D</key>
 <lyrics>[V1]
  Братья, встаньте и трудитесь,
  будьте верными всегда;
@@ -42,5 +43,4 @@
  будьте до конца верны,
  и в награду обретете
  вечное блаженство вы.</lyrics>
-<key>D</key>
 </song>

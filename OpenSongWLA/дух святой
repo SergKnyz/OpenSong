@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>35</hymn_number>
-<title>Дух Святой</title>
-<author>Slavic New Beginnings Church</author>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .       Am                 G
  Дух Святой, Дух любви, огня
@@ -47,4 +43,8 @@
    Духом повей и оживет мой дух,
 .             G
    Ты нужен мне!</lyrics>
+<author>Slavic New Beginnings Church</author>
+<hymn_number>35</hymn_number>
+<key>A</key>
+<title>Дух Святой</title>
 </song>

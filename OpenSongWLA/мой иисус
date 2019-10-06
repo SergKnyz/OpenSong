@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мой Иисус</title>
-<author>Путь Христа церковь, г. Нюрнберг</author>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Путь Христа церковь, г. Нюрнберг</author>
 <lyrics>[C1]
    Припев:
 .   Em            Am
@@ -36,4 +34,6 @@
    Дух правды Твоей во мне обнови.
    Припев: ...</lyrics>
 <hymn_number>1817</hymn_number>
+<title>Мой Иисус</title>
+<key>E</key>
 </song>

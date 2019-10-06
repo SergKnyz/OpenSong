@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ах как быстро время мчится ПВ2956</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2956</hymn_number>
+<key>E</key>
+<title>Ах как быстро время мчится ПВ2956</title>
 <lyrics>[V1]
  Ах, как быстро время мчится!
  Каждый миг к концу ведет.
@@ -35,6 +37,4 @@
  ты обману мертвых дел,
  - если ты Христа отвергнешь,
  страшен будет твой удел!</lyrics>
-<key>E</key>
-<hymn_number>2956</hymn_number>
 </song>

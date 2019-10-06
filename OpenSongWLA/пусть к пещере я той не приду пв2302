@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Пусть к пещере я той не приду ПВ2302</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Пусть к пещере я той не приду ПВ2302</title>
+<hymn_number>2302</hymn_number>
 <lyrics>[V1]
  Пусть к пещере я той не приду,
  Где земля прини-ла Спасителя,
@@ -28,6 +30,4 @@
  Пусть т-те слышал я хора небесного,
  Но к Создателю рвётся мой дух,
  Окрылённый рождественской песнею.</lyrics>
-<key>G</key>
-<hymn_number>2302</hymn_number>
 </song>

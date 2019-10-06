@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1052</hymn_number>
-<author>Imprintband</author>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D            A
  Течет с креста Святая кровь Твоя
 .Em             G
@@ -30,5 +27,8 @@
  Я славлю Тебя мой Царь и мой Бог
 .           Em              G
  Начало всему Ты и всему итог</lyrics>
+<author>Imprintband</author>
+<hymn_number>1052</hymn_number>
+<key>D</key>
 <title>Течет с Креста</title>
 </song>

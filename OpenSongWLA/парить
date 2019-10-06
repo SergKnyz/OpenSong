@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1566</hymn_number>
-<title>Парить</title>
-<key>C</key>
-<author>Инна Звягинцева</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Инна Звягинцева</author>
 <lyrics>[V1]
  1 куплет:
 .Cm
@@ -37,4 +34,7 @@
  Грусть и боль не вспоминаю вновь
  Чувствую дыханье рая я,
  Когда с Тобой, душа моя.</lyrics>
+<hymn_number>1566</hymn_number>
+<title>Парить</title>
+<key>C</key>
 </song>

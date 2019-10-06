@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3964</hymn_number>
-<title>Позови меня Господь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Пилигрим</author>
 <lyrics>[V1]
 .Dm                  A             Dm
  1. Позови меня, Господь, в даль небесную
@@ -38,6 +37,7 @@
  Что прошусь до срока я в небеса.
  Да простят меня друзья, дети, близкие,
  Что прошусь до срока я в небеса.</lyrics>
-<author>Пилигрим</author>
+<title>Позови меня Господь</title>
 <key>E</key>
+<hymn_number>3964</hymn_number>
 </song>

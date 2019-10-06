@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>192</hymn_number>
 <title>Бегу за Тобой</title>
+<key>C#m</key>
+<author>Слово Жизни Music</author>
 <lyrics>[V1]
  1 куплет:
 .C#m                     A
@@ -35,6 +37,4 @@
    Сотвори во мне, сердце Твоё
 .         A           C#m      H
    Дай услышать вновь голос Твой</lyrics>
-<key>C#m</key>
-<author>Слово Жизни Music</author>
 </song>

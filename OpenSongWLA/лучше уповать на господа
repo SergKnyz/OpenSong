@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1566</hymn_number>
-<key>C</key>
-<author>Виталий Ефремочкин</author>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .     Cm               Gm  Bb
    Уповай (уповай), уповай, уповай на Него.
@@ -23,5 +20,8 @@
    Ибо вовек (вовек!) милость Его, ибо вовек (вовек!) милость Его,
 .         F                               G#           Bb
    Ибо вовек (вовек!) милость Его, ибо вовек (вовек!) милость Его!</lyrics>
+<author>Виталий Ефремочкин</author>
+<hymn_number>1566</hymn_number>
 <title>Лучше уповать на Господа</title>
+<key>C</key>
 </song>

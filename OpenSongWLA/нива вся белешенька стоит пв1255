@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1255</hymn_number>
-<title>Нива вся белешенька стоит ПВ1255</title>
-<key>B</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Нива вся белешенька стоит.
  Золотые зерна осыпаются.
  Только ветер жатву шевелит.
@@ -30,4 +27,7 @@
  Собирать плоды Христова дела.
  Наступает уж кончина дня,
  Жатва долгожданная поспела.</lyrics>
+<hymn_number>1255</hymn_number>
+<key>B</key>
+<title>Нива вся белешенька стоит ПВ1255</title>
 </song>

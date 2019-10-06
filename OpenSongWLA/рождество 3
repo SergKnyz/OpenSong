@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1019</hymn_number>
-<title>Рождество</title>
-<author>Imprintband</author>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  BPM 127 4/4
 
 [V2]
@@ -42,4 +38,8 @@
    Пусть любовь течёт в сердца
 .      Am           D       Esus4 E
    И наполнит нас славою Отца_____</lyrics>
+<author>Imprintband</author>
+<key>E</key>
+<title>Рождество</title>
+<hymn_number>1019</hymn_number>
 </song>

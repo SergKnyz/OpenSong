@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2459</hymn_number>
-<title>Без конца, буду превозносить Тебя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Без конца, буду превозносить Тебя</title>
+<key>A</key>
+<hymn_number>2459</hymn_number>
+<author>Рон Кенолы</author>
 <lyrics>[V1]
 .Am           F
  Без конца буду превозносить Тебя,
@@ -22,6 +24,4 @@
  Иисус, Иисус, Иисус, аллилуйя,
 .Dm    E    Am
  Иисус, слава Тебе, Иисус!</lyrics>
-<key>A</key>
-<author>Рон Кенолы</author>
 </song>

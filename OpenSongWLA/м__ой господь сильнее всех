@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3007</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>М__ой Господь сильнее всех</title>
 <aka>Аллилуйя, Аллилууууйя</aka>
+<hymn_number>3007</hymn_number>
 <lyrics>[V1]
  Куплет 1:
 .G  Em
@@ -45,7 +47,5 @@
  По кресту стекала кровь
  В мир послал Свою любовь
  Кричу к Нему всем сердцем Аллилуйя</lyrics>
-<key>G</key>
 <author>Леонард Цохен</author>
-<title>М__ой Господь сильнее всех</title>
 </song>

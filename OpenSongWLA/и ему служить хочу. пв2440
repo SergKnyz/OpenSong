@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>И Ему служить хочу. ПВ2440</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2440</hymn_number>
+<aka>Быть с Иисусом я желаю</aka>
+<title>И Ему служить хочу. ПВ2440</title>
+<key>E</key>
 <lyrics>[V1]
  Быть с Иисусом я желаю,
  И Ему служить хочу.
@@ -28,7 +31,4 @@
  Он от бед Хранитель твой,
  Знай же, после жизни этой
  Он возмет тебя с Собой.</lyrics>
-<key>E</key>
-<aka>Быть с Иисусом я желаю</aka>
-<hymn_number>2440</hymn_number>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>266</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Без Тебя мы ничто</title>
+<key>D</key>
+<hymn_number>266</hymn_number>
+<author>Просто сосуды</author>
 <lyrics>[V1]
  1 куплет:
 .                 D                  G
@@ -39,7 +42,4 @@
 [B2]
    Концовка:
    Без Тебя мы ничто</lyrics>
-<key>D</key>
-<author>Просто сосуды</author>
-<title>Без Тебя мы ничто</title>
 </song>

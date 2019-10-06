@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мы не одни</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2811</hymn_number>
+<title>Мы не одни</title>
+<key>F</key>
 <lyrics>[V1]
  1 куплет:
 .Fm                  Bbm
@@ -47,6 +49,4 @@
    Без Тебя мы никто только пепел и прах
    Но Твоя любовь согревает и вселяет сквозь тьму и страх</lyrics>
 <author>Соль</author>
-<key>F</key>
-<hymn_number>2811</hymn_number>
 </song>

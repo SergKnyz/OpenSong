@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2059</hymn_number>
-<title>Дух Святой меня верным найдёт</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Дух Святой меня верным найдёт</title>
+<hymn_number>2059</hymn_number>
+<author>Егор и Наталия Лансере</author>
 <lyrics>[V1]
  Дух Святой меня верным найдёт - The Holy Spirit will find me faithful
 
@@ -34,5 +35,4 @@
 [V6]
  | C F G C | C F Am G | C F G C | C F Am G ||
  *| F C | G C | F C | Am G | F C | G Am | F G Am | F G C ||</lyrics>
-<author>Егор и Наталия Лансере</author>
 </song>

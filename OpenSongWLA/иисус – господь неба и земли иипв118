@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>118</hymn_number>
-<title>Иисус – Господь неба и земли ИИПВ118</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em
  Иисус - Господь неба и земли,
 .     C       D    Em
@@ -13,5 +11,7 @@
  И дьявол трепещет от страха,
 .   Am                B7
  Когда мы все вместе Богу поём</lyrics>
+<title>Иисус – Господь неба и земли ИИПВ118</title>
 <key>Em</key>
+<hymn_number>118</hymn_number>
 </song>

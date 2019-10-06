@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О, как Бог любит нас!</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .       С
  Бог ревностно любит меня
 .Am
@@ -56,6 +55,7 @@
    О, Как он любит!
 .                 F
    Как Бог любит нас!</lyrics>
+<title>О, как Бог любит нас!</title>
 <key>C</key>
 <author>Йесус Цултуре, Давид Цроудер, Йохн Марк МцМиллан</author>
 </song>

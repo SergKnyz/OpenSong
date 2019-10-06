@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>44</hymn_number>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  К Тебе, Спаситель мой, взываю,
  К Тебе стремлюсь больной душой;
  С надеждой на Тебя взираю
@@ -59,5 +57,7 @@
  Я людям мог бы все простить,
  Чтоб я служил, когда им нужно,
  И мог бы искренно любить.</lyrics>
+<hymn_number>44</hymn_number>
 <title>К Тебе Спаситель мой взываю ПВ44</title>
+<key>A</key>
 </song>

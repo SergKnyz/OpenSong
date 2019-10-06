@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>На краю</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6104</hymn_number>
+<key>F</key>
+<title>На краю</title>
+<author>A-SIDE</author>
 <lyrics>[V1]
  1 куплет:
  На краю у пропасти стою
@@ -38,7 +41,4 @@
  Пусть осужден молвой
  Я выстою с Тобой
  Ведь вера сильней!</lyrics>
-<key>F</key>
-<author>A-SIDE</author>
-<hymn_number>6104</hymn_number>
 </song>

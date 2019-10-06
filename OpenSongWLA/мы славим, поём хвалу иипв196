@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Мы славим, поём хвалу ИИПВ196</title>
+<hymn_number>196</hymn_number>
+<lyrics>[V1]
 .A.   B7 E A. B7    C#m
  Мы славим, поём хвалу,
 .       A         B7        E
@@ -13,7 +16,4 @@
    Иисус, Ты навеки дал победу
 .     B7            E(A)    (B)      E7 (E)
    И нигде на свете нет таких, как Ты.</lyrics>
-<key>E</key>
-<title>Мы славим, поём хвалу ИИПВ196</title>
-<hymn_number>196</hymn_number>
 </song>

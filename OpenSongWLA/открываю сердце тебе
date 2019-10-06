@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1041</hymn_number>
-<title>Открываю сердце Тебе</title>
-<author>Алла Чепикова</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алла Чепикова</author>
 <lyrics>[V1]
 .Am  Am/G#
  1.Открываю сердце Тебе,
@@ -55,4 +52,7 @@
  /:И в суете таких летящих дней
 .Dm7 Am/E E7 Am
  Нам помоги быть всё мудрей.:/</lyrics>
+<hymn_number>1041</hymn_number>
+<key>A</key>
+<title>Открываю сердце Тебе</title>
 </song>

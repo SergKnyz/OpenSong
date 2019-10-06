@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Я восхожу, Господь, на Твой алтарь,</aka>
-<hymn_number>2770</hymn_number>
-<title>Алтарь</title>
-<key>A</key>
-<author>Юрий Литвинчук</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Юрий Литвинчук</author>
 <lyrics>[V1]
  Алтарь
  (стихи Александра Шевченко, музыка Юрия Литвинчука)
@@ -42,4 +38,8 @@
 .F        C
  Сердце мое в дар.   -2р
  С       G        Am      F     C</lyrics>
+<hymn_number>2770</hymn_number>
+<aka>Я восхожу, Господь, на Твой алтарь,</aka>
+<key>A</key>
+<title>Алтарь</title>
 </song>

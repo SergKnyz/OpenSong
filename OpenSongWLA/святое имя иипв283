@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>283</hymn_number>
-<title>Святое имя ИИПВ283</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D.     G             D
  Святое имя Его всех выше,
 .            A7               D   D7
@@ -13,5 +11,7 @@
  Он так чудесен, Он - мой Советник,
 .           A7               D  G D
  Он - Царь мира, Всесильный Бог.</lyrics>
+<hymn_number>283</hymn_number>
+<title>Святое имя ИИПВ283</title>
 <key>D</key>
 </song>

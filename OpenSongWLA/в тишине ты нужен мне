@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1322</hymn_number>
-<author>Милана</author>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .       Am            F
  В тишине Ты нужен мне,
@@ -49,5 +46,8 @@
  Когда ветер в глаза и сердце в слезах.
  Ты нужен мне в шумной толпе,
  Когда я один (когда я одна), Ты - любви полнота.</lyrics>
+<author>Милана</author>
+<key>A</key>
 <title>В тишине Ты нужен мне</title>
+<hymn_number>1322</hymn_number>
 </song>

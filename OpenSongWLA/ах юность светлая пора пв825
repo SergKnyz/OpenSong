@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ах юность светлая пора ПВ825</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ах, юность, светлая пора,
  Ты розами вся цветешь!
  Ты в жизни раз один дана
@@ -29,5 +27,7 @@
  Там радость без конца.
  В вечных обителях Отца - нет конца.
  Там радость без конца.</lyrics>
+<key>E</key>
+<title>Ах юность светлая пора ПВ825</title>
 <hymn_number>825</hymn_number>
 </song>

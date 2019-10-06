@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3090</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>А как у вас с величием души</title>
+<key>Dm</key>
+<hymn_number>3090</hymn_number>
 <lyrics>[V1]
 .Dm             Bb          C
  А как у вас с величием души?
@@ -28,6 +30,4 @@
  Умен ли сильный? Угнетен ли слабый?
 .        Dm  E A      Dm
  Прошу ответ. Прошу ответ.</lyrics>
-<key>Dm</key>
-<title>А как у вас с величием души</title>
 </song>

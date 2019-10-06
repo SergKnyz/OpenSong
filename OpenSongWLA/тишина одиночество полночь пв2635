@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Тишина одиночество полночь ПВ2635</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2635</hymn_number>
+<title>Тишина одиночество полночь ПВ2635</title>
+<key>D</key>
 <lyrics>[V1]
  Тишина, одиночество, полночь.
  За окном серебрится луна.
@@ -23,6 +25,4 @@
  Только я до тех пор не усну,
  Пока там, за космической пылью,
  Все молитвы сольются в одну.</lyrics>
-<key>D</key>
-<hymn_number>2635</hymn_number>
 </song>

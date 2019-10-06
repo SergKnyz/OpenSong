@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Забрежен свет в моем оконце</aka>
-<hymn_number>2441</hymn_number>
-<title>Боже храни людей</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Забрежен свет в моем оконце
  Все пробуждается от сна,
  И на подушке лучик солнца
@@ -46,4 +43,7 @@
  Молитву Богу вознесу
  Начну ее с благодаренья
  Скажу спасибо, что живу.</lyrics>
+<hymn_number>2441</hymn_number>
+<aka>Забрежен свет в моем оконце</aka>
+<title>Боже храни людей</title>
 </song>

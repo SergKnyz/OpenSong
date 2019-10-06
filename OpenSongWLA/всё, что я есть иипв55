@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>55</hymn_number>
-<title>Всё, что я есть ИИПВ55</title>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  F               Bb/F
  Всё, что я есть; всё, чем живу -
 .C/F               Gm/F    F  C/E
@@ -46,4 +43,7 @@
    Это жизнь, что Ты дал нам;
 .    Bbm7      Ab/C Gm7/C,D
    И жизнь мы Тебе отдаём.</lyrics>
+<hymn_number>55</hymn_number>
+<key>F</key>
+<title>Всё, что я есть ИИПВ55</title>
 </song>

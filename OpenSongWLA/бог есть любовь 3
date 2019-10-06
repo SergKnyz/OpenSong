@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2580</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .       G#m         E
  Вечный свет ярко светит в небесах,
@@ -56,7 +55,8 @@
    Свидетельство Твое внутри,
 .     E      H         F#
    Любовь Твоя вокруг нас.</lyrics>
-<key>G#m</key>
 <author>JG Youth Worship</author>
 <title>Бог есть Любовь</title>
+<key>G#m</key>
+<hymn_number>2580</hymn_number>
 </song>

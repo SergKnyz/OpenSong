@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3285</hymn_number>
-<author>Виталий Ефремочкин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Достоин Ты</title>
 <key>D</key>
+<hymn_number>3285</hymn_number>
+<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  1 куплет:
 .Dm          Bb              C
@@ -73,5 +74,4 @@
    Взывает: «приди ко мне, мой Бог»
 .          Bb        C
    Достоин, достоин Ты</lyrics>
-<title>Достоин Ты</title>
 </song>

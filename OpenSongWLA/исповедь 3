@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1126</hymn_number>
+<title>Исповедь</title>
+<key>C#m</key>
 <lyrics>[V1]
  Куплет:
 .C#m                     G#m
@@ -39,6 +41,4 @@
 .   F#m/A            G#m
    Правду совершаешь Боже мой</lyrics>
 <author>Ирина Цуканова</author>
-<key>C#m</key>
-<title>Исповедь</title>
 </song>

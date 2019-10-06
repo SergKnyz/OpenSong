@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Игорь Яловец</author>
+<lyrics>[V1]
  1 Куплет:
 .  Gm       D#           Cm         D
  Душа моя опять одна, душа моя тоской полна.
@@ -22,8 +23,7 @@
  Дай руку мне и помоги, и душу мне Ты сохрани.
  И буду я служить Тебе, и буду я идти к Тебе.
  Зимой в метель и в дни дождей, но Ты меня лишь обогрей.</lyrics>
-<key>G</key>
-<author>Игорь Яловец</author>
-<title>Я падаю</title>
 <hymn_number>61</hymn_number>
+<key>G</key>
+<title>Я падаю</title>
 </song>

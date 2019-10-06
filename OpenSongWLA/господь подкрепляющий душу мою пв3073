@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3073</hymn_number>
-<title>Господь подкрепляющий душу мою ПВ3073</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Господь, подкрепляющий душу мою,
  в страданьях взываю к Тебе!
  Ты - мне утешенье и помощь моя.
@@ -24,4 +21,7 @@
  и слышу Твой голос в тиши.
  Я зная, меня защищать Ты готов,
  хочу за Тобой я идти.</lyrics>
+<key>D</key>
+<title>Господь подкрепляющий душу мою ПВ3073</title>
+<hymn_number>3073</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    E            Esus4              D     A       E
  В твёрдом решении буду стоять, я жду Господь Тебя,
@@ -45,6 +43,8 @@
    Падите цепи!  Жизнь исцелись!
 .      A          E   H      A
    Глаза откройтесь! Иисус явись!</lyrics>
+<author>Hillsong Ukraine</author>
 <title>Ты придёшь</title>
+<key>E</key>
 <hymn_number>524</hymn_number>
 </song>

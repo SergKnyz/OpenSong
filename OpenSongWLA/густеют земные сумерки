@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4013</hymn_number>
-<title>Густеют земные сумерки</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Людмила Дарморост</author>
 <lyrics>[V1]
  1 куплет:
 .   F#m          Hm          C#             F#m  E
@@ -36,6 +35,7 @@
  Чтоб в небе фатою белою покрыл Ты меня любя
 .  Cm                       Gm           Cm        D7   Gm
  Чтоб знать, что могла - я сделала, мой Господи, для Тебя!</lyrics>
-<author>Людмила Дарморост</author>
+<hymn_number>4013</hymn_number>
 <key>F#</key>
+<title>Густеют земные сумерки</title>
 </song>

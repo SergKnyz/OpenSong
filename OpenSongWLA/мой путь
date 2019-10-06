@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3238</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>Мой Путь</title>
+<hymn_number>3238</hymn_number>
 <lyrics>[V1]
  1 КУПЛЕТ:
 .F     C     Dm       Bb
@@ -31,6 +33,4 @@
  Наша опора, радость и свет.
  Бог мой великий превыше всех.</lyrics>
 <author>SAVEIT</author>
-<key>F</key>
-<title>Мой Путь</title>
 </song>

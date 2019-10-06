@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Просторы</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>897</hymn_number>
+<key>A</key>
+<title>Просторы</title>
+<author>Маханаим</author>
 <lyrics>[V1]
  1 куплет:
 .Am      C          Dm            Em
@@ -42,7 +45,4 @@
    Ты стал моей самой главной в жизни опорой,
 .  D           G          Em         F#m       Hm
    Где б я ни был, иль был - Ты со мной, Боже мой!</lyrics>
-<author>Маханаим</author>
-<key>A</key>
-<hymn_number>897</hymn_number>
 </song>

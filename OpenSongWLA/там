@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Брикса</author>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G                                Em
  Там не идут дожди и ветер не поёт, там не кружится снег.
@@ -28,6 +26,8 @@
  Там будут всех нас звать по нашим именам.
  Однажды, как один, мы все сойдём с земли шагнём за небеса.
  Где можно без границ смотреть в Его глаза.</lyrics>
+<author>Сергей Брикса</author>
 <title>Там</title>
+<key>G</key>
 <hymn_number>2133</hymn_number>
 </song>

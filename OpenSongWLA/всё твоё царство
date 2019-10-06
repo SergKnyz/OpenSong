@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Hillsong Ukraine, Хиллсонг Унитед</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine, Хиллсонг Унитед</author>
 <lyrics>[V1]
  Куплет:
 .H        F#/A#         D#m          C#
@@ -29,5 +28,6 @@
 .                    H    F#     H F#/A# G#m7
    И навечно будет слава Бог Твоя</lyrics>
 <title>Всё Твоё царство</title>
+<key>B</key>
 <hymn_number>506</hymn_number>
 </song>

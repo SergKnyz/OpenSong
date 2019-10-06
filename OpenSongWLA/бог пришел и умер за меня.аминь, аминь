@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>835</hymn_number>
-<title>Бог пришел и умер за меня.аминь, аминь</title>
-<key>D</key>
-<author>Дом Хлеба</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Dm                      Bb   F       C
  Бог пришел и умер за меня, аминь, аминь
@@ -41,4 +37,8 @@
    Ты вечный и Святой, Сущий вовек веков
 .                    Dm       Bb
    Ты был и есть и вновь, Грядешь</lyrics>
+<author>Дом Хлеба</author>
+<key>D</key>
+<title>Бог пришел и умер за меня.аминь, аминь</title>
+<hymn_number>835</hymn_number>
 </song>

@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>14</hymn_number>
+<key>D</key>
+<title>Благословен наш Бог дарующий любовь</title>
+<time_sig>4/4</time_sig>
+<tempo>70</tempo>
+<lyrics>[V1]
 .  D              Em A7
  Благословен наш Бог,
 .            D   (G D)
@@ -17,9 +22,4 @@
    Воздаю Тебе__
 .             D  D7
    Любовь хвалой.</lyrics>
-<key>D</key>
-<tempo>70</tempo>
-<title>Благословен наш Бог дарующий любовь</title>
-<hymn_number>14</hymn_number>
-<time_sig>4/4</time_sig>
 </song>

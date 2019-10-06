@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Не знаешь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>563</hymn_number>
+<key>F#</key>
+<title>Не знаешь</title>
+<author>Достичь небес</author>
 <lyrics>[V1]
  1 куплет:
 .F#m          D             E               C#m
@@ -52,7 +55,4 @@
    Не знаем... Для чего нужны уроки
    Не знаем... Что нас ждет в дали
    Не видим простор Божией любви</lyrics>
-<author>Достичь небес</author>
-<key>F#</key>
-<hymn_number>563</hymn_number>
 </song>

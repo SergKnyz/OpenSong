@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4104</hymn_number>
-<title>Голубые розы</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Почему не бывает голубых роз?
  Почему не бывает незабудок желтых?
  Почему в жизни все не так, не так просто?
@@ -44,4 +42,6 @@
 
 [V6]
  Ты мне подаришь голубые розы....</lyrics>
+<hymn_number>4104</hymn_number>
+<title>Голубые розы</title>
 </song>

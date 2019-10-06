@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>В нашем зале все друзья</title>
+<key>D</key>
+<hymn_number>200</hymn_number>
+<aka>И раз, два, три.</aka>
+<author>Неизвестный</author>
 <lyrics>[V1]
 .D
  В нашем зале все друзья.
@@ -23,7 +27,4 @@
  4. Подмигни...
  5. Обними...
  6. Усади...</lyrics>
-<key>D</key>
-<author>Неизвестный</author>
-<hymn_number>200</hymn_number>
 </song>

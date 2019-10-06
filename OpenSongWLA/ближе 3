@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>840</hymn_number>
-<aka>Дыхание Твоё моё сердце колышет</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Дыхание Твоё моё сердце колышет</aka>
+<hymn_number>840</hymn_number>
+<title>Ближе</title>
+<key>E</key>
 <lyrics>[V1]
  1 куплет:
 .  Em              D
@@ -40,6 +42,4 @@
  Там обитель моя с видом на Творца
  Там обитель моя с видом на Творца</lyrics>
 <author>Рома Иванько</author>
-<key>E</key>
-<title>Ближе</title>
 </song>

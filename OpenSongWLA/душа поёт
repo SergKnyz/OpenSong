@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1949</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Душа поёт</title>
+<hymn_number>1949</hymn_number>
 <author>Delirious?, Делириоус?</author>
-<key>C</key>
 <lyrics>[V1]
  1 куплет:
 .C              G
@@ -40,5 +41,4 @@
  Страницу прекрасных историй Твоей любви.
  Конец и начало в Тебе,
  И вечность влечет меня силой Твоей любви.</lyrics>
-<title>Душа поёт</title>
 </song>

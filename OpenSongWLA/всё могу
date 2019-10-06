@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2936</hymn_number>
-<title>Всё могу</title>
-<author>Виталий Ефремочкин</author>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .        Em                D
  Бог поддержит меня на пути моих дел
@@ -33,4 +29,8 @@
    Всё, всё, всё могу силой Возлюбившего!
 .    C                     G  D
    Всё, всё, всё могу с Тобой!</lyrics>
+<author>Виталий Ефремочкин</author>
+<key>E</key>
+<title>Всё могу</title>
+<hymn_number>2936</hymn_number>
 </song>

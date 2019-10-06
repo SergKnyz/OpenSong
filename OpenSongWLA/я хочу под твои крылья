@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6100</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <title>Я хочу под Твои крылья</title>
+<hymn_number>6100</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Cm             Fm                 Cm            Fm
@@ -33,5 +34,4 @@
 .  Ab          Bb       Gsus4 G
  Тебе слова такие я скажу.</lyrics>
 <author>Оксана Козунь</author>
-<key>C</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>745</hymn_number>
-<title>Новое Небо</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    Bb            C           Dm C
  И увидел я новое небо и новую землю,
@@ -32,6 +30,8 @@
  И сказал Сидящий на престоле: се, творю всё новое. И говорит мне:
 .  Gm      F        Bb Gm         A
  Напиши; ибо слова сии истинны и верны, истинны и верны.</lyrics>
-<key>D</key>
 <author>Simon Khorolskiy</author>
+<hymn_number>745</hymn_number>
+<key>D</key>
+<title>Новое Небо</title>
 </song>

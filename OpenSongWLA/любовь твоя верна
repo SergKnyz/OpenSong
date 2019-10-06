@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1975</hymn_number>
+<title>Любовь Твоя верна</title>
+<key>A</key>
+<lyrics>[V1]
  1 куплет:
 .Am      F        C              G
  Не отделить меня, даже если скроюсь я,
@@ -37,8 +40,5 @@
    Ты всё, всё делаешь благом для меня, для меня.
 .  F            C                     G        Dm
    Ты всё, всё делаешь благом для меня, для меня.</lyrics>
-<key>A</key>
 <author>Анастасия Патлис, Цхрис МцЦларнеы, Антхоны Скиннер, Йесус Цултуре</author>
-<title>Любовь Твоя верна</title>
-<hymn_number>1975</hymn_number>
 </song>

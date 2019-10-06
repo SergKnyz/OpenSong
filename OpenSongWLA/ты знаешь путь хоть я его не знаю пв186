@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>186</hymn_number>
-<title>Ты знаешь путь хоть я его не знаю ПВ186</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты знаешь путь хоть я его не знаю ПВ186</title>
+<key>C</key>
+<hymn_number>186</hymn_number>
 <lyrics>[V1]
  Ты знаешь путь, хоть я его не знаю,
  Сознанье это мне дает покой;
@@ -17,5 +18,4 @@
  И бурю жизни укрощаешь Ты!
  Пусть неизвестно мне, куда иду я,
  Но я спокоен - путь мой знаешь Ты.</lyrics>
-<key>C</key>
 </song>

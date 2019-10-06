@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Царство Бога</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1845</hymn_number>
+<title>Царство Бога</title>
+<key>A</key>
+<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  1 куплет:
 .Am       C          F           E
@@ -27,7 +30,4 @@
  Который может после смерти меня Собою оживить.
  Найти мне путь поможет вера, надежда даст мне утешение.
  Любовь как ключ откроет двери к нетленной жизни во Христе.</lyrics>
-<key>A</key>
-<author>Виталий Ефремочкин</author>
-<hymn_number>1845</hymn_number>
 </song>

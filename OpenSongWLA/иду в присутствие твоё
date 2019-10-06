@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>952</hymn_number>
-<key>D</key>
-<author>Hillsong Ukraine</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
 .Dm
  Иду в присутствие Твоё
@@ -37,4 +35,6 @@
  Теперь я не боюсь
  Знаю я, Ты дал мне силу побеждать!</lyrics>
 <title>Иду в присутствие Твоё</title>
+<key>D</key>
+<hymn_number>952</hymn_number>
 </song>

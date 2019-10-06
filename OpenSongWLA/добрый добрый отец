@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев, Цхрис Томлин</author>
-<key>G</key>
 <lyrics>[V1]
  CAPO +1
 
@@ -63,6 +62,7 @@
    Слышу голос нежный Твой
    Слышу голос нежный Твой
    В нём любовь, любовь, любовь.</lyrics>
+<key>G</key>
 <title>Добрый Добрый Отец</title>
 <hymn_number>2635</hymn_number>
 </song>

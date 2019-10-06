@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Любовь Отца</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3081</hymn_number>
+<title>Любовь Отца</title>
+<key>C</key>
+<author>Youth Play Worship, Йеремы Риддле, Йосх Фарро, Пхил Уицкхам</author>
 <lyrics>[V1]
  1 verse:
 .C
@@ -61,7 +64,4 @@
 
 [V3]
  Перевод от Youth Play Worship.</lyrics>
-<key>C</key>
-<author>Youth Play Worship, Йеремы Риддле, Йосх Фарро, Пхил Уицкхам</author>
-<hymn_number>3081</hymn_number>
 </song>

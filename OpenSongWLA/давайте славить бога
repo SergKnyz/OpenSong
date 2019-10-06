@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2103</hymn_number>
-<title>Давайте славить Бога</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет 1:
 .Gm
  Есть на планете счастливый народ,
@@ -45,6 +43,8 @@
    Для тех, кто славит Бога, на небо есть дорога,
 .               C#m             D#          G#m
    И по дороге в небеса можем двигаться ты и я!</lyrics>
-<key>G</key>
 <author>Открытое небо</author>
+<key>G</key>
+<title>Давайте славить Бога</title>
+<hymn_number>2103</hymn_number>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Это мой дом (интро)</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>Это мой дом (интро)</title>
+<hymn_number>950</hymn_number>
+<author>Hillsong Ukraine</author>
 <lyrics>[V1]
 .D#      Bb         F    Gm
  Всей душой так люблю я дом Твой,
@@ -12,7 +15,4 @@
 [V2]
 .C
  Это мой дом!!!</lyrics>
-<key>F</key>
-<author>Hillsong Ukraine</author>
-<hymn_number>950</hymn_number>
 </song>

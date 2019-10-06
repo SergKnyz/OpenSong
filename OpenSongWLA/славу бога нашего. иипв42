@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>42</hymn_number>
-<aka>Видишь славу</aka>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
 .            C               G
    Видишь славу, видишь славу,
 .         Am   F   C  G
@@ -25,4 +23,6 @@
  Милосердие Своё Он дарит нам&quot;.</lyrics>
 <key>C</key>
 <title>Славу Бога нашего. ИИПВ42</title>
+<hymn_number>42</hymn_number>
+<aka>Видишь славу</aka>
 </song>

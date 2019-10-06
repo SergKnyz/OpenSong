@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>203</hymn_number>
-<title>К Тебе</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>К Тебе</title>
+<key>B</key>
+<hymn_number>203</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Hm                      A
@@ -24,6 +25,5 @@
    К Тебе летит моя хвала и больше нет меня
 .                       A
    Лишь Ты живешь во мне Иисус</lyrics>
-<key>B</key>
 <author>RealIvanna</author>
 </song>

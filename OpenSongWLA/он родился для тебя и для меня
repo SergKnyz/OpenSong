@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2890</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
 <title>Он родился для тебя и для меня</title>
+<hymn_number>2890</hymn_number>
+<author>Alex Ryabukha &amp; Lunchenko Family</author>
 <lyrics>[V1]
  1 куплет:
 .Fm               Bbm
@@ -40,6 +42,4 @@
  Я хочу чтоб Ты жил в сердце у меня
  Поселись и место всё моё возьми
  Господи возьми</lyrics>
-<key>F</key>
-<author>Alex Ryabukha &amp; Lunchenko Family</author>
 </song>

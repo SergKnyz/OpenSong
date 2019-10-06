@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В этот мир ты пришел ПВ1740</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>В этот мир ты пришел ПВ1740</title>
+<hymn_number>1740</hymn_number>
 <lyrics>[V1]
  В этот мир ты пришел,
  И ты скоро уйдешь,
@@ -22,6 +24,4 @@
  Лишь одна суета;
  Бог дарит жизнь и свет,
  Только в Нем - полнота.</lyrics>
-<key>G</key>
-<hymn_number>1740</hymn_number>
 </song>

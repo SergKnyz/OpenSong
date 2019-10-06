@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2900</hymn_number>
-<title>Гимн победы на Сионе ПВ2900</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Гимн победы на Сионе ПВ2900</title>
+<key>Eb</key>
+<hymn_number>2900</hymn_number>
 <lyrics>[V1]
  Гимн победы на Сионе
  снова слышим мы,
@@ -29,5 +30,4 @@
  слух ласкают мне;
  вечное блаженство
  я нашёл в Христе.</lyrics>
-<key>Eb</key>
 </song>

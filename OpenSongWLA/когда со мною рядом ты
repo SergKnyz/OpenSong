@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2741</hymn_number>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Когда со мною рядом ты</title>
+<hymn_number>2741</hymn_number>
 <author>Виталий Ефремочкин</author>
 <lyrics>[V1]
 .E  H
@@ -43,5 +44,4 @@
 .E  H C#m  A
  П__риди, Бог, ко мне,
  Приди во славе Своей!</lyrics>
-<title>Когда со мною рядом ты</title>
 </song>

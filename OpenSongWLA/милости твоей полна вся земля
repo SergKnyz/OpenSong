@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1010</hymn_number>
-<title>Милости Твоей полна вся земля</title>
-<key>E</key>
-<author>Марк Яковлев</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Em                A
  Милости Твоей полна вся земля,
@@ -43,4 +39,8 @@
  Благодарю  Тебя,
 .Hm           F#
  Благодарю Тебя!</lyrics>
+<author>Марк Яковлев</author>
+<hymn_number>1010</hymn_number>
+<key>E</key>
+<title>Милости Твоей полна вся земля</title>
 </song>

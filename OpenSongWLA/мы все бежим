@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>512</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
  1 куплет:
 .    D#m            H   F# C#
@@ -55,7 +55,7 @@
    Будем вечно хвалу мы петь
 .     C#/G#      F#/A#        H
    Наш Бог, вся слава лишь Тебе Иисус</lyrics>
-<key>B</key>
-<author>Hillsong Ukraine</author>
+<hymn_number>512</hymn_number>
 <title>Мы все бежим</title>
+<key>B</key>
 </song>

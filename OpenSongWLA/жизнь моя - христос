@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Влад Фонки</author>
+<lyrics>[V1]
  1 куплет:
 . F#m             D                   A E/G#
  Жизнь моя - Христос, ценность и награда
@@ -47,8 +48,7 @@
  Крест предо мною, мир - за спино__ю
 .         D   E    A
  И больше нет пути назад</lyrics>
-<author>Влад Фонки</author>
-<key>F#</key>
-<title>Жизнь моя - Христос</title>
 <hymn_number>1168</hymn_number>
+<title>Жизнь моя - Христос</title>
+<key>F#</key>
 </song>

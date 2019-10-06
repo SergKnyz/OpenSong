@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Каждый день к Тебе ПВ3049</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
+<title>Каждый день к Тебе ПВ3049</title>
+<hymn_number>3049</hymn_number>
 <lyrics>[V1]
  Каждый день к Тебе
  всё ближе я хочу, Иисус, идти;
@@ -34,6 +36,4 @@
  цель всё ближе с каждым днём;
  там, где радость бесконечна,
  мы к Нему в покой войдём.</lyrics>
-<key>Eb</key>
-<hymn_number>3049</hymn_number>
 </song>

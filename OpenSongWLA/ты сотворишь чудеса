@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6184</hymn_number>
-<title>Ты сотворишь чудеса</title>
-<key>Eb</key>
-<author>Алексей Каратаев, Бетхел Мусиц, Елеватион Уорсхип</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев, Бетхел Мусиц, Елеватион Уорсхип</author>
 <lyrics>[V1]
  1 куплет:
 .Eb                   Bb/D
@@ -41,4 +38,7 @@
    Ты проложил дорогу в море.
 .  F/A Bb           F/A  Bb
        Я верю, вновь,  Ты сотворишь чудеса.</lyrics>
+<hymn_number>6184</hymn_number>
+<key>Eb</key>
+<title>Ты сотворишь чудеса</title>
 </song>

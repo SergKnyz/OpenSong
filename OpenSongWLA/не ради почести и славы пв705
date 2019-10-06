@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>705</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Не ради почести и славы
  Стремлюсь я, Боже, к небесам;
  Хоть труден путь борьбы кровавой,
@@ -38,6 +37,7 @@
  И обрывается порой;
  Лишь там польется в сени рая
  Она достойною хвалой.</lyrics>
-<key>C</key>
 <title>Не ради почести и славы ПВ705</title>
+<key>C</key>
+<hymn_number>705</hymn_number>
 </song>

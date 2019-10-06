@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1559</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Жемчужина</title>
 <key>A</key>
+<hymn_number>1559</hymn_number>
 <author>Краеугольный камень</author>
 <lyrics>[V1]
  1 куплет:
@@ -29,5 +30,4 @@
    Только часто душа чем-то другим увлечена,
 .         F                    E
    Но достойна поклонения жемчужина одна.</lyrics>
-<title>Жемчужина</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>538</hymn_number>
-<title>Так недавно расцветали ПВ538</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Так недавно расцветали
  Чудные цветы в полях;
  Птички громко распевали,
@@ -36,4 +33,7 @@
  Светлая весна прошла;
  Дни болезни и печали
  Осень жизни принесла.</lyrics>
+<hymn_number>538</hymn_number>
+<key>C</key>
+<title>Так недавно расцветали ПВ538</title>
 </song>

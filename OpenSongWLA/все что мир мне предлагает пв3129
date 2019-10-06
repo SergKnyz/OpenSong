@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3129</hymn_number>
-<title>Все что мир мне предлагает ПВ3129</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Все, что мир мне предлагает,
  жажду мне не утолит,
  только Бог Своей любовью
@@ -36,4 +33,7 @@
  пусть наполнит Бог тебя,
  ведь любовь Его как море,
  не иссякнет никогда.</lyrics>
+<hymn_number>3129</hymn_number>
+<title>Все что мир мне предлагает ПВ3129</title>
+<key>C</key>
 </song>

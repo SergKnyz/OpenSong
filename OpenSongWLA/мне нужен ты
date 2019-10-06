@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мне нужен ты</title>
-<author>Линделл Цоолеы, Ким Уалкер-Смитх, Йесус Цултуре</author>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Линделл Цоолеы, Ким Уалкер-Смитх, Йесус Цултуре</author>
 <lyrics>[V1]
 .      E F#m
  //  Мне нужен Ты больше, чем вчера
@@ -32,4 +30,6 @@
    Я от Тебя
 .              E
    Мне нужен Ты!</lyrics>
+<title>Мне нужен ты</title>
+<key>E</key>
 </song>

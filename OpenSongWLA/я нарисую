@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я нарисую</title>
-<author>Imprintband</author>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Я нарисую</title>
+<hymn_number>29</hymn_number>
 <lyrics>[V1]
  1 Куплет:
 .Em                              C
@@ -40,5 +40,5 @@
  Кого-то пусть она согреет
  Я на рисую, а люди, те, кто за стеной
  Пусть станут хоть на миг добрее.</lyrics>
-<hymn_number>29</hymn_number>
+<author>Imprintband</author>
 </song>

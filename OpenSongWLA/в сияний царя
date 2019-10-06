@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Наш Бог так велик</aka>
-<hymn_number>2723</hymn_number>
-<title>В сияний Царя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Цхрис Томлин, Ед Цасх, Йессе Реевес</author>
 <lyrics>[V1]
 .  D           Bm
  В сиянии Царя блеск величия,
@@ -40,6 +38,8 @@
 [B2]
    Аллилуйя!Аллилуйя!Аллилуйя!
    Правит Бог!</lyrics>
-<author>Цхрис Томлин, Ед Цасх, Йессе Реевес</author>
+<hymn_number>2723</hymn_number>
+<aka>Наш Бог так велик</aka>
 <key>G</key>
+<title>В сияний Царя</title>
 </song>

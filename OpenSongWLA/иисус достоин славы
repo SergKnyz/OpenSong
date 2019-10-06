@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Перекрёстов</author>
+<lyrics>[V1]
 .G                            Em
  Как лань стремится к потоку вод,
 .C                                 G
@@ -46,8 +47,7 @@
  Ты достоин славы всей,
 .G    Em       C           D         D      G
  Ты достоин славы всей и хвалы, и хвалы, Иисус!</lyrics>
-<author>Сергей Перекрёстов</author>
+<hymn_number>3207</hymn_number>
 <key>G</key>
 <title>Иисус! Достоин славы!</title>
-<hymn_number>3207</hymn_number>
 </song>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2337</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новое поколение</author>
 <lyrics>[V1]
 .--- Dm
  Хв__алите все народы имя Господа
@@ -36,7 +36,7 @@
  Аллилуй___я На-на-__на  на-на-на
 .Gm ------ A ------- Dm
  Аллилуй___я На-на-__на  на-на-на</lyrics>
-<key>D</key>
-<author>Новое поколение</author>
 <title>Хвалите все народы имя Господа</title>
+<key>D</key>
+<hymn_number>2337</hymn_number>
 </song>

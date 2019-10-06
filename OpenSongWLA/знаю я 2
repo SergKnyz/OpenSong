@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3416</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <title>Знаю я</title>
-<key>A</key>
-<author>ХДН</author>
+<hymn_number>3416</hymn_number>
 <lyrics>[V1]
  Куплет:
 
@@ -27,4 +26,5 @@
  2 куплет:
  Вдохновляюсь Тобой, Иисус
  Сокрушаюсь перед Тобой, Дух Святой</lyrics>
+<author>ХДН</author>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>856</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Dm                       Gm   A7                     Dm
  Сколько раз тебя манила даль, и казалось, что за горизонтом
@@ -34,6 +33,7 @@
 .        Gm                   A7       Gm       A7        Dm
  Вновь зовёт тебя с креста Голгофы вечная, прекрасная Любовь</lyrics>
 <author>Ольга Вельгус</author>
-<key>D</key>
+<hymn_number>856</hymn_number>
 <title>Найди тропинку узкую к Голгофе</title>
+<key>D</key>
 </song>

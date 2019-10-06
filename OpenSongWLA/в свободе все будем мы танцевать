@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>497</hymn_number>
-<title>В свободе все будем мы танцевать</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>В свободе все будем мы танцевать</title>
+<key>G</key>
+<hymn_number>497</hymn_number>
 <lyrics>[B1]
    Мост:
 .              G
@@ -46,6 +47,5 @@
  Нет причин нам что-то скрывать, словно город на горе давай сиять!
 .         Em             F            G F
  В свете Божьей свободы давай Славить!</lyrics>
-<key>G</key>
 <author>Hillsong Ukraine</author>
 </song>

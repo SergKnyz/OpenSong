@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Лишь Твоя любовь</title>
-<key>D</key>
-<author>A-SIDE</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Лишь Твоя любовь</title>
+<hymn_number>1593</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .D           E         F#m       E
@@ -38,5 +38,5 @@
    За нас на крест пошёл Христос, когда мы были во грехе
 .  F#m         C#m            D          E
    Нет больше той любви мой Бог на небесах и на земле...</lyrics>
-<hymn_number>1593</hymn_number>
+<author>A-SIDE</author>
 </song>

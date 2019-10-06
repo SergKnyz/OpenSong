@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1015</hymn_number>
-<key>A</key>
-<author>Imprintband</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am                      F
  Я хочу успеть сказать Тебе так много есть в душе
@@ -29,5 +26,8 @@
  Между тьмой и светом, между двух веков.
  Проведи меня долиной смертной,проведи рукою верной
  В царство светлых снов.</lyrics>
+<author>Imprintband</author>
+<hymn_number>1015</hymn_number>
 <title>Прости меня</title>
+<key>A</key>
 </song>

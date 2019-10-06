@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Я словно лань бегу к Твоим потокам</aka>
-<hymn_number>5517</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Gm</key>
 <title>Буду погружаться</title>
+<hymn_number>5517</hymn_number>
+<aka>Я словно лань бегу к Твоим потокам</aka>
+<author>Александр Соколов</author>
 <lyrics>[V1]
 .Gm                                Cm
  Я словно лань бегу к Твоим потокам
@@ -46,6 +48,4 @@
    Буду прославлять и танцевать перед Тобой
 .  Gm      Cm               BbD
    Наполняй меня водой живой</lyrics>
-<key>Gm</key>
-<author>Александр Соколов</author>
 </song>

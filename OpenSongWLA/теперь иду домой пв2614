@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Теперь иду домой! ПВ2614</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
+<title>Теперь иду домой! ПВ2614</title>
+<hymn_number>2614</hymn_number>
+<aka>Вдали от Бога я блуждал</aka>
 <lyrics>[V1]
  Вдали от Бога я блуждал,
  Теперь иду домой!
@@ -20,7 +23,4 @@
  Отец, иду домой!
  Тебе хочу теперь служить.
  Господь, иду домой!</lyrics>
-<key>Ab</key>
-<aka>Вдали от Бога я блуждал</aka>
-<hymn_number>2614</hymn_number>
 </song>

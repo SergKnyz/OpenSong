@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Моё сердце в Твоей руке</title>
-<key>E</key>
-<author>Рома Иванько</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Em               D       Am      Hm
  Бегало, бегало моё сердце, по дорогам
@@ -33,5 +30,8 @@
  Поднимала всё разные флаги, разломала то что сломано было
 .Em             D           Am           Hm
  Но нашло Твои нежные руки, те которые врядли просила</lyrics>
+<author>Рома Иванько</author>
 <hymn_number>1760</hymn_number>
+<key>E</key>
+<title>Моё сердце в Твоей руке</title>
 </song>

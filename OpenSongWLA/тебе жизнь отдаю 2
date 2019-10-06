@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>428</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Тебе жизнь отдаю</title>
+<hymn_number>428</hymn_number>
+<author>Слово Жизни Music</author>
 <lyrics>[V1]
  1 куплет:
 .Am         Em               F
@@ -38,7 +41,4 @@
    Святый Бог, жизнь возьми,
 .     G        Am  F
    Я следую за Тобой!</lyrics>
-<author>Слово Жизни Music</author>
-<key>A</key>
-<title>Тебе жизнь отдаю</title>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Благодарю Тебя ПВ1656</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1656</hymn_number>
+<aka>За скорби и муки, за боль и разлуки;</aka>
+<title>Благодарю Тебя ПВ1656</title>
+<key>C</key>
 <lyrics>[V1]
  Благодарю Тебя
  Благодарю Тебя
@@ -34,7 +37,4 @@
  За все, что пришлось Тебе здесь претерпеть,
  За благословенья и светоч спасенья,
  До смертной минуты Тебе хочу петь.</lyrics>
-<key>C</key>
-<aka>За скорби и муки, за боль и разлуки;</aka>
-<hymn_number>1656</hymn_number>
 </song>

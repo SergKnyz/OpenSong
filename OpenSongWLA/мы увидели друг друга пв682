@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>682</hymn_number>
-<title>Мы увидели друг друга ПВ682</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Мы увидели друг друга,
  В этом дивный есть бальзам,
  Исцеленье от недуга,
@@ -29,5 +27,7 @@
  Выше всех даров земли
  И общенье дорогое.
  Возликуем сердцем мы!</lyrics>
+<title>Мы увидели друг друга ПВ682</title>
 <key>D</key>
+<hymn_number>682</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>786</hymn_number>
-<title>О любовь пою Твое явленье ПВ786</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О любовь, пою Твое явленье,
  Возвещаю всем благую весть:
  Что для нас Спаситель с неба послан
@@ -25,4 +22,7 @@
  Щит душе от бури и невзгод,
  Овладей моим Ты всем сознаньем,
  Направляй меня в Отцовский дом.</lyrics>
+<hymn_number>786</hymn_number>
+<key>D</key>
+<title>О любовь пою Твое явленье ПВ786</title>
 </song>

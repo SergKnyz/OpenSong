@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Солнца свет закат и расцвет</title>
-<key>F</key>
-<author>Неизвестный</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <lyrics>[V1]
  1 куплет:
 .F                     Dm
@@ -36,5 +34,7 @@
  Где начало всех начал и откуда сколько звезд
  Знай мой друг есть один простой ответ:
  Бог создал весь этот мир и в любви нам дал завет.</lyrics>
+<title>Солнца свет закат и расцвет</title>
+<key>F</key>
 <hymn_number>1712</hymn_number>
 </song>

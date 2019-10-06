@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>616</hymn_number>
-<title>Святая музыка</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Святая музыка Небес
  Всегда звучит в твоей душе,
  Если ты любишь...
@@ -33,4 +31,6 @@
 
 [C2]
    Она - святая!</lyrics>
+<hymn_number>616</hymn_number>
+<title>Святая музыка</title>
 </song>

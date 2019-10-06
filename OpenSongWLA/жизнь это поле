@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Вельгус</author>
+<lyrics>[V1]
  1 куплет:
 .     Am                   G
  Ты устал в этой жизни от горя и слез,
@@ -45,8 +46,7 @@
    Семя какое в него погружаешь.
    Но только запомни, плоды будут позже,
    Всё на весы Бог когда-то положит.</lyrics>
-<key>A</key>
-<author>Ольга Вельгус</author>
-<title>Жизнь это поле</title>
 <hymn_number>199</hymn_number>
+<title>Жизнь это поле</title>
+<key>A</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2</hymn_number>
-<author>Они</author>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   Dm
  Терновый венец, кровавые раны
@@ -45,5 +42,8 @@
  И к Богу Живому скорей обратись!
  Он любит, Он ждет! Он тебя искупил!
  И на кресте Кровь святую пролил!</lyrics>
+<author>Они</author>
+<hymn_number>2</hymn_number>
+<key>D</key>
 <title>Она льётся за тебя</title>
 </song>

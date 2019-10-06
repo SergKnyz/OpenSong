@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Светит и в ночи свет Его любви.</aka>
-<hymn_number>3815</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <title>Благ Господь каждый день</title>
+<hymn_number>3815</hymn_number>
+<aka>Светит и в ночи свет Его любви.</aka>
+<author>Дом Евангелия | Краснодар</author>
 <lyrics>[C1]
    Припев:
 .                D    Bm
@@ -39,6 +41,4 @@
  Возвещать о Нем везде.
  Его Слово неизменно,
  Нет на свете помощи верней!</lyrics>
-<key>D</key>
-<author>Дом Евангелия | Краснодар</author>
 </song>

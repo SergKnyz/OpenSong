@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Новый день</title>
-<key>A</key>
-<author>Meorit</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 . A                        G
  Каждым утром просыпаюсь я глаза вновь открываю
@@ -38,5 +35,8 @@
    Новые мысли,новые фразы, новые цели, но все не сразу
 .            D                 E                       A
    Много стараться, лень победить только так день прожить</lyrics>
+<author>Meorit</author>
+<title>Новый день</title>
+<key>A</key>
 <hymn_number>1335</hymn_number>
 </song>

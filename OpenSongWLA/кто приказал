@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Кто приказал</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . G                 C               D
  Кто приказал утром солнцу подняться
 .                            G          C D
@@ -34,4 +32,6 @@
    Чтоб омыть нас от греха, возлюбил нас до креста__
 .    G                            C    D (E)
    Да Он жив сейчас, гробница та пуста!</lyrics>
+<key>G</key>
+<title>Кто приказал</title>
 </song>

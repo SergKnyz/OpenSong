@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Новое поколение, Дон Поттер</author>
-<key>A</key>
 <lyrics>[V1]
  1 куплет:
 .         Am   G/A      Am
@@ -35,5 +34,6 @@
    Не против плоти наша война,
    А против сил и принципов тьмы</lyrics>
 <title>Я сделал выбор</title>
+<key>A</key>
 <hymn_number>1952</hymn_number>
 </song>

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Светлый день</title>
+<key>G</key>
+<hymn_number>1938</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .          G                Em
@@ -47,7 +49,5 @@
    Твой Дух меня пленил__
 .  G          Em     D F#m
    Твой Дух меня пленил</lyrics>
-<key>G</key>
 <author>Imprintband</author>
-<hymn_number>1938</hymn_number>
 </song>

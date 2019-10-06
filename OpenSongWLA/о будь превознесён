@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>627</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G#m</key>
 <title>О будь превознесён</title>
+<hymn_number>627</hymn_number>
+<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  Куплет:
 .   G#m   E     H   F#
@@ -21,6 +23,4 @@
    Хвалу Тебе поём, всю славу воздаём,
 .  H               F#
    О будь превознесён</lyrics>
-<key>G#m</key>
-<author>Виталий Ефремочкин</author>
 </song>

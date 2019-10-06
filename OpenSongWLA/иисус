@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>502</hymn_number>
+<title>Иисус</title>
+<key>B</key>
 <lyrics>[V1]
  Куплет:
 .Hm                       D
@@ -23,7 +25,5 @@
    Славный Бог, выше всего - Иисус, Иисус!
 .   D        Am               Em     G
    На века, назван Царём - Иисус, Иисус!</lyrics>
-<key>B</key>
 <author>Hillsong Ukraine</author>
-<title>Иисус</title>
 </song>

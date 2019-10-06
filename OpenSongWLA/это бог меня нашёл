@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Это Бог меня нашёл</title>
+<hymn_number>116</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .F#m               E       A
  Мне счастья в жизни большего не надо,
@@ -34,7 +37,4 @@
  Ты Добрый Пастырь Избранного Стада,
  Душа моя наполнена Тобой!</lyrics>
 <author>Авана</author>
-<key>A</key>
-<title>Это Бог меня нашёл</title>
-<hymn_number>116</hymn_number>
 </song>

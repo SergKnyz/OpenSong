@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>799</hymn_number>
+<key>E</key>
+<title>Я буду жить с Господом</title>
+<author>Альфа</author>
 <lyrics>[V1]
  1 куплет:
 .     F#m   D    Hm        C#7
@@ -39,7 +42,4 @@
    Концовка:
 .       F#m   D         Hm    E
    На Тебя, Господи уповаем мы!</lyrics>
-<author>Альфа</author>
-<key>E</key>
-<title>Я буду жить с Господом</title>
 </song>

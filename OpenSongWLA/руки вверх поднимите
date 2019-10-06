@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Влад Фонки</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Руки вверх поднимите</title>
 <key>F</key>
+<hymn_number>387</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .F                        C
@@ -39,6 +40,5 @@
    Аллилуйя, Аллилуйя,
 .    Dm7                     Bb
    О, как Свят и Велик наш Бог!!!</lyrics>
-<title>Руки вверх поднимите</title>
-<hymn_number>387</hymn_number>
+<author>Влад Фонки</author>
 </song>

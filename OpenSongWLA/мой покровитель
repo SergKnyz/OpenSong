@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2338</hymn_number>
-<title>Мой Покровитель</title>
-<author>Новое поколение</author>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новое поколение</author>
 <lyrics>[V1]
 .Bb A        Bb     A
  Мой Покровитель - Бог
@@ -29,4 +26,7 @@
 [V4]
 .Dm   Gm  | Gm  |  Bb7 | A7 |
  На - на - на - н__а...</lyrics>
+<key>Bb</key>
+<title>Мой Покровитель</title>
+<hymn_number>2338</hymn_number>
 </song>

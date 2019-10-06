@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Ты моя</title>
+<key>C</key>
+<hymn_number>163</hymn_number>
+<author>Алексей Каратаев</author>
 <lyrics>[V1]
  1 куплет:
 .C       D        Hm       Em
@@ -27,7 +30,4 @@
  Любовь до неба пронести,
  И даже если шторм я верю, мы вдвоем
  С тобою сможем все пройти.</lyrics>
-<author>Алексей Каратаев</author>
-<key>C</key>
-<hymn_number>163</hymn_number>
 </song>

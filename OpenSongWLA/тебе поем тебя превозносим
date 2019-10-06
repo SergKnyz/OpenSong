@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3555</hymn_number>
-<author>Soli Deo Gloria</author>
-<key>Bb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .        Bb             F
  Видимый образ Бога невидимого
@@ -41,5 +38,8 @@
    Подобных нет, подобных нет
 .    Bb      F
    Тебе, Господь</lyrics>
+<author>Soli Deo Gloria</author>
+<hymn_number>3555</hymn_number>
+<key>Bb</key>
 <title>Тебе поем Тебя превозносим</title>
 </song>

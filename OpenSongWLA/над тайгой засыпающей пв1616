@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Над тайгой засыпающей ПВ1616</title>
-<key>B</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Над тайгой засыпающей
  Тихо всходит луна,
  А в дали замирающей
@@ -28,5 +26,7 @@
  Мне напомнил сейчас
  О небесной Отчизне,
  Что готова для нас.</lyrics>
+<title>Над тайгой засыпающей ПВ1616</title>
+<key>B</key>
 <hymn_number>1616</hymn_number>
 </song>

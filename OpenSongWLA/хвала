@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>636</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
 <title>Хвала</title>
+<hymn_number>636</hymn_number>
+<author>Hillsong Ukraine</author>
 <lyrics>[V1]
 .F#      C#   H C#
  Лицо Своё яви
@@ -31,6 +33,4 @@
  Хвала Тебе, наш Господь!
 .F#   C#  D#m H
  Всегда!__</lyrics>
-<author>Hillsong Ukraine</author>
-<key>F#</key>
 </song>

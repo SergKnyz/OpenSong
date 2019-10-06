@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Буду Славить Я (Миллиарды Раз)</aka>
-<hymn_number>2827</hymn_number>
-<title>Прежде того как начался времени бег_</title>
-<key>D</key>
-<author>Hillsong Ukraine, Хиллсонг Уорсхип, Хиллсонг Унитед</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine, Хиллсонг Уорсхип, Хиллсонг Унитед</author>
 <lyrics>[V1]
  КУПЛЕТ: 1
 .D
@@ -120,4 +116,8 @@
  Так неизмерима, Бог, любовь Твоя
 .   F#m           D          A
  Никого Ты не оставишь никогда</lyrics>
+<hymn_number>2827</hymn_number>
+<aka>Буду Славить Я (Миллиарды Раз)</aka>
+<key>D</key>
+<title>Прежде того как начался времени бег_</title>
 </song>

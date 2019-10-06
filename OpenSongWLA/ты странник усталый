@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты странник усталый</title>
-<key>D</key>
-<author>Евгений и Елена Вотчель</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Евгений и Елена Вотчель</author>
 <lyrics>[V1]
  1 куплет:
 .     Dm                   Bb
@@ -49,5 +47,7 @@
  Грешна и пустынна вся наша земля,
  Ведь я дитя Божье, им можешь стать ты,
  Лишь Богу-Отцу поскорей отвори.</lyrics>
+<title>Ты странник усталый</title>
+<key>D</key>
 <hymn_number>6079</hymn_number>
 </song>

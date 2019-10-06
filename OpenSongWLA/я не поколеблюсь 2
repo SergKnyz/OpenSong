@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>188</hymn_number>
+<title>Я не поколеблюсь</title>
+<key>D</key>
+<author>Алексей Каратаев</author>
+<lyrics>[V1]
 .D
  О, Господь! Жертвою святой
  Ты дал мне свет, вывел из тьмы.
@@ -24,8 +28,4 @@
 [V3]
 .G D/F#    A      D
  О-о,  я  не поколеблюсь!</lyrics>
-<key>D</key>
-<author>Алексей Каратаев</author>
-<title>Я не поколеблюсь</title>
-<hymn_number>188</hymn_number>
 </song>

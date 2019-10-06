@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Катя.RU</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>640</hymn_number>
+<key>E</key>
+<title>Если бы не Ты</title>
 <lyrics>[V1]
  1 куплет:
 .Em          C   Am           D
@@ -35,6 +36,5 @@
    Милость Твоя поднимает меня
 .             F        D
    Ближе к Тебе в Небеса</lyrics>
-<title>Если бы не Ты</title>
-<hymn_number>640</hymn_number>
+<author>Катя.RU</author>
 </song>

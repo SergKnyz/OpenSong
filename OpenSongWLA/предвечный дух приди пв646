@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>646</hymn_number>
-<title>Предвечный Дух Приди ПВ646</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Предвечный Дух! Приди,
  И свет любви излей,
  И Царство правды утверди
@@ -30,4 +27,7 @@
  В страданьях за Тебя;
  Как славу, крест Твой принимать
  И петь Тебе, скорбя!</lyrics>
+<hymn_number>646</hymn_number>
+<title>Предвечный Дух Приди ПВ646</title>
+<key>G</key>
 </song>

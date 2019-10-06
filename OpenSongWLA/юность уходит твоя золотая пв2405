@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Юность уходит твоя золотая ПВ2405</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2405</hymn_number>
+<title>Юность уходит твоя золотая ПВ2405</title>
+<key>E</key>
 <lyrics>[V1]
  Юность уходит твоя золотая,
  Юность уходит, а годы бегут.
@@ -34,6 +36,4 @@
  И посвяти Ему юность твою.
  И за это венец ты получишь
  И спасешь душу от смерти свою.</lyrics>
-<key>E</key>
-<hymn_number>2405</hymn_number>
 </song>

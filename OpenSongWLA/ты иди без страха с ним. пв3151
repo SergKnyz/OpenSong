@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3151</hymn_number>
-<aka>Веры щит возьми и в свете</aka>
-<key>Ab</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Веры щит возьми и в свете
  ты иди без страха с ним.
  Излучает свет он ясный
@@ -30,5 +27,8 @@
  в жаркой битве не страшись,
  пользуйся мечом умело
  и с победой возвратись!</lyrics>
+<hymn_number>3151</hymn_number>
+<aka>Веры щит возьми и в свете</aka>
+<key>Ab</key>
 <title>ты иди без страха с ним. ПВ3151</title>
 </song>

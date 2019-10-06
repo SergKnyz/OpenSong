@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>480</hymn_number>
-<title>Книга Жизни</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Если по жизни один, сам себе господин,
  Жизнь побила жестоко,
  Всё, что видишь не так, продаешься за так,
@@ -42,4 +40,6 @@
    Если там для тебя всё понятно и просто,
    Взял твой грех на Голгофе
    Божий Сын на Себя.</lyrics>
+<hymn_number>480</hymn_number>
+<title>Книга Жизни</title>
 </song>

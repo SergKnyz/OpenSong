@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Небеса Небес</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3963</hymn_number>
+<title>Небеса Небес</title>
+<key>C</key>
+<author>Сергей Захлевный</author>
 <lyrics>[V1]
  Куплет
 .C                           G
@@ -46,7 +49,4 @@
 [V5]
 .Am              F      C
  Я иду домой... Иду домой.</lyrics>
-<key>C</key>
-<author>Сергей Захлевный</author>
-<hymn_number>3963</hymn_number>
 </song>

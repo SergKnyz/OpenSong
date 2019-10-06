@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
-<hymn_number>32</hymn_number>
-<aka>В дизайне Божьем нету заблуждения и ошибок нет</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новый Иерусалим</author>
 <lyrics>[V1]
  вступление:
 .Am-G-F F-C F-Am-G-Em F-C
@@ -55,7 +53,9 @@
  Ведь ты - тот, для кого
 .      Dm         Am    Em    F  G  Am G
  Бог отдал на распятие Сына Своего__</lyrics>
-<key>D</key>
-<author>Новый Иерусалим</author>
+<hymn_number>32</hymn_number>
+<aka>В дизайне Божьем нету заблуждения и ошибок нет</aka>
 <title>Божий дизайн</title>
+<key>D</key>
+<time_sig>4/4</time_sig>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Христос Ты в Кане Галилейской ПВ454</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>454</hymn_number>
+<title>Христос Ты в Кане Галилейской ПВ454</title>
+<key>D</key>
 <lyrics>[V1]
  Христос! Ты в Кане Галилейской
  На брачный праздник приходил,
@@ -40,6 +42,4 @@
  Лишь у Тебя, Господь Иисус!
  Облагодатствуй до могилы
  Тобой свершаемый союз.</lyrics>
-<key>D</key>
-<hymn_number>454</hymn_number>
 </song>

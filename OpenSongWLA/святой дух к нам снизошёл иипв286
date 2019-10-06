@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>286</hymn_number>
-<title>Святой Дух к нам снизошёл ИИПВ286</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .        Em
  Святой Дух к нам снизошёл -
 .          B7Em
@@ -31,5 +29,7 @@
 [V5]
  Втанцах мы Тебя, в танцах мы Тебя,
  Втанцах мы Тебя восхвалим.</lyrics>
+<hymn_number>286</hymn_number>
+<title>Святой Дух к нам снизошёл ИИПВ286</title>
 <key>Em</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>626</hymn_number>
-<title>Прошу Не Уходи</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>RealIvanna</author>
 <lyrics>[V1]
  1 куплет:
 .Cm           Bb           Ab   Gsus  G
@@ -49,6 +48,7 @@
    Я не знала как идти
 .               F#m                Ab
    Но на моем пути Твоя любовь рекою жизни льется!</lyrics>
+<title>Прошу Не Уходи</title>
 <key>B</key>
-<author>RealIvanna</author>
+<hymn_number>626</hymn_number>
 </song>

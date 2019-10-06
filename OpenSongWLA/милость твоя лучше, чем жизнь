@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3564</hymn_number>
-<title>Милость Твоя лучше, чем жизнь</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вступление:
 
 [V2]
@@ -22,6 +20,8 @@
  Поклоняюсь Тебе
 .      C#m                Hm
  Ты достоин всей славы и чести</lyrics>
-<key>A</key>
 <author>Алексей Захаренко</author>
+<title>Милость Твоя лучше, чем жизнь</title>
+<key>A</key>
+<hymn_number>3564</hymn_number>
 </song>

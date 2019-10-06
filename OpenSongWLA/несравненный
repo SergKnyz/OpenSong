@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1672</hymn_number>
-<title>Несравненный</title>
-<key>G</key>
-<author>Alaniaworshipband, Генерацио́н 12</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Alaniaworshipband, Генерацио́н 12</author>
 <lyrics>[V1]
  Куплет:
 .G            D Em                 C
@@ -28,4 +25,7 @@
    Бридж:
 .  G      D   Em           C
    Аллилуйя!       Аллилуйя!</lyrics>
+<hymn_number>1672</hymn_number>
+<title>Несравненный</title>
+<key>G</key>
 </song>

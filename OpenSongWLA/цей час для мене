@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1524</hymn_number>
-<title>Цей час для мене</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Hm             A  G           F#
  Цей час для мене, немає сили той, щоб зупинила мене,
@@ -51,6 +49,8 @@
  Як бігуть її сльози, як тече її кров,
  Але хочу біжати, до такої любові,
  Яка вибачає знову і знову.</lyrics>
-<key>B</key>
 <author>Денис Никитин</author>
+<key>B</key>
+<title>Цей час для мене</title>
+<hymn_number>1524</hymn_number>
 </song>

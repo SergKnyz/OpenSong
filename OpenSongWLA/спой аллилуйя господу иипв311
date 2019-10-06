@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>311</hymn_number>
-<title>Спой Аллилуйя Господу ИИПВ311</title>
-<key>Cm</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  Cm      Gm        Cm
  Спой Аллилуйя Господу.
 .  Cm      Gm        Cm G
@@ -22,4 +19,7 @@
  Мывосхваляем Господа.
  СпойАллилуйя. Спой Аллилуйя.
  Мывосхваляем Господа.</lyrics>
+<hymn_number>311</hymn_number>
+<title>Спой Аллилуйя Господу ИИПВ311</title>
+<key>Cm</key>
 </song>

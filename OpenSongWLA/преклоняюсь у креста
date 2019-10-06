@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2340</hymn_number>
-<author>Hillsong Ukraine</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
  Verse 1:
 .C  F2  G  Am7   C   F2  G
@@ -49,4 +47,6 @@
 .   F     Am7    G
    На Кресте все совершил.</lyrics>
 <title>Преклоняюсь у Креста</title>
+<key>C</key>
+<hymn_number>2340</hymn_number>
 </song>

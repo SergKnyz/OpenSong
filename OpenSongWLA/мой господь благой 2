@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мой Господь благой</title>
-<key>C</key>
-<author>Ольга Марина</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .  C    G       D           Am7
  Что хочу, что нужно мне найду в Иисусе
@@ -30,5 +27,8 @@
    Мы жаждем Тебя ещё
    Мы жаждем Тебя ещё
    Тебя ещё</lyrics>
+<author>Ольга Марина</author>
 <hymn_number>1396</hymn_number>
+<key>C</key>
+<title>Мой Господь благой</title>
 </song>

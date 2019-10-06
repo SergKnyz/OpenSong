@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>411</hymn_number>
-<title>Кто кто сии и кем облечены ПВ411</title>
-<key>Eb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Кто, кто сии и кем облечены
  В светлые ризы снежной белизны?
  Их уста хвалой полны,
@@ -42,4 +39,7 @@
  Скорбь их забыта, слез они не льют
  И песнь новую поют:
  &quot;Агнец нас кровью омыл!&quot;</lyrics>
+<hymn_number>411</hymn_number>
+<title>Кто кто сии и кем облечены ПВ411</title>
+<key>Eb</key>
 </song>

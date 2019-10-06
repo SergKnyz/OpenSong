@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4842</hymn_number>
-<title>Песня мудрецов</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Песня мудрецов</title>
 <key>Bb</key>
-<author>Новая Земля церковь г. Минск</author>
+<hymn_number>4842</hymn_number>
 <lyrics>[V1]
  1 куплет:
 . Bbm          Gb          Ebm            Bbm
@@ -44,4 +43,5 @@
    Ты святой, Бог всего! У Твоих ног поклоняюсь
 .    Gb       Db               Ab
    Славу Тебе сердцем воздам вовек</lyrics>
+<author>Новая Земля церковь г. Минск</author>
 </song>

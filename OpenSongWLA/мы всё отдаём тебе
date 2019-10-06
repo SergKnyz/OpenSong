@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мы всё отдаём Тебе</title>
-<author>Hillsong Ukraine</author>
-<key>G</key>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .  G
    Мы всё отдаём Тебе, Тебе.
@@ -49,5 +46,8 @@
    Путь наш и истина и жизнь..
 .  Am           G           D
    Мы жизнью своей Тебя почтим, Ты освободил нас, освободил нас.</lyrics>
+<author>Hillsong Ukraine</author>
 <hymn_number>983</hymn_number>
+<key>G</key>
+<title>Мы всё отдаём Тебе</title>
 </song>

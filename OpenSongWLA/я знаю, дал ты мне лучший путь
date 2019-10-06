@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Верю я</aka>
-<hymn_number>499</hymn_number>
-<title>Я знаю, дал Ты мне лучший путь</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Em                  E7sus   C   D
  Я знаю, дал Ты мне лучший путь,
@@ -26,5 +23,8 @@
 .     G                                C
    Вовеки, вовеки, Тебя вовеки славлю я.</lyrics>
 <author>Hillsong Ukraine</author>
+<title>Я знаю, дал Ты мне лучший путь</title>
 <key>E</key>
+<aka>Верю я</aka>
+<hymn_number>499</hymn_number>
 </song>

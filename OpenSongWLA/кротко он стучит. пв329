@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>329</hymn_number>
-<aka>В дверь твою Иисус стучит</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>В дверь твою Иисус стучит</aka>
+<hymn_number>329</hymn_number>
+<key>D</key>
+<title>Кротко Он стучит. ПВ329</title>
 <lyrics>[V1]
  В дверь твою Иисус стучит,
  Кротко Он стучит.
@@ -39,6 +41,4 @@
  Ты предстанешь пред судом;
  Примирись теперь с Христом;
  Сердца дверь открой.</lyrics>
-<key>D</key>
-<title>Кротко Он стучит. ПВ329</title>
 </song>

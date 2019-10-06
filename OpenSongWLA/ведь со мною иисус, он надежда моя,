@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Ведь со мною Иисус, Он надежда моя,</title>
+<key>A</key>
+<aka>Есть много дорог, и много путей,</aka>
+<hymn_number>1209</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am                           Dm
@@ -28,7 +31,4 @@
  Пусть, темно впереди, и бушует гроза,
  Знаю со мной Иисус, Он победа моя.</lyrics>
 <author>Сіон</author>
-<key>A</key>
-<aka>Есть много дорог, и много путей,</aka>
-<hymn_number>1209</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Новое поколение</author>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет1
 .Dm
  Улыбайтесь Небеса,
@@ -30,6 +28,8 @@
 
 [V4]
  Э - э - эй!</lyrics>
+<author>Новое поколение</author>
+<key>D</key>
 <title>Наш Бог Вечный</title>
 <hymn_number>2349</hymn_number>
 </song>

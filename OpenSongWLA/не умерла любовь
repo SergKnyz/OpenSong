@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Не умерла любовь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2925</hymn_number>
+<title>Не умерла любовь</title>
+<key>G</key>
+<author>Дарина Кочанжи</author>
 <lyrics>[V1]
  1 куплет:
 .Gm          F/A   Bb
@@ -37,7 +40,4 @@
 
 [V4]
  Проигрыш:</lyrics>
-<author>Дарина Кочанжи</author>
-<key>G</key>
-<hymn_number>2925</hymn_number>
 </song>

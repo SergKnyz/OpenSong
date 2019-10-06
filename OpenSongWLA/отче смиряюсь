@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Отче смиряюсь</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .E  F#m   H7E   E       F#m    H7E
  Отче смиряюсь, жизнь Тебе посвящаю,
 .E  F#mH7E E    F#mH7E
@@ -15,4 +13,6 @@
  Дух Святой, смиряюсь,
  Жизнь Тебе посвящаю,
  Люблю Тебя!</lyrics>
+<key>E</key>
+<title>Отче смиряюсь</title>
 </song>

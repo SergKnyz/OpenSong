@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1368</hymn_number>
-<aka>Отец, Пред Тобою предстоим</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В духе радостном.
  Отец, Пред Тобою предстоим
  И за пищу от сердец
@@ -13,4 +11,6 @@
  Мы хвалу Тебе несем.</lyrics>
 <key>F</key>
 <title>В духе радостном ПВ1368</title>
+<hymn_number>1368</hymn_number>
+<aka>Отец, Пред Тобою предстоим</aka>
 </song>

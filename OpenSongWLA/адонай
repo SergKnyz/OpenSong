@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Адонай</title>
-<key>G#m</key>
-<author>Маханаим</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G#m                   H
  Кто сей Царь славы, Господь великий
@@ -29,6 +26,9 @@
  В праведны руки, возложен венец
  Бог в своём Сыне послал оправдание
  Вернул в Свою обитель заблудших овец.</lyrics>
+<author>Маханаим</author>
 <aka>Кто сей Царь славы</aka>
 <hymn_number>348</hymn_number>
+<title>Адонай</title>
+<key>G#m</key>
 </song>

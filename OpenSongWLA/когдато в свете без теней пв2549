@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2549</hymn_number>
-<title>Когдато в свете без теней ПВ2549</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Когдато в свете без теней ПВ2549</title>
+<key>Ab</key>
+<hymn_number>2549</hymn_number>
 <lyrics>[V1]
  Когда-то в свете без теней,
  не здесь, а там в краю родном,
@@ -29,5 +30,4 @@
  Он нас ведет в небесный дом...
  Там зноя нет, ни грозных туч,
  там свет и мир, там все поймем.</lyrics>
-<key>Ab</key>
 </song>

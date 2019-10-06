@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3864</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <title>Во имя Христа</title>
-<author>Ксения Лапицкая</author>
-<key>E</key>
+<hymn_number>3864</hymn_number>
 <lyrics>[V1]
 .Em                          C
  1.Во имя Христа возлюби справедливость,
@@ -51,4 +50,5 @@
  За веру твою Он нечестье низложит.
  Молись и не бойся, да просят уста:
  «Спаси меня, Боже, во имя Христа!»</lyrics>
+<author>Ксения Лапицкая</author>
 </song>

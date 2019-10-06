@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бог живой</title>
-<key>C#m</key>
-<author>A-SIDE</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .C#m  A H C#m
  День когда Любовь мы предали
@@ -32,6 +29,9 @@
    Кто на кресте был сломлен
 .  C#m H A
    Воскрес и править миром стал</lyrics>
+<author>A-SIDE</author>
+<key>C#m</key>
+<title>Бог живой</title>
 <aka>День когда Любовь мы предали</aka>
 <hymn_number>2773</hymn_number>
 </song>

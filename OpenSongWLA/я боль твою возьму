@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я боль твою возьму</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Я боль твою возьму</title>
+<hymn_number>551</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .         Am       G              F   A
@@ -28,6 +30,4 @@
  Я боль твою возьму и скоро Я умру
  Насмешки Я терплю и жизнь Свою даю за то что люблю</lyrics>
 <author>Сергей Брикса</author>
-<key>A</key>
-<hymn_number>551</hymn_number>
 </song>

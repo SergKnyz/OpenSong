@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4167</hymn_number>
-<title>Ты Один Святой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Reallife band</author>
 <lyrics>[V1]
  1 куплет:
 .Am        F                G        Em
@@ -43,5 +42,6 @@
 .   G             Em
    Ты Один Святой!</lyrics>
 <key>A</key>
-<author>Reallife band</author>
+<title>Ты Один Святой</title>
+<hymn_number>4167</hymn_number>
 </song>

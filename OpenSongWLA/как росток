@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1195</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
 <title>Как росток</title>
-<key>Ab</key>
-<author>Спасение церковь г. Вишневое</author>
+<hymn_number>1195</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .        Ab       Eb       Ab  Eb/G Fm
@@ -34,4 +33,5 @@
  Праведник, Раб Мой, оправдает многих.
  И к великим, сильным Он причтён Главой,
  Праведник, Раб Мой, оправдает всех.</lyrics>
+<author>Спасение церковь г. Вишневое</author>
 </song>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2135</hymn_number>
+<key>B</key>
 <title>К свободе призваны</title>
+<author>Краеугольный камень</author>
 <lyrics>[V1]
  1 куплет:
  Кто ты? Куда идешь?
@@ -29,6 +31,4 @@
  1,2.
 .Em|D|Am|Em|Em|D|F#|H:||
  Пр.</lyrics>
-<key>B</key>
-<author>Краеугольный камень</author>
 </song>

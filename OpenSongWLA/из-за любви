@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<key>G</key>
 <lyrics>[V1]
  1 куплет:
 . G       A/C#       D
@@ -48,6 +47,7 @@
    Ведь они сейчас во тьме
 .  D             E             F#m
    Но пусть их крест ведёт к Тебе.</lyrics>
+<key>G</key>
 <title>Из-за любви</title>
 <hymn_number>1010</hymn_number>
 </song>

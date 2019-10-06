@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2369</hymn_number>
-<title>Не убоюсь никого</title>
 <key>G</key>
-<author>Алексей Захаренко</author>
+<title>Не убоюсь никого</title>
 <lyrics>[V1]
  1 куплет:
 .   Gm              Eb
@@ -44,4 +43,5 @@
  О - у - о - о - о, о - у - о - о - о
 .             Gm           Eb
  О - у - о - о - о - о - о - о - о</lyrics>
+<author>Алексей Захаренко</author>
 </song>

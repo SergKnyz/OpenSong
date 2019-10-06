@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Нелли &amp;Галя</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет
 .Am  F Dm  E Am
  Взглянь на крест, где Божий Сын и за тебя был распят
@@ -20,7 +18,9 @@
 [V4]
  Человек, склонись к ногам Иисуса ты,
  Попроси, прощение за свои грехи.</lyrics>
-<title>Посмотри, ведь грех наказан, чтобы ожил ты</title>
-<hymn_number>2950</hymn_number>
+<author>Нелли &amp;Галя</author>
 <aka>Взглянь на крест, где Божий Сын и за тебя был распят</aka>
+<hymn_number>2950</hymn_number>
+<key>A</key>
+<title>Посмотри, ведь грех наказан, чтобы ожил ты</title>
 </song>

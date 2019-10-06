@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Увидеть Бога</title>
-<author>Светлана Малова</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Увидеть Бога</title>
+<hymn_number>2241</hymn_number>
 <lyrics>[V1]
  Вст
 
@@ -45,5 +45,5 @@
 [V6]
 .  A             H       C#
  Увидеть Бога, остаться с Ним</lyrics>
-<hymn_number>2241</hymn_number>
+<author>Светлана Малова</author>
 </song>

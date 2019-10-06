@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1933</hymn_number>
-<key>B</key>
-<author>4U Band</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>4U Band</author>
 <lyrics>[V1]
  Куплет:
 .       H
@@ -34,5 +32,7 @@
    Здесь - Твоё царство, здесь - Твоя сила
 .  G#m                  D#m
    Здесь - Твоя Слава вовеки, аминь!</lyrics>
+<key>B</key>
 <title>Царь славы</title>
+<hymn_number>1933</hymn_number>
 </song>

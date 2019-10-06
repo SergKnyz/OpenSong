@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>372</hymn_number>
-<title>Отец Сын и Дух Святой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Грудинский</author>
 <lyrics>[V1]
 .Am                 F
  Поднимаю очи в небо и смотрю с надеждой я
@@ -30,6 +29,7 @@
    Отец и Сын и Дух Святой
 .          F     G      Am
    Отец и Сын и Дух Святой</lyrics>
-<author>Алексей Грудинский</author>
+<title>Отец Сын и Дух Святой</title>
 <key>A</key>
+<hymn_number>372</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>460</hymn_number>
-<title>Господь говорил</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Господь говорил, Я иду приготовить вам дом,
  Чтоб там, где Я буду, и вы навсегда со Мной были.
  И заповедь новую дал, чтоб друг друга любили
@@ -38,4 +36,6 @@
 
 [C2]
    Чтоб слезы отер, что бы руки свои подложил.</lyrics>
+<hymn_number>460</hymn_number>
+<title>Господь говорил</title>
 </song>

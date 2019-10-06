@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>795</hymn_number>
-<key>F#</key>
-<author>Альфа</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Альфа</author>
 <lyrics>[V1]
  1 куплет:
 .  F#m          D      A         E
@@ -36,5 +34,7 @@
  И что-то жгет в груди от прошлой жизни дней,
  О, друг мой дорогой, послушай ты меня,
  Ты помни и люби всех своих друзей!</lyrics>
+<key>F#</key>
 <title>На всё воля Божья</title>
+<hymn_number>795</hymn_number>
 </song>

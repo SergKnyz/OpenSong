@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2267</hymn_number>
-<title>Я радуюсь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Открытое небо</author>
 <lyrics>[V1]
  Бывают в жизни радости,
  Бывает в жизни грусть - Это наша жизнь!
@@ -35,5 +34,6 @@
 [V4]
  Которая есть у Бога Моего,
  Жаль, если в этой Книге нет тебя.</lyrics>
-<author>Открытое небо</author>
+<hymn_number>2267</hymn_number>
+<title>Я радуюсь</title>
 </song>

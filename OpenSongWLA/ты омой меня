@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>191</hymn_number>
+<key>C</key>
+<title>Ты омой меня</title>
+<lyrics>[V1]
  Омой меня от неправды и от греха очисти (Псалтирь 50:4)
  Очисти меня иссопом, и буду чист;
  омой меня, и стану белее снега. (Псалтирь 50:9)
@@ -22,7 +25,4 @@
    Чистый и святой.
 .             C   G    C
    Я буду чистой и святой</lyrics>
-<key>C</key>
-<title>Ты омой меня</title>
-<hymn_number>191</hymn_number>
 </song>

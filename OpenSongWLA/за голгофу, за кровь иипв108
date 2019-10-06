@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Благодарю Тебя, Иисус</aka>
-<hymn_number>108</hymn_number>
-<title>За Голгофу, за кровь ИИПВ108</title>
-<key>D</key>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
 .     D    A   Bm
    Благодарю Тебя, Иисус,
 .      G   D    Em      A
@@ -35,4 +31,8 @@
  Чудный сказочный лес.
  За ликование птиц,
  За Слово с вечных страниц.</lyrics>
+<hymn_number>108</hymn_number>
+<aka>Благодарю Тебя, Иисус</aka>
+<key>D</key>
+<title>За Голгофу, за кровь ИИПВ108</title>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Матт анд Бетх Редман</author>
-<key>A</key>
-<copyright>2002 Тханкыоу Мусиц</copyright>
 <lyrics>[V1]
  Куплет 1:
 .A      E       F#m  D
@@ -62,7 +60,9 @@
    Он всё мне в жизни дал!
 .   A    E   F#m      D
    И я пою теперь: будь благословен!</lyrics>
-<title>Будь благословен</title>
 <hymn_number>2334</hymn_number>
 <aka>Будь благословен на земле изобилия,</aka>
+<key>A</key>
+<title>Будь благословен</title>
+<copyright>2002 Тханкыоу Мусиц</copyright>
 </song>

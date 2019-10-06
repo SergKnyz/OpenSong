@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Творцы истории</title>
+<key>A</key>
+<hymn_number>2546</hymn_number>
+<author>Hillsong Ukraine</author>
+<lyrics>[V1]
  1 куплет:
 .------- Am  ------------- Fmaj7
  Разве   мо__жет быть, ч___то молитвами
@@ -40,8 +44,4 @@
  Да, это так!
  Мы в это верим!
  Живём для Тебя.</lyrics>
-<author>Hillsong Ukraine</author>
-<key>A</key>
-<title>Творцы истории</title>
-<hymn_number>2546</hymn_number>
 </song>

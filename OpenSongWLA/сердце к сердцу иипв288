@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>288</hymn_number>
-<title>Сердце к сердцу ИИПВ288</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  D       Bm                  Em
  Сердце к сердцу, братья мы, братья
 .      A               A7
@@ -13,5 +11,7 @@
  Одна течёт в нас кровь.
 .    Em           A         D
  Мы дети семьи единой: ты и я.</lyrics>
+<hymn_number>288</hymn_number>
 <key>D</key>
+<title>Сердце к сердцу ИИПВ288</title>
 </song>

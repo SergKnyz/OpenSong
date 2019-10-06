@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4980</hymn_number>
-<author>Новая Земля церковь г. Минск</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новая Земля церковь г. Минск</author>
 <lyrics>[V1]
  1 куплет:
 .  A                D         A
@@ -46,4 +44,6 @@
  Ему вся власть и честь принадлежит.
  Ему вся власть и честь принадлежит.</lyrics>
 <title>Святая ночь</title>
+<key>A</key>
+<hymn_number>4980</hymn_number>
 </song>

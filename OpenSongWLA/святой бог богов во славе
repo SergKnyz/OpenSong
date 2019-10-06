@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1394</hymn_number>
-<title>Святой Бог богов во славе</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Dm    Dm/C       Am            Gm
  Бог всего, я склонюсь к Твоим ногам
@@ -33,6 +31,8 @@
    Мост:
 .  H              F               A Gm
    Славу Бога моего я чувствую здесь</lyrics>
-<key>D</key>
 <author>Ольга Марина, Виталий Ефремочкин</author>
+<title>Святой Бог богов во славе</title>
+<key>D</key>
+<hymn_number>1394</hymn_number>
 </song>

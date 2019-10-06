@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Жизнь свою Тебе я отдаю</title>
+<key>A</key>
+<hymn_number>468</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .Am         F             C G
  Вот я, Господь, перед Тобою
@@ -26,8 +29,5 @@
    Возьми меня и всё, чем я живу,
 .       Am  F      C G
    Ты достоин, достоин!</lyrics>
-<key>A</key>
 <author>Слово Жизни Music</author>
-<title>Жизнь свою Тебе я отдаю</title>
-<hymn_number>468</hymn_number>
 </song>

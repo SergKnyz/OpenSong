@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5450</hymn_number>
-<title>Дай нам веры в Тебя</title>
-<author>Nina Kovaleva</author>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Em
  Я однажды проснусь, а вокруг мир другой.
@@ -37,4 +33,8 @@
  Вдруг прозрел - от младенца до старца.
  Я о том ежедневно у Бога прошу,
  Чтоб помог нам в себе разобраться.</lyrics>
+<author>Nina Kovaleva</author>
+<title>Дай нам веры в Тебя</title>
+<key>E</key>
+<hymn_number>5450</hymn_number>
 </song>

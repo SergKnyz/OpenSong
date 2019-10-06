@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1450</hymn_number>
-<author>Joyyouth Worship</author>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . D      Em      Hm         G
  Рождество нам даровано давно
 . D     Em        Hm           G
@@ -20,5 +17,8 @@
  Кто сравнится с Ним? Возвестим другим
 .        G
  Поздравляем мы Царя!</lyrics>
+<author>Joyyouth Worship</author>
+<hymn_number>1450</hymn_number>
+<key>D</key>
 <title>Рождество</title>
 </song>

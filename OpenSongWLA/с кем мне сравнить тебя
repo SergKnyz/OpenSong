@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2528</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <title>С кем мне сравнить Тебя</title>
+<hymn_number>2528</hymn_number>
+<author>Jesus Culture</author>
 <lyrics>[V1]
  VERSE1
 
@@ -81,6 +83,4 @@
 [V11]
  Б: Ты - Путь, Иисус,
  и Истина, Ты - Жизнь моя</lyrics>
-<key>G</key>
-<author>Jesus Culture</author>
 </song>

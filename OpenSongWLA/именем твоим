@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Именем Твоим</title>
-<author>Виталий Ефремочкин</author>
-<key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  1 куплет:
 .       F#m       D        E
@@ -50,5 +48,7 @@
    Только Иисус - Избавитель угнетенных,
 .               D                  E
    Что нужно мне, все из Имени Твоем!</lyrics>
+<key>F#</key>
+<title>Именем Твоим</title>
 <hymn_number>137</hymn_number>
 </song>

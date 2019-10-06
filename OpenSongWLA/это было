@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>276</hymn_number>
-<title>Это было</title>
-<key>B</key>
-<author>Эдем</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Эдем</author>
 <lyrics>[V1]
  1 куплет:
 .Hm                          F#/A#
@@ -41,4 +38,7 @@
    Для тебя Иисус родился в ночь на Рождество,
 .      Dm7            C/E            F           G
    Он ждёт тебя, Он ждёт тебя, Он ждёт тебя давно.</lyrics>
+<hymn_number>276</hymn_number>
+<title>Это было</title>
+<key>B</key>
 </song>

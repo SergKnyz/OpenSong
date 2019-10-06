@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Путь Христа церковь, г. Нюрнберг</author>
-<key>D</key>
 <lyrics>[V1]
  1.
 . Dm                 Gm
@@ -35,6 +34,7 @@
 
 [C2]
    Припев: ...</lyrics>
-<title>Как же не любить Тебя, мой</title>
 <hymn_number>3127</hymn_number>
+<title>Как же не любить Тебя, мой</title>
+<key>D</key>
 </song>

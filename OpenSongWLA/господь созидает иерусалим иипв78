@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>78</hymn_number>
-<title>Господь созидает Иерусалим ИИПВ78</title>
-<key>Dm</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .   Dm            Gm
  Господь созидает Иерусалим,
 .     A            Dm
@@ -14,4 +11,7 @@
  Господь созидает, Господь созидает
 .        A A7Dm
  Свой Иерусалим.</lyrics>
+<hymn_number>78</hymn_number>
+<title>Господь созидает Иерусалим ИИПВ78</title>
+<key>Dm</key>
 </song>

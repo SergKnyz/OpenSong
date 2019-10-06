@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3369</hymn_number>
-<title>Мой в небе край родной</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мой в небе край родной</title>
+<key>E</key>
+<hymn_number>3369</hymn_number>
+<author>Simon Khorolskiy</author>
 <lyrics>[V1]
  1 куплет:
 . Em                      H         Em
@@ -31,6 +33,4 @@
  Мой дух туда влечет, мой в небе дом!
  Там буду ликовать, Иисуса воспевать
  Перед Его лицом, мой в небе дом!</lyrics>
-<key>E</key>
-<author>Simon Khorolskiy</author>
 </song>

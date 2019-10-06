@@ -1,10 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
-<lyrics>[V1]
- Благодать Господа Иисуса Христа,
- И любовь Бога Отца,
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+.   Dm(Bb)      Bb(C)    C      Dm
+ // Благодать Господа Иисуса Христа, //
+.     Gm           C
+ // И любовь Бога Отца,
+.  F                Dm
  И общение Святого Духа
+.    Gm      A
  Да будет с нами.
- Аминь.</lyrics>
-<title>Благодать Господа Иисуса Христа ПВ693</title>
+.Dm
+ Аминь. //</lyrics>
 <hymn_number>693</hymn_number>
+<key>Eb</key>
+<title>Благодать Господа Иисуса Христа ПВ693</title>
 </song>

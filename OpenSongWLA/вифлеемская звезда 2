@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Вифлеемская звезда</title>
+<key>F#</key>
+<hymn_number>2270</hymn_number>
+<aka>Зимней ночью, когда снег летит с небес,</aka>
+<author>Открытое небо</author>
+<lyrics>[V1]
  1 куплет:
 .F#m                   E
  Зимней ночью, когда снег летит с небес,
@@ -45,8 +50,4 @@
    Ты подними глаза.
 .          C
    И посмотри.</lyrics>
-<key>F#</key>
-<author>Открытое небо</author>
-<title>Вифлеемская звезда</title>
-<hymn_number>2270</hymn_number>
 </song>

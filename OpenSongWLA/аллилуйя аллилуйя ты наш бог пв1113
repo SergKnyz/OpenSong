@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
+<title>Аллилуйя Аллилуйя Ты наш Бог ПВ1113</title>
+<hymn_number>1113</hymn_number>
+<aka>В благодати Ты велик в милосердьи терпелив</aka>
+<lyrics>[V1]
 .   Em(G)         B(D)           Em(G)
  // Аллилуйя! Аллилуйя! Ты - наш Бог! //
 
@@ -28,7 +32,4 @@
 [C4]
    // Жизнь и силу Ты даешь, Духом к небу нас влечешь.
    Аллилуйя! Аллилуйя, Дух Святой! //</lyrics>
-<key>Em</key>
-<title>Аллилуйя Аллилуйя Ты наш Бог ПВ1113</title>
-<hymn_number>3526</hymn_number>
 </song>

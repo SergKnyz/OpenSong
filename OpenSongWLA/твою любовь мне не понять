@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1729</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <title>Твою любовь мне не понять</title>
+<hymn_number>1729</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .   Am                 F
@@ -29,5 +30,4 @@
  Но знаю Ты осветишь путь
  И буду я Тебя лишь славить.</lyrics>
 <author>Игорь Яловец</author>
-<key>A</key>
 </song>

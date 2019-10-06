@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4600</hymn_number>
-<title>Зона комфорта</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Привыкли жить в зоне комфорта
  Обычные люди, обычные судьбы...
  Привыкли видеть те же картины
@@ -29,4 +27,6 @@
    Туда рвется сердце, наше сердце
    Где-то есть та земля,
    Где нам с тобой место, наше место</lyrics>
+<hymn_number>4600</hymn_number>
+<title>Зона комфорта</title>
 </song>

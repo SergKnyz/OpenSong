@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Виталий Ефремочкин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  Куплет:
 .         H          F#         E
@@ -29,5 +28,6 @@
 .   E    F#          G#m H
    Когда умер на кресте.</lyrics>
 <title>Свобода</title>
+<key>B</key>
 <hymn_number>987</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>314</hymn_number>
-<title>Существует понимание ИИПВ314</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D.          A/C#
  Существует понимание,
 .Bm.         F#m/A
@@ -27,5 +25,7 @@
  Залюбовь, и путь, и пищу
  Иза то, что Ты ведёшь нас,
  МыТебя благодарим.</lyrics>
+<hymn_number>314</hymn_number>
+<title>Существует понимание ИИПВ314</title>
 <key>G</key>
 </song>

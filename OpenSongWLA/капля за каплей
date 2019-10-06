@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>401</hymn_number>
-<author>Skeemen</author>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Skeemen</author>
 <lyrics>[V1]
  1 куплет:
 .G     Hm      A               Em
@@ -51,5 +49,7 @@
    Сила приходит, льётся с небес.
 .    F#
    Время настало время чудес!</lyrics>
+<key>B</key>
 <title>Капля за каплей</title>
+<hymn_number>401</hymn_number>
 </song>

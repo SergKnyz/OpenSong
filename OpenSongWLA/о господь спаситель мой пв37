@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>37</hymn_number>
-<title>О Господь Спаситель мой ПВ37</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>О Господь Спаситель мой ПВ37</title>
+<key>A</key>
+<hymn_number>37</hymn_number>
 <lyrics>[V1]
  О Господь, Спаситель мой!
  Льну к Тебе я всей душой-,
@@ -39,5 +40,4 @@
  А с Тобою неба сын;
  О, владей же Ты один
  :,:Телом, сердцем и душой.:,:</lyrics>
-<key>A</key>
 </song>

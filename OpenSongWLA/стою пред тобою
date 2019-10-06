@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2492</hymn_number>
-<title>Стою пред Тобою</title>
-<key>G</key>
-<author>Alex Terlyukevich</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Alex Terlyukevich</author>
 <lyrics>[V1]
  1-ый куплет:
 
@@ -34,4 +31,7 @@
  И на него я поспешил.
 .G            Em              C       D
  Буду вечно славить, твое имя прославлять!</lyrics>
+<title>Стою пред Тобою</title>
+<key>G</key>
+<hymn_number>2492</hymn_number>
 </song>

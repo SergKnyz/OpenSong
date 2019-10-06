@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>516</hymn_number>
 <title>Я в Тебе</title>
+<key>A</key>
+<author>Филипп Реннер</author>
 <lyrics>[V1]
 .Am7                Fmaj7
  Я в Тебе, Иисус, Ты во мне, мой Бог,
@@ -20,6 +22,4 @@
    Побежденный грех
 .   F        Am Gsus
    Не имеет сил.</lyrics>
-<key>A</key>
-<author>Филипп Реннер</author>
 </song>

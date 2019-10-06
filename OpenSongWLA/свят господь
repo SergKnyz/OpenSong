@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2555</hymn_number>
+<key>E</key>
+<title>Свят Господь</title>
+<author>Евгений Шода</author>
+<lyrics>[V1]
  1 куплет:
 .Em                C
  Сердце открываю: Дух Святой, наполни,
@@ -50,8 +54,4 @@
    Только Ты мне душу исцелил и дал покой.
 .  F#m    Hm     E                         C#m
    Все мечты: ближе быть к Тебе, Спаситель мой.</lyrics>
-<key>E</key>
-<author>Евгений Шода</author>
-<title>Свят Господь</title>
-<hymn_number>2555</hymn_number>
 </song>

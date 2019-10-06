@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я буду славить</title>
-<author>Спасение церковь г. Вишневое</author>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .F                      Dm
  Я так люблю, когда Ты рядом со мной.
@@ -27,5 +24,8 @@
  Запев:
 .      F        Dm         Bb  Dm     C
  Аллилуйя, Аллилуйя, Аллилуйя, Аллилуйя!</lyrics>
+<author>Спасение церковь г. Вишневое</author>
+<key>F</key>
+<title>Я буду славить</title>
 <hymn_number>570</hymn_number>
 </song>

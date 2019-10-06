@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2241</hymn_number>
-<author>Марина Левина</author>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Псалом 41:3
 .G                            E
  Жаждет душа моя к Богу крепкому,
@@ -36,5 +33,8 @@
  Царствует Иисус Христос во век!  (3р)
 . Am          G             E         (G  E)
  Царствует Иисус Христос во век! ( во ве__к!)</lyrics>
+<author>Марина Левина</author>
+<key>G</key>
 <title>Жаждет душа моя к Богу</title>
+<hymn_number>2241</hymn_number>
 </song>

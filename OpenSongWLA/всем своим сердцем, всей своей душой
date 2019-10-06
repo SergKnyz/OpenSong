@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Всем своим сердцем, всей своей душой</title>
-<key>Em</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em          D        A
  Всем своим сердцем, всей своей душой
 .Em           D   A
@@ -26,4 +24,6 @@
  Каждый день Тебя я познаю.
  Пред Тобой склоняюсь, сердце отдаю.
  Всей своей душой Тебя люблю.</lyrics>
+<key>Em</key>
+<title>Всем своим сердцем, всей своей душой</title>
 </song>

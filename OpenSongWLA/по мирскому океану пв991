@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>991</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  По мирскому океану
  Мы стремимся к небесам,
  Мы плывем к Отчизне новой.
@@ -22,6 +21,7 @@
  Время мчится, ждать нельзя.
  Скоро, скоро бросим якорь
  - Разгорается заря.</lyrics>
-<key>Bb</key>
 <title>По мирскому океану ПВ991</title>
+<key>Bb</key>
+<hymn_number>991</hymn_number>
 </song>

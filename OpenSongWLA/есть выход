@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4122</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Am                F
  1. Где ложь и суета, предательство и боль,
 .Dm              E            Am
@@ -36,6 +35,7 @@
 [V3]
  Припев.</lyrics>
 <author>Владимир Скобочкин</author>
-<key>A</key>
+<hymn_number>4122</hymn_number>
 <title>Есть выход!</title>
+<key>A</key>
 </song>

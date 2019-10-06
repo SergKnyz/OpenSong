@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2396</hymn_number>
-<title>Песнь Есфири</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Мне нет покоя в царственных чертогах
  И страх и ужас, и грядет конец
  О чем мы провинились перед Богом
@@ -39,4 +37,6 @@
  Я вижу нежный, добрый взгляд его
  Какое счастье принесла беседа
  Спасенье для народа моего.</lyrics>
+<title>Песнь Есфири</title>
+<hymn_number>2396</hymn_number>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Светлана Луценко</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Светлана Луценко</author>
 <lyrics>[V1]
  На кресте Голгофском, мой Иисус страдал.      Am,Em
  За меня, за грех мой кровь Он проливал.            G, D
@@ -29,6 +28,7 @@
  назад не повернусь я Бог мой, никогда.
  Мне тот мир не нужен полный зла, греха.
  Служить я буду Богу, с верой до конца.</lyrics>
+<key>A</key>
 <title>Каюсь</title>
 <hymn_number>2075</hymn_number>
 </song>

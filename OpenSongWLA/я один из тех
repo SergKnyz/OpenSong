@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Демидович</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2002</hymn_number>
 <key>C</key>
+<title>Я один из тех</title>
 <lyrics>[V1]
  1 куплет:
 .          Cm   D         Gm
@@ -35,6 +36,5 @@
  Я один из тех, кто любит Тебя.
  Я один из тех, кто с Тобой будет вместе
  В Царстве Небесном вовеки веков.</lyrics>
-<title>Я один из тех</title>
-<hymn_number>2002</hymn_number>
+<author>Сергей Демидович</author>
 </song>

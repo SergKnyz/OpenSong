@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Опять опять упадок полный ПВ1437</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1437</hymn_number>
+<title>Опять опять упадок полный ПВ1437</title>
+<key>G</key>
 <lyrics>[V1]
  Опять, опять упадок полный.
  Сомненье духа, в сердце зной.
@@ -34,6 +36,4 @@
  Твоею кровью и огнем,
  Я всем погибшим и спасенным
  Пел о величии Твоем.</lyrics>
-<key>G</key>
-<hymn_number>1437</hymn_number>
 </song>

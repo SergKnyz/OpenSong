@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4097</hymn_number>
-<author>Краеугольный Камень Церковь г. Новосибирск, Оутбреакбанд</author>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Краеугольный Камень Церковь г. Новосибирск, Оутбреакбанд</author>
 <lyrics>[V1]
  1 куплет:
 .         G              D
@@ -32,5 +30,7 @@
    И с тем венцом терновым
 .         Em            G
    Стал Иисус царем навеки!</lyrics>
+<hymn_number>4097</hymn_number>
 <title>Тебе слава, слава</title>
+<key>G</key>
 </song>

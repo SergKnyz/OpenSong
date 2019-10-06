@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3281</hymn_number>
-<author>Planetshakers, Планетсхакерс</author>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .D             D/F#  G
  Всю жизнь принесу к Твоим ногам
@@ -50,5 +47,8 @@
    Мы ждем, поклоняясь мы жаждем с хвалой
 .            Hm         Asus
    Ворвись в мое сердце присутствием вновь</lyrics>
+<author>Planetshakers, Планетсхакерс</author>
+<key>D</key>
 <title>Я, восхищенный</title>
+<hymn_number>3281</hymn_number>
 </song>

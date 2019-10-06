@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Одна листва одна листва ПВ966</title>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Одна листва, одна листва
  От всех твоих трудов.
  Где плод посева твоего?
@@ -39,5 +37,7 @@
  Я буду радостным всегда.
  Тогда на небеса
  Приду с плодом.</lyrics>
+<title>Одна листва одна листва ПВ966</title>
+<key>F</key>
 <hymn_number>966</hymn_number>
 </song>

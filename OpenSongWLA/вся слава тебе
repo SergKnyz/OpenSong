@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>53</hymn_number>
-<title>Вся слава Тебе</title>
-<key>B</key>
-<author>Слово Жизни Music</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
 <lyrics>[V1]
  1 Куплет:
 .Hm                    G      A
@@ -37,4 +34,7 @@
    Будем славить, Он великий,
 .          A          G
    Будем славить, Он Бог.</lyrics>
+<hymn_number>53</hymn_number>
+<key>B</key>
+<title>Вся слава Тебе</title>
 </song>

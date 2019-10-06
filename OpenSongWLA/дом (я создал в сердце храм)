@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2108</hymn_number>
-<title>Дом (Я создал в сердце храм)</title>
-<key>G</key>
-<author>Bethel Music</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Intro : G D Hm F#m
 
 [V2]
@@ -59,4 +55,8 @@
    Приди ко мне мой Бог!
 .  D       A        G
    Я создал в сердце храм</lyrics>
+<author>Bethel Music</author>
+<key>G</key>
+<title>Дом (Я создал в сердце храм)</title>
+<hymn_number>2108</hymn_number>
 </song>

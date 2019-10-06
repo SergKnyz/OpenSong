@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2252</hymn_number>
-<aka>В  час когда невзгода велика,</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Евгений Туйсузов</author>
 <lyrics>[V1]
  1 куплет:
 .Am          Dm          G C
@@ -52,7 +51,8 @@
  Солнце правды вспыхнет в небесах, ооо
 .Hm         Em       F#       Hm
  И я всем скажу о Твоих чудесах!</lyrics>
-<author>Евгений Туйсузов</author>
+<hymn_number>2252</hymn_number>
+<aka>В  час когда невзгода велика,</aka>
 <key>A</key>
 <title>Бог мой</title>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3020</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Град Божий песни в старину ПВ3020</title>
+<key>Eb</key>
+<hymn_number>3020</hymn_number>
 <lyrics>[V1]
  Град Божий, песни в старину
  слагали о тебе,
@@ -34,6 +36,4 @@
  свободный от врага.
  Кто слышит зов, пусть поспешит
  войти в его врата.</lyrics>
-<key>Eb</key>
-<title>Град Божий песни в старину ПВ3020</title>
 </song>

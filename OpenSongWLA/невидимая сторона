@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2446</hymn_number>
-<title>Невидимая сторона</title>
-<author>Илюха Корвин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Илюха Корвин</author>
 <lyrics>[V1]
  Где проходит грань, между добром и злом?
  Как понять где истина, и где правит ложь?
@@ -46,4 +44,6 @@
  Но завтра быть может закончен наш путь.
  И тогда нам откроют всю суть бытия.
  Та самая, невидимая сторона.</lyrics>
+<hymn_number>2446</hymn_number>
+<title>Невидимая сторона</title>
 </song>

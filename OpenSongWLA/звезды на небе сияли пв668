@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>668</hymn_number>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Звезды на небе сияли;
  Ночь была светла, тиха.
  Десять дев в чертоге спали,
@@ -77,5 +75,7 @@
  От очей гоните сон.
  А заснете - не забудьте,
  Что придет нежданно Он.</lyrics>
+<hymn_number>668</hymn_number>
 <title>Звезды на небе сияли ПВ668</title>
+<key>D</key>
 </song>

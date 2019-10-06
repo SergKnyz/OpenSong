@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1637</hymn_number>
-<title>Приготовь меня к встрече с Тобою ПВ1637</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Приготовь меня к встрече с Тобою ПВ1637</title>
+<key>C</key>
+<hymn_number>1637</hymn_number>
 <lyrics>[V1]
  Приготовь меня к встрече с Тобою,
  Духом дай никогда не уснуть,
@@ -36,5 +37,4 @@
    И великая радость спасенья
    Озаряет меня вновь и вновь.
    Приготовь меня к встрече с Тобою!</lyrics>
-<key>C</key>
 </song>

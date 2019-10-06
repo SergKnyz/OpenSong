@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В глубокий долине смиренья
  прекрасно, уютно, тепло;
  струятся там воды живые
@@ -43,6 +42,7 @@
  и кротость, и верность, и благость
  находим мы здесь вновь и вновь.</lyrics>
 <title>В глубокий долине смиренья ПВ3265</title>
-<hymn_number>3265</hymn_number>
+<key>D</key>
 <aka>прекрасно, уютно, тепло;</aka>
+<hymn_number>3265</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1205</hymn_number>
-<title>Аллилуйя Аллилуйя Пойте сердцем и душой ПВ1205</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Аллилуйя, Аллилуйя,
  Пойте сердцем и душой!
  Пойте Богу песнь хваленья.
@@ -39,4 +37,6 @@
  Славя Троице вовек!
  Аллилуйя, Аллилуйя!
  Слава Троице вовек!</lyrics>
+<hymn_number>1205</hymn_number>
+<title>Аллилуйя Аллилуйя Пойте сердцем и душой ПВ1205</title>
 </song>

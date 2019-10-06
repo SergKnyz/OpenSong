@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Близко искушенье</aka>
-<hymn_number>228</hymn_number>
-<title>Сердцем не страшись, ПВ228</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Близко искушенье,
  Сердцем не страшись,
  Втайне сокрушенья
@@ -37,4 +34,7 @@
  И врага победно
  Поразишь стрелой.</lyrics>
 <key>Bb</key>
+<title>Сердцем не страшись, ПВ228</title>
+<aka>Близко искушенье</aka>
+<hymn_number>228</hymn_number>
 </song>

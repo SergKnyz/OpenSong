@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Иван Деченко</author>
+<lyrics>[V1]
  1 куплет:
 .G                    D
     В этом мире неспокойно и темно,
@@ -29,7 +30,6 @@
 
 [V3]
  Припев.</lyrics>
-<author>Иван Деченко</author>
 <key>G</key>
 <title>В этом мире неспокойно и темно</title>
 <hymn_number>2057</hymn_number>

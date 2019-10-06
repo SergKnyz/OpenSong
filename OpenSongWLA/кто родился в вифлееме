@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3746</hymn_number>
-<title>Кто родился в Вифлееме</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В далёкой стране жили-были мудрые люди волхвы,
  Звёзды вверху считали, знали про всё они.
  Однажды они увидали новую звёздочку,
@@ -25,4 +23,6 @@
 [C2]
    Кто родился? Кто родился? Кто родился?
    - Царь царей!</lyrics>
+<hymn_number>3746</hymn_number>
+<title>Кто родился в Вифлееме</title>
 </song>

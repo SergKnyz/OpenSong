@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Сказал, придешь во свете Ты,</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Верен до конца</title>
+<key>Ab</key>
 <hymn_number>1684</hymn_number>
-<title>Верен до конца</title>
+<aka>Сказал, придешь во свете Ты,</aka>
+<author>Alaniaworshipband, Цоры Асбуры</author>
 <lyrics>[V1]
  Куплет:
 .C#                        Fm D#
@@ -40,6 +42,4 @@
    Слава Тебе, правды Царь
 .  Fm    C#      G#   D#
    Слава Тебе, правды Царь</lyrics>
-<key>Ab</key>
-<author>Alaniaworshipband, Цоры Асбуры</author>
 </song>

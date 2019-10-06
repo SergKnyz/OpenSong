@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Набат</author>
-<key>E</key>
 <lyrics>[V1]
  intro: capo + 1
 
@@ -32,6 +31,7 @@
  Верую я в воплощение, страдание ради людей,
  Верю в Его я мучения, в раны Его от гвоздей</lyrics>
 <title>Верую я в Бога Отца</title>
+<key>E</key>
 <hymn_number>3176</hymn_number>
 <aka>Верую в Бога Единого, невидимого Творца,</aka>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Перелётные птицы</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>62</hymn_number>
+<title>Перелётные птицы</title>
+<key>C#m</key>
 <lyrics>[V1]
  1 куплет:
 .C#m               F#m       G#                      C#m
@@ -27,7 +29,5 @@
  Насладясь земли родной красотами, верят в счастье, что их где-то ждёт!
  Зная неземное назначение, крылья расправляют вновь и вновь!
  Силой неземного притяжения обладает Божия любовь!</lyrics>
-<key>C#m</key>
 <author>Алла и Сергей Манчик</author>
-<hymn_number>62</hymn_number>
 </song>

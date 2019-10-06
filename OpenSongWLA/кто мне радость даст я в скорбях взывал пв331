@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>331</hymn_number>
-<title>Кто мне радость даст Я в скорбях взывал ПВ331</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Кто мне радость даст? - Я в скорбях взывал.
  Радость сердца у Христа лишь я узнал.
 
@@ -24,4 +21,7 @@
 [V6]
  Если ж ты к Нему в простоте придешь,
  То навеки свет отрады в Нем найдешь.</lyrics>
+<hymn_number>331</hymn_number>
+<key>G</key>
+<title>Кто мне радость даст Я в скорбях взывал ПВ331</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>406</hymn_number>
-<title>Заблудшее дитя ПВ406</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Заблудшее дитя,
  Я у ворот стоял,
  И вихрь, над мной летя
@@ -29,5 +27,7 @@
  Когда отверг я зов,
  Кто ныне дал покой
  От тяжких мук грехов.</lyrics>
+<hymn_number>406</hymn_number>
 <key>Bb</key>
+<title>Заблудшее дитя ПВ406</title>
 </song>

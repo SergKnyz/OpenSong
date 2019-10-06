@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3003</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
 <title>Много рук к нам тянется изза морей ПВ3003</title>
+<hymn_number>3003</hymn_number>
 <lyrics>[V1]
  Много рук к нам тянется из-за морей,
  хлеба жизни каждый ждёт.
@@ -29,5 +30,4 @@
  просят нас в скорбях они:
  «Принесите весть нам о любви Христа,
  чтоб нам радость обрести».</lyrics>
-<key>Eb</key>
 </song>

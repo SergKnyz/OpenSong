@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Альфа Омега Великий и Славный,</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Альфа Омега Великий и Славный,</title>
+<hymn_number>1772</hymn_number>
 <lyrics>[V1]
  Вст
 
@@ -61,7 +63,5 @@
 
 [V7]
  Припев</lyrics>
-<key>E</key>
 <author>Пётр Ашейчик</author>
-<hymn_number>1772</hymn_number>
 </song>

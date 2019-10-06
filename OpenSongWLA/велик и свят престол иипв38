@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>38</hymn_number>
-<aka>Где восседает Бог,</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Велик и свят престол ИИПВ38</title>
 <key>E</key>
+<aka>Где восседает Бог,</aka>
+<hymn_number>38</hymn_number>
 <lyrics>[V1]
 .E                  F#m
  Велик  и свят престол,
@@ -28,5 +29,4 @@
    Милости и славы Твоей
 .  B7            E A9
    Полна вся земля.</lyrics>
-<title>Велик и свят престол ИИПВ38</title>
 </song>

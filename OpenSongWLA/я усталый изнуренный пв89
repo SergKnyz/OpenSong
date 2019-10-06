@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>89</hymn_number>
-<title>Я усталый изнуренный ПВ89</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я усталый, изнуренный,
  О Господь, к Тебе иду,
  И, грехом обремененный,
@@ -29,5 +27,7 @@
  Я устану на пути,
  На руках Твоих могучих,
  Верю, будешь Ты нести.</lyrics>
+<hymn_number>89</hymn_number>
+<title>Я усталый изнуренный ПВ89</title>
 <key>F</key>
 </song>

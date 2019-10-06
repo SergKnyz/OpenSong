@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Новый Завет NTWorship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Святый и Великий</title>
 <key>A</key>
+<hymn_number>4004</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .A                   F#m                 D
@@ -39,6 +40,5 @@
    Святый, Святый наш Господь
 .     Hm   A         E
    Земля поёт и Небеса!</lyrics>
-<title>Святый и Великий</title>
-<hymn_number>4004</hymn_number>
+<author>Новый Завет NTWorship</author>
 </song>

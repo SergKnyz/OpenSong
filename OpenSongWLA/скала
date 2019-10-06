@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2861</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Скала</title>
+<hymn_number>2861</hymn_number>
 <lyrics>[V1]
  1 куплет
 .D A
@@ -48,6 +50,4 @@
 .A D
  К кому идти нам?</lyrics>
 <author>Валентина Ильина и Евгений Илин</author>
-<key>D</key>
-<title>Скала</title>
 </song>

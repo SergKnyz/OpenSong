@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Плачет Христос на Голгофе распятый ПВ987</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>987</hymn_number>
+<title>Плачет Христос на Голгофе распятый ПВ987</title>
+<key>F</key>
 <lyrics>[V1]
  Плачет Христос, на Голгофе распятый.
  Плачет, скорбя на Кресте.
@@ -22,6 +24,4 @@
  В сердце звучат каждый час.
  Плачет о том, что так холодны дети,
  Плачет о немощных нас.</lyrics>
-<key>F</key>
-<hymn_number>987</hymn_number>
 </song>

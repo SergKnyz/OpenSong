@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Свято Твоё имя</title>
+<hymn_number>2476</hymn_number>
+<lyrics>[C1]
    Припев:
 .             G             D/F#
    Свято Твое имя, свято Твое имя, Господь
@@ -27,7 +30,4 @@
  Но Тебя не зная истину не найти
  У Тебя есть ответ - это имя Твое.</lyrics>
 <author>Селах</author>
-<key>G</key>
-<title>Свято Твоё имя</title>
-<hymn_number>2476</hymn_number>
 </song>

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>529</hymn_number>
-<title>Я знаю обитель покоя ПВ529</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я знаю обитель покоя ПВ529</title>
+<key>Ab</key>
+<hymn_number>529</hymn_number>
 <lyrics>[V1]
  Я знаю обитель покоя,
  Блаженства, любви, торжества;
@@ -29,5 +30,4 @@
  И радостно мыслить о ней;
  Но дай средь житейского строя
  Мне радости, Боже, Твоей.</lyrics>
-<key>Ab</key>
 </song>

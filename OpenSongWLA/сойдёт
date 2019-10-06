@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Сойдёт</title>
-<key>D</key>
-<author>The Belonging Co, Тхе Белонгинг Цо</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  КУПЛЕТ 1
  Смотрю я дальше, чем вижу
  Смотрю я дальше, чем вижу
@@ -46,5 +43,8 @@
 
 [V8]
  (Перевод Марии Жук)</lyrics>
+<author>The Belonging Co, Тхе Белонгинг Цо</author>
 <hymn_number>4024</hymn_number>
+<key>D</key>
+<title>Сойдёт</title>
 </song>

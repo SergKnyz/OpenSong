@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Под влияньем наставлений ПВ301</title>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Под влияньем наставлений
  Пред собранием Твоим
  Пали люди на колени
@@ -30,4 +28,6 @@
  На пути не колебаться
  Во все дни и все года.</lyrics>
 <hymn_number>301</hymn_number>
+<title>Под влияньем наставлений ПВ301</title>
+<key>A</key>
 </song>

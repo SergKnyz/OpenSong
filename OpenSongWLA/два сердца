@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>98</hymn_number>
-<title>Два сердца</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Авана</author>
 <lyrics>[V1]
  1 куплет:
 .            Hm                       Em
@@ -28,6 +27,7 @@
  Вы друг другу уступайте и не ссорьтесь никогда
  Пусть в уютном вашем доме, мир живёт и доброта
  Пусть семью вашу украсит жизнь для Господа Христа</lyrics>
-<author>Авана</author>
+<title>Два сердца</title>
 <key>B</key>
+<hymn_number>98</hymn_number>
 </song>

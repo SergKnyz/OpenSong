@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1366</hymn_number>
 <title>Трон благодати</title>
+<key>A</key>
 <lyrics>[V1]
 .Am                     G
  Пусть молитвы наши к Богу будут огненным столпом,
@@ -30,6 +31,5 @@
  Мы  хотим, увидеть славу Божью,
 . F        G      Em      Am
  На этом месте, прямо сейчас!</lyrics>
-<key>A</key>
 <author>Неизвестный</author>
 </song>

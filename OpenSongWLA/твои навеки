@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>934</hymn_number>
-<author>Hillsong Ukraine</author>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
  1 куплет:
 .Hm                D         A
@@ -54,5 +52,7 @@
    Лишь в Нём, лишь в Нём
 .  F#          E
    В Одном надежда наша будет жить</lyrics>
+<key>B</key>
 <title>Твои Навеки</title>
+<hymn_number>934</hymn_number>
 </song>

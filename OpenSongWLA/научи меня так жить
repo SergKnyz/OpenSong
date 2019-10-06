@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3930</hymn_number>
-<author>Евгений и Елена Вотчель</author>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Евгений и Елена Вотчель</author>
 <lyrics>[V1]
  1 куплет:
 .    Dm                      Gm          A
@@ -32,5 +30,7 @@
  Твоё имя прославлять, Твою волю совершить.
  Научи меня так жить, чтобы радовать Тебя,
  Чтоб Тебя всегда любить, за Тобой идти всегда.</lyrics>
+<hymn_number>3930</hymn_number>
 <title>Научи меня так жить</title>
+<key>D</key>
 </song>

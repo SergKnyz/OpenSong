@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>299</hymn_number>
-<title>Славный Иисус ИИПВ299</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Славный Иисус ИИПВ299</title>
+<key>E</key>
+<hymn_number>299</hymn_number>
 <lyrics>[V1]
 .  E        B7           E
  Славный Иисус, любимый мой
@@ -7,5 +8,4 @@
  К сестрам и братьям
 . B7              E
  Любовью счастлив я.</lyrics>
-<key>E</key>
 </song>

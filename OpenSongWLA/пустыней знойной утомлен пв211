@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Пустыней знойной утомлен ПВ211</title>
+<key>G</key>
+<hymn_number>211</hymn_number>
 <lyrics>[V1]
  Пустыней знойной утомлен,
  Под сень креста иду;
@@ -22,6 +24,4 @@
  Как странник на земле,
  Нашел себе я кров родной,
  Не надо лучше мне.</lyrics>
-<key>G</key>
-<hymn_number>211</hymn_number>
 </song>

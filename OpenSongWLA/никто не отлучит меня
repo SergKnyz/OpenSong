@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>234</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .      Cm    Cm/Bb     Ab Ab/G
  Вечно славить буду Тебя,
@@ -42,7 +41,8 @@
  Никто не отлучит меня,
 .   Ab               Bb      Eb
  Никто не отлучит меня от Тебя.</lyrics>
-<key>C</key>
 <author>Дмитрий Шлетгауэр</author>
+<key>C</key>
 <title>Никто не отлучит меня</title>
+<hymn_number>234</hymn_number>
 </song>

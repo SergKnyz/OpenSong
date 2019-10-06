@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2764</hymn_number>
-<title>Надежда мира</title>
-<author>Слово Жизни Music</author>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am                    F       C                  G
  Сегодня новый день, и я опять посвящаю, Бог, Тебе себя!
@@ -47,4 +43,8 @@
    Будем вместе мы сиять! Будем вместе мы сиять!
 .          C                    G
    Будем вместе мы сиять для Тебя!</lyrics>
+<author>Слово Жизни Music</author>
+<hymn_number>2764</hymn_number>
+<key>A</key>
+<title>Надежда мира</title>
 </song>

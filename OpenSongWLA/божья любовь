@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Христос возгласил: «Придите ко мне</aka>
-<hymn_number>2139</hymn_number>
-<title>Божья любовь</title>
-<key>D</key>
-<author>Краеугольный камень</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .D             Em7   G             D
  Христос возгласил: «Придите ко мне
@@ -32,4 +27,9 @@
  Все те, кто искал утешенья душе,
  И кто одинок в безликой толпе,
  Кто жаждет любви - придите ко мне»!</lyrics>
+<author>Краеугольный камень</author>
+<title>Божья любовь</title>
+<key>D</key>
+<aka>Христос возгласил: «Придите ко мне</aka>
+<hymn_number>2139</hymn_number>
 </song>

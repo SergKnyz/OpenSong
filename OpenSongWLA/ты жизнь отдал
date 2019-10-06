@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты жизнь отдал</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1904</hymn_number>
+<title>Ты жизнь отдал</title>
+<key>F#</key>
+<author>Bethel Music, Бетхел Мусиц</author>
 <lyrics>[V1]
 .F# G#m
  Ты жизнь отдал, отдал Свое тело
@@ -53,7 +56,4 @@
  Грехи наши забрал Ты,
 .H G#m F#
  Чище снега стали мы.</lyrics>
-<author>Bethel Music, Бетхел Мусиц</author>
-<key>F#</key>
-<hymn_number>1904</hymn_number>
 </song>

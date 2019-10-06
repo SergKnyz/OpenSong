@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3155</hymn_number>
-<aka>Бог мой Иисус Тебе молюсь</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Бог мой Иисус, Тебе молюсь,
  В этот час
  Нет прекрасней во вселенной никого
@@ -29,6 +27,8 @@
  Славою покрылась вся земля,
  И вся вселенная, и небеса !!</lyrics>
 <author>Роман Фрисман</author>
-<key>F#</key>
 <title>В этот час</title>
+<key>F#</key>
+<aka>Бог мой Иисус Тебе молюсь</aka>
+<hymn_number>3155</hymn_number>
 </song>

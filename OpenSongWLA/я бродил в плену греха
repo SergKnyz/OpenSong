@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2340</hymn_number>
-<title>Я бродил в плену греха</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вст
 
 [V2]
@@ -53,5 +51,7 @@
 .F#m       C#m      Ab  C#m
  Милосердным Господом,Отцом Моим.</lyrics>
 <author>Сергей Демидович</author>
+<title>Я бродил в плену греха</title>
 <key>E</key>
+<hymn_number>2340</hymn_number>
 </song>

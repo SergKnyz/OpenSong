@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Аллилуйя! Иисус живой ИИПВ4</title>
+<hymn_number>4</hymn_number>
 <lyrics>[C1]
 .      D     A/C#
    Аллилуйя! Иисус живой.
@@ -38,7 +40,5 @@
    Иисус воскресший воссиял!
 .       G         A
    Аллилуйя, аллилуйя!</lyrics>
-<key>D</key>
 <author>Рон Кенолы</author>
-<title>Аллилуйя! Иисус живой ИИПВ4</title>
 </song>

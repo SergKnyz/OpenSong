@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1131</hymn_number>
-<author>Филипп Реннер</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Нежно</title>
 <key>E</key>
+<hymn_number>1131</hymn_number>
 <lyrics>[V1]
 .C#m               H
  В тайном месте, в тишине
@@ -31,5 +31,5 @@
  Быть отражением славы Твоей
  Тобою лишь дышу
  Прошу Тебя, любовь излей</lyrics>
-<title>Нежно</title>
+<author>Филипп Реннер</author>
 </song>

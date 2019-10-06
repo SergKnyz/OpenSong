@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<author>Новый Завет NTWorship</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет: х2
 .     F
  Гробница Иисуса Христа пуста,
@@ -39,6 +37,8 @@
    Чтобы не погиб,
 .         C
    Чтобы вечно жил я.</lyrics>
-<title>Иисус победил</title>
+<author>Новый Завет NTWorship</author>
 <hymn_number>3997</hymn_number>
+<title>Иисус победил</title>
+<key>F</key>
 </song>

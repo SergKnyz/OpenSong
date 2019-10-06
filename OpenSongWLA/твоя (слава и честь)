@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Elevation Worship, Елеватион Уорсхип</author>
-<key>D</key>
 <lyrics>[V1]
  Intro:
 
@@ -42,6 +41,7 @@
 [V4]
  Оригинал: Elevation Worship - Yours (Glory and Praise)
  Перевод: Menorah Comand Worship</lyrics>
-<title>Твоя (Слава и честь)</title>
 <hymn_number>3197</hymn_number>
+<title>Твоя (Слава и честь)</title>
+<key>D</key>
 </song>

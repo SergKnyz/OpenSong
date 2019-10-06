@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Иешуа ха Машиях</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Захаренко</author>
 <lyrics>[V1]
  Куплет
 .Cm7
@@ -24,7 +24,7 @@
 
 [V4]
  бридж</lyrics>
-<author>Алексей Захаренко</author>
+<title>Иешуа ха Машиях</title>
 <key>C</key>
 <hymn_number>3412</hymn_number>
 </song>

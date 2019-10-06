@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>22</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  У меня есть Господь Его Имя Иисус
  Дал Он силу и власть на змей наступать
  На Голгофу на крест За Собой Он завёт
@@ -12,7 +11,8 @@
  Шаг два в небеса
  Шаг два в небеса
  В Дом моего Отца</lyrics>
-<key>A</key>
 <author>Алексей Грудинский</author>
+<hymn_number>22</hymn_number>
+<key>A</key>
 <title>Шаг два в небеса</title>
 </song>

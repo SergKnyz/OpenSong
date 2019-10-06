@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>JG Youth Worship</author>
-<key>A</key>
 <lyrics>[V1]
  Tempo - 80 bpm, 6/8
 
@@ -52,5 +51,6 @@
 .     Am     F            C             G
    Зажги вновь сильное пламя внутри меня.</lyrics>
 <title>Дождь</title>
+<key>A</key>
 <hymn_number>559</hymn_number>
 </song>

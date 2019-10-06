@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<lyrics>[V1]
 .H          F#      G#m               E5
  Не могу дождаться я, когда увижусь на небесах
 .G#m    F#         C#m(4)        E(7)
@@ -45,8 +46,7 @@
  Я славлю Тебя, я славлю Тебя
 .          C#m              E
  Я славлю Тебя, я славлю Тебя</lyrics>
-<author>Hillsong Ukraine</author>
+<hymn_number>969</hymn_number>
 <key>B</key>
 <title>Всегда поёт моя душа</title>
-<hymn_number>969</hymn_number>
 </song>

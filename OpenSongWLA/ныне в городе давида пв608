@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>608</hymn_number>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ныне в городе Давида
  Нам рожден Господь Христос.
  Хоть смиренного Он вида,
@@ -45,5 +43,7 @@
  Снова ангел воспоет,
  В мире мрачном, полудиком
  Весть благую понесет.</lyrics>
+<hymn_number>608</hymn_number>
 <title>Ныне в городе Давида ПВ608</title>
+<key>F</key>
 </song>

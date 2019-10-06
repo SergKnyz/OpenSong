@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Вот я пред Тобою, любовь влечет услышать Тебя.</aka>
-<hymn_number>32</hymn_number>
-<title>Буду я восклицать</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Slavic New Beginnings Church</author>
 <lyrics>[V1]
  1 Куплет:
 .C#m                   H
@@ -47,6 +45,8 @@
    Пред Тобой стою с открытым сердцем.
 .      C#m                             A                     F#m
    Ты один мой Бог, Ты был и будешь ввек! Ты был и будешь ввек!</lyrics>
+<hymn_number>32</hymn_number>
+<aka>Вот я пред Тобою, любовь влечет услышать Тебя.</aka>
 <key>C#m</key>
-<author>Slavic New Beginnings Church</author>
+<title>Буду я восклицать</title>
 </song>

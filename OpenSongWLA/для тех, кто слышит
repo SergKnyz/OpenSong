@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Для тех, кто слышит</title>
-<author>Глас вопиющего</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Глас вопиющего</author>
 <lyrics>[V1]
  1. Еще не все пропеты песни.
  Еще не мало предстоит.
@@ -28,5 +27,6 @@
  Еще открыта в небо дверь
  Для тех, кто бродит по большой планете.
  Для тех, кто слышит нас теперь!</lyrics>
+<title>Для тех, кто слышит</title>
 <hymn_number>2325</hymn_number>
 </song>

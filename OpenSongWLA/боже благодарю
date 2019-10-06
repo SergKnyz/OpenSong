@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<author>Новый Иерусалим</author>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Вспоминаю я видя детские глаза</aka>
+<hymn_number>2428</hymn_number>
+<key>G</key>
+<title>Боже благодарю</title>
 <lyrics>[V1]
 .G     A      G        A
  Вспоминаю я видя детские глаза
@@ -25,7 +27,5 @@
  Боже, благодарю за Любовь Твою
 .      Hm    A             D      E
  Царство Божие я приму как дитя я в него войду</lyrics>
-<title>Боже благодарю</title>
-<hymn_number>2428</hymn_number>
-<aka>Вспоминаю я видя детские глаза</aka>
+<author>Новый Иерусалим</author>
 </song>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Дмитрий Шлетгауэр</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>426</hymn_number>
+<title>Любовь не ищет своего</title>
 <key>F#</key>
+<author>Дмитрий Шлетгауэр</author>
 <lyrics>[V1]
  1 куплет:
 .D#m              H                 F#  G#m
@@ -48,6 +50,4 @@
    Когда закончатся века, восхищен в небо буду я,
 .  G#m                 D#m          H       C#
    Когда закроются глаза, буду с ней всегда.</lyrics>
-<title>Любовь не ищет своего</title>
-<hymn_number>426</hymn_number>
 </song>

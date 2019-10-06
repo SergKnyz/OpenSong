@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1348</hymn_number>
-<title>Как счастлив я что Бог принял ПВ1348</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Как счастлив я, что Бог принял
  Меня с Собой в союз благой
  И Сына мне в спасенье дал,
@@ -38,4 +35,7 @@
  Скорей отдайтесь вы Христу!
  И вы найдете в тот же час
  Спасенья в Нем всю полноту.</lyrics>
+<key>G</key>
+<title>Как счастлив я что Бог принял ПВ1348</title>
+<hymn_number>1348</hymn_number>
 </song>

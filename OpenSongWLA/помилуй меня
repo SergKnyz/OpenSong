@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3014</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <title>Помилуй меня</title>
+<hymn_number>3014</hymn_number>
 <lyrics>[V1]
  Куплет: 1
 .A                   C#m
@@ -39,6 +40,5 @@
  Христову святость Ты мне вменил
 .D              A       E
  Я эту милость не заслужил.</lyrics>
-<key>A</key>
 <author>Sovereign Grace Music</author>
 </song>

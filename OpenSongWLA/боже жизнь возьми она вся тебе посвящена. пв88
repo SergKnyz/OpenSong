@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>88</hymn_number>
-<title>Боже жизнь возьми она Вся Тебе посвящена. ПВ88</title>
-<key>Eb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Боже, жизнь возьми: она
  Вся Тебе посвящена.
  Дни возьми, пусть каждый час
@@ -42,4 +39,7 @@
  С ней у ног Твоих стою,
  О, возьми всего меня!
  Навсегда, навек Твой я.</lyrics>
+<key>Eb</key>
+<title>Боже жизнь возьми она Вся Тебе посвящена. ПВ88</title>
+<hymn_number>88</hymn_number>
 </song>

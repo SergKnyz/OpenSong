@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Спасение церковь г. Вишневое</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 . Am                  Em           F         C     G
  Знаю, Иисус в небе ждёт меня, отрёт Бог былую слезу.
@@ -29,6 +27,8 @@
    И Дух и невеста взывают к Тебе Наш Господь, гряди!
 .      Dm                   Em                   Am        C
    Мы жаждем тебя покрой, славой своей в Святой город введи!</lyrics>
-<title>Красота небес</title>
+<author>Спасение церковь г. Вишневое</author>
 <hymn_number>1238</hymn_number>
+<key>A</key>
+<title>Красота небес</title>
 </song>

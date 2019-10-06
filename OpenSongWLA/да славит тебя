@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Да славит Тебя</title>
-<key>G</key>
-<author>Скиния</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .G        D   Em   C G
  Да славит Тебя душа моя! (4 р.)
 
@@ -27,5 +24,8 @@
 
 [V5]
  Да славит Тебя земля Твоя! (4 р.)</lyrics>
+<author>Скиния</author>
 <hymn_number>2415</hymn_number>
+<key>G</key>
+<title>Да славит Тебя</title>
 </song>

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1483</hymn_number>
-<title>Когда устанешь ты в пути суровом ПВ1483</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Когда устанешь ты в пути суровом ПВ1483</title>
+<key>A</key>
+<hymn_number>1483</hymn_number>
 <lyrics>[V1]
  Когда устанешь ты в пути суровом.
  Когда о камни ноги разобьешь.
@@ -23,5 +24,4 @@
  Великий смысл святых Господних слов.
  Нам это Слово не дало погибнуть.
  Избавив нас от смерти и оков.</lyrics>
-<key>A</key>
 </song>

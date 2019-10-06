@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1340</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>Рождество</title>
+<hymn_number>1340</hymn_number>
+<author>Виктор Дяк</author>
 <lyrics>[V1]
  1 куплет:
 .           Dm         Gm
@@ -37,7 +40,4 @@
  И лед греха растает, верю.
  Пусть не погаснет не сгорит
  надежды луч и искра веры</lyrics>
-<author>Виктор Дяк</author>
-<key>F</key>
-<title>Рождество</title>
 </song>

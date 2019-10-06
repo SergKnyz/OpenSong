@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>288</hymn_number>
-<author>Лена Исаева (Ковалева)</author>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Лена Исаева (Ковалева)</author>
 <lyrics>[C1]
    Припев:
 .     Bb    C    F
@@ -29,5 +27,7 @@
  Зажечь потухших, Боже, Ты помоги.
  Ходить во свете Твоих лучей
  И всем вокруг нам Тебя показать.</lyrics>
+<hymn_number>288</hymn_number>
+<key>Bb</key>
 <title>Зажги огонь</title>
 </song>

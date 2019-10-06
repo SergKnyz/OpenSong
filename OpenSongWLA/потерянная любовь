@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1313</hymn_number>
+<title>Потерянная Любовь</title>
+<key>D</key>
+<author>Imprintband</author>
 <lyrics>[V1]
  1 куплет:
 .Dm           Am       C                  G
@@ -38,7 +41,4 @@
    Вспомни обо Мне, прошу
 .       F      Dm          Am C
    Вернись, я все тебе прощу__</lyrics>
-<author>Imprintband</author>
-<key>D</key>
-<title>Потерянная Любовь</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3771</hymn_number>
-<author>Jonathan Ogden, Йонатхан Огден</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вечный Ты, Бог мой
  Что могу сравнить,
  Иисус, с Тобой?
@@ -41,5 +39,7 @@
 
 [V6]
  Перевод: Оксана Бондарь-Павловская</lyrics>
+<author>Jonathan Ogden, Йонатхан Огден</author>
 <title>Водопад</title>
+<hymn_number>3771</hymn_number>
 </song>

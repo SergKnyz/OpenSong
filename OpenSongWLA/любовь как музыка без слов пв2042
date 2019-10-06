@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2042</hymn_number>
-<title>Любовь как музыка без слов ПВ2042</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Любовь как музыка без слов,
  Здесь громких фраз совсем не надо,
  Чтоб люди поняли любовь,
@@ -36,4 +33,7 @@
  И кто любовь обходит мимо,
  Тот навсегда себя лишит
  Любви других и быть любимым.</lyrics>
+<key>D</key>
+<title>Любовь как музыка без слов ПВ2042</title>
+<hymn_number>2042</hymn_number>
 </song>

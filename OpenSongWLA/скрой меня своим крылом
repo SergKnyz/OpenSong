@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Скрой меня Своим крылом</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Скрой меня Своим крылом</title>
+<aka>Покой</aka>
+<hymn_number>963</hymn_number>
 <lyrics>[V1]
 . C    G Am   F   D    G
  Скрой меня Своим крылом
@@ -20,8 +23,5 @@
  Найду покой в Тебе, мой Бог
 .  C    F         Dm     G
  Верю я в могущество Твое</lyrics>
-<key>C</key>
 <author>Хиллсонг</author>
-<aka>Покой</aka>
-<hymn_number>963</hymn_number>
 </song>

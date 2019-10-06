@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Будем петь Тебе</aka>
-<hymn_number>50</hymn_number>
-<title>Когда перед Тобой стою одетый в славу, Бог, Твою,</title>
-<key>G</key>
-<author>Слово Жизни Music</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .    G                   Em
  Когда перед Тобой стою одетый в славу, Бог, Твою,
@@ -45,4 +40,9 @@
 
 [B2]
    instrumental:</lyrics>
+<author>Слово Жизни Music</author>
+<title>Когда перед Тобой стою одетый в славу, Бог, Твою,</title>
+<key>G</key>
+<aka>Будем петь Тебе</aka>
+<hymn_number>50</hymn_number>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1062</hymn_number>
-<title>Я встану рано на рассвете</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <lyrics>[V1]
  1 куплет:
 .        F#m            A
@@ -35,6 +34,7 @@
  Встречая новую зарю,
  Все благодарные слова я
  От сердца снова повторю!</lyrics>
+<hymn_number>1062</hymn_number>
 <key>F#</key>
-<author>Неизвестный</author>
+<title>Я встану рано на рассвете</title>
 </song>

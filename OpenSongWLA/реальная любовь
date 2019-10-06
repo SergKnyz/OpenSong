@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2497</hymn_number>
 <title>Реальная любовь</title>
+<key>A</key>
+<author>ConversionBand</author>
 <lyrics>[V1]
  1 куплет:
 .Am G            F           C
@@ -38,6 +40,4 @@
    Дашь совет, как и что где и когда
    Верю я, что Ты есть Бог.
    Боли все стерпеть ты смог.</lyrics>
-<key>A</key>
-<author>ConversionBand</author>
 </song>

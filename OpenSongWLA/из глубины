@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1239</hymn_number>
-<title>Из глубины</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am       C            Em         F
  Из глубины к Тебе, Иисус взываю я
@@ -37,6 +35,8 @@
    Ты - Любовь
 .  Am      C Em
    Ты - Любовь</lyrics>
-<key>A</key>
 <author>Skeemans Worship</author>
+<key>A</key>
+<title>Из глубины</title>
+<hymn_number>1239</hymn_number>
 </song>

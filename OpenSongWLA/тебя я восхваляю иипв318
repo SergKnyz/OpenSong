@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>318</hymn_number>
-<title>Тебя я восхваляю ИИПВ318</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .   G          Em
  Тебя я восхваляю,
 .Am         D            Bm
@@ -24,4 +21,7 @@
  К Тебе я руки поднимаю.
 .Am         D             C  G
  Я люблю Тебя, святой Господь.</lyrics>
+<title>Тебя я восхваляю ИИПВ318</title>
+<key>G</key>
+<hymn_number>318</hymn_number>
 </song>

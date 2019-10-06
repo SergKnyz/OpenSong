@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Под сенью крыл Всемогущего Бога ПВ2550</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2550</hymn_number>
+<title>Под сенью крыл Всемогущего Бога ПВ2550</title>
+<key>Db</key>
 <lyrics>[V1]
  Под сенью крыл Всемогущего Бога
  Бури и страхи меня не смутят.
@@ -22,6 +24,4 @@
  Там мой приют от скорбей и невзгод,
  Там безопасность - чего еще надо?
  В дивном Ии- сусе надежный оплот.</lyrics>
-<key>Db</key>
-<hymn_number>2550</hymn_number>
 </song>

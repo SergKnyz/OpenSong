@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1568</hymn_number>
-<title>Рождество</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Инна Звягинцева</author>
 <lyrics>[V1]
  1 куплет:
 .Dm                        Gm
@@ -28,6 +27,7 @@
  Хоры ангелов ликуют тьму Он победит
  Мудрецы пришли с востока и несли дары
  Радостно к Нему спешили с поля пастухи</lyrics>
-<author>Инна Звягинцева</author>
 <key>D</key>
+<title>Рождество</title>
+<hymn_number>1568</hymn_number>
 </song>

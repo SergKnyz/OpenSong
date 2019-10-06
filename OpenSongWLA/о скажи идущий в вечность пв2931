@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2931</hymn_number>
-<title>О скажи идущий в вечность ПВ2931</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О скажи, идущий в вечность,
  ты свободен от грехов?
  Подтверждаешь своей жизнью,
@@ -35,5 +33,7 @@
  на небесный, узкий путь?
  Брат мой, только так победно
  можем странствовать мы тут!</lyrics>
+<hymn_number>2931</hymn_number>
+<title>О скажи идущий в вечность ПВ2931</title>
 <key>Bb</key>
 </song>

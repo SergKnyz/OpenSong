@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>92</hymn_number>
-<title>Голгофа</title>
-<author>Hillsong Ukraine, Хиллсонг Уорсхип, Йонас Мырин, Реубен Морган</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine, Хиллсонг Уорсхип, Йонас Мырин, Реубен Морган</author>
 <lyrics>[V1]
  1 куплет:
 .      A           F#m7
@@ -39,4 +36,7 @@
    В свободе стоим мы
 .      D         E        A
    Покрыл на Голгофе Он всё</lyrics>
+<key>A</key>
+<title>Голгофа</title>
+<hymn_number>92</hymn_number>
 </song>

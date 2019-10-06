@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1805</hymn_number>
-<title>Пусть Царь сердца моего</title>
-<author>Bethel Music, Бетхел Мусиц</author>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Bethel Music, Бетхел Мусиц</author>
 <lyrics>[V1]
  1 куплет:
 .    Bb         Eb             Bb
@@ -35,4 +32,7 @@
       Никогда не дашь упасть, моя рука в Твоей руке
 .  Gm               F
       Никогда не дашь упасть, моя рука в Твоей руке</lyrics>
+<key>Bb</key>
+<title>Пусть Царь сердца моего</title>
+<hymn_number>1805</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G#m</key>
-<author>Игорь Яловец</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет 1:
 .      G#m              F#            E  D#          G#m
  В это время холодных ночей, в это время холодных дождей.
@@ -24,6 +22,8 @@
  Куплет 2:
  Как порой нам без вас тяжело, как порой нам без вас нелегко.
  Но надежда на встречу тверда, ожидают нас всех небеса.</lyrics>
+<author>Игорь Яловец</author>
 <title>Вы уходите</title>
+<key>G#m</key>
 <hymn_number>1744</hymn_number>
 </song>

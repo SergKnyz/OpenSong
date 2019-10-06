@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1946</hymn_number>
+<title>А я живу лишь для Тебя, Ты знаешь</title>
+<key>A</key>
+<lyrics>[V1]
  1 куплет:
 .Am          G         F    Dm      Em
  Знаешь Твоё имя не забыть уже никогда
@@ -53,7 +56,4 @@
 .         G/H      C           Gb/Bb   H
    В тот день, когда приду к ногам Твоим</lyrics>
 <author>Дарина Кочанжи</author>
-<key>A</key>
-<title>А я живу лишь для Тебя, Ты знаешь</title>
-<hymn_number>1946</hymn_number>
 </song>

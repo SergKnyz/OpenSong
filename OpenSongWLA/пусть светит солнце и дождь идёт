@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>981</hymn_number>
-<author>Неизвестный</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Пусть светит солнце и дождь идёт</title>
 <key>G</key>
+<hymn_number>981</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .G             D              Em
@@ -43,5 +43,5 @@
  Он не покинет меня никогда.
  И если имя Его призовёшь,
  То счастье, любовь и мир обретёшь.</lyrics>
-<title>Пусть светит солнце и дождь идёт</title>
+<author>Неизвестный</author>
 </song>

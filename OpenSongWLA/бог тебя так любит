@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ты жизнь прожить спешил, но как же так</aka>
-<hymn_number>2096</hymn_number>
-<title>Бог тебя так любит</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
  Ты жизнь прожить спешил, но как же так,
  Что не горит любви твоей маяк.
@@ -31,6 +28,9 @@
  Ты жить спешил, летел через года.
  За суетой ты не заметил дом,
  В котором будут ждать тебя всегда.</lyrics>
-<key>B</key>
 <author>Дарина Кочанжи</author>
+<aka>Ты жизнь прожить спешил, но как же так</aka>
+<hymn_number>2096</hymn_number>
+<title>Бог тебя так любит</title>
+<key>B</key>
 </song>

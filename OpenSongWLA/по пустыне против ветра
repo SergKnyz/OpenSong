@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5416</hymn_number>
-<title>По пустыне против ветра</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  По пустыне против ветра,
  Одолевши километры,
  Мне б достигнуть до рассвета
@@ -26,4 +24,6 @@
  На ветру застыли слезы,
  С неба тускло смотрят звезды,
  Я по ним сверяю путь.</lyrics>
+<hymn_number>5416</hymn_number>
+<title>По пустыне против ветра</title>
 </song>

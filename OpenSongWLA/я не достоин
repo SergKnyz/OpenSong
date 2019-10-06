@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1472</hymn_number>
-<title>Я не достоин</title>
-<key>B</key>
-<author>Маханаим</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D#m             Bb
  Я не достоин Твоей любви
 .       G#m             H         Bb
@@ -39,4 +35,8 @@
    Кровь Христа - пропуск на небо,
 .          G#m                 Bb  | H G#m D#m C# |
    Омоет тебя до бела, белее снега.</lyrics>
+<author>Маханаим</author>
+<title>Я не достоин</title>
+<key>B</key>
+<hymn_number>1472</hymn_number>
 </song>

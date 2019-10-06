@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2997</hymn_number>
-<author>Путь Христа церковь, г. Нюрнберг</author>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1.
 .           Dm                 A
  Иисус, Ты дал мне радость спасения,
@@ -33,5 +30,8 @@
  Ибо милость Твоя лучше жизни.
 .   A                  Dm
  Уста мои прославят Тебя.</lyrics>
+<author>Путь Христа церковь, г. Нюрнберг</author>
 <title>Иисус, Ты дал мне радость спасенья</title>
+<key>D</key>
+<hymn_number>2997</hymn_number>
 </song>

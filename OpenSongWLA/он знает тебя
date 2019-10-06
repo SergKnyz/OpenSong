@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1012</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Он знает тебя</title>
+<hymn_number>1012</hymn_number>
 <author>Imprintband</author>
-<key>A</key>
 <lyrics>[V1]
  1 куплет:
 .Am              C            F    Dm
@@ -34,5 +35,4 @@
  Каждый из нас жизнь тебе посвятил
  Любовью своей ты нас всех взял в удел
  И больше жизни своей нас возлюбил</lyrics>
-<title>Он знает тебя</title>
 </song>

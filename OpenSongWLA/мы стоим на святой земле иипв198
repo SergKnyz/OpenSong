@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>198</hymn_number>
-<title>Мы стоим на святой земле ИИПВ198</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .       EB7E     A      E B E
  Мы стоим на святой земле.
 .A      A7 Bm          C#7      F#mB7
@@ -12,4 +9,7 @@
  Мы стоим пред Ним сейчас
 .        B7    E
  На святой земле.</lyrics>
+<hymn_number>198</hymn_number>
+<key>E</key>
+<title>Мы стоим на святой земле ИИПВ198</title>
 </song>

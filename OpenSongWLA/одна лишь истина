@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>109</hymn_number>
-<title>Одна лишь истина</title>
-<key>E</key>
-<author>Авана</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Авана</author>
 <lyrics>[V1]
  1 куплет:
 .     Em            D     C
@@ -43,4 +40,7 @@
  Ты тогда предстанешь пред Христом.
  И к тебе прозвучит вопрос,
  Сможешь ли дать за всё отчёт.</lyrics>
+<key>E</key>
+<title>Одна лишь истина</title>
+<hymn_number>109</hymn_number>
 </song>

@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты дивный Бог, Ты славный Бог</title>
-<author>Hillsong Ukraine</author>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Ты дивный Бог, Ты славный Бог</title>
+<aka>Царь любви</aka>
+<hymn_number>728</hymn_number>
 <lyrics>[V1]
  Куплет:
 .  Dm7                    C/E              F/A Bb
@@ -30,6 +31,5 @@
    Вера, надежда, любовь
 .  Dm7    C/E      F/A Bb
    Вера, надежда, любовь</lyrics>
-<aka>Царь любви</aka>
-<hymn_number>728</hymn_number>
+<author>Hillsong Ukraine</author>
 </song>

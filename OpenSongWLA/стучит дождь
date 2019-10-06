@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2676</hymn_number>
-<title>Стучит Дождь</title>
-<author>Александр Вовнянко</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Александр Вовнянко</author>
 <lyrics>[V1]
  За текстом обращаться на почту a-lec@ukr.net
  Стучит дождь в оконное стекло
@@ -25,4 +23,6 @@
  Пока дождем греха до нитки не промок
  Подумать страшно как Иисус наш смог
  Ту тяжесть пытки понести за нас</lyrics>
+<title>Стучит Дождь</title>
+<hymn_number>2676</hymn_number>
 </song>

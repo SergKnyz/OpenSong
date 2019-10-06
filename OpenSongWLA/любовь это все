@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Любовь это все</title>
-<author>Jesus Culture, Йесус Цултуре</author>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Jesus Culture, Йесус Цултуре</author>
 <lyrics>[V1]
  1 куплет:
 .      Em         G/H
@@ -48,5 +46,7 @@
    Невозможного
 .           Em             D/F#
    Не забуду я, всю Твою любовь</lyrics>
+<key>E</key>
+<title>Любовь это все</title>
 <hymn_number>2119</hymn_number>
 </song>

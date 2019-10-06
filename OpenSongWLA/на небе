@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>332</hymn_number>
-<title>На небе</title>
-<author>Игорь Сидоров</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>На небе</title>
 <key>B</key>
+<hymn_number>332</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Hm     D/F#             G
@@ -42,4 +41,5 @@
  В обитель славы и любви
  И Дух с невестой говорят: &quot;Приди!&quot;
  И слышавший скажи: &quot;Приди!&quot;</lyrics>
+<author>Игорь Сидоров</author>
 </song>

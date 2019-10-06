@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2563</hymn_number>
+<key>D</key>
+<title>Хвала Господу Иисусу</title>
+<lyrics>[V1]
  Куплет:
 .D   A  G          A
  Хвала Господу Иисусу
@@ -23,7 +26,4 @@
 .  D        Bb          F             G A
    И услышать голос неба Господи нам дай</lyrics>
 <author>Неизвестный</author>
-<key>D</key>
-<title>Хвала Господу Иисусу</title>
-<hymn_number>2563</hymn_number>
 </song>

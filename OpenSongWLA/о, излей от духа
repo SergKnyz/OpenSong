@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2366</hymn_number>
-<title>О, излей от Духа!</title>
-<key>F</key>
-<author>Спасiння</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Спасiння</author>
 <lyrics>[V1]
  Вступление:
  | C C C С F| C C C C Eb | D D D D F| D D D D G |
@@ -31,4 +28,7 @@
    Ты - Наш Искупитель,
 .    Cm/G
    И нет других богов!</lyrics>
+<hymn_number>2366</hymn_number>
+<title>О, излей от Духа!</title>
+<key>F</key>
 </song>

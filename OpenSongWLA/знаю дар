@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Знаю дар</title>
-<author>Ольга Марина</author>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Марина</author>
 <lyrics>[V1]
 .Bb                          F
  Я через кровь Христа имею жизнь
@@ -31,4 +29,6 @@
 .    F     C     Dm             Bb
  Любви Но Ты, но Ты пришел спасти.</lyrics>
 <hymn_number>759</hymn_number>
+<key>Bb</key>
+<title>Знаю дар</title>
 </song>

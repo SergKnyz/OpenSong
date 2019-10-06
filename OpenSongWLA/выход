@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Skinia Worship</author>
+<lyrics>[V1]
  1 куплет:
 .C#m               H
  Я вижу облако размером в ладонь
@@ -37,8 +38,7 @@
    Он все может, поток Божий полон воды
 .  A                           H
    Душу насыщает жажду утоляет дарует свой мир.</lyrics>
-<key>C#m</key>
-<author>Skinia Worship</author>
-<title>Выход</title>
 <hymn_number>4153</hymn_number>
+<key>C#m</key>
+<title>Выход</title>
 </song>

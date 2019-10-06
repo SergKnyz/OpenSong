@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>888</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Шумні води</title>
+<key>G</key>
+<hymn_number>888</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Gm             D        Gm
@@ -35,6 +37,4 @@
  Суд гряде рад грішною землею,
  Ти ж готова будь у кожну мить.</lyrics>
 <author>Давидюки</author>
-<key>G</key>
-<title>Шумні води</title>
 </song>

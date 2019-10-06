@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>730</hymn_number>
 <title>До края Земли</title>
+<key>E</key>
+<author>Hillsong Ukraine</author>
 <lyrics>[V1]
  Куплет:
 .Em    C   G       D       Em  C  G          D
@@ -35,6 +37,4 @@
    Пусть увидит целый мир, пусть увидит целый мир,
 .         Em           C           G    D
    Пусть увидит целый мир, что Ты мой Бог!</lyrics>
-<author>Hillsong Ukraine</author>
-<key>E</key>
 </song>

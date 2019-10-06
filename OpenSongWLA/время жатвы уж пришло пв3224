@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Время жатвы уж пришло ПВ3224</title>
+<key>Db</key>
+<hymn_number>3224</hymn_number>
+<lyrics>[V1]
  Время жатвы уж пришло,
  урожай поспел давно
  вот идут с серпами на поля жнецы.
@@ -36,7 +39,4 @@
  Ныне в благодатный час
  Бога будь готов встречать,
  прежде чем труба седьмая протрубит.</lyrics>
-<key>Db</key>
-<title>Время жатвы уж пришло ПВ3224</title>
-<hymn_number>3224</hymn_number>
 </song>

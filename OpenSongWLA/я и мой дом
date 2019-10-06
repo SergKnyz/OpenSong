@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2032</hymn_number>
+<key>G</key>
+<title>Я и мой дом</title>
+<author>Юрий Шпак</author>
 <lyrics>[V1]
 .G           D          C
  Я и мой дом будем служить Господу.
@@ -30,7 +33,4 @@
  Я выбрал дорогу, по которой иду,
 .            D          E           A
  И я и мой дом будем служить Господу.</lyrics>
-<author>Юрий Шпак</author>
-<key>G</key>
-<title>Я и мой дом</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>556</hymn_number>
-<key>Eb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Дорогое обещанье
  Бог нам, странникам, дает:
  &quot;По дороге испытанья
@@ -29,5 +27,7 @@
  И кончины час грядет,
  Слушай, Кормчий твой взывает:
  &quot;Поведу тебя вперед!&quot;</lyrics>
+<hymn_number>556</hymn_number>
 <title>Дорогое обещанье ПВ556</title>
+<key>Eb</key>
 </song>

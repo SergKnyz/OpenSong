@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>672</hymn_number>
-<title>Пробудись от сна друг бедный ПВ672</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Пробудись от сна, друг бедный,
  Вот в полуночи жених
  В славе шествует победной
@@ -41,5 +39,7 @@
  И зажги светильник твой,
  Вот грядет в венце победном
  Тот, Кто властен над тобой.</lyrics>
+<hymn_number>672</hymn_number>
+<title>Пробудись от сна друг бедный ПВ672</title>
 <key>Ab</key>
 </song>

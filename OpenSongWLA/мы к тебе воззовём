@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мы к Тебе воззовём</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3093</hymn_number>
+<key>C</key>
+<title>Мы к Тебе воззовём</title>
+<author>Филипп Реннер</author>
 <lyrics>[V1]
  1 куплет:
 .     C              G/H
@@ -47,7 +50,4 @@
    Бридж:
 .  Am          F           C        G/H
    Бог богов, Царь царей миру свет Иисус мессия</lyrics>
-<key>C</key>
-<author>Филипп Реннер</author>
-<hymn_number>3093</hymn_number>
 </song>

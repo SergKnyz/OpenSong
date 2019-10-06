@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Иегова</title>
-<key>F</key>
-<author>Анжелика Вишня</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Bbm              F
  Как много скрыто в имени Твоём,
@@ -49,5 +46,8 @@
  Ты Бог любви всеведущий Творец,
 . C                    F
  Достойно славы Имя дорогое.</lyrics>
+<author>Анжелика Вишня</author>
 <hymn_number>4990</hymn_number>
+<title>Иегова</title>
+<key>F</key>
 </song>

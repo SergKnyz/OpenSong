@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Втішайтеся, Христос воскрес</title>
-<author>Неизвестный</author>
-<key>Eb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <lyrics>[V1]
  1 куплет:
 .D#  Bb  D#      D#   Bb  D#     G#                  Bb
@@ -22,5 +20,7 @@
  4 куплет:
  Єднайтеся, Христос воскрес! Звершилось чудо із чудес:
  Настав великий славний день! Христос воскрес! Христос воскрес!</lyrics>
+<key>Eb</key>
+<title>Втішайтеся, Христос воскрес</title>
 <hymn_number>2004</hymn_number>
 </song>

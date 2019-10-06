@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>109</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Бог есть любовь; о какое счастье!
  Бог есть любовь, Он нас возлюбил.
 
@@ -22,6 +21,7 @@
 [C2]
    Тебя я буду вечно петь и славить,
    Я буду славить Твою любовь.</lyrics>
-<key>F</key>
 <title>Бог есть любовь о какое счастье ПВ109</title>
+<key>F</key>
+<hymn_number>109</hymn_number>
 </song>

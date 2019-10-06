@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Песня небес</title>
+<key>C#m</key>
+<hymn_number>83</hymn_number>
+<author>Виталий Ефремочкин</author>
+<lyrics>[V1]
  1 куплет:
 .C#m    A           C#m             H
  Спасение в руках Твоих, о мой Господь
@@ -23,8 +27,4 @@
  2 куплет:
  Достоин только Агнец Божий принять
  Власть и силу, мудрость, славу, всю хвалу и честь.</lyrics>
-<key>C#m</key>
-<author>Виталий Ефремочкин</author>
-<title>Песня небес</title>
-<hymn_number>83</hymn_number>
 </song>

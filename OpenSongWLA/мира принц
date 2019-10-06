@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Роман Касевич, Хиллсонг Унитед</author>
-<key>G</key>
 <lyrics>[V1]
  1 куплет:
 .G         F#m
@@ -108,5 +107,6 @@
 .      G      D
  Ты ответил мне</lyrics>
 <title>Мира Принц</title>
+<key>G</key>
 <hymn_number>594</hymn_number>
 </song>

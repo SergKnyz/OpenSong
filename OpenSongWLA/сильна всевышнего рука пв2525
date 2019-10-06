@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2525</hymn_number>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Сильна Всевышнего рука,
  Как воздух всюду к нам близка;
  От зла греха и стрел врага
@@ -17,5 +15,7 @@
  Веди меня добра стезей
  И в жизни суетной, земной
  Храни меня. Аминь.</lyrics>
+<key>D</key>
 <title>Сильна Всевышнего рука ПВ2525</title>
+<hymn_number>2525</hymn_number>
 </song>

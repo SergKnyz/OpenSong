@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3157</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Евгений Косенков</author>
 <lyrics>[V1]
  1 куплет:
 . Cm                  Fm
@@ -37,7 +37,7 @@
  Да лежит зерно мертвым на скале
  Оживет оно в горсточке земли
  Я сказать хочу всем как любишь Ты</lyrics>
-<author>Евгений Косенков</author>
+<hymn_number>3157</hymn_number>
 <key>C</key>
 <title>Ты шептал, Господь</title>
 </song>

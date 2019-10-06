@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Тихо так Ты ушёл в дом небесный свой ПВ3149</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3149</hymn_number>
+<key>F</key>
+<title>Тихо так Ты ушёл в дом небесный свой ПВ3149</title>
 <lyrics>[V1]
  Тихо так Ты ушёл в дом небесный свой.
  Мы скорбим о твоей хижине земной.
@@ -36,6 +38,4 @@
  в день великого суда,
  мы пожмём друг другу руки,
  будем вместе навсегда.</lyrics>
-<key>F</key>
-<hymn_number>3149</hymn_number>
 </song>

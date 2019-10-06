@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3446</hymn_number>
-<title>Радость пред Господом</title>
-<key>G</key>
-<author>Роман Коряка</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  РАДОСТЬ ПРЕД ГОСПОДОМ
 
 [C1]
@@ -23,4 +19,8 @@
 
 [V3]
  Радость пред Господом!</lyrics>
+<author>Роман Коряка</author>
+<key>G</key>
+<title>Радость пред Господом</title>
+<hymn_number>3446</hymn_number>
 </song>

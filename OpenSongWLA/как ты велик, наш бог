@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>998</hymn_number>
-<author>Хиллсонг</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Хиллсонг</author>
 <lyrics>[V1]
 .                C                      G D
  Мне всё больше Бог - Ты, открывай Себя,
@@ -37,4 +35,6 @@
 .  Em7                   C         D
    Ведь Ты - мой Бог, превыше всех!</lyrics>
 <title>Как Ты велик, наш Бог</title>
+<key>C</key>
+<hymn_number>998</hymn_number>
 </song>

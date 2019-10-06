@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>338</hymn_number>
+<title>Глубина</title>
+<key>A</key>
+<lyrics>[V1]
  1 куплет:
 .Am                        A7                Dm
  Дай мне гореть Тобой сильнее, чем горел мечтой,
@@ -38,7 +41,4 @@
 .                       F                        E
    Пусть льется, пробуждая от сна, сердца наполняя хвалой.</lyrics>
 <author>Краеугольный камень</author>
-<key>A</key>
-<title>Глубина</title>
-<hymn_number>338</hymn_number>
 </song>

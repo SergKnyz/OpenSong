@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2569</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>К небесному престолу</title>
+<hymn_number>2569</hymn_number>
+<author>Алексей Луговой</author>
 <lyrics>[V1]
  C.                   Em.                 C.                      Em
  К небесному престолу молитва течёт
@@ -31,7 +34,4 @@
  Останусь там навечно обитая в святой любви.
  Господь роздаст награды, венци и блеск,
  Войдёт в познание Бога верный Божий человек.</lyrics>
-<author>Алексей Луговой</author>
-<key>E</key>
-<title>К небесному престолу</title>
 </song>

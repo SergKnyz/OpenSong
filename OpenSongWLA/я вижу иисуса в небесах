@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1994</hymn_number>
-<key>G</key>
-<author>Неизвестный</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G         D          Em            C     D
  Я вижу Иисуса в небесах знамёна победы над землёй.
@@ -28,5 +25,8 @@
  Шаг за шагом мы идём всю землю с Иисусом мы возьмём.
 .G   D         Em               C   D
  Даже если упадём то вместе встанем и споём.</lyrics>
+<author>Неизвестный</author>
 <title>Я вижу Иисуса в небесах</title>
+<key>G</key>
+<hymn_number>1994</hymn_number>
 </song>

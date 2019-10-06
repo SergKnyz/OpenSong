@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Склоняюсь я перед Тобой.</aka>
-<hymn_number>1589</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1589</hymn_number>
+<aka>Склоняюсь я перед Тобой.</aka>
+<key>E</key>
 <title>Вдали от шума в тихой клети ПВ1589</title>
 <lyrics>[V1]
  Вдали от шума, в тихой клети
@@ -42,5 +43,4 @@
  К Тебе наедине зову.
  И Ты, внимая просьбе тайной,
  Воздашь молитве наяву.</lyrics>
-<key>E</key>
 </song>

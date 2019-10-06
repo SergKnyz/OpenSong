@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4729</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вступление:
 
 [V2]
@@ -73,6 +72,7 @@
 .       D
    Прости Господь меня</lyrics>
 <author>Павел Геращенко</author>
-<key>G</key>
+<hymn_number>4729</hymn_number>
 <title>Мне много не надо</title>
+<key>G</key>
 </song>

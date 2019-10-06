@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Твой дом</title>
-<key>Gm</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Gm
  Всё чего прошу быть с Тобою рядом ближе
 .Cm
@@ -36,5 +34,7 @@
    Выше неба и земли престол Твой
 .  Gm
    Господь мой, Аллилуйя, Аллилуйя</lyrics>
+<title>Твой дом</title>
+<key>Gm</key>
 <hymn_number>5518</hymn_number>
 </song>

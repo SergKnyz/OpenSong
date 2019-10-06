@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>183</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ты мне будь, Господь, отрада
  На пути земных скорбей;
  Будь Спаситель мне от ада,
@@ -22,6 +21,7 @@
  И всем сердцем убежден,
  Что от гибели Тобою
  Буду в мире я спасен.</lyrics>
-<key>D</key>
 <title>Ты мне будь Господь отрада ПВ183</title>
+<key>D</key>
+<hymn_number>183</hymn_number>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3266</hymn_number>
-<title>Меня манят к себе небеса</title>
-<author>Sharikov Family Band</author>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .      Em                                       Am
  Меня манят к себе небеса, от земного хочу оторваться.
@@ -52,4 +48,8 @@
  В своём сердце Христу дверь открыв, навсегда чтобы Он в нём поселился.
  Птицы стаями в небо летят, доверяясь во всём лишь на жатву.
  Нам пример они свой оставляют, доверятся во всём только Богу.</lyrics>
+<author>Sharikov Family Band</author>
+<hymn_number>3266</hymn_number>
+<key>E</key>
+<title>Меня манят к себе небеса</title>
 </song>

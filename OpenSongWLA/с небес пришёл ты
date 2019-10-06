@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>669</hymn_number>
-<title>С небес пришёл Ты</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>С небес пришёл Ты</title>
+<key>F#</key>
+<hymn_number>669</hymn_number>
+<author>Hillsong Ukraine</author>
 <lyrics>[V1]
  1 куплет:
 .F#m   D        H         E
@@ -44,6 +46,4 @@
    Буду в Слове стоять, В этом мире сиять
 .  A
    Там где славят Тебя Будем петь мы!</lyrics>
-<author>Hillsong Ukraine</author>
-<key>F#</key>
 </song>

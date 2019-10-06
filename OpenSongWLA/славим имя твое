@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Имя Господне - крепкая Башня</aka>
-<hymn_number>2533</hymn_number>
-<title>Славим имя Твое</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D               G       D
  Имя Господне - крепкая Башня.
 .            A                D
@@ -20,5 +17,8 @@
    Да святится имя Твое, Да святится имя Твое,
 .  A                           D
    Да святится имя Твое, Великий Бог!</lyrics>
+<title>Славим имя Твое</title>
 <key>D</key>
+<aka>Имя Господне - крепкая Башня</aka>
+<hymn_number>2533</hymn_number>
 </song>

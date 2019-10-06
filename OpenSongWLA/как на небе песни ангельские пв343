@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>343</hymn_number>
-<key>Ab</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Как на небе песни ангельские
  Льются звонкою рекой,
  Так звучат слова евангельские
@@ -35,5 +33,7 @@
  Будешь вечно ликовать;
  Небо станет песню ангельскую
  С новой силой воспевать.</lyrics>
+<key>Ab</key>
 <title>Как на небе песни ангельские ПВ343</title>
+<hymn_number>343</hymn_number>
 </song>

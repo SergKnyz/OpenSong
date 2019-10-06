@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>199</hymn_number>
-<title>Мы Христу поём ИИПВ199</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . G               C          G
  Мы Христу поём, мы Христу поём,
 .                 (D7) D7 (G)
@@ -23,5 +21,7 @@
  Богнаш сатану победил.
  Аллилуйя,Аллилуйя!
  Богнаш сатану победил.</lyrics>
+<hymn_number>199</hymn_number>
+<title>Мы Христу поём ИИПВ199</title>
 <key>G</key>
 </song>

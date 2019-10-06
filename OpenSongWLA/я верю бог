@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1656</hymn_number>
-<title>Я верю Бог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
  1 куплет:
 .                C
@@ -40,6 +39,7 @@
    Бог, Твоя Любовь не подведёт,
 .                   F                   G
    Любовь не подведёт, любовь не подведёт.</lyrics>
-<author>Hillsong Ukraine</author>
+<hymn_number>1656</hymn_number>
+<title>Я верю Бог</title>
 <key>C</key>
 </song>

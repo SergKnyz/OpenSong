@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>92</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Глубже всех морей и океанов ПВ92</title>
+<key>F</key>
+<hymn_number>92</hymn_number>
 <lyrics>[V1]
 .F               C        Dm
  Глубже всех морей и океанов,
@@ -43,6 +45,4 @@
 .Bb           C        F
  В нем обитель Господа Христа.</lyrics>
 <author>И. И. Вечерок, Неизвестный</author>
-<key>F</key>
-<title>Глубже всех морей и океанов ПВ92</title>
 </song>

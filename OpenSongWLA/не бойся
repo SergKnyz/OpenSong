@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2228</hymn_number>
-<title>Не бойся</title>
-<author>Молодёжная группа прославления СПбЦХ</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Молодёжная группа прославления СПбЦХ</author>
 <lyrics>[V1]
  Проигрыш: C G C G C G D
 
@@ -55,4 +52,7 @@
  Доверь свою жизнь и следуй за мной.
  Доверь свою жизнь и следуй за мной.
  Доверь свою жизнь и следуй за мной.</lyrics>
+<title>Не бойся</title>
+<key>C</key>
+<hymn_number>2228</hymn_number>
 </song>

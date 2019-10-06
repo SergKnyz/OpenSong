@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты - моя жизнь и любовь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Lenny Leblanc</author>
 <lyrics>[V1]
 .G           C      G
  Нет никого, кто бы мог спасти,
@@ -39,7 +39,7 @@
  # Господь, найди верным Ты меня.
 .Am       G        C     G      D
  Сердце посвящаю только для Тебя!</lyrics>
-<author>Lenny Leblanc</author>
-<key>G</key>
 <hymn_number>3864</hymn_number>
+<title>Ты - моя жизнь и любовь</title>
+<key>G</key>
 </song>

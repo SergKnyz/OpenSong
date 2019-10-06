@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>SokolovBrothers</author>
-<key>B</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .  Hm              A
  Я буду доверять Слову Твоему
@@ -21,6 +19,8 @@
    Я могу то, что Библия говорит, что я могу
 .        Hm
    То, что Бог мне обещал я не отдам врагу.</lyrics>
+<author>SokolovBrothers</author>
 <title>Я есть</title>
+<key>B</key>
 <hymn_number>4149</hymn_number>
 </song>

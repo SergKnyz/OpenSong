@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Нуждаюсь я в Тебе</title>
-<author>Алексей Каратаев</author>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Gm        Dm     Gm         F
  Всем моим сердцем я так люблю Тебя
@@ -39,5 +36,8 @@
    Я Тебя превозношу Бог Святой.
    Наполняются уста и сердце хвалой
    Я Тебя превозношу Бог Святой.</lyrics>
+<author>Алексей Каратаев</author>
 <hymn_number>6223</hymn_number>
+<key>G</key>
+<title>Нуждаюсь я в Тебе</title>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>40</hymn_number>
-<title>Молитва за друзей</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев</author>
 <lyrics>[V1]
  1 куплет:
 .F#                A#m
@@ -27,5 +26,6 @@
  Но при слове Бог он уходит прочь его в молитве
  Поднимаю в небеса</lyrics>
 <key>F#</key>
-<author>Алексей Каратаев</author>
+<title>Молитва за друзей</title>
+<hymn_number>40</hymn_number>
 </song>

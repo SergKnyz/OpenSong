@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>124</hymn_number>
-<author>Галим Хусаинов</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Превознесен</title>
 <key>E</key>
+<hymn_number>124</hymn_number>
 <lyrics>[V1]
  Куплет:
 .Em                  Hm
@@ -35,5 +35,5 @@
  Святый Господь Святый Господь
 .  C                        D
  Святый Господь, Ты воскрешён</lyrics>
-<title>Превознесен</title>
+<author>Галим Хусаинов</author>
 </song>

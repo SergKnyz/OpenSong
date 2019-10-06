@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Уверен я</title>
-<author>Steffany Gretzinger, Стеффаны Гретзингер</author>
-<key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Steffany Gretzinger, Стеффаны Гретзингер</author>
 <lyrics>[V1]
  Verse:
 .F#m D E
@@ -40,4 +38,6 @@
 [V3]
  перевод - Д. Войнова</lyrics>
 <hymn_number>1823</hymn_number>
+<title>Уверен я</title>
+<key>F#</key>
 </song>

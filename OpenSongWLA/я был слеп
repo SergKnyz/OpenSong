@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2414</hymn_number>
-<author>NG Worship</author>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>NG Worship</author>
 <lyrics>[V1]
  Я был слеп, но теперь я вижу свет
  Славы Твоей, Господь.
@@ -21,5 +19,7 @@
  Ты знаешь лучше, чем я.
  Коснись меня, омой меня,
  Озари светом Своим.</lyrics>
+<hymn_number>2414</hymn_number>
+<key>E</key>
 <title>Я был слеп</title>
 </song>

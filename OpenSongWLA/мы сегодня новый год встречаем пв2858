@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мы сегодня Новый год встречаем ПВ2858</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2858</hymn_number>
+<title>Мы сегодня Новый год встречаем ПВ2858</title>
+<key>E</key>
 <lyrics>[V1]
  Мы сегодня Новый год встречаем,
  провожая в вечность старый год.
@@ -37,6 +39,4 @@
  Богу слава и хвала за великие дела (все дела)!
  Нас Господь благословил,
  мир небесный в нас вселил!</lyrics>
-<key>E</key>
-<hymn_number>2858</hymn_number>
 </song>

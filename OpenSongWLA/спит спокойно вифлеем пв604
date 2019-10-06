@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>604</hymn_number>
-<title>Спит спокойно Вифлеем ПВ604</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Спит спокойно Вифлеем ПВ604</title>
+<key>D</key>
+<hymn_number>604</hymn_number>
 <lyrics>[V1]
  Спит спокойно Вифлеем,
  Но горит небес простор:
@@ -35,5 +36,4 @@
  За заблудшею душой
  Всех, кто к призыву глухи,
  Пастырь к нам пришел Благой!</lyrics>
-<key>D</key>
 </song>

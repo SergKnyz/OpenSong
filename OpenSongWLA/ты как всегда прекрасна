@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты как всегда прекрасна</title>
-<key>A</key>
-<author>Денис Никитин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Денис Никитин</author>
 <lyrics>[V1]
  1 куплет:
 .Am          F   C              G
@@ -31,5 +29,7 @@
  Мне не забыть глаза твои, даже через тысячу лет.
 .Am                    F          C          G
  Мне не забыть как сказала ты: &quot;Да&quot; вместо нет.</lyrics>
+<key>A</key>
+<title>Ты как всегда прекрасна</title>
 <hymn_number>1523</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Милана</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am                 Hm
  Я открываю сердца дверь Тебе,
@@ -44,6 +42,8 @@
  Все равно доверять, когда сил нет прощать,
 .        H7                Am    Hm           C  D
  Нужен свет, исцеляющий Свет,   исцеляющий Свет__</lyrics>
+<author>Милана</author>
 <title>Исцеляющий свет</title>
+<key>A</key>
 <hymn_number>1346</hymn_number>
 </song>

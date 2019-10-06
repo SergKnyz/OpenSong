@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2055</hymn_number>
-<title>Это Ты меня зовешь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Это Ты меня зовешь</title>
+<hymn_number>2055</hymn_number>
+<author>Егор и Наталия Лансере</author>
 <lyrics>[V1]
  Это Ты меня зовешь - You call me
 
@@ -47,5 +48,4 @@
  | Em C | G | Am | H | Em C | G | Am H | C | G | Hs H ||
  */| Em | C | G C G D | Em | C | G C G D |/2р Em ||
  #| Am C | G Gs G | Am C | G Gs G | Am C | Hs H ||</lyrics>
-<author>Егор и Наталия Лансере</author>
 </song>

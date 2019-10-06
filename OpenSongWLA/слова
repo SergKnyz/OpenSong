@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>893</hymn_number>
-<title>Слова</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Вельгус</author>
 <lyrics>[V1]
  1 куплет:
 .        Em                  A
@@ -57,6 +56,7 @@
  Словом можно раны исцелить.
  Тяжкий груз недобрых слов на плечи
  Берегитесь ближнему взвалить.</lyrics>
-<author>Ольга Вельгус</author>
 <key>B</key>
+<title>Слова</title>
+<hymn_number>893</hymn_number>
 </song>

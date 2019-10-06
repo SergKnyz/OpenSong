@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>309</hymn_number>
-<title>Спасение Богом дано ИИПВ309</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .G.       D/F#    Em
  Спасение Богом дано
 .C   G         Am       D
@@ -32,5 +30,7 @@
  Ивместе споём -
  Вечнаяслава, честь и хвала
  Богулюбви и добра.</lyrics>
+<hymn_number>309</hymn_number>
+<title>Спасение Богом дано ИИПВ309</title>
 <key>G</key>
 </song>

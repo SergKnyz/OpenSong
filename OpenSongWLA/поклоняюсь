@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Поклоняюсь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>112</hymn_number>
+<title>Поклоняюсь</title>
+<key>C</key>
+<author>Они</author>
 <lyrics>[V1]
  1 куплет:
 .Cm     A#           G#       A#
@@ -50,7 +53,4 @@
 [V4]
 .     Dm G  F C
  Поклоняюсь!</lyrics>
-<author>Они</author>
-<key>C</key>
-<hymn_number>112</hymn_number>
 </song>

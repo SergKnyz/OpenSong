@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>671</hymn_number>
-<title>Ритм Благодати</title>
-<key>A</key>
-<author>Hillsong Ukraine</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    Am      F        C
  Для цели Твоих моя жизнь,
@@ -56,4 +52,8 @@
    И не постичь нам, как славен Господь,
 .     Am      F
    Велик Бог Наш.</lyrics>
+<author>Hillsong Ukraine</author>
+<hymn_number>671</hymn_number>
+<title>Ритм Благодати</title>
+<key>A</key>
 </song>

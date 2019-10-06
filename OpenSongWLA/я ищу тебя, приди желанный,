@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>В дыхании ветра</aka>
-<hymn_number>1044</hymn_number>
-<title>Я ищу Тебя, приди желанный,</title>
-<key>F</key>
-<author>Константин Самородов</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .         F
  Я ищу Тебя, приди желанный,
@@ -42,4 +37,9 @@
    Без Тебя нет смысла жизни,
 .       Dm    G    Am G  C
    Я люблю Тебя. Я люблю Тебя.</lyrics>
+<author>Константин Самородов</author>
+<title>Я ищу Тебя, приди желанный,</title>
+<key>F</key>
+<aka>В дыхании ветра</aka>
+<hymn_number>1044</hymn_number>
 </song>

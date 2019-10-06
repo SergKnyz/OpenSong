@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>77</hymn_number>
-<title>Господь наш каждый день ИИПВ77</title>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .    F                C
  Господь наш каждый день
 .        F      Bb   C
@@ -10,4 +7,7 @@
  Отец Небесный, мы за всё
 .   Bb      C F
  Тебя благодарим.</lyrics>
+<hymn_number>77</hymn_number>
+<key>F</key>
+<title>Господь наш каждый день ИИПВ77</title>
 </song>

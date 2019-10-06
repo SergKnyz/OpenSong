@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Святой обмен</title>
-<author>Кристина Арнаутова</author>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .      C              F
  Весь стыд и грех, людей любя,
@@ -50,5 +47,8 @@
 
 [C3]
    Припев: модуляция + 2 - А</lyrics>
+<author>Кристина Арнаутова</author>
+<key>C</key>
+<title>Святой обмен</title>
 <hymn_number>2522</hymn_number>
 </song>

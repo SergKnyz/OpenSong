@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Великого Вечного и Вездесущего,</aka>
-<hymn_number>1666</hymn_number>
-<title>Веруем во Единого Бога Творца Всемогущего</title>
-<author>Неизвестный</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <lyrics>[V1]
  1 куплет:
 .Cm                          G           Cm
@@ -65,4 +61,8 @@
  Верим встреча с Ним будет на небе торжественной
 .Am  E
  Веруем!</lyrics>
+<title>Веруем во Единого Бога Творца Всемогущего</title>
+<key>C</key>
+<hymn_number>1666</hymn_number>
+<aka>Великого Вечного и Вездесущего,</aka>
 </song>

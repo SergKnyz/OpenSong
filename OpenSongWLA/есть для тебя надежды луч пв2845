@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2845</hymn_number>
-<title>Есть для тебя надежды луч ПВ2845</title>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Есть для тебя надежды луч,
  несчастная душа:
  взгляни на крест узри Того,
@@ -37,4 +34,7 @@
  - Бог есть любовь,
  приди к Нему,
  спасение лишь в Нем!</lyrics>
+<key>A</key>
+<title>Есть для тебя надежды луч ПВ2845</title>
+<hymn_number>2845</hymn_number>
 </song>

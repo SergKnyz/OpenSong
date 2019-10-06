@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>21</hymn_number>
-<title>Услышь мольбу и вздох ПВ21</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Услышь мольбу и вздох
  Души моей,
  Хочу Тебя, мой Бог,
@@ -35,5 +33,7 @@
  Где нет теней,
  Где вечный Бога храм,
  Любить сильней.</lyrics>
+<title>Услышь мольбу и вздох ПВ21</title>
 <key>Ab</key>
+<hymn_number>21</hymn_number>
 </song>

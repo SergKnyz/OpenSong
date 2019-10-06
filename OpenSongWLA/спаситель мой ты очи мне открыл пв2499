@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2499</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Спаситель мой, Ты очи мне открыл,
  На пагубном пути остановил.
  Мой новый путь лежит к Тебе,
@@ -20,6 +19,7 @@
  Терновник, а не розы на пути,
  Но я с надеждой к вечности дойду,
  И после бурь блаженство обрету.</lyrics>
-<key>D</key>
 <title>Спаситель мой Ты очи мне открыл ПВ2499</title>
+<key>D</key>
+<hymn_number>2499</hymn_number>
 </song>

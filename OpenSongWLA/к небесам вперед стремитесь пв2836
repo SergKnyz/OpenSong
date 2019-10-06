@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>К небесам вперед стремитесь ПВ2836</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>К небесам вперед стремитесь ПВ2836</title>
+<hymn_number>2836</hymn_number>
 <lyrics>[V1]
  К небесам вперед стремитесь
  в битве, воины Христа!
@@ -28,6 +30,4 @@
  будет до конца времен.
  Будем мы в небесном царстве
  вечно царствовать с Христом.</lyrics>
-<key>C</key>
-<hymn_number>2836</hymn_number>
 </song>

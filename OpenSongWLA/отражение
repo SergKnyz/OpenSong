@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<author>Филипп Реннер</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .   G      Am               G/H      C
  Я вижу свет, даже когда тьма придет
@@ -41,6 +39,8 @@
    Во всём хочу, быть как Ты мой Бог,
 .      G             D
    И свет Твой, отражать</lyrics>
+<author>Филипп Реннер</author>
+<key>G</key>
 <title>Отражение</title>
 <hymn_number>1310</hymn_number>
 </song>

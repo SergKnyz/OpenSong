@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>С ангелами вместе</title>
-<key>C</key>
-<author>Ольга Зорина</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .         C
  Когда в церковь я приду
@@ -36,5 +33,8 @@
  И сомнения Ушли
  Вновь плыву я
  На корабле своей судьбы</lyrics>
+<author>Ольга Зорина</author>
 <hymn_number>2973</hymn_number>
+<key>C</key>
+<title>С ангелами вместе</title>
 </song>

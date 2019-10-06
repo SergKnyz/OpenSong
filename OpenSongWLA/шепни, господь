@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3145</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Евгений Косенков</author>
 <lyrics>[V1]
  1 куплет:
 .Cm             Fm            G           Cm
@@ -29,7 +29,7 @@
  Господь дал нам время любить, шепни, чтоб гудела земля
  Не дай мне остыть, позабыть, Ты - жизнь и Ты любишь меня
  Не дай мне остыть позабыть, шепни, что Ты любишь меня</lyrics>
-<author>Евгений Косенков</author>
-<key>C</key>
 <title>Шепни, Господь</title>
+<key>C</key>
+<hymn_number>3145</hymn_number>
 </song>

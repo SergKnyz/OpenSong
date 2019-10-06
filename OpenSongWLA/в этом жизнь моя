@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Young &amp; Free, Хиллсонг Ыоунг &amp; Фрее</author>
-<key>Fm</key>
 <lyrics>[V1]
  1 куплет:
 .G#                    A#
@@ -77,6 +76,7 @@
  Кто сердце и разум всегда обновляет.
  Веди меня Бог мой, я верю готов,
  Принять Твоё Слово, а с Ним и Любовь.</lyrics>
-<title>В этом жизнь моя</title>
 <hymn_number>1253</hymn_number>
+<title>В этом жизнь моя</title>
+<key>Fm</key>
 </song>

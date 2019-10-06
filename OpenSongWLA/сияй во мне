@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Сияй во мне</title>
+<key>C</key>
+<hymn_number>513</hymn_number>
+<lyrics>[V1]
  Куплет:
 .Cm                  Eb      Bb
  Есть внутри меня желание одно
@@ -33,8 +36,5 @@
    Иисус, мы славим Имя Твоё навечно
 .  Gm   Eb         Bb    F
    Мы все принадлежим Тебе</lyrics>
-<key>C</key>
 <author>Hillsong Ukraine</author>
-<title>Сияй во мне</title>
-<hymn_number>513</hymn_number>
 </song>

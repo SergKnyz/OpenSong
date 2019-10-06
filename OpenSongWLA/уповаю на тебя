@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Уповаю на Тебя</title>
+<key>F</key>
+<hymn_number>735</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .F                       C
  Господь Иисус, Ты искупил,
@@ -31,8 +34,5 @@
    Мост:
 .      Bb   Dm Am   Bb Dm   Am     Bb
    Верю я, верю я, верю я - Ты мой путь</lyrics>
-<key>F</key>
 <author>Ольга Марина</author>
-<title>Уповаю на Тебя</title>
-<hymn_number>735</hymn_number>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>325</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Живу Тобой</title>
+<hymn_number>325</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Em                  D
@@ -53,7 +55,5 @@
    Через боль и смерть Ты смотрел на меня мой Бог
 .     D                 Em
    У ног Твоих склоняюсь я ...</lyrics>
-<key>E</key>
 <author>Ross Bramirskyy</author>
-<title>Живу Тобой</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Есть Имя у любви</title>
-<key>C</key>
-<author>Jesus Culture, Йесус Цултуре</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Intro:
 
 [V2]
@@ -100,5 +97,8 @@
 .     G         D
  Есть Имя у любви - Иисус
  [...]</lyrics>
+<author>Jesus Culture, Йесус Цултуре</author>
+<key>C</key>
+<title>Есть Имя у любви</title>
 <hymn_number>2710</hymn_number>
 </song>

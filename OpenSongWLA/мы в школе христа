@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>384</hymn_number>
-<title>Мы в школе Христа</title>
-<author>Лена Исаева (Ковалева)</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мы в школе Христа</title>
 <key>E</key>
+<hymn_number>384</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .       E                 H
@@ -53,4 +52,5 @@
  Мы__ в школе Христа
 .H  Hm  F#
  М__ы в школе Христа</lyrics>
+<author>Лена Исаева (Ковалева)</author>
 </song>

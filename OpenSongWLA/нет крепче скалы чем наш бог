@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2969</hymn_number>
-<author>Неизвестный</author>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .E    H      A H
  Нет крепче скалы чем наш Бог
 .   E    H      A H
@@ -22,5 +19,8 @@
  В мире этом ничто не похитит Его любви
 .   A    H      E
  Нет крепче скалы, чем наш Бог</lyrics>
+<author>Неизвестный</author>
+<hymn_number>2969</hymn_number>
+<key>E</key>
 <title>Нет крепче скалы чем наш Бог</title>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вот год пришел к кончине ПВ614</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>614</hymn_number>
+<title>Вот год пришел к кончине ПВ614</title>
+<key>E</key>
 <lyrics>[V1]
  Вот год пришел к кончине,
  Но наш Господь живет;
@@ -28,6 +30,4 @@
  Во все сердца всели.
  Пусть мир познает сладость
  Твоим путем идти!</lyrics>
-<key>E</key>
-<hymn_number>614</hymn_number>
 </song>

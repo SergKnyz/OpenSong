@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Желанно</title>
-<author>Аня Монах</author>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Аня Монах</author>
 <lyrics>[V1]
  Всё, всё у Твоих ног,
  Хочу оставить всё
@@ -24,4 +22,6 @@
  Кровь Твоя сильна во мне!
  Иисус...!</lyrics>
 <hymn_number>3002</hymn_number>
+<key>B</key>
+<title>Желанно</title>
 </song>

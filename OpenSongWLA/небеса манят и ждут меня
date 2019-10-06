@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2233</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Небеса манят и ждут меня</title>
+<hymn_number>2233</hymn_number>
 <author>Новое поколение</author>
-<key>D</key>
 <lyrics>[V1]
 .Dm  C  F      C
  Небеса манят и ждут меня,
@@ -10,5 +11,4 @@
  Небеса - зарево нового дня,
 .Ddim               A
  Я Господа грядущего вижу.</lyrics>
-<title>Небеса манят и ждут меня</title>
 </song>

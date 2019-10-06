@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Как много звезд на небесах ПВ95</title>
+<key>C</key>
+<hymn_number>95</hymn_number>
 <lyrics>[V1]
  Как много звезд на небесах
  Горит в бесчисленных лучах!
@@ -34,6 +36,4 @@
  Сквозь жизни мрак и темноту;
  Я на нее хочу взирать
  И ей лишь в жизни доверять.</lyrics>
-<key>C</key>
-<hymn_number>95</hymn_number>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<lyrics>[V1]
  1 куплет:
 .G#m                        H
  Приходит время, спасения час настал
@@ -60,8 +61,7 @@
    Концовка:
    В нас сияй, пусть поймёт мир Ты - Господь, лишь Один Ты
    В этом мире Ты надежда для нас</lyrics>
-<key>G#m</key>
-<author>Hillsong Ukraine</author>
-<title>Черты отличия</title>
 <hymn_number>606</hymn_number>
+<title>Черты отличия</title>
+<key>G#m</key>
 </song>

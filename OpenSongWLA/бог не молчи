@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2707</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Бог не молчи</title>
 <aka>В наши жизни Слово неси.</aka>
-<author>Владимир Скобочкин</author>
-<key>G</key>
+<hymn_number>2707</hymn_number>
 <lyrics>[V1]
 .Em       G     D      G
  1. Я люблю Слова Твои,
@@ -29,5 +29,5 @@
 
 [V3]
  Припев.</lyrics>
-<title>Бог не молчи</title>
+<author>Владимир Скобочкин</author>
 </song>

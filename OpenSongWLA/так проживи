@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>712</hymn_number>
-<author>Сіон</author>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вст
 
 [V2]
@@ -63,5 +60,8 @@
  И каждый помнил, с кем хоть раз встречался
 .      Em       A          D
  Твою улыбку, смех твой и глаза.</lyrics>
+<author>Сіон</author>
+<key>D</key>
 <title>Так проживи</title>
+<hymn_number>712</hymn_number>
 </song>

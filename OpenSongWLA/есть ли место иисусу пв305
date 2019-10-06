@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Есть ли место Иисусу ПВ305</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Есть ли место Иисусу,
  Чьею кровью мир омыт?
  Сердца дверь открой скорее,
@@ -29,5 +27,7 @@
  Жизнь и сердце все отдать.
  Глас замолкнет благодатный.
  Скоро уж не будет звать.</lyrics>
+<key>C</key>
+<title>Есть ли место Иисусу ПВ305</title>
 <hymn_number>305</hymn_number>
 </song>

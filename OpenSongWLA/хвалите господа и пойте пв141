@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Хвалите Господа и пойте ПВ141</title>
+<key>E</key>
+<hymn_number>141</hymn_number>
+<lyrics>[V1]
  Хвалите Господа и пойте!
  Как сладко воспевать Его!
  Ему Единому вы стройте
@@ -33,7 +36,4 @@
  Не к мужеству благоволит,
  Но на Него кто уповает,
  Он любящих Его хранит!</lyrics>
-<key>E</key>
-<title>Хвалите Господа и пойте ПВ141</title>
-<hymn_number>141</hymn_number>
 </song>

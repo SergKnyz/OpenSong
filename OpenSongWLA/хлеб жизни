@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G#m</key>
-<author>Слово Жизни Music</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  КУПЛЕТ:
 .G#m        E       H
  Я искал, чем голод утолить
@@ -39,6 +37,8 @@
  В Твоем Слове сила для меня
 .G#m      E        H  F#
  Ты заполнил пустоту души моей</lyrics>
+<author>Слово Жизни Music</author>
 <title>Хлеб жизни</title>
+<key>G#m</key>
 <hymn_number>3636</hymn_number>
 </song>

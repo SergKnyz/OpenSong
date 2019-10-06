@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2999</hymn_number>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Мы Спасителю гимн хвалы поём,
  за истину всегда стоим.
  Славим Господа мы в своих сердцах,
@@ -35,5 +33,7 @@
  где мы вдали от всех невзгод,
  будем прославлять мы Иисуса там
  и чтить, как Господа господ.</lyrics>
+<hymn_number>2999</hymn_number>
+<key>E</key>
 <title>Мы Спасителю гимн хвалы поём ПВ2999</title>
 </song>

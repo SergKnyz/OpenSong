@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Проведи сквозь внешний двор</title>
-<key>E</key>
-<author>Неизвестный</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em
  Проведи сквозь Внешний двор
 .  C
@@ -30,5 +27,8 @@
  Проведи во Святое святых
 .  Am7        Hm7       Em
  Ты уста мои очисть - вот я</lyrics>
+<author>Неизвестный</author>
+<title>Проведи сквозь внешний двор</title>
+<key>E</key>
 <hymn_number>2221</hymn_number>
 </song>

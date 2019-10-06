@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Влад Фонки</author>
-<key>G</key>
 <lyrics>[V1]
  Куплет:
 .       G              C
@@ -38,6 +37,7 @@
  Для Царя, що достойний,
  Я люблю, поклоняюсь,
  Перед Ним я схиляюсь.</lyrics>
-<title>Ти Святий Бог</title>
 <hymn_number>417</hymn_number>
+<title>Ти Святий Бог</title>
+<key>G</key>
 </song>

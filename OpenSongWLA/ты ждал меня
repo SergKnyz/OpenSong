@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2174</hymn_number>
-<title>Ты ждал меня</title>
-<author>Юлия Петерс</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты ждал меня</title>
+<hymn_number>2174</hymn_number>
 <lyrics>[V1]
  1 куплет:
  О всех грехах моих, Господь, Ты знал...
@@ -34,4 +33,5 @@
  С надеждой к сердцу подойдет,
  Прими любовь Его, что согревает.
  Прими Его любовь, прими Его... Не опоздай!</lyrics>
+<author>Юлия Петерс</author>
 </song>

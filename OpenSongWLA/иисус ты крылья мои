@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1211</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
 <title>Иисус Ты крылья мои</title>
+<hymn_number>1211</hymn_number>
+<author>Спасение церковь г. Вишневое</author>
 <lyrics>[V1]
  1 куплет:
 .        F      C/E           Dm
@@ -43,6 +45,4 @@
    Ты приходишь и приносишь покой,
 .             Dm                 Gm        Bb    C
    Я всё пройду для того, чтобы быть всегда с Тобой.</lyrics>
-<author>Спасение церковь г. Вишневое</author>
-<key>F</key>
 </song>

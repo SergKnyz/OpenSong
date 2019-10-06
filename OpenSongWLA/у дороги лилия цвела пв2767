@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1641</hymn_number>
-<title>У дороги лилия цвела ПВ2767</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  У дороги лилия цвела,
  Пыль не раз над ней кружилась серая,
  А она во все часы была
@@ -24,4 +21,7 @@
  Пыль не раз над ней кружилась серая,
  Но всегда свой аромат несла
  Лилия, прекрасная и белая.</lyrics>
+<title>У дороги лилия цвела ПВ2767</title>
+<key>D</key>
+<hymn_number>1641</hymn_number>
 </song>

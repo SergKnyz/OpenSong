@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1281</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Спасение</author>
 <lyrics>[V1]
  1 куплет:
 .Em  C       G   D  Em C       G    D
@@ -29,7 +29,7 @@
  Все бури пройдет, если Бог поведет.
  Штурвал в руке Божьей, намного надежней
  Чем груда металла на дне океана</lyrics>
-<author>Спасение</author>
-<key>E</key>
 <title>Кораблик бумажный</title>
+<key>E</key>
+<hymn_number>1281</hymn_number>
 </song>

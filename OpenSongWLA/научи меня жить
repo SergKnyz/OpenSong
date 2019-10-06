@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Научи меня жить</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1104</hymn_number>
+<title>Научи меня жить</title>
+<key>B</key>
 <lyrics>[V1]
  1 куплет:
 .Hm                        G
@@ -59,7 +61,5 @@
    Теряя возвращать, научи меня  жить.
 .   D       F#   Hm
    Научи меня   жить</lyrics>
-<key>B</key>
 <author>Виталий Ефремочкин</author>
-<hymn_number>1104</hymn_number>
 </song>

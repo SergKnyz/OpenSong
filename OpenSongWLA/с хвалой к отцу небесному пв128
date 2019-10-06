@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>128</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  С хвалой к Отцу небесному
  Я сердце возношу:
  Ему, Творцу чудесному,
@@ -38,6 +37,7 @@
  Мы все к стопам Отца!
  Он пусть благословением
  Нам будет до конца.</lyrics>
-<key>D</key>
+<hymn_number>128</hymn_number>
 <title>С хвалой к Отцу небесному ПВ128</title>
+<key>D</key>
 </song>

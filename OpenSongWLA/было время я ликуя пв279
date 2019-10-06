@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Шел на Божии дела,</aka>
-<hymn_number>279</hymn_number>
-<title>Было время я ликуя ПВ279</title>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Было время: я ликуя,
  Шел на Божии дела,
  Говорил я: &quot;Все могу я,
@@ -41,4 +37,8 @@
  Вырос дом на берегу...
  И воспел мой громкий голос:
  &quot;Все я с Господом могу!&quot;</lyrics>
+<key>F</key>
+<title>Было время я ликуя ПВ279</title>
+<aka>Шел на Божии дела,</aka>
+<hymn_number>279</hymn_number>
 </song>

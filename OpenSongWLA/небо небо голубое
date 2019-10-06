@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>960</hymn_number>
-<title>Небо небо голубое</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Небо небо голубое</title>
+<key>F</key>
+<hymn_number>960</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .     F              C       Dm
@@ -36,5 +37,4 @@
  И только в небе прекратятся беды
  И Бог слезу с очей отрёт</lyrics>
 <author>Slavic Grace Baptist Church</author>
-<key>F</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>344</hymn_number>
-<title>Что ты гонишь Меня ПВ344</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Что ты гонишь Меня?
  Верных правде гоня
  И губя слуг Моих,
@@ -56,4 +53,7 @@
  И, собой овладев,
  Гнать Меня перестань,
  Дай мне должную дань.</lyrics>
+<key>D</key>
+<title>Что ты гонишь Меня ПВ344</title>
+<hymn_number>344</hymn_number>
 </song>

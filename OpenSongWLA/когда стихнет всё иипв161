@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Когда стихнет всё ИИПВ161</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>161</hymn_number>
 <copyright>1999 Тханкыоу Мусиц</copyright>
+<title>Когда стихнет всё ИИПВ161</title>
+<key>D</key>
 <lyrics>[V1]
 .D                A
  Когда стихнет всё
@@ -43,7 +45,5 @@
  Беден я слаб, но мой каждый вдох
 .               A
  Только для Тебя.</lyrics>
-<key>D</key>
 <author>Матт Редман</author>
-<hymn_number>161</hymn_number>
 </song>

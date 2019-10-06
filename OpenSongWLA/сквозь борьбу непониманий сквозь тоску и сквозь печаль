@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Сквозь борьбу непониманий сквозь тоску и сквозь печаль</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4219</hymn_number>
+<aka>Верь</aka>
+<title>Сквозь борьбу непониманий сквозь тоску и сквозь печаль</title>
+<key>G</key>
+<author>Анна Поночевная</author>
 <lyrics>[V1]
  1 куплет:
 .Gm                      Cm
@@ -38,8 +42,4 @@
    Верь, верь, Бог всегда с тобою рядом
 .  Gm        Cm   D                Gm
    Верь, ты поверь, Бог всегда с тобой.</lyrics>
-<author>Анна Поночевная</author>
-<key>G</key>
-<aka>Верь</aka>
-<hymn_number>4219</hymn_number>
 </song>

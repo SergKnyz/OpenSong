@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>451</hymn_number>
-<title>Мы руки возлагаем ПВ451</title>
-<key>Eb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Мы руки возлагаем
  На брата своего;
  Тебя мы умоляем:
@@ -42,4 +39,7 @@
  И старшим кроткий нрав;
  А всем любовь и рвенье
  Исполнить Твой устав.</lyrics>
+<hymn_number>451</hymn_number>
+<title>Мы руки возлагаем ПВ451</title>
+<key>Eb</key>
 </song>

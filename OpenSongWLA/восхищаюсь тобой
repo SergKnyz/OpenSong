@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4162</hymn_number>
-<author>Skinia Worship</author>
-<key>C#m</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Skinia Worship</author>
 <lyrics>[V1]
  1 куплет:
 .C#m              H
@@ -33,5 +31,7 @@
  Как нашел меня в слезах в беспроглядной тьме,
  Твой луч света воссиял,
  И любовью вечною Ты меня объял.</lyrics>
+<hymn_number>4162</hymn_number>
 <title>Восхищаюсь Тобой</title>
+<key>C#m</key>
 </song>

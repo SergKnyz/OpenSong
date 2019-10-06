@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Под небом голубым</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Под небом голубым есть город золотой
  С прозрачными воротами и ясною звездой,
  А в городе том сад, все травы да цветы,
@@ -31,5 +30,6 @@
 
 [V3]
  Под небом голубым есть город золотой</lyrics>
+<title>Под небом голубым</title>
 <hymn_number>3092</hymn_number>
 </song>

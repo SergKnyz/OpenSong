@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>101</hymn_number>
-<title>Еммануил ИИПВ101</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C.     F Dm.   Em   A7
  Еммануил, Еммануил,
 .      Dm  G7.   C F C
@@ -9,5 +7,7 @@
  С нами Бог, нас искупил,
 .      Dm  G7.   C
  Его зовут Еммануил.</lyrics>
+<title>Еммануил ИИПВ101</title>
 <key>C</key>
+<hymn_number>101</hymn_number>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бог моя скала</title>
-<tempo>140</tempo>
-<key>D</key>
-<author>Вадим Ятковский</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D            G
  Бог, моя скала -
 .          A7 D
@@ -26,5 +22,8 @@
 .    A7      D
    Скала спасения!</lyrics>
 <time_sig>4/4</time_sig>
+<tempo>140</tempo>
+<title>Бог моя скала</title>
+<key>D</key>
 <hymn_number>27</hymn_number>
 </song>

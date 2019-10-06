@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О Благий Святый Царь всех сил ПВ1359</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>О Благий Святый Царь всех сил ПВ1359</title>
+<hymn_number>1359</hymn_number>
 <lyrics>[V1]
  О, Благий, Святый Царь всех сил!
  Все, что в мире есть.
@@ -16,6 +18,4 @@
  Возгревай любовь в нашей груди.
  Светом правды святой нас веди.
  В небеса! В небеса!</lyrics>
-<key>G</key>
-<hymn_number>1359</hymn_number>
 </song>

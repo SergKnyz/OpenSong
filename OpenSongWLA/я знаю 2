@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>368</hymn_number>
-<title>Я знаю</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .H                     F#
  В имени Твоем черпаю силы.
@@ -43,6 +41,8 @@
  Ты укажешь мне путь в жизни моей
 .                   Emaj7
  Радость и блаженство в руке Твоей</lyrics>
-<key>B</key>
 <author>Holy Generation</author>
+<title>Я знаю</title>
+<key>B</key>
+<hymn_number>368</hymn_number>
 </song>

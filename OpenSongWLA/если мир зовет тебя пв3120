@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3120</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Если мир зовет тебя
  на греховные дела,
  тогда задай себе вопрос:
@@ -34,6 +33,7 @@
  пред праведным Судьей?
  Всегда вопрос ты задавай:
  «Что б решил Христос?»</lyrics>
-<key>C</key>
 <title>Если мир зовет тебя ПВ3120</title>
+<key>C</key>
+<hymn_number>3120</hymn_number>
 </song>

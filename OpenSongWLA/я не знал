@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Я не знал</title>
+<key>G#m</key>
+<hymn_number>1083</hymn_number>
+<author>Александр Гуц</author>
 <lyrics>[V1]
  Вступление:
 
@@ -48,7 +51,4 @@
 
 [V7]
  Окончание:</lyrics>
-<key>G#m</key>
-<author>Александр Гуц</author>
-<hymn_number>1083</hymn_number>
 </song>

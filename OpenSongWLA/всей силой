@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<lyrics>[V1]
  1 куплет:
 .    H                  F#
  Глаза нам открой на всё, что ранит
@@ -54,8 +55,7 @@
 
 [B2]
    Концовка:</lyrics>
-<key>B</key>
-<author>Hillsong Ukraine</author>
-<title>Всей силой</title>
 <hymn_number>1020</hymn_number>
+<key>B</key>
+<title>Всей силой</title>
 </song>

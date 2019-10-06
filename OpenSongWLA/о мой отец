@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1262</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Am/C                 H              Em      Am
  О, мой Отец, я не умею жить, без Тебя, как раньше я жил.
@@ -18,7 +17,8 @@
    Только Ты Отец упованье мое, если я от друзей далеко,
 .       Am/C          H          Em
    Только Ты, только Ты, только ты.</lyrics>
-<key>A</key>
 <author>NDay</author>
 <title>О мой Отец</title>
+<key>A</key>
+<hymn_number>1262</hymn_number>
 </song>

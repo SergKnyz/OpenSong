@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Небеса</title>
-<author>Subcultura</author>
-<key>B</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .H                     F#
  Высоко на третьем небе никогда я раньше не был,
@@ -47,5 +44,8 @@
  Я буду там, там, там, там, там, там.
 .      G#m                          E
  Я буду там, там, там, вечно буду там.</lyrics>
+<author>Subcultura</author>
 <hymn_number>1562</hymn_number>
+<title>Небеса</title>
+<key>B</key>
 </song>

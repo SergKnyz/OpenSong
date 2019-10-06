@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3366</hymn_number>
-<title>Твоя Любов</title>
-<key>F#</key>
-<author>Матфей Шариков</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Матфей Шариков</author>
 <lyrics>[V1]
  1 куплет:
 .D#m                         C#
@@ -45,4 +42,7 @@
  Ты, как росу, осушишь моё горе,
 .G#m                    A#
  Чтобы Тобой я восхишался вновь.</lyrics>
+<hymn_number>3366</hymn_number>
+<key>F#</key>
+<title>Твоя Любов</title>
 </song>

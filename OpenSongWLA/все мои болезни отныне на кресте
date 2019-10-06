@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Источник Жизни церковь Санкт-Петербург</author>
-<key>C#m</key>
 <lyrics>[V1]
  1 куплет:
 .C#m  G#m   A       E           H
@@ -33,5 +32,6 @@
  Тяжкий груз проклятья отныне на кресте
  От того что Иисус дал свободу мне</lyrics>
 <title>Все мои болезни отныне на кресте</title>
+<key>C#m</key>
 <hymn_number>1059</hymn_number>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В горах, иль в долине,
  иль в дальних морях
  - где б ни пришлось мне быть,
@@ -32,7 +31,8 @@
  там в вышине небес,
  когда пред престолом Христа будем мы.
  О, стойте верно все!</lyrics>
-<title>иль в дальних морях ПВ3198</title>
 <hymn_number>3198</hymn_number>
 <aka>В горах иль в долине</aka>
+<title>иль в дальних морях ПВ3198</title>
+<key>E</key>
 </song>

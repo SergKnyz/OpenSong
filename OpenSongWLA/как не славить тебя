@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>30</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев</author>
 <lyrics>[V1]
  1 куплет:
 .        Bb                 F/A
@@ -42,7 +42,7 @@
    Даже в самый последний час будет песнь на устах
 .     Cm7           Bb/D          Eb        F
    Ведь я знаю, что буду петь Тебе на небесах!</lyrics>
-<author>Алексей Каратаев</author>
 <key>Bb</key>
 <title>Как не славить Тебя</title>
+<hymn_number>30</hymn_number>
 </song>

@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1071</hymn_number>
+<title>Господь мой Иисус</title>
+<key>C#m</key>
+<author>Песнь возрождения 2800</author>
+<lyrics>[V1]
  1 куплет:
 .    C#m                                F#m
  Господь мой Иисус пришел к Тебе с мольбою
@@ -29,8 +33,4 @@
  Прошу, не уходи, я сознаю, что был не прав.
  И лишь к Тебе свой взор с надеждой устремляю,
  Что Ты меня простишь, Своим дитём назвав.</lyrics>
-<author>Песнь возрождения 2800</author>
-<key>C#m</key>
-<title>Господь мой Иисус</title>
-<hymn_number>1071</hymn_number>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Далеко от лесов России ПВ2574</title>
+<key>A</key>
+<hymn_number>2574</hymn_number>
+<lyrics>[V1]
  Далеко от лесов России,
  От просторов её и рек,
  В Иудее родился Мессия
@@ -37,7 +40,4 @@
  По просторам России течет!
  Иисус, Друг людей самый лучший,
  Призывает к спасенью народ.</lyrics>
-<key>A</key>
-<title>Далеко от лесов России ПВ2574</title>
-<hymn_number>2574</hymn_number>
 </song>

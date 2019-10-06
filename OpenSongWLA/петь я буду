@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Исход Краснодар</author>
-<key>B</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Hm                        G
  Я блуждал до встречи с Тобой во тьме
@@ -28,6 +26,8 @@
    Всё во всём Ты для меня
 .  A                     G
    Подарил мне жизнь Ты. Так люблю Тебя я!</lyrics>
-<title>Петь я буду</title>
+<author>Исход Краснодар</author>
 <hymn_number>1723</hymn_number>
+<title>Петь я буду</title>
+<key>B</key>
 </song>

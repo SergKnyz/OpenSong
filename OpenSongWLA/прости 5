@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3182</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Прости</title>
+<hymn_number>3182</hymn_number>
 <lyrics>[V1]
 .Em     C         D
  1. Молитва в небеса,
@@ -31,7 +33,5 @@
  И святостью их вразуми,
  Пускай увидят, что больны,
  Их сердца отдели от этой жадной тьмы.</lyrics>
-<key>E</key>
 <author>Владимир Скобочкин</author>
-<title>Прости</title>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1520</hymn_number>
-<title>Кто я кто Ты</title>
-<author>G.O.N.G Worship</author>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Em  D C       Em  D C
  Ты видел слезы, Ты плакал надо мной
@@ -35,4 +31,8 @@
    Бридж:
 .  C         Em   C         Em    C  Em                 C
    Любовь Твоя    спасла меня,    я не своя, теперь Твоя....</lyrics>
+<author>G.O.N.G Worship</author>
+<title>Кто я кто Ты</title>
+<key>E</key>
+<hymn_number>1520</hymn_number>
 </song>

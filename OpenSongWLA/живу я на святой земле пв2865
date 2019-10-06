@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2865</hymn_number>
-<title>Живу я на святой земле ПВ2865</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Живу я на святой земле,
  не страшны здесь все бури мне:
  дом мой стоит не на песке
@@ -30,4 +27,7 @@
  меня Иисус к Себе возьмёт
  туда,  где славят все Его
  - дом мой, ведь на скале.</lyrics>
+<key>G</key>
+<title>Живу я на святой земле ПВ2865</title>
+<hymn_number>2865</hymn_number>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>596</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ярче</title>
+<key>A</key>
+<hymn_number>596</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .         A     E          H      C#m
@@ -57,6 +59,4 @@
 .   A          E  H
    Ты нужен мне сейчас</lyrics>
 <author>Hillsong Ukraine</author>
-<key>A</key>
-<title>Ярче</title>
 </song>

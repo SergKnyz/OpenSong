@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4222</hymn_number>
-<aka>Верим мы</aka>
-<author>Анна Поночевная</author>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .     Em       D        C
  Призовём имя Бога во время беды
@@ -39,5 +35,9 @@
    Великому Богу верим мы.
 .   D     C   D     C
    Верим мы, верим мы.</lyrics>
+<author>Анна Поночевная</author>
+<key>A</key>
 <title>Призовём имя Бога во время беды</title>
+<aka>Верим мы</aka>
+<hymn_number>4222</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3915</hymn_number>
-<key>E</key>
-<author>ForChrist Project</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>ForChrist Project</author>
 <lyrics>[V1]
  Запев:
  Вся слава Тебе...
@@ -48,5 +46,7 @@
  Пока кровью омыты для нас двери открыты
 .    C                             Hsus4 H
  Неужели возможно что грехи все забыты.</lyrics>
+<hymn_number>3915</hymn_number>
 <title>Вся слава Тебе</title>
+<key>E</key>
 </song>

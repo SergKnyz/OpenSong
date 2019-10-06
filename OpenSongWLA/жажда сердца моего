@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Жажда сердца моего</title>
-<author>Ксения Кузнецова</author>
-<key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ксения Кузнецова</author>
 <lyrics>[V1]
  1 куплет:
 .    F#          D#m
@@ -37,4 +35,6 @@
 .      F#        Bbm       D#m          H          C#
    Ты правда,Ты правда,Ты правда, Ты праведность моя</lyrics>
 <hymn_number>119</hymn_number>
+<key>F#</key>
+<title>Жажда сердца моего</title>
 </song>

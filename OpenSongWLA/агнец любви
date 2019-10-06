@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2744</hymn_number>
-<aka>без сомнений Он взял наши грехи</aka>
-<author>Владимир Скобочкин</author>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Am       F          C                E
  1. Твоя любовь дарует силы вновь и вновь.
 . Am      F           C               E
@@ -41,5 +37,9 @@
    Гвозди, гвозди, принял Иисус за наш смертный грех.
    Гвозди, гвозди, за твои и мои грехи,
    Гвозди, гвозди, во имя великой, великой любви, слава Агнцу Любви.</lyrics>
+<author>Владимир Скобочкин</author>
 <title>Агнец Любви</title>
+<key>A</key>
+<aka>без сомнений Он взял наши грехи</aka>
+<hymn_number>2744</hymn_number>
 </song>

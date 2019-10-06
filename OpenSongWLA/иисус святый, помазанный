@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1990</hymn_number>
-<title>Иисус Святый, Помазанный</title>
-<key>E</key>
-<author>Неизвестный</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .  E     H    A2  F#m
  Святый, Помазанный
@@ -23,4 +19,8 @@
  Иисус! Иисус!
  Ты воскрес, Ты вознесён!
  Иисус!</lyrics>
+<author>Неизвестный</author>
+<hymn_number>1990</hymn_number>
+<key>E</key>
+<title>Иисус Святый, Помазанный</title>
 </song>

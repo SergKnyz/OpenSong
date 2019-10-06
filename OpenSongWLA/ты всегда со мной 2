@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3078</hymn_number>
-<title>Ты Всегда Со Мной</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты Всегда Со Мной</title>
+<key>G</key>
+<hymn_number>3078</hymn_number>
+<author>Simon Khorolskiy</author>
 <lyrics>[V1]
  1 куплет:
 . G                           D
@@ -65,6 +67,4 @@
    Потому что, знаю я,  я верю, Ты всегда со мной!
 .       F                  G                    C
    Потому что, знаю я,  я верю, Ты всегда со мной!</lyrics>
-<key>G</key>
-<author>Simon Khorolskiy</author>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ах Земля чужая сторона ПВ1114</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em          B
  Ах, Земля, чужая сторона,
 .Am            B       Em
@@ -38,4 +36,6 @@
  Слышно столько горестной тоски
  О нетленной красоте небесной!</lyrics>
 <hymn_number>4696</hymn_number>
+<title>Ах Земля чужая сторона ПВ1114</title>
+<key>E</key>
 </song>

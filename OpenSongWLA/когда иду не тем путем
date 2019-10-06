@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>я доверяю</aka>
 <hymn_number>3514</hymn_number>
 <title>Когда иду не тем путем</title>
+<key>Db</key>
 <lyrics>[V1]
  Когда иду не тем путем,
  Я знаю, Ты покажешь мой
@@ -33,6 +34,5 @@
  И даже в мелочах, Бог, Ты всегда
  В неизвестности не буду я один
  Ты душу наполняешь в присутствии</lyrics>
-<key>Db</key>
 <author>Hillsong Young &amp; Free</author>
 </song>

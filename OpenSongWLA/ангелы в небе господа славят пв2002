@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2047</hymn_number>
-<title>Ангелы в небе Господа славят ПВ2002</title>
-<key>E</key>
-<author>Неизвестный</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <lyrics>[V1]
 .Em Am/D G/С Am/B7 Em
   
@@ -55,4 +52,7 @@
  Богу Единому,
  Христу Спасителю
  славу поёт, славу поёт:</lyrics>
+<hymn_number>2047</hymn_number>
+<title>Ангелы в небе Господа славят ПВ2002</title>
+<key>E</key>
 </song>

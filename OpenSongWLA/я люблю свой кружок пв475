@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я люблю свой кружок ПВ475</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>475</hymn_number>
+<key>A</key>
+<title>Я люблю свой кружок ПВ475</title>
 <lyrics>[V1]
  Я люблю свой кружок,
  В нем душой я далек
@@ -46,6 +48,4 @@
  Навсегда, на все дни
  Мой кружок дорогой
  Для работы святой.</lyrics>
-<key>A</key>
-<hymn_number>475</hymn_number>
 </song>

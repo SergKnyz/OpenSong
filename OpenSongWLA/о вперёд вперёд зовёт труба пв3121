@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3121</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  «О вперёд, вперёд!» - зовёт труба.
  Устремляйтесь выше в небеса!
  Лишь вперёд до славного конца:
@@ -32,6 +31,7 @@
  Будьте твёрды, братья до конца.
  Победа - наша.
  Стойте за Христа!</lyrics>
-<key>Ab</key>
+<hymn_number>3121</hymn_number>
 <title>О вперёд вперёд зовёт труба ПВ3121</title>
+<key>Ab</key>
 </song>

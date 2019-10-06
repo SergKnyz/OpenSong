@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1685</hymn_number>
-<title>Вы сегодня встали</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вы сегодня встали на одну тропу,
  на прекрасной жизни путь.
  но ведь не всегда на том пути
@@ -23,4 +21,6 @@
  счастье не замедлит к вам прийти.
  хоть шипы и будут среди роз,
  их вы сможете пройти</lyrics>
+<title>Вы сегодня встали</title>
+<hymn_number>1685</hymn_number>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Прячась в пустыне сухой в нищете ПВ280</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>280</hymn_number>
+<key>F</key>
+<title>Прячась в пустыне сухой в нищете ПВ280</title>
 <lyrics>[V1]
  Прячась в пустыне сухой в нищете,
  Звали к Спасителю десять больных:
@@ -28,6 +30,4 @@
  Слышим вопросы с насмешкой: &quot;Кто Он?&quot;
  Ими отвергнут Христос, осужден,
  Но вот свидетели - где ж девять те?</lyrics>
-<key>F</key>
-<hymn_number>280</hymn_number>
 </song>

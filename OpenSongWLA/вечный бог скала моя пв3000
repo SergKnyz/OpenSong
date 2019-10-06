@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>защити, укрой меня;</aka>
-<hymn_number>3000</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <title>Вечный Бог скала моя ПВ3000</title>
+<hymn_number>3000</hymn_number>
+<aka>защити, укрой меня;</aka>
 <lyrics>[V1]
  Вечный Бог, скала моя,
  защити, укрой меня;
@@ -42,5 +43,4 @@
  Ты меня навек Собой;
  я в Тебе пребыть хочу,
  весь Тебе принадлежу.</lyrics>
-<key>E</key>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1804</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Жив в Тебе</title>
+<key>C</key>
+<hymn_number>1804</hymn_number>
+<author>Jesus Culture, Йесус Цултуре</author>
 <lyrics>[V1]
  1 куплет:
 .C      G          Am Em
@@ -45,7 +48,4 @@
    От начала до конца
 .      Am          G   Am G
    Ты достоин славы - 2</lyrics>
-<key>C</key>
-<author>Jesus Culture, Йесус Цултуре</author>
-<title>Жив в Тебе</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Океан Любви</author>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Dm      Bb         F      C
  Хвалите,  хвалите Бога небес,
@@ -28,6 +26,8 @@
  Прославьте, прославьте Бога чудес
  Прославьте все, в ком дыханье есть
  Прославьте, Он наш Отец.</lyrics>
+<author>Океан Любви</author>
+<key>D</key>
 <title>Хвалите Бога небес</title>
 <hymn_number>726</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>716</hymn_number>
-<title>Ныне Божья любовь обнимает ПВ716</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ныне Божья любовь обнимает
  Всех живущих людей на земле,
  Но во мраке неверья блуждает
@@ -40,4 +37,7 @@
  Там, за гранью земных непогод,
  Счастье правды, желанной свободы
  Для нас вечное солнце взойдет.</lyrics>
+<hymn_number>716</hymn_number>
+<key>G</key>
+<title>Ныне Божья любовь обнимает ПВ716</title>
 </song>

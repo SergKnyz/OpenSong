@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3399</hymn_number>
-<title>Эммануил</title>
-<author>Новый Завет NTWorship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новый Завет NTWorship</author>
 <lyrics>[C1]
    Припев:
    Эммануил, Эммануил
@@ -25,4 +23,6 @@
  Бог Ты одержал победу
  Нет слёз нет боли как прежде,
  Ты сейчас здесь, Ты сейчас здесь.</lyrics>
+<hymn_number>3399</hymn_number>
+<title>Эммануил</title>
 </song>

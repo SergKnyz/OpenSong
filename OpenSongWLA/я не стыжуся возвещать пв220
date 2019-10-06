@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>220</hymn_number>
-<title>Я не стыжуся возвещать ПВ220</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я не стыжуся возвещать
  Умершего Христа,
  Его веленья защищать
@@ -36,4 +33,7 @@
  Он тверже, чем кремень,
  Он сбережет по славный день.
  Что я Ему отдал.</lyrics>
+<title>Я не стыжуся возвещать ПВ220</title>
+<key>E</key>
+<hymn_number>220</hymn_number>
 </song>

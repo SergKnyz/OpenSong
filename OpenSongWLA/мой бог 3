@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1691</hymn_number>
-<author>Юлия Петерс</author>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Юлия Петерс</author>
 <lyrics>[V1]
  1 куплет:
 .Dm           Bb  Gm               A
@@ -29,5 +27,7 @@
  Решающим всё своей властью и силой.
  А мне надлежит, принимая в смирении,
  Тебя восхвалять за реальность спасенья.</lyrics>
+<hymn_number>1691</hymn_number>
+<key>D</key>
 <title>Мой Бог</title>
 </song>

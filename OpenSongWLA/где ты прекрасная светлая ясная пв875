@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>875</hymn_number>
-<title>Где ты прекрасная светлая ясная ПВ875</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Где ты прекрасная светлая ясная ПВ875</title>
+<key>D</key>
+<hymn_number>875</hymn_number>
 <lyrics>[V1]
  Где ты, прекрасная, светлая, ясная,
  Родина вечная, Отчизна моя?
@@ -29,5 +30,4 @@
  Край мой чудесный, Отчизна моя!
  Прими мое сердце - цвет моей юности,
  - В руки Иисуса отдаюсь навсегда.</lyrics>
-<key>D</key>
 </song>

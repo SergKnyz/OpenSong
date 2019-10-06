@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3830</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .C
  В моем сердце, Бог Твой огонь горит
@@ -24,6 +23,7 @@
 .  G
    Оооо ооооо, с Тобой я связан на века</lyrics>
 <author>Wolsar worship</author>
-<key>C</key>
 <title>Я Тебе принадлежу</title>
+<key>C</key>
+<hymn_number>3830</hymn_number>
 </song>

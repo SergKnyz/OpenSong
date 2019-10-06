@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог обещал ниспослать,</aka>
-<hymn_number>3593</hymn_number>
-<title>Благословений потоки ПВ7</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Благословений потоки
  Бог обещал ниспослать,
  Ближним, чужим и далеким
@@ -36,5 +33,8 @@
  Бог в Свое время пошлет,
  Если во свете мы ходим,
  Если Он с нами живет.</lyrics>
+<title>Благословений потоки ПВ7</title>
 <key>Bb</key>
+<aka>Бог обещал ниспослать,</aka>
+<hymn_number>3593</hymn_number>
 </song>

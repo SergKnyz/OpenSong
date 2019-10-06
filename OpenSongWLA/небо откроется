@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Спасение церковь г. Вишневое</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Спасение церковь г. Вишневое</author>
 <lyrics>[V1]
  Куплет:
 . D       A          D     G          D      Em  F#
@@ -23,5 +22,6 @@
 .             G               A                D
    Господь грядёт, наш Бог грядёт, Он скоро придёт</lyrics>
 <title>Небо откроется</title>
+<key>D</key>
 <hymn_number>556</hymn_number>
 </song>

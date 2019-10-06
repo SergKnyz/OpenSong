@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2342</hymn_number>
-<title>Жребий</title>
-<key>E</key>
-<author>Неизвестный</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
  Не сравнивай свой путь с другими путями -
  Каждому своё дано.
@@ -29,4 +25,8 @@
  Однажды засияешь ты.
  Если до конца Его дорогой
  Захочешь, мой брат, идти.</lyrics>
+<author>Неизвестный</author>
+<key>E</key>
+<title>Жребий</title>
+<hymn_number>2342</hymn_number>
 </song>

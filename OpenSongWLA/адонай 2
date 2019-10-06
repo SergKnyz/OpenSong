@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Из капельки дождя</aka>
-<hymn_number>1138</hymn_number>
-<title>Адонай</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Эдем</author>
 <lyrics>[V1]
  Intro:
 
@@ -34,6 +32,8 @@
    Ты вечно царствуешь в величии
 .     Dbm6                  Bbm7 Eb
    И снова чудеса во мне творишь.</lyrics>
-<author>Эдем</author>
 <key>Ab</key>
+<title>Адонай</title>
+<hymn_number>1138</hymn_number>
+<aka>Из капельки дождя</aka>
 </song>

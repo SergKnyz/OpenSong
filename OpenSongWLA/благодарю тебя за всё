@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Хоть путь мой и тернистый</aka>
-<hymn_number>1151</hymn_number>
-<title>Благодарю Тебя за всё</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Благодарю Тебя за всё,
  Хоть путь мой и тернистый,
  Но маяком меня ведёт
@@ -24,4 +21,7 @@
  В пути, в нелёгкой битве.
  Ты ближе всех в моей судьбе,
  К Тебе иду в молитве.</lyrics>
+<title>Благодарю Тебя за всё</title>
+<hymn_number>1151</hymn_number>
+<aka>Хоть путь мой и тернистый</aka>
 </song>

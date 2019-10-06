@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5960</hymn_number>
-<title>Мы Твои Бог</title>
-<key>C#m</key>
-<author>Hillsong Ukraine</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
 .C#m  G#m E      F#       C#m G#m H F#
  Великий Царь, Всемогущий Бог
@@ -43,4 +40,7 @@
  Сейчас и навсегда -
 . C#m           H
  Мы Твои Бог, Твой дети</lyrics>
+<hymn_number>5960</hymn_number>
+<key>C#m</key>
+<title>Мы Твои Бог</title>
 </song>

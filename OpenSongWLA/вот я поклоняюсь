@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>648</hymn_number>
-<title>Вот я поклоняюсь</title>
 <copyright>2000 Тханкыоу Мусиц</copyright>
+<key>E</key>
+<title>Вот я поклоняюсь</title>
 <lyrics>[V1]
  1 куплет:
 . E            H       A
@@ -36,6 +37,5 @@
    И до конца я не пойму
 .      H   C#m     A
    Крови пролившейся цену.</lyrics>
-<key>E</key>
 <author>Сергей Нагорный, Пхиллипс, Цраиг &amp; Деан, Тим Хугхес</author>
 </song>

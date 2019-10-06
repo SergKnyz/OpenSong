@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>511</hymn_number>
-<title>Слава во веки</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
  1 куплет:
 .C                   Csus
@@ -47,6 +46,7 @@
  Мой Друг и Отец жизнью всей Твоё Имя я
 .F     Dmaj7/F#
  Буду прославлять всегда</lyrics>
-<author>Hillsong Ukraine</author>
+<hymn_number>511</hymn_number>
 <key>C</key>
+<title>Слава во веки</title>
 </song>

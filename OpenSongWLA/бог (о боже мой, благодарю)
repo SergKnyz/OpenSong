@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3693</hymn_number>
-<key>G</key>
-<author>Not An Idol</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Not An Idol</author>
 <lyrics>[V1]
  Вступление:  Gm  -  F/G     :| x8
 
@@ -39,5 +37,7 @@
  Тебя люблю дышу Тобой
  Когда умру, с Тобой сольюсь,
  Как звезды с утренней зарей.</lyrics>
+<hymn_number>3693</hymn_number>
 <title>Бог (О Боже мой, благодарю)</title>
+<key>G</key>
 </song>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>300</hymn_number>
+<key>E</key>
 <title>Я не стыжусь</title>
+<author>Hillsong Ukraine</author>
 <lyrics>[V1]
  Куплет:
 .Em  G  C Am  Em  G C Am
@@ -28,6 +30,4 @@
    Меня Ты оживил
 .  Em                 C
    Дал жизнь мне воскресший Сын</lyrics>
-<key>E</key>
-<author>Hillsong Ukraine</author>
 </song>

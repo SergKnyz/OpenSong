@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>709</hymn_number>
-<title>Честь Тебе Спаситель слава ПВ709</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Честь Тебе, Спаситель, слава,
  Что Ты смертию Своей
  Дал мне радостное право
@@ -41,5 +39,7 @@
  За Твой подвиг на кресте
  И за зов Твой непрерывный
  К светлой, славной высоте.</lyrics>
+<hymn_number>709</hymn_number>
+<title>Честь Тебе Спаситель слава ПВ709</title>
 <key>Ab</key>
 </song>

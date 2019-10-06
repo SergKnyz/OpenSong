@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3214</hymn_number>
-<title>Победа моя победа моя ПВ3214</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Победа моя победа моя ПВ3214</title>
+<key>C</key>
+<hymn_number>3214</hymn_number>
 <lyrics>[V1]
  Победа моя, (победа моя)!
  Победа моя, (победа моя)!
@@ -35,5 +36,4 @@
  и ночью, и днём (и ночью, и днём).
  Он Словом меня (Он Словом меня)
  утешит всегда (утешит всегда).</lyrics>
-<key>C</key>
 </song>

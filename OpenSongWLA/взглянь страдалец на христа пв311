@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>311</hymn_number>
-<aka>Взглянь, живи!</aka>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Взглянь, страдалец, на Христа,
  Взглянь, живи!
  Кто спасает мир с креста,
@@ -37,4 +34,7 @@
  Кто бы ни был, пусть придет!
  Взглянь, живи!</lyrics>
 <title>Взглянь страдалец на Христа ПВ311</title>
+<key>G</key>
+<hymn_number>311</hymn_number>
+<aka>Взглянь, живи!</aka>
 </song>

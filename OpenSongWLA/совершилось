@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Совершилось</title>
+<key>C</key>
+<hymn_number>2429</hymn_number>
+<lyrics>[V1]
 .C
  Идет по улице Безгрешный
 .G
@@ -37,8 +40,5 @@
  Совершилось! Вот пророчество сбылось.
  Пусть каждый помнит Его милость,
  Пусть каждый для Него живет.</lyrics>
-<key>C</key>
 <author>Владимир Скобочкин</author>
-<title>Совершилось</title>
-<hymn_number>2429</hymn_number>
 </song>

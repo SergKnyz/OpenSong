@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3068</hymn_number>
-<title>Оставьте миру суету ПВ3068</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Оставьте миру суету ПВ3068</title>
+<key>Db</key>
+<hymn_number>3068</hymn_number>
 <lyrics>[V1]
  Оставьте миру суету
  и развлеченья все.
@@ -30,5 +31,4 @@
  имеет для меня,
  ведь с Богом примирение
  имею чрез Христа.</lyrics>
-<key>Db</key>
 </song>

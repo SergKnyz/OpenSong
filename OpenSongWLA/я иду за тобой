@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1440</hymn_number>
-<title>Я иду за Тобой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Размер неба, Йесус Цултуре</author>
 <lyrics>[C1]
    Припев:
 .  Em                          Hm/D
@@ -39,6 +38,7 @@
 .                      Am
    Как избавил Ты от смерти нас, как избавил нас
    (Как Ты спас, как Ты спас, как избавил)</lyrics>
+<title>Я иду за Тобой</title>
 <key>E</key>
-<author>Размер неба, Йесус Цултуре</author>
+<hymn_number>1440</hymn_number>
 </song>

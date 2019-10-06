@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Большое пробуждение</title>
-<aka>Дух Святой, излейся,</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Дух Святой, излейся,</aka>
+<title>Большое пробуждение</title>
+<key>D</key>
 <lyrics>[V1]
 .D      A      G  Bm
  Дух Святой, излейся,
@@ -37,5 +38,4 @@
  И могущество яви.
  Все Твое творение ждет и просит
  &quot;О Господь скорей приди!&quot;</lyrics>
-<key>D</key>
 </song>

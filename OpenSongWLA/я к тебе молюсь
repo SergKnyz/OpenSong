@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>528</hymn_number>
-<title>Я к Тебе молюсь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Влад Фонки</author>
 <lyrics>[V1]
  1 куплет:
 .       Fm              C#
@@ -28,6 +27,7 @@
  К небу шире я душу отворю.
  И Тебя я Спаситель, каждый день ищу
  Мой Бог Ты знаешь что, я Тебя люблю!</lyrics>
+<hymn_number>528</hymn_number>
 <key>F</key>
-<author>Влад Фонки</author>
+<title>Я к Тебе молюсь</title>
 </song>

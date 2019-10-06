@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>234</hymn_number>
-<aka>Греховною страстью кипит!</aka>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Бушует житейское море,
  Греховною страстью кипит!
  Вокруг слезы, вопли и горе,
@@ -31,4 +28,7 @@
  За мраком не видно простора,
  Опасностью море грозит.</lyrics>
 <title>Бушует житейское море ПВ234</title>
+<key>C</key>
+<hymn_number>234</hymn_number>
+<aka>Греховною страстью кипит!</aka>
 </song>

@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бог избрал  нас из  разных народов</title>
+<key>A</key>
+<time_sig>4/4</time_sig>
+<hymn_number>2017</hymn_number>
+<aka>Когда мы вместе</aka>
+<author>Скиния</author>
+<lyrics>[V1]
  1 куплет:
 .A               C#m
  Бог избрал нас из разных народов,
@@ -26,10 +32,4 @@
  Мы искуплены кровью Его.
  Врата ада не одолеют нас,
  Потому что непобедимы мы.</lyrics>
-<author>Скиния</author>
-<key>A</key>
-<title>Бог избрал  нас из  разных народов</title>
-<hymn_number>2017</hymn_number>
-<time_sig>4/4</time_sig>
-<aka>Когда мы вместе</aka>
 </song>

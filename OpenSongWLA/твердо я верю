@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Твердо я верю!</title>
+<hymn_number>5771</hymn_number>
+<lyrics>[V1]
 .C                F            C
   Твердо я верю! Иисус - Бог мой!
 .C        G       D        G
@@ -39,8 +42,5 @@
 [B2]
    Чудный Спаситель, Бог -Искупитель
    Чудный Спаситель --- Иисус</lyrics>
-<key>C</key>
 <author>Кнапп, Пхоебе П. (1839-1908), Цросбы, Фанны Йане (1820-1915)</author>
-<title>Твердо я верю!</title>
-<hymn_number>5771</hymn_number>
 </song>

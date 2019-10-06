@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3365</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 КУПЛЕТ:
 .    Bb                    Eb            Bb
  Повелитель сердец будь горой Ты для меня
@@ -32,7 +31,8 @@
    Ты не оставишь Бог, Ты не оставишь никогда
 .  Gm               F
    Ты не оставишь Бог, Ты не оставишь никогда</lyrics>
-<key>Bb</key>
 <author>Bethel Music, Бетхел Мусиц</author>
 <title>Повелитель сердец</title>
+<key>Bb</key>
+<hymn_number>3365</hymn_number>
 </song>

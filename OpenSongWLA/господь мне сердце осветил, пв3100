@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Господь мне сердце осветил, ПВ3100</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Блажен тот час когда</aka>
+<hymn_number>3100</hymn_number>
+<title>Господь мне сердце осветил, ПВ3100</title>
+<key>F</key>
 <lyrics>[V1]
  Блажен тот час, когда
  Господь мне сердце осветил,
@@ -27,7 +30,4 @@
  в союзе жить с Тобой!
  Когда Ты - свет стезе моей,
  путь безопасен мой.</lyrics>
-<key>F</key>
-<aka>Блажен тот час когда</aka>
-<hymn_number>3100</hymn_number>
 </song>

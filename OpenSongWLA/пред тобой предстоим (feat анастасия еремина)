@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2282</hymn_number>
-<title>Пред Тобой предстоим (feat Анастасия Еремина)</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Пред Тобой предстоим (feat Анастасия Еремина)</title>
+<key>G</key>
+<hymn_number>2282</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .G        D/F#     Em   Em/D
@@ -30,6 +31,5 @@
  Кровью грехи все омыл
  Благодарим за жертву на кресте
  За жизни дар, что обрели в Тебе!</lyrics>
-<key>G</key>
 <author>Александр Контузоров</author>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2834</hymn_number>
-<key>A</key>
-<author>Василь Грималюк</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Василь Грималюк</author>
 <lyrics>[V1]
  1 куплет:
 .     Dm       E         Am
@@ -32,5 +30,7 @@
  Він був для них і залишився Другом,
  Не раз до їхніх приходив осель,
  Щоб зняти біль, печаль, а чи недугу.</lyrics>
+<key>A</key>
 <title>Любив Ісус людей понад усе</title>
+<hymn_number>2834</hymn_number>
 </song>

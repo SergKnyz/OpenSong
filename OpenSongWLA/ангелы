@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Великий Бог, Славен и Высок_</aka>
+<hymn_number>2242</hymn_number>
+<title>Ангелы</title>
+<key>A</key>
+<lyrics>[V1]
  Темп: 66.5
  Структура:
  | 2р - Вст. | 2р - Купл | 2р - Пре | 2р - Прип | 1р - Соло | 2р -Купл | 2р -Пре |
@@ -44,9 +48,5 @@
  Вознесен, в народах восхвален
 .     F#  F#/D#  E         H/D# E F#
  Вся земля поет тебе «Осанна!»__</lyrics>
-<key>A</key>
 <author>Новое Поколение Мелитополь</author>
-<title>Ангелы</title>
-<hymn_number>2242</hymn_number>
-<aka>Великий Бог, Славен и Высок_</aka>
 </song>

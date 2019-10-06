@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Господь - твой Бог среди тебя</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .       С                  Am
  // Господь - твой Бог среди тебя
 .   F        G
@@ -15,4 +13,6 @@
    Да правит Он среди тебя
 .      F      G      C
    Во веки и веки. Аминь.</lyrics>
+<key>C</key>
+<title>Господь - твой Бог среди тебя</title>
 </song>

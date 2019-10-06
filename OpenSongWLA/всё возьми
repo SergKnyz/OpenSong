@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>507</hymn_number>
-<title>Всё возьми</title>
-<key>B</key>
-<author>Hillsong Ukraine</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .H                    Bb    D#m
  Ищем мы тех, кто от Бога далек
@@ -45,4 +41,8 @@
    Можешь только Ты спасти весь мир
 .         H
    Жизнь моя</lyrics>
+<author>Hillsong Ukraine</author>
+<key>B</key>
+<title>Всё возьми</title>
+<hymn_number>507</hymn_number>
 </song>

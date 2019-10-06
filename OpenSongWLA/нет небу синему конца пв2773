@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Нет небу синему конца ПВ2773</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2773</hymn_number>
+<key>C</key>
+<title>Нет небу синему конца ПВ2773</title>
 <lyrics>[V1]
  Нет небу синему конца
  - Во всем видна любовь Творца,
@@ -22,6 +24,4 @@
  Среди туманов, непогод,
  Под шум дождей, под шум ветров
  Хранить же будем ту любовь.</lyrics>
-<key>C</key>
-<hymn_number>2773</hymn_number>
 </song>

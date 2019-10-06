@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Иисус</title>
+<hymn_number>2003</hymn_number>
+<author>Слово Жизни Калининград</author>
 <lyrics>[V1]
  1 куплет:
 .    C   F     G              Am        C   F
@@ -61,7 +64,4 @@
    Иисус, Иисус, Иисус, Твоя любовь мне жизнь дала,
 .  F    G      Am          Em                          F  G  C Em
    Иисус, Иисус, Иисус, Святая кровь стекала с креста-а... о-о-о-</lyrics>
-<author>Слово Жизни Калининград</author>
-<key>C</key>
-<hymn_number>2003</hymn_number>
 </song>

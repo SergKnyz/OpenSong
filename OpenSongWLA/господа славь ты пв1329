@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1329</hymn_number>
-<title>Господа славь ты ПВ1329</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Господа славь ты,
  мой дух, восхваляй Всеблагого!
  Славь песнопеньем Царя, Всемогущего Бога!
@@ -30,5 +28,7 @@
  В Боге лишь свет.
  Нам без Него в мире нет
  Счастья, мира, покоя...</lyrics>
+<hymn_number>1329</hymn_number>
+<title>Господа славь ты ПВ1329</title>
 <key>G</key>
 </song>

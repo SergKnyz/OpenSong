@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>97</hymn_number>
-<title>В светлый миг Христова рожденья</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В Вифлееме Младенец родился
  В этот мир Он пришел, как все
  Это Бог перевоплотился,
@@ -28,4 +26,6 @@
  В Царстве Бога преобразился
  В день, когда воскреснут все люди,
  Вечно мы с Христом в небе будем!</lyrics>
+<hymn_number>97</hymn_number>
+<title>В светлый миг Христова рожденья</title>
 </song>

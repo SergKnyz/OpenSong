@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2881</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Bm
  Что этот свет, он созданье Всевышнего,
 .G
@@ -42,6 +41,7 @@
  Лишь после смерти награда откроется.
  Чаша скорбей производит терпение,
  Вся наша жизнь на земле лишь мгновение!</lyrics>
-<key>Bm</key>
 <title>Звезд дивные алмазы</title>
+<key>Bm</key>
+<hymn_number>2881</hymn_number>
 </song>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>780</hymn_number>
 <title>Призови Христа</title>
-<author>Альфа</author>
 <key>A</key>
 <lyrics>[V1]
  1 куплет:
@@ -48,4 +47,5 @@
    Обратитесь к Христу ведь Он умер за вас,
 .  G                    E
    Перестаньте быть глухими и слепыми сейчас.</lyrics>
+<author>Альфа</author>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>715</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   Em         C     Am          H7
  Ты видишь в жизни множество камней
@@ -27,7 +26,8 @@
  Иди путем света, не остановит гроза.
  Волна не ударит, взор твой на Христа.
  В гору подымаясь, достигнешь Голгофского креста.</lyrics>
-<key>E</key>
 <author>Артём Янский</author>
 <title>Не упадут руки</title>
+<key>E</key>
+<hymn_number>715</hymn_number>
 </song>

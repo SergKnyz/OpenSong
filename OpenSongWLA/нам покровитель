@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Нам покровитель</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
+<title>Нам покровитель</title>
+<hymn_number>2574</hymn_number>
 <author>Неизвестный</author>
-<key>Bb</key>
 <lyrics>[V1]
 .Bb     A    Bb   A
        Нам Покровитель - Бог
@@ -29,5 +30,4 @@
  Dm - A | A - Dm | Bb - C | F ||
  Dm - Gm | Gm | Bb7 | A7 ||
  На - на - на - на...</lyrics>
-<hymn_number>2574</hymn_number>
 </song>

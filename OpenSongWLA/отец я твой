@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Павел Плахотин</author>
-<key>B</key>
 <lyrics>[V1]
  1 куплет:
 .Hm    A           D G  D/F# Em          F#m   Hm
@@ -58,6 +57,7 @@
    О, мой Отец, хочу тебя я познать,
 .  Em    F#         Hm
    Познать любовь Твою.</lyrics>
+<key>B</key>
 <title>Отец я Твой</title>
 <hymn_number>389</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2912</hymn_number>
-<author>Виталий Ефремочкин, Планетсхакерс</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин, Планетсхакерс</author>
 <lyrics>[V1]
  Куплет:
 .Cm    Ab      Fm       Bb
@@ -54,5 +52,7 @@
    Славлю! Твой дух живет во мне.
 .      Ab            Bb       Cm
    Я славлю! Твоё величие во мне!</lyrics>
+<key>C</key>
 <title>Я пророчество</title>
+<hymn_number>2912</hymn_number>
 </song>

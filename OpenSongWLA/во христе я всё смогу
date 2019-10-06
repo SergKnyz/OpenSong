@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1031</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Во Христе я всё смогу
 
 [V2]
@@ -36,6 +35,7 @@
  Верой! Стоять я буду твёрдо
  Укрепит меня Господь. И я всё смогу!</lyrics>
 <author>Hillsong Ukraine</author>
-<key>E</key>
+<hymn_number>1031</hymn_number>
 <title>Во Христе я всё смогу</title>
+<key>E</key>
 </song>

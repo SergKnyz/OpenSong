@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2854</hymn_number>
-<title>Новый год</title>
-<author>Светлана Малова</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Светлана Малова</author>
 <lyrics>[V1]
  1 куплет:
 .     Cm            Fm          G
@@ -41,4 +38,7 @@
  В первый день января я её открою
  Славить Бога в душе я не перестану
  Завтра утром уже на год старшим стану</lyrics>
+<hymn_number>2854</hymn_number>
+<title>Новый год</title>
+<key>C</key>
 </song>

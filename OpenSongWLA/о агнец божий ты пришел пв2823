@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2823</hymn_number>
-<title>О Агнец Божий Ты пришел ПВ2823</title>
-<key>Eb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О Агнец Божий, Ты пришел,
  чтоб я спасение нашел;
  Любовь с небес явил Ты нам,
@@ -38,4 +35,7 @@
  для всех течет из ран Христа,
  и я омыт был от греха
  в крови с Голгофского холма.</lyrics>
+<hymn_number>2823</hymn_number>
+<key>Eb</key>
+<title>О Агнец Божий Ты пришел ПВ2823</title>
 </song>

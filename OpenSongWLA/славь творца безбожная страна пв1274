@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1274</hymn_number>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Славь Творца, безбожная страна,
  Коль возможность вновь тебе дана,
  В годы отступленья твоего
@@ -43,5 +41,7 @@
  И отбрось окольные пути,
  Двери сердца шире распахни!
  И к Творцу навстречу поспеши.</lyrics>
+<hymn_number>1274</hymn_number>
 <title>Славь Творца безбожная страна ПВ1274</title>
+<key>F</key>
 </song>

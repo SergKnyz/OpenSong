@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Как страшен сердитый гул!</aka>
-<hymn_number>241</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>241</hymn_number>
+<aka>Как страшен сердитый гул!</aka>
+<key>C</key>
 <title>Буря Господь завывает ПВ241</title>
 <lyrics>[V1]
  Буря, Господь, завывает,
@@ -41,5 +42,4 @@
  Твой мир Ты во мне храни
  И в небесную Божью обитель
  На вечный покой прими.</lyrics>
-<key>C</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2434</hymn_number>
-<key>E</key>
-<author>Владимир Скобочкин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Владимир Скобочкин</author>
 <lyrics>[V1]
 .Em          C            G          D
  1. Как легко видеть в людях ошибки все их,
@@ -41,5 +39,7 @@
 
 [V5]
  Припев.</lyrics>
+<hymn_number>2434</hymn_number>
 <title>Скажи гордыне &quot;нет&quot;</title>
+<key>E</key>
 </song>

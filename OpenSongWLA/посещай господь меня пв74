@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>74</hymn_number>
-<title>Посещай Господь меня ПВ74</title>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Посещай, Господь, меня
  Среди ночи, среди дня;
  Чаще будь с моей душой;
@@ -24,4 +21,7 @@
  - Жизни радость и венец;
  Ты, за грех мой давший кровь,
  Ты - покров мой и любовь!</lyrics>
+<hymn_number>74</hymn_number>
+<title>Посещай Господь меня ПВ74</title>
+<key>A</key>
 </song>

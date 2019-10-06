@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты ждешь меня</title>
-<author>Ксения Лапицкая</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ксения Лапицкая</author>
 <lyrics>[V1]
  1 куплет:
 .            Am               H
@@ -36,5 +34,7 @@
  Я отворяю дверь на стук извне.
  Мне сердце ледяное отогреть бы,
  Пока ещё зовёшь: приди ко мне!</lyrics>
+<title>Ты ждешь меня</title>
+<key>A</key>
 <hymn_number>869</hymn_number>
 </song>

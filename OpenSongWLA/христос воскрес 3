@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1955</hymn_number>
+<title>Христос Воскрес</title>
+<key>Bb</key>
+<lyrics>[V1]
  Вст
 
 [V2]
@@ -57,8 +60,5 @@
 
 [C3]
    Приспів:</lyrics>
-<key>Bb</key>
 <author>Сион</author>
-<title>Христос Воскрес</title>
-<hymn_number>1955</hymn_number>
 </song>

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>188</hymn_number>
-<title>Время как река течет ПВ188</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Время как река течет ПВ188</title>
+<key>D</key>
+<hymn_number>188</hymn_number>
 <lyrics>[V1]
  Время, как река, течет
  Непрестанно все вперед;
@@ -31,5 +32,4 @@
  Возведут за Божье слово;
  Но я верю всей душой:
  Бог со мною, Бог со мной.</lyrics>
-<key>D</key>
 </song>

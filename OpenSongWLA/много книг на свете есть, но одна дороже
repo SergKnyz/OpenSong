@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Анастасия Вишня</author>
-<key>Eb</key>
 <lyrics>[V1]
  Вст
 
@@ -36,7 +35,8 @@
 
 [C2]
    Припев: 2 раза</lyrics>
-<title>Много книг на свете есть, но одна дороже</title>
 <hymn_number>614</hymn_number>
 <aka>Библия</aka>
+<key>Eb</key>
+<title>Много книг на свете есть, но одна дороже</title>
 </song>

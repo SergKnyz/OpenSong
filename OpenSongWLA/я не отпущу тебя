@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3977</hymn_number>
-<title>Я не отпущу Тебя</title>
-<author>Неизвестный</author>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <lyrics>[V1]
  1 куплет:
 .          Ab   Fm         Cm            Bb
@@ -48,4 +45,7 @@
    Да,        я - исцелён Тобой! - 7 раз
 .  Ab   Fm            Cm
    Да,        я - исцелён!</lyrics>
+<hymn_number>3977</hymn_number>
+<title>Я не отпущу Тебя</title>
+<key>F</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>458</hymn_number>
-<title>Возносим Тебя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
 <lyrics>[V1]
  1 куплет:
 .C#m     A       E
@@ -44,6 +43,7 @@
    И Ты - Царь! Ты правишь, Бог!
 .       C#m  A     H
    Ты - Царь, мой Царь!</lyrics>
-<author>Слово Жизни Music</author>
 <key>C#m</key>
+<title>Возносим Тебя</title>
+<hymn_number>458</hymn_number>
 </song>

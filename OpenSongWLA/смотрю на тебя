@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1720</hymn_number>
+<key>E</key>
 <title>Смотрю на Тебя</title>
+<author>Корван</author>
 <lyrics>[V1]
  1 куплет:
 .Em           G
@@ -28,6 +30,4 @@
  За что меня Ты возлюбил
  И ценность Твою
  Я в своем сердце сохраню</lyrics>
-<author>Корван</author>
-<key>E</key>
 </song>

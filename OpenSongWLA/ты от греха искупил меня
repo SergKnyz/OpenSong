@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Благодарю</aka>
-<hymn_number>4165</hymn_number>
-<title>Ты от греха искупил меня</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .D           E    F#m
  Ты от греха искупил меня,
@@ -56,4 +53,7 @@
    Как я счастлив, о, как я счастлив!</lyrics>
 <author>Reallife band</author>
 <key>D</key>
+<title>Ты от греха искупил меня</title>
+<aka>Благодарю</aka>
+<hymn_number>4165</hymn_number>
 </song>

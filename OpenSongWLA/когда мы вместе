@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Когда мы вместе</title>
+<time_sig>4/4</time_sig>
 <hymn_number>2017</hymn_number>
 <aka>Бог избрал  нас из  разных народов</aka>
+<author>Скиния</author>
 <lyrics>[V1]
  1 куплет:
 .A               C#m
@@ -29,7 +32,4 @@
  Мы искуплены кровью Его.
  Врата ада не одолеют нас,
  Потому что непобедимы мы.</lyrics>
-<key>A</key>
-<author>Скиния</author>
-<title>Когда мы вместе</title>
 </song>

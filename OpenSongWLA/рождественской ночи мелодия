@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1043</hymn_number>
-<author>Алла Чепикова</author>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алла Чепикова</author>
 <lyrics>[V1]
  1 куплет:
 .   F               Dm
@@ -39,5 +37,7 @@
  И в прозрачной, ночной тишине.
  Для Спасителя льются ввысь песни,
  В День Рожденья Его на Земле.</lyrics>
+<key>F</key>
 <title>Рождественской ночи мелодия</title>
+<hymn_number>1043</hymn_number>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>618</hymn_number>
-<aka>От чего морщины на щеках корчатся. Земля в чужих руках</aka>
-<author>Достичь небес</author>
-<key>Bb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Bbm
  От чего морщины на щеках корчатся. Земля в чужих руках
@@ -55,5 +51,9 @@
  Тех, кто поверив Сыну простил врагов подарил голодным любовь, хлеб и кров.
 .             Bb             Gm     A
  Кто помог избавиться от грехов и горечь потерь забыть</lyrics>
+<author>Достичь небес</author>
 <title>Бог с тобою</title>
+<key>Bb</key>
+<aka>От чего морщины на щеках корчатся. Земля в чужих руках</aka>
+<hymn_number>618</hymn_number>
 </song>

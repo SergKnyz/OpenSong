@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1486</hymn_number>
-<title>Я вижу Иисуса</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я вижу Иисуса</title>
+<key>C</key>
+<hymn_number>1486</hymn_number>
+<author>SMBS</author>
 <lyrics>[V1]
  Вступление:
 
@@ -44,6 +46,4 @@
    Мост:
 .  Cm             H        G
    Аллилуйя, аллилуйя, аллилуйя,</lyrics>
-<author>SMBS</author>
-<key>C</key>
 </song>

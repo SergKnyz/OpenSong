@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1967</hymn_number>
-<title>Славлю я Тебя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Славлю я Тебя</title>
+<key>B</key>
+<hymn_number>1967</hymn_number>
+<author>Reallife band</author>
 <lyrics>[V1]
  1 куплет:
 .Hm                F#m         G          A
@@ -39,6 +41,4 @@
    Пусть откроется небо, пусть услышит вновь Господь меня.
 .  G                D         A            D     A G
    И я знаю, что в сердце придёт весна, Твоя весна.</lyrics>
-<key>B</key>
-<author>Reallife band</author>
 </song>

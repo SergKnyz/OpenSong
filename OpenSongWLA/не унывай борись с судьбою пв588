@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Не унывай борись с судьбою ПВ588</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Не унывай, борись с судьбою, -
  Твердил мне солнца яркий луч.
  Не унывай, Господь с тобою, -
@@ -29,5 +27,7 @@
  И солнца луч, и светлый май,
  И говор струй, и пташек пенье,
  Твердивших мне &quot;Не унывай!&quot;</lyrics>
+<title>Не унывай борись с судьбою ПВ588</title>
+<key>G</key>
 <hymn_number>588</hymn_number>
 </song>

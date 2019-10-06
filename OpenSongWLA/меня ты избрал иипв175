@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>175</hymn_number>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .E. A/C#      D        F#m     E
  Меня Ты избрал, жизнь новую дал,
 .   A/C#     D         F#m     E
@@ -29,5 +27,7 @@
  Дух Господень направляй,
 .F#m/E E           A/C#  D  E
  Пома__заньем снизойди на нас.</lyrics>
+<hymn_number>175</hymn_number>
 <title>Меня Ты избрал ИИПВ175</title>
+<key>A</key>
 </song>

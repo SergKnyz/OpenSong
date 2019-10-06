@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3322</hymn_number>
-<title>Храни оберегай меня Господь</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Брандуков Николай автор         Храни оберегай меня Господь.
 
 [V2]
@@ -74,6 +72,8 @@
 
 [V11]
  2 раза</lyrics>
-<key>E</key>
 <author>Николай Брандуков</author>
+<hymn_number>3322</hymn_number>
+<key>E</key>
+<title>Храни оберегай меня Господь</title>
 </song>

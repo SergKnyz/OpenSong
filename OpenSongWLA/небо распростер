@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3463</hymn_number>
-<title>Небо распростер</title>
-<key>C</key>
-<author>Chris Tomlin</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .C2
  Небо распростер над бездною и тьмой,
@@ -48,4 +44,8 @@
  Милостивый Бог, Твой крест непостижим,
  И лишь издалека
  Видим славные лучи Твоей любви.</lyrics>
+<author>Chris Tomlin</author>
+<key>C</key>
+<title>Небо распростер</title>
+<hymn_number>3463</hymn_number>
 </song>

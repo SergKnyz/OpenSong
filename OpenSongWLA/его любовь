@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>402</hymn_number>
-<title>Его любовь</title>
-<key>A</key>
-<author>Ross Bramirskyy</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ross Bramirskyy</author>
 <lyrics>[V1]
  1 куплет:
 .  Am             F          C            G
@@ -68,4 +65,7 @@
  Это Любовь, это Любовь
  Это Любовь, это Любовь
  Иешуа! Иешуа!!!</lyrics>
+<hymn_number>402</hymn_number>
+<title>Его любовь</title>
+<key>A</key>
 </song>

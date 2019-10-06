@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Сила в Имени Иисуса</aka>
+<hymn_number>3621</hymn_number>
+<key>G</key>
+<title>Все цепи разбить</title>
+<lyrics>[V1]
 .         F#m   D        A  E
  // Есть сила в имени Иисуса //
 .             F#m           D           A    E
@@ -19,8 +23,4 @@
  // В силе армия встает //
 .             F#m           D           A    E
  Все цепи разбить, цепи разбить, цепи разбить</lyrics>
-<key>G</key>
-<title>Все цепи разбить</title>
-<hymn_number>3621</hymn_number>
-<aka>Сила в Имени Иисуса</aka>
 </song>

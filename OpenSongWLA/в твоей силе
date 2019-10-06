@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>811</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ирина Цуканова</author>
 <lyrics>[V1]
  1 куплет:
 .  C#m             E
@@ -37,7 +37,7 @@
    О, излей. О, излей. Излей огонь скорей!
 .  C#m   G#m       A          F#m
    О, излей. О, излей. Излей огонь</lyrics>
-<key>C#m</key>
-<author>Ирина Цуканова</author>
+<hymn_number>811</hymn_number>
 <title>В Твоей силе</title>
+<key>C#m</key>
 </song>

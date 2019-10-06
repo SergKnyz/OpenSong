@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Вечные радости там в небесах</aka>
-<hymn_number>850</hymn_number>
-<title>Тяжки скитанья здесь (на земле). ПВ850</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вечные радости там (в небесах).
  Тяжки скитанья здесь (на земле).
 
@@ -37,4 +33,8 @@
 [V8]
  Я восклонюсь от скорбей (в небесах).
  Жажду туда я скорей (на земле).</lyrics>
+<aka>Вечные радости там в небесах</aka>
+<hymn_number>850</hymn_number>
+<title>Тяжки скитанья здесь (на земле). ПВ850</title>
+<key>E</key>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я шов самотній через темний ліс</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1525</hymn_number>
+<title>Я шов самотній через темний ліс</title>
+<key>G</key>
 <lyrics>[V1]
  1 куплет:
 .    Gm          Eb         Bb
@@ -71,6 +73,4 @@
 .          Eb   Dm         Gm  Eb D
    Що Ти мене покинув, Боже мій.</lyrics>
 <author>Новый час</author>
-<key>G</key>
-<hymn_number>1525</hymn_number>
 </song>

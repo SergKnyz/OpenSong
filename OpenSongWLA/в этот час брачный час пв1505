@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В этот час брачный час ПВ1505</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>В этот час брачный час ПВ1505</title>
+<hymn_number>1505</hymn_number>
 <lyrics>[V1]
  В этот час, брачный час.
  Поздравляем вас,
@@ -45,6 +47,4 @@
  Желаем мы для вас:
  Дружно жить, Христа любить.
  Мир в сердцах хранить.</lyrics>
-<key>C</key>
-<hymn_number>1505</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>любишь Ты меня</aka>
-<key>Em</key>
-<author>Гульмира Кенжебаева</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Гульмира Кенжебаева</author>
 <lyrics>[V1]
 .    Em   D     Hm          Em
  /// Авва Отче, любишь Ты меня!
@@ -16,6 +14,8 @@
    Ты даешь нам покой и любовь,
 .  C  D     Hm Em
    Адонай, Элохим! ///</lyrics>
-<copyright>Церковь Кайнар, г.Алматы</copyright>
+<key>Em</key>
 <title>Авва Отче</title>
+<copyright>Церковь Кайнар, г.Алматы</copyright>
+<aka>любишь Ты меня</aka>
 </song>

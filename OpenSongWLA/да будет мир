@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Да будет мир</title>
+<key>E</key>
+<hymn_number>5993</hymn_number>
+<lyrics>[V1]
  Куплет:
 .  Em                C      Hm
  Бывают дни когда враг наступает
@@ -26,8 +29,5 @@
    Да будет мир в мыслях и сердце
 .   C          Am        H       Em
    Пусть будет мир - Господь говорит</lyrics>
-<key>E</key>
 <author>Анна Поночевная</author>
-<title>Да будет мир</title>
-<hymn_number>5993</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>854</hymn_number>
-<title>Что же ты стоишь</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Что же ты стоишь, иди к Нему
  Что же сидишь, беги к Христу
  Что же ты молчишь, пока есть время
@@ -33,4 +31,6 @@
 [V3]
  Что же ты стоишь, иди к Нему,
  Что же сидишь, ...беги ...к Христу.</lyrics>
+<title>Что же ты стоишь</title>
+<hymn_number>854</hymn_number>
 </song>

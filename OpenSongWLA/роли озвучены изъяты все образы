@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1542</hymn_number>
-<aka>Ближе быть</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Ближе быть</aka>
+<hymn_number>1542</hymn_number>
+<title>Роли озвучены изъяты все образы</title>
+<key>E</key>
 <lyrics>[V1]
  1 куплет:
 .E      G#m    E         G#m
@@ -29,6 +31,4 @@
  Всё я уже нашёл заполнил пустые листы
  И пусть чистота их страниц подскажет мне как жить</lyrics>
 <author>Сергей Брикса</author>
-<key>E</key>
-<title>Роли озвучены изъяты все образы</title>
 </song>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>376</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>R-Voice</author>
 <lyrics>[V1]
  Куплет:
 . E            H
@@ -31,7 +31,8 @@
    В моей жизни прославлен будь
 .  C#m               H      A H
    В моем мире прославлен будь</lyrics>
-<author>R-Voice</author>
+<hymn_number>376</hymn_number>
+<aka>На коленях в поклонении</aka>
 <key>C</key>
 <title>В моем сердце</title>
 </song>

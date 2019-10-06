@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты не будешь одинок</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>255</hymn_number>
+<key>F#</key>
+<title>Ты не будешь одинок</title>
 <lyrics>[V1]
  1 куплет:
 . D#                     Fm                   A#
@@ -51,6 +53,4 @@
  Бог идет всегда с тобой.
  Он будет рядом средь тревог.</lyrics>
 <author>Эдем</author>
-<key>F#</key>
-<hymn_number>255</hymn_number>
 </song>

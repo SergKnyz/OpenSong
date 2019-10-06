@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2550</hymn_number>
-<title>Родному человеку</title>
-<author>Светлана Малова</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Родному человеку</title>
 <key>D</key>
+<hymn_number>2550</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .    Am                        Em
@@ -41,4 +40,5 @@
  Когда я чувствую твоё тепло,
  Другого счастья, даром, мне не надо,
  Хочу я сохранить, что нам дано!</lyrics>
+<author>Светлана Малова</author>
 </song>

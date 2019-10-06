@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Велик наш Творец и наш Бог ПВ847</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Велик наш Творец и наш Бог ПВ847</title>
+<aka>И разве другой кто так мог</aka>
+<hymn_number>847</hymn_number>
 <lyrics>[V1]
  Велик наш Творец и наш Бог,
  И разве другой кто так мог
@@ -40,7 +43,4 @@
  И вместе с природой поёт
  Той песни, понятен язык:
  &quot;Воистину Бог наш велик&quot;.</lyrics>
-<key>E</key>
-<aka>И разве другой кто так мог</aka>
-<hymn_number>847</hymn_number>
 </song>

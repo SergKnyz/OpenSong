@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5966</hymn_number>
-<title>Облекаюсь в Любовь</title>
-<author>Галим Хусаинов</author>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Dm               C         G/H
  Если ты устал и нету сил идти
@@ -30,4 +26,8 @@
    Облекаюсь в любовь наполняюсь Тобой
 .  Dm F        C       G
    Иисус -моя сила Иисус -мой Герой</lyrics>
+<author>Галим Хусаинов</author>
+<key>D</key>
+<title>Облекаюсь в Любовь</title>
+<hymn_number>5966</hymn_number>
 </song>

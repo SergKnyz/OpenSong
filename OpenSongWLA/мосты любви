@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мосты любви</title>
-<author>Открытое небо</author>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Открытое небо</author>
 <lyrics>[V1]
  1 куплет:
 .E        H      C#m  H A      E       A
@@ -30,4 +28,6 @@
  Безразличия оковы разрушаются любовью
  Той любовью что исходит прямо с неба к нам.</lyrics>
 <hymn_number>3210</hymn_number>
+<title>Мосты любви</title>
+<key>E</key>
 </song>

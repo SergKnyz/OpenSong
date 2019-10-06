@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Дорожная</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4056</hymn_number>
+<key>E</key>
+<title>Дорожная</title>
+<author>Дмитрий Светлый</author>
 <lyrics>[V1]
  Вступление:
 
@@ -33,7 +36,4 @@
  Для кого-то плохо дождь польет, а кому-то без дождя беда.
  А на перекрестке трех дорог, знаю, на которую, сверну
  И как бы по дороге не промок все свое со временем верну.</lyrics>
-<author>Дмитрий Светлый</author>
-<key>E</key>
-<hymn_number>4056</hymn_number>
 </song>

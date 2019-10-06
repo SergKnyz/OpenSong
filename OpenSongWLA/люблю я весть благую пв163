@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>163</hymn_number>
-<title>Люблю я весть благую ПВ163</title>
-<key>Ab</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Люблю я весть благую,
  Слова и звуки те,
  Что миру повествуют
@@ -46,4 +43,7 @@
  Спою на высоте
  Всю ту же весть благую
  О Господе Христе.</lyrics>
+<hymn_number>163</hymn_number>
+<key>Ab</key>
+<title>Люблю я весть благую ПВ163</title>
 </song>

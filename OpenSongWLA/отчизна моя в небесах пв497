@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>497</hymn_number>
-<title>Отчизна моя в небесах ПВ497</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Отчизна моя в небесах ПВ497</title>
+<key>A</key>
+<hymn_number>497</hymn_number>
+<author>Блацк, Йамес Милтон (1856-1938)</author>
 <lyrics>[V1]
  Отчизна моя в небесах,
  К ней стремится и рвется душа:
@@ -23,6 +25,4 @@
  Скоро кончится путь мой земной;
  Там мне встретятся в райских вратах
  Те, что верою жили святой.</lyrics>
-<author>Блацк, Йамес Милтон (1856-1938)</author>
-<key>A</key>
 </song>

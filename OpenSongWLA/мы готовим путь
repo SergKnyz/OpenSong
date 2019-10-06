@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мы готовим путь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Мы готовим путь</title>
+<hymn_number>1873</hymn_number>
+<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  Куплет:
 .    A2      C#m           A2      C#m
@@ -14,7 +17,4 @@
    Мы готовим путь, мы готовим путь,
 .             C#m   H     A2
    Мы готовим путь для Него.</lyrics>
-<key>A</key>
-<author>Виталий Ефремочкин</author>
-<hymn_number>1873</hymn_number>
 </song>

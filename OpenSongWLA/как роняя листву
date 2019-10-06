@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1075</hymn_number>
-<author>Спатарел</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Спатарел</author>
 <lyrics>[V1]
  1 куплет:
 .      Am       C        Dm
@@ -42,4 +40,6 @@
  Зажигает других и к Нему ведет,
  Благодать всем и радость несет.</lyrics>
 <title>Как роняя листву</title>
+<key>A</key>
+<hymn_number>1075</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуя (римейк из Шрека)</title>
-<key>A</key>
-<author>Другая Реальность</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Intro: C Am C Am
 
 [V2]
@@ -44,5 +41,8 @@
  По кресту стекала кровь
  Мир осязал Твою любовь
  Навзрыд тебе пою я Аллилуйя! \</lyrics>
+<author>Другая Реальность</author>
+<key>A</key>
+<title>Аллилуя (римейк из Шрека)</title>
 <hymn_number>1895</hymn_number>
 </song>

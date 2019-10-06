@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>216</hymn_number>
-<title>Ты так нужен мне</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новое Поколение Мелитополь</author>
 <lyrics>[V1]
  1 куплет:
 .A         H/D#           E
@@ -53,6 +52,7 @@
   Ведь они сейчас во тьме
 .E      F#       G#m
   Пусть их крест ведет к Тебе</lyrics>
-<author>Новое Поколение Мелитополь</author>
+<title>Ты так нужен мне</title>
 <key>A</key>
+<hymn_number>216</hymn_number>
 </song>

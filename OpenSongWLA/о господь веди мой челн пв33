@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>33</hymn_number>
-<key>Bb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О Господь, веди мой челн
  Посреди житейских волн!
  Буря грозная пред мной,
@@ -23,5 +21,7 @@
  Ко Христу спешу с мольбой.
  Я испуган, я смущен,
  О Господь, веди мой челн!</lyrics>
+<hymn_number>33</hymn_number>
+<key>Bb</key>
 <title>О Господь веди мой челн ПВ33</title>
 </song>

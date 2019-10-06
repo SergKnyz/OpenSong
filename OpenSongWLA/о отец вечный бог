@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О Отец Вечный Бог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1027</hymn_number>
+<key>D</key>
+<title>О Отец Вечный Бог</title>
+<author>Елена Махинина</author>
 <lyrics>[V1]
  1 куплет:
 .    Dm           F           Gm               A
@@ -27,7 +30,4 @@
  Ты - мой Свет, Ты - мой Путь, никогда не убоюсь.
  Освятил, мою жизнь Ты освятил, правде вечной научил
  И теперь хожу с хвалой пред Тобой.</lyrics>
-<key>D</key>
-<author>Елена Махинина</author>
-<hymn_number>1027</hymn_number>
 </song>

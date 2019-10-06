@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3440</hymn_number>
-<title>Превозносим Твое имя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Превозносим Твое имя</title>
+<key>F#</key>
+<hymn_number>3440</hymn_number>
+<author>Алексей Захаренко</author>
 <lyrics>[V1]
  КУПЛЕТ 1
 
@@ -55,6 +57,4 @@
  Святой, Святой, Святой
  Вечный Господь
  Ты был, Ты есть и Ты грядешь.</lyrics>
-<author>Алексей Захаренко</author>
-<key>F#</key>
 </song>

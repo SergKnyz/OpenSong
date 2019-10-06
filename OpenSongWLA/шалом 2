@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1034</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .       Am               Dm
  Мир Мой оставляю вам, не так, как сей мир дает.
@@ -52,6 +51,7 @@
 .     Dm                    F             G     A
  От зари и до зари се, Я с вами во все дни - шалом!</lyrics>
 <author>Маханаим</author>
-<key>A</key>
+<hymn_number>1034</hymn_number>
 <title>Шалом</title>
+<key>A</key>
 </song>

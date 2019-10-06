@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2200</hymn_number>
-<title>Как ни крути</title>
-<author>Сергей Брикса</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1. Как ни крути, все будет так...
  Талой мечты моей вода,
  Не предсказать, не угадать
@@ -29,4 +26,7 @@
  Талой мечты моей вода,
  Не предсказать, не угадать
  И не удержать года.</lyrics>
+<author>Сергей Брикса</author>
+<title>Как ни крути</title>
+<hymn_number>2200</hymn_number>
 </song>

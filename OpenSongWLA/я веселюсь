@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<lyrics>[V1]
  Вступление: Bb - C/Bb - Am7 | Dm7| Bb| Gm7 - A7
 
 [V2]
@@ -44,8 +45,7 @@
   Я знаю,
 .  Dm7     C    F
  сила моя в Тебе, Господь!</lyrics>
-<author>Hillsong Ukraine</author>
-<key>D</key>
-<title>Я веселюсь</title>
 <hymn_number>2600</hymn_number>
+<title>Я веселюсь</title>
+<key>D</key>
 </song>

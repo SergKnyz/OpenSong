@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1363</hymn_number>
+<title>Ангел весть принёс</title>
+<key>Am</key>
+<lyrics>[V1]
 .Am     C         F    Dm
  Божий Сын Иисус людям дал свободу
 .Am        C              F         Dm
@@ -21,7 +24,4 @@
 [V3]
  Добрый Пастырь Господь, с неба пришёл с любовью
  Дал Он пронзить Свою плоть всех нас омыл Он кровью</lyrics>
-<key>Am</key>
-<title>Ангел весть принёс</title>
-<hymn_number>1363</hymn_number>
 </song>

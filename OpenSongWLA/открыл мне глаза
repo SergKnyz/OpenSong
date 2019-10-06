@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3637</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Открыл мне глаза</title>
+<hymn_number>3637</hymn_number>
 <lyrics>[V1]
  1 КУПЛЕТ:
 .   Am   G   C            F
@@ -53,7 +55,5 @@
    Ты - совершенный Бог
 .  G
    Для Тебя жизнь моя</lyrics>
-<key>A</key>
 <author>Слово Жизни Music</author>
-<title>Открыл мне глаза</title>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>873</hymn_number>
+<key>A</key>
+<title>Там где Небо поёт</title>
+<lyrics>[V1]
 .Am F           Dm  E   Am
  Там, среди безмолвных скал,
 .     C             Dm     E
@@ -63,8 +66,5 @@
  Ты глаза подними, ты Его позови,
 .         Dm       E       Am
  К жизни вечной дорогу найди!</lyrics>
-<key>A</key>
 <author>Ксения Лапицкая</author>
-<title>Там где Небо поёт</title>
-<hymn_number>873</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>122</hymn_number>
-<title>Горы сдвинутся с подножья ПВ122</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Горы сдвинутся с подножья
  И падут холмы с высот,
  Но вовеки милость Божья
@@ -32,4 +29,7 @@
  Рай прекрасный создает
  И в нем место всем дает,
  Кто к Спасителю придет.</lyrics>
+<title>Горы сдвинутся с подножья ПВ122</title>
+<key>C</key>
+<hymn_number>122</hymn_number>
 </song>

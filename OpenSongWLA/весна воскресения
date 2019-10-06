@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Весна Воскресения</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Весна Воскресения</title>
+<hymn_number>3252</hymn_number>
+<aka>С каждым днём теплее солнце греет.</aka>
 <author>Михаил Мантай</author>
-<key>C</key>
 <lyrics>[V1]
  1 куплет:
 .C                 Cmaj7        C  Cmaj7
@@ -38,6 +40,4 @@
  Пусть звучит благая всюду весть.
  Наш Спаситель жив, Он вечно с нами -
  Христос воскрес!</lyrics>
-<aka>С каждым днём теплее солнце греет.</aka>
-<hymn_number>3252</hymn_number>
 </song>

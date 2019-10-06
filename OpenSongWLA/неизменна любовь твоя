@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2468</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Елена Крупская</author>
 <lyrics>[V1]
 .Ab     Bb    Eb Ab    Bb   Eb
  Во всем, что вижу я была видна всегда
@@ -42,7 +42,7 @@
  И если здесь в мире все пройдет,
 .      Bb        C     F
  // Знаю я, что Ты мой Бог //</lyrics>
-<author>Елена Крупская</author>
+<hymn_number>2468</hymn_number>
 <key>Ab</key>
 <title>Неизменна любовь Твоя</title>
 </song>

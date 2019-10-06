@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Пирс</author>
-<key>Dm</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Dm</key>
+<title>Снег времени выпал</title>
+<hymn_number>3124</hymn_number>
+<author>Пирс</author>
 <lyrics>[V1]
  1 куплет:
 .Dm            Bb     Gm
@@ -28,6 +30,4 @@
  Мы вспомним едва ли снежинок полёт.
  А время не плачет; закаты, рассвет,
  Но это не значит, что вечности нет.</lyrics>
-<title>Снег времени выпал</title>
-<hymn_number>3124</hymn_number>
 </song>

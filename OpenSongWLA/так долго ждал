@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2683</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Так Долго Ждал</title>
+<key>E</key>
+<hymn_number>2683</hymn_number>
 <lyrics>[V1]
  Как далекий сон, призрачны мечты
  И словно пар мгновенны наши дни
@@ -36,7 +38,5 @@
  Lyrics : Victor Yalovets
  Music: Christine Pepelyan
  Records: Markov Records</lyrics>
-<key>E</key>
 <author>Даша Яловец</author>
-<title>Так Долго Ждал</title>
 </song>

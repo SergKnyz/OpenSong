@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>133</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Em
  О, сила моя в Тебе, мой Бог
@@ -40,6 +39,7 @@
  С Богом пребудешь ли в небесах
  Как тебе быть с Ним отвечу так</lyrics>
 <author>Артём Янский</author>
-<key>E</key>
+<hymn_number>133</hymn_number>
 <title>Не медли</title>
+<key>E</key>
 </song>

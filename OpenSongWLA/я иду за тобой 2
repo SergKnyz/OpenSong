@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3435</hymn_number>
 <title>Я иду за Тобой</title>
-<author>Александр Грайцер</author>
 <lyrics>[V1]
  Я иду за Тобой тернистой тропой
  Потому что я знаю, что Ты
@@ -42,4 +41,5 @@
 
 [V6]
  Я иду за тобой...</lyrics>
+<author>Александр Грайцер</author>
 </song>

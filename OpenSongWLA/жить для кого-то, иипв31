@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>В жизни кому-то я доверять хочу,</aka>
-<hymn_number>31</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>31</hymn_number>
+<aka>В жизни кому-то я доверять хочу,</aka>
+<key>G</key>
 <title>Жить для кого-то, ИИПВ31</title>
 <lyrics>[V1]
 .   G                          C D
@@ -55,5 +56,4 @@
 [V5]
 .         Am7D              G
  Ты дал мне дар, дал дар любви.</lyrics>
-<key>G</key>
 </song>

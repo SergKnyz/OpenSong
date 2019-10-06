@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Придите и прославьте все</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1979</hymn_number>
+<title>Придите и прославьте все</title>
+<key>A</key>
 <lyrics>[V1]
  Capo + 1
 
@@ -42,6 +44,4 @@
 .     A2          Em7              D       D| D
  До дня, когда придём с хвалой к Отцу на небеса.</lyrics>
 <author>Ковчег церковь Днепропетровск</author>
-<key>A</key>
-<hymn_number>1979</hymn_number>
 </song>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>606</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Благодарю</title>
+<key>G</key>
 <aka>Однажды в сердце моё Иисус постучал</aka>
+<hymn_number>606</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .G          D        Em           A
@@ -32,7 +34,5 @@
  Здесь нет никакого секрета, и истина очень проста,
 . G                   D             C       D        G
  Каждый может стать чадом света, приняв Иисуса Христа!</lyrics>
-<key>G</key>
 <author>Вадим Ятковский</author>
-<title>Благодарю</title>
 </song>

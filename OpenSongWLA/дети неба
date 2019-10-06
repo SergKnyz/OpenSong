@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Дети церкви Благодать</author>
+<lyrics>[V1]
  1 куплет:
 .         D              A/C#     Hm        G    A
  Бог нам жизнь подарил дал целый мир в любви Своей
@@ -32,8 +33,7 @@
  Мы, за руки взявшись,
  Пусть на нашей земле всем станет теплей
  От света, что светит в нас.</lyrics>
-<author>Дети церкви Благодать</author>
-<key>D</key>
 <title>Дети неба</title>
+<key>D</key>
 <hymn_number>3020</hymn_number>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>817</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Все могу</title>
+<key>E</key>
+<hymn_number>817</hymn_number>
+<author>Галим Хусаинов</author>
 <lyrics>[V1]
  1 куплет:
 .        Em                D
@@ -30,7 +33,4 @@
    Всё, всё, всё могу силой Возлюбившего!
 .    C                     G  D
    Всё, всё, всё могу с Тобой!</lyrics>
-<author>Галим Хусаинов</author>
-<key>E</key>
-<title>Все могу</title>
 </song>

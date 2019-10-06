@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Как прожить на свете без любви</title>
-<key>D</key>
-<author>Sharikov Family Band</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Dm                           Gm
  Как прожить на свете без любви,
@@ -36,4 +33,7 @@
  Только Ты во власти дать прощенье,
  И Отцом, и Другом моим быть,
  Укрепляя веру и терпенье.</lyrics>
+<key>D</key>
+<title>Как прожить на свете без любви</title>
+<author>Sharikov Family Band</author>
 </song>

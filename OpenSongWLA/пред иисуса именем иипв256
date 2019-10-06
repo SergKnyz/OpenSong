@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>256</hymn_number>
-<title>Пред Иисуса именем ИИПВ256</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  G         B7      Em
  Пред Иисуса именем праведным
 .  C        G       Am7  D7
@@ -18,4 +15,7 @@
  Всей душою преклонись
 . Am7    D7        C/G
  Пред Иисусом Христом.</lyrics>
+<hymn_number>256</hymn_number>
+<key>G</key>
+<title>Пред Иисуса именем ИИПВ256</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3413</hymn_number>
-<aka>Господи, озари внутри все</aka>
-<key>C#m</key>
-<author>Краеугольный камень</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Краеугольный камень</author>
 <lyrics>[V1]
  Куплет:
 .  C#m
@@ -51,4 +48,7 @@
 .  G#               C#m
    Буду с Тобою навсегда!</lyrics>
 <title>Буду с тобою</title>
+<key>C#m</key>
+<hymn_number>3413</hymn_number>
+<aka>Господи, озари внутри все</aka>
 </song>

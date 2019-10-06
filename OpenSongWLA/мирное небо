@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Мирное небо</title>
+<hymn_number>4620</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .   Gm        D                         Gm
  В светлых домах уют, праздник сменяют будни.
@@ -46,7 +49,4 @@
  Это подарок нам - мирное небо вокруг,
  Горе то тут, то там будь благодарен, друг.</lyrics>
 <author>Василий Перебиковский</author>
-<key>G</key>
-<title>Мирное небо</title>
-<hymn_number>4620</hymn_number>
 </song>

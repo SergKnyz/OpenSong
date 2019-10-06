@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ты мой Господь, Ты жизнь моя</aka>
-<title>Отец мой я люблю Тебя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Отец мой я люблю Тебя</title>
 <key>D</key>
 <lyrics>[V1]
 . Em7                           C2
@@ -36,4 +35,5 @@
  Все дни мои Тобой даны, используй их, Господь,
 .                   G          D/F#
  Молю Тебя, используй для Себя.</lyrics>
+<aka>Ты мой Господь, Ты жизнь моя</aka>
 </song>

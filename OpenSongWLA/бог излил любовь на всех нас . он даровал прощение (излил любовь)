@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>156</hymn_number>
-<aka>Вечно буду славить лишь Тебя</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  Куплет:
 .Cm
@@ -36,7 +35,8 @@
    Аллилуйя, Аллилуйя
 .      Cm           Bb
    Аллилуйя, Ты Святой</lyrics>
-<author>Виталий Ефремочкин</author>
 <key>C</key>
 <title>Бог излил любовь на всех нас . Он даровал прощение (излил любовь)</title>
+<hymn_number>156</hymn_number>
+<aka>Вечно буду славить лишь Тебя</aka>
 </song>

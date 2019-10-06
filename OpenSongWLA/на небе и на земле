@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>174</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>На небе и на земле</title>
+<hymn_number>174</hymn_number>
+<author>Дарина Кочанжи</author>
 <lyrics>[V1]
  1 куплет:
 .Dm      Bb      C             F
@@ -39,7 +42,4 @@
  Не отрекайся от святой опеки
  Бог есть Любовь и ныне и вовеки
  Не говори, что ты храним звездой.</lyrics>
-<key>D</key>
-<author>Дарина Кочанжи</author>
-<title>На небе и на земле</title>
 </song>

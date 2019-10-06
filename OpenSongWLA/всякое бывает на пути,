@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>433</hymn_number>
-<aka>В жизни есть и трудные минуты</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>В жизни есть и трудные минуты</aka>
+<hymn_number>433</hymn_number>
+<key>F</key>
+<title>Всякое бывает на пути,</title>
 <lyrics>[V1]
  1 куплет:
 .Fm              Bbm      Fm
@@ -43,7 +45,5 @@
  И Господь наполнит миром душу,
 .Bbm        C        Fm  Bbm C
  И напомнит небо впереди.</lyrics>
-<key>F</key>
 <author>Василий Перебиковский</author>
-<title>Всякое бывает на пути,</title>
 </song>

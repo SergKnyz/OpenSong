@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3057</hymn_number>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Воздам хвалу и славу великому Творцу,
  Ему всегда душа моя открыта,
  Не скрою тайны сердца и Ему все расскажу,
@@ -30,4 +28,6 @@
    Зарей на небосводе ярче солнца ты горишь,
    Ты - Церковь Иисуса - Суламита!</lyrics>
 <title>Воздам хвалу и славу великому Творцу ПВ2048</title>
+<key>G</key>
+<hymn_number>3057</hymn_number>
 </song>

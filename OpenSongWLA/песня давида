@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5604</hymn_number>
-<title>Песня Давида</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Песня Давида</title>
+<key>Bb</key>
+<hymn_number>5604</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Bbm   Db    Ab           Gb
@@ -31,6 +32,5 @@
    Господь даёт силу народу Своему!
 .     Ab             Fm   Ebm
    Господь благословляет Своим миром!</lyrics>
-<key>Bb</key>
 <author>ХДН</author>
 </song>

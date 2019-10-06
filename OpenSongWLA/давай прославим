@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Dm       Bb    Gm       F
  Каждым вдохом моим я славлю
@@ -39,6 +37,8 @@
    Ты, Ты - смысл нашей жизни
 .  Dm
    Ты, Ты</lyrics>
+<author>Слово Жизни Music</author>
 <title>Давай прославим</title>
+<key>D</key>
 <hymn_number>354</hymn_number>
 </song>

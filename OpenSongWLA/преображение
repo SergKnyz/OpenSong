@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Преображение</title>
-<key>D</key>
-<author>Hillsong Worship, Хиллсонг Уорсхип</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  КУПЛЕТ 1:
 .Dm7             F         C     Gadd4
  Голос Твой с небес Нам завесу открыл
@@ -61,5 +58,8 @@
  Ты меняешь Меня
 .          C                        G
  Когда взираю, Бог, я с верой на Тебя</lyrics>
+<author>Hillsong Worship, Хиллсонг Уорсхип</author>
 <hymn_number>1925</hymn_number>
+<key>D</key>
+<title>Преображение</title>
 </song>

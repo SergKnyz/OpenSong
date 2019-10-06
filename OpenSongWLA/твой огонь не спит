@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2193</hymn_number>
-<author>Jesus Culture</author>
-<key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Jesus Culture</author>
 <lyrics>[V1]
 .F#m    D           A     E  F#m         D
  I    feel the heat is rising the flames on the horizon are
@@ -71,4 +69,6 @@
  Дух Святой, приди!
  Дух Святой, приди!</lyrics>
 <title>Твой огонь не спит</title>
+<key>F#</key>
+<hymn_number>2193</hymn_number>
 </song>

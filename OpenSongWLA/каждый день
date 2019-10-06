@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Каждый день</title>
-<key>D</key>
-<author>Краеугольный камень</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am                           Dm
  Каждый день открывает двери царства Твоего
@@ -29,5 +26,8 @@
  Не дай нам, Боже, впасть в беспечность в объятиях земли.
  Дай всем сердцем устремиться к вышнему огню
  И лететь душе как птице к царству Твоему!</lyrics>
+<author>Краеугольный камень</author>
+<title>Каждый день</title>
+<key>D</key>
 <hymn_number>1415</hymn_number>
 </song>

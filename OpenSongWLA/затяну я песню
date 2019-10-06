@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Перекрёстов</author>
+<lyrics>[V1]
 .Em        C
  Затяну я песню, сидя у огня:
 .G          D
@@ -36,8 +37,7 @@
 [V6]
  Затяну я песню, сидя у огня:
  Мой Отец небесный, Ты, храни меня.</lyrics>
-<key>E</key>
-<author>Сергей Перекрёстов</author>
-<title>Затяну я песню</title>
 <hymn_number>3309</hymn_number>
+<title>Затяну я песню</title>
+<key>E</key>
 </song>

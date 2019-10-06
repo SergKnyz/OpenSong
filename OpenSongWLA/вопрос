@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1750</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am                       F  G                 Em
  Так хочется спросить у Бога куда ведет моя дорога
@@ -30,6 +29,7 @@
  Хотелось мне спросить у Бога когда закончится дорога
  И я спросил, а Он рукой меня коснулся...</lyrics>
 <author>Zanoza</author>
-<key>A</key>
+<hymn_number>1750</hymn_number>
 <title>Вопрос</title>
+<key>A</key>
 </song>

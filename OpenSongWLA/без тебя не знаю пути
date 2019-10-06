@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Я хочу исполнить волю Твою, Очисти меня</aka>
-<hymn_number>3611</hymn_number>
-<title>Без Тебя не знаю пути</title>
-<author>Живое Слово церковь г. Сочи</author>
-<key>Bb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Bbm               Gb
  Я хочу исполнить волю Твою
@@ -33,4 +28,9 @@
    Не дай мне сойти с Твоих путей
 .    Gb         Ebm
    Очисти нас, очисти нас</lyrics>
+<author>Живое Слово церковь г. Сочи</author>
+<title>Без Тебя не знаю пути</title>
+<key>Bb</key>
+<aka>Я хочу исполнить волю Твою, Очисти меня</aka>
+<hymn_number>3611</hymn_number>
 </song>

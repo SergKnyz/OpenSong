@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>149</hymn_number>
-<title>Спой же песню об Иисусе ПВ149</title>
-<key>Db</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Спой же песню об Иисусе,
  Славя Его,
  Он так благ, ты полагайся
@@ -30,4 +27,7 @@
  &quot;Иисус Один&quot;.
  Будет все во всем нам вечно
  Вышнего Сын.</lyrics>
+<hymn_number>149</hymn_number>
+<title>Спой же песню об Иисусе ПВ149</title>
+<key>Db</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Обнови</title>
-<author>Reallife band</author>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G                 A
  Мы вновь перед Тобой, хотим услышать голос Твой,
@@ -47,5 +44,8 @@
    О, Господь, благослови нас, просим мы.
 .  Hm                D         A
    О, Господь, Ты обнови нас, молим мы.</lyrics>
+<author>Reallife band</author>
+<key>G</key>
+<title>Обнови</title>
 <hymn_number>4166</hymn_number>
 </song>

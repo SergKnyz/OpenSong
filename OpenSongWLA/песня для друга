@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>846</hymn_number>
-<author>Артём Янский</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Артём Янский</author>
 <lyrics>[V1]
  1 куплет:
 .  Am                 E                         Am
@@ -29,5 +27,7 @@
  А знал ли ты, а знал ли ты, а знал ли ты? Она твоя от Господа награда
  Ты жена, ты жена, ты жена как жены веры называй господином
  И в кротком духе люби его всегда идя и радостью и темною долиной</lyrics>
+<key>A</key>
 <title>Песня для друга</title>
+<hymn_number>846</hymn_number>
 </song>

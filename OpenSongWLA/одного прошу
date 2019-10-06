@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<author>Роман Касевич</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Роман Касевич</author>
 <lyrics>[V1]
  1 куплет:
 .F             G              Am     C/E
@@ -51,6 +50,7 @@
    Всем, что есть во мне, Господь мой
 .       Am
    Поклоняться буду я</lyrics>
-<title>Одного прошу</title>
 <hymn_number>1242</hymn_number>
+<title>Одного прошу</title>
+<key>F</key>
 </song>

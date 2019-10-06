@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Совершилось чудо из чудес ПВ2685</title>
-<key>B</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Совершилось чудо из чудес
  - На рассвете рано Он воскрес,
  И прошел уже двадцатый век
@@ -23,4 +21,6 @@
  &quot;Иисус Христос воскрес&quot;,
  Для тебя Спаситель наш воскрес.</lyrics>
 <hymn_number>2685</hymn_number>
+<key>B</key>
+<title>Совершилось чудо из чудес ПВ2685</title>
 </song>

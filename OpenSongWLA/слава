@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4140</hymn_number>
-<time_sig>6/8</time_sig>
-<title>Слава</title>
-<tempo>67</tempo>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Intro:
 
 [V2]
@@ -45,5 +41,9 @@
 [B1]
    Концовка:</lyrics>
 <author>Hillsong Worship, Хиллсонг Уорсхип, Менделссохн, Феликс (1809-1847), Уеслеы, Цхарлес (1707-1788)</author>
+<hymn_number>4140</hymn_number>
+<time_sig>6/8</time_sig>
+<tempo>67</tempo>
+<title>Слава</title>
 <key>E</key>
 </song>

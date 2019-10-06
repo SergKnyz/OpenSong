@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новый Иерусалим</author>
+<lyrics>[V1]
  1 куплет:
 .  Gm            Bb         Cm7      D7
  Ты говоришь, что этот мир устал от боли.
@@ -63,8 +64,7 @@
    Жёлтые и красные, слабые и сильные.
 .      Cm7                   D7
    Мы все такие разные, но всё равно красивые.</lyrics>
-<author>Новый Иерусалим</author>
+<hymn_number>1316</hymn_number>
 <key>G</key>
 <title>Дети одной любви</title>
-<hymn_number>1316</hymn_number>
 </song>

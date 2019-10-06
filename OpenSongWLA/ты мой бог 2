@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1508</hymn_number>
-<author>Эдем</author>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   D/F#            G       A             Hm
  Создатель всех миров  Творец любви без слов
@@ -69,5 +66,8 @@
    Ты мой Бог - жизнь подарил всему, что видим, тобою мы дышим
 .          H            G#           C#m
    Ты Бог сильный и святой - Ты Бог мой.</lyrics>
+<author>Эдем</author>
+<hymn_number>1508</hymn_number>
+<key>D</key>
 <title>Ты мой Бог</title>
 </song>

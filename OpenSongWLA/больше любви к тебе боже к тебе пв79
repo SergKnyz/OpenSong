@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>О мой Господь, внемли тихой мольбе.</aka>
-<hymn_number>79</hymn_number>
-<title>Больше любви к Тебе Боже к Тебе ПВ79</title>
-<key>Ab</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Больше любви к Тебе, Боже, к Тебе.
  О мой Господь, внемли тихой мольбе.
  На каждый миг дай мне
@@ -33,4 +29,8 @@
  Больше любви к Тебе.
  Больше любви,
  Боже, к Тебе.</lyrics>
+<key>Ab</key>
+<title>Больше любви к Тебе Боже к Тебе ПВ79</title>
+<aka>О мой Господь, внемли тихой мольбе.</aka>
+<hymn_number>79</hymn_number>
 </song>

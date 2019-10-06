@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4180</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Спокойно стой, прими покой:</title>
 <aka>Будь храброй душа, и стой до конца,</aka>
-<author>Наталья Доценко, Бетхел Мусиц</author>
-<key>G</key>
+<hymn_number>4180</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .G            D
@@ -41,5 +41,5 @@
    Исполнишь все, что Ты обещал.
 .           C        D    G
    В победе я вновь поднимусь!</lyrics>
-<title>Спокойно стой, прими покой:</title>
+<author>Наталья Доценко, Бетхел Мусиц</author>
 </song>

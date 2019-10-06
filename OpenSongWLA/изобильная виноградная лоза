@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3481</hymn_number>
-<key>D</key>
-<author>Обновление</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Обновление</author>
 <lyrics>[V1]
  1 куплет:
 .   Cm                     Fm
@@ -29,5 +27,7 @@
  Помоги Ты мне цвести, помоги плоды Тебе принести.
 .      Gm           A7         Gm            A7      Dm
  Я теплом Твоим согрет, мне другого счастья нет и не надо.</lyrics>
+<hymn_number>3481</hymn_number>
 <title>Изобильная виноградная Лоза</title>
+<key>D</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я маленький скиталец ПВ481</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я маленький скиталец,
  Пришлец в земной стране,
  Хоть мир земной прекрасен,
@@ -19,5 +17,7 @@
  Мне послушанье дай,
  Земной мой путь ко благу,
  К спасенью направляй!</lyrics>
+<key>D</key>
+<title>Я маленький скиталец ПВ481</title>
 <hymn_number>481</hymn_number>
 </song>

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>963</hymn_number>
-<title>О годы куда вы летите ПВ963</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>О годы куда вы летите ПВ963</title>
+<key>C</key>
+<hymn_number>963</hymn_number>
 <lyrics>[V1]
  О годы, куда вы летите,
  Быстрее, чем птицы полет?
@@ -35,5 +36,4 @@
  Гореньем и светом полны.
  Вы жаждущим всем возвестите
  О вечной Христовой любви.</lyrics>
-<key>C</key>
 </song>

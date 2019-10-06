@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>345</hymn_number>
-<title>Хочу идти за Тобой ИИПВ345</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D.    G        A       G      D
  Хочу идти за Тобой всем сердцем я,
 .         G      A       G      D
@@ -26,4 +23,7 @@
  УвидетьТвои чудеса.
  Раскроймне сердце мой Господь,
  Чтобжизнь Тебе свою я отдал.</lyrics>
+<hymn_number>345</hymn_number>
+<title>Хочу идти за Тобой ИИПВ345</title>
+<key>D</key>
 </song>

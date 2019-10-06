@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>236</hymn_number>
-<title>Открой нам глаза, Господь ИИПВ236</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .    C         Dm     Dm7
  Открой нам глаза, Господь,
 .G.             F C E Am
@@ -18,4 +15,7 @@
  Открой нам глаза, Господь,
 .G.             F C
  Дай увидеть Иисуса.</lyrics>
+<key>C</key>
+<title>Открой нам глаза, Господь ИИПВ236</title>
+<hymn_number>236</hymn_number>
 </song>

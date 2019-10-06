@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3451</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1  куплет:
 .      Hm              Em
  Разве нет бальзама в Галааде,
@@ -35,6 +34,7 @@
  Подойди под Божий взгляд небесный,
  Что от всех болезней и грехов спасёт!</lyrics>
 <author>Авен Езер</author>
-<key>B</key>
+<hymn_number>3451</hymn_number>
 <title>Иисус Галилеянин</title>
+<key>B</key>
 </song>

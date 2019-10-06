@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В горницу скорей придите ПВ2983</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>там Христос с вечери встал;</aka>
+<hymn_number>2983</hymn_number>
+<title>В горницу скорей придите ПВ2983</title>
+<key>Bb</key>
 <lyrics>[V1]
  В горницу скорей придите,
  там Христос с вечери встал;
@@ -28,7 +31,4 @@
  мы законы чтим Твои
  и поэтому друг другу
  моем ноги из любви.</lyrics>
-<key>Bb</key>
-<aka>там Христос с вечери встал;</aka>
-<hymn_number>2983</hymn_number>
 </song>

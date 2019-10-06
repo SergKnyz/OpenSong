@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Братья сестры дружно смело ПВ260</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Братья сестры дружно смело ПВ260</title>
+<aka>Как один народ,</aka>
+<hymn_number>260</hymn_number>
 <lyrics>[V1]
  Братья, сестры, дружно, смело,
  Как один народ,
@@ -22,7 +25,4 @@
  Наш Господь придет.
  Сеять Божьей правды семя
  Все пойдем вперед.</lyrics>
-<key>C</key>
-<aka>Как один народ,</aka>
-<hymn_number>260</hymn_number>
 </song>

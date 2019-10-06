@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G#m</key>
-<author>Слово Жизни Music</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
 <lyrics>[V1]
  Куплет:
 .G#m                      E          H
@@ -48,6 +47,7 @@
  Тебе Бог вся слава!
 .G#m
  Тебе Бог вся слава!</lyrics>
-<title>Мир на земле</title>
 <hymn_number>447</hymn_number>
+<title>Мир на земле</title>
+<key>G#m</key>
 </song>

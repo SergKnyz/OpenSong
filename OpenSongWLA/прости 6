@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1576</hymn_number>
-<author>Инна Звягинцева</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Прости</title>
+<hymn_number>1576</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .     Am             E/G#     Dm                     E
@@ -33,5 +33,5 @@
 [V3]
 .   F          C           Dm          E          A
  Я неустанно, мой Иисус, иду Твоим путём на небеса.</lyrics>
-<title>Прости</title>
+<author>Инна Звягинцева</author>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я оставлю вам мир и покой ИИПВ367</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>367</hymn_number>
+<title>Я оставлю вам мир и покой ИИПВ367</title>
+<key>D</key>
 <lyrics>[V1]
 .     D.        F#m     Em A7
  Я оставлю вам мир и покой.
@@ -10,6 +12,4 @@
  Мир в душе, благодать.
 .       Em           A7         G/D D
  Тот покой, что не даст вам никто.</lyrics>
-<key>D</key>
-<hymn_number>367</hymn_number>
 </song>

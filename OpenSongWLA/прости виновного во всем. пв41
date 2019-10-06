@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>41</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Прости виновного во всем. ПВ41</title>
 <aka>Будь милосерд ко мне Христос</aka>
+<hymn_number>41</hymn_number>
 <lyrics>[V1]
  Будь милосерд ко мне, Христос!
  Прости виновного во всем.
@@ -29,6 +31,4 @@
  Прощенье им Твое даешь;
  И я на призыв Твой спешу,
  Прощенья, Господи, прошу!</lyrics>
-<key>E</key>
-<title>Прости виновного во всем. ПВ41</title>
 </song>

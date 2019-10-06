@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Каждый день</title>
+<key>D</key>
+<hymn_number>281</hymn_number>
+<author>Спасение церковь г. Вишневое</author>
 <lyrics>[V1]
  1 куплет:
 .       Dm       E          Am
@@ -27,7 +30,4 @@
  Я восхищаюсь милостью Твоей...
  И хоть я странник в этой жизни тленной...
  Ты дорожишь мной и хранишь во всем!</lyrics>
-<author>Спасение церковь г. Вишневое</author>
-<key>D</key>
-<hymn_number>281</hymn_number>
 </song>

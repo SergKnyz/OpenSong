@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1632</hymn_number>
-<title>Наполни славой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Артём Янский</author>
 <lyrics>[V1]
  1 куплет:
 .  Cmaj7                    G
@@ -35,6 +34,7 @@
  Чтоб время своё Тебе посвящать
  И каждый вздох подарю я тебе
  Тебе хочу вечно всю славу воздать</lyrics>
+<hymn_number>1632</hymn_number>
+<title>Наполни славой</title>
 <key>C</key>
-<author>Артём Янский</author>
 </song>

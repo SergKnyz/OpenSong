@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>19</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Всё совершил</title>
+<key>A</key>
+<hymn_number>19</hymn_number>
+<author>Slavic New Beginnings Church</author>
 <lyrics>[V1]
  1 Куплет:
 .E/G# A    H C#m    E/G# A     H
@@ -40,7 +43,4 @@
  4 Куплет:
  Пред Твоей славой, померкнет все,
  Ты предо мною, меня Ты любишь, меня Ты любишь</lyrics>
-<author>Slavic New Beginnings Church</author>
-<key>A</key>
-<title>Всё совершил</title>
 </song>

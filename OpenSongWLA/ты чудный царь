@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1288</hymn_number>
-<title>Ты Чудный Царь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты Чудный Царь</title>
+<key>E</key>
+<hymn_number>1288</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .         E            H           C#m         A
@@ -40,5 +41,4 @@
 .           C#m  H    A
    Что нет подобного Царя!</lyrics>
 <author>Сила Веры церковь</author>
-<key>E</key>
 </song>

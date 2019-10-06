@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Борис Идельчик</author>
-<key>D</key>
 <lyrics>[V1]
  1 куплет:
 .    Dm                   Gm
@@ -44,6 +43,7 @@
  Переплавь меня Господь,переплавь в огне
  Чтобы мог я пред Тобой в чистоте предстать
  Исцели меня Господь,помоги мне встать</lyrics>
-<title>Я у ног Твоих Иисус</title>
 <hymn_number>785</hymn_number>
+<title>Я у ног Твоих Иисус</title>
+<key>D</key>
 </song>

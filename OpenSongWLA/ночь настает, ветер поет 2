@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ночь настает, ветер поет</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5158</hymn_number>
+<key>D</key>
+<title>Ночь настает, ветер поет</title>
 <lyrics>[V1]
  1 куплет:
 .Dm          Gm
@@ -38,6 +40,4 @@
 .    Dm         C            Bb   A    Dm
    Что Ангелы поют о Нем, а пастухи внимают?</lyrics>
 <author>Неизвестный</author>
-<key>D</key>
-<hymn_number>5158</hymn_number>
 </song>

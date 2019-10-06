@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1482</hymn_number>
-<title>Иисус сокровище святое ПВ1482</title>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Иисус - сокровище святое!
  Может ли душа моя найти
  В этом мире что-нибудь такое.
@@ -20,4 +17,7 @@
  Мне с Тобой не надо ничего,
  И мой дух к Тебе, Иисус, стремится.
  Лишь Тебя ищу я одного.</lyrics>
+<hymn_number>1482</hymn_number>
+<title>Иисус сокровище святое ПВ1482</title>
+<key>A</key>
 </song>

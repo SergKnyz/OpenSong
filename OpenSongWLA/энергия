@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Young &amp; Free</author>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C               Dm       Am
  Ты мои мысли пленил навек
 .                F     C
@@ -54,6 +52,8 @@
 
 [V4]
  Припев</lyrics>
+<author>Hillsong Young &amp; Free</author>
+<key>C</key>
 <title>Энергия</title>
 <hymn_number>3850</hymn_number>
 </song>

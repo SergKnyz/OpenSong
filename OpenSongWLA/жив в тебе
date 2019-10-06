@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3390</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .C     G      Am  Em
  От начала до конца
@@ -46,6 +45,7 @@
 .        Am     G          Am     G
    Ты достоин славы, Ты достоин славы</lyrics>
 <author>Supernatural Worship, Йесус Цултуре</author>
-<key>G</key>
+<hymn_number>3390</hymn_number>
 <title>Жив в Тебе</title>
+<key>G</key>
 </song>

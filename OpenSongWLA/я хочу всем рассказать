@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1544</hymn_number>
-<title>Я хочу всем рассказать</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .     Gm                     Cm
  Я хочу всем рассказать о великой той любви
@@ -50,6 +48,8 @@
    Отрёкся Петр, а Он простил, а Вартимею глаза открыл
 .          H               D#         G#m
    И прокаженных к новой жизни возвратил.</lyrics>
-<key>C</key>
 <author>Источник жизни</author>
+<hymn_number>1544</hymn_number>
+<title>Я хочу всем рассказать</title>
+<key>C</key>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>131</hymn_number>
-<title>Небо отвори</title>
-<author>Артём Янский</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Небо отвори</title>
 <key>D</key>
+<hymn_number>131</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .  Dm                     Gm
@@ -37,4 +36,5 @@
  На совершителя веры смотреть не однажды, но каждый раз.
  И очи мои просвети духа откровения пошли,
  Чтобы знания приобрели и на высоты Твои взошли.</lyrics>
+<author>Артём Янский</author>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>8</hymn_number>
-<title>Без конца буду петь</title>
-<author>Делириоус?, СМИТХ МАРТИН ЙАМЕС</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Делириоус?, СМИТХ МАРТИН ЙАМЕС</author>
 <lyrics>[C1]
 .   C         G/H
    Без конца буду петь,
@@ -33,4 +30,7 @@
    Ликуют Ангелы вокруг, ведь радость есть сейчас!
 .  C G/H Am F
     </lyrics>
+<hymn_number>8</hymn_number>
+<key>C</key>
+<title>Без конца буду петь</title>
 </song>

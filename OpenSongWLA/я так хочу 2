@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2971</hymn_number>
-<author>Александр Соколов (Armageddon)</author>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Александр Соколов (Armageddon)</author>
 <lyrics>[C1]
    Припев:
 .  Gm  Dm Eb Bb
@@ -23,5 +21,7 @@
  Ты покрываешь любовью своей!
  Я не могу, без тебя пропаду!
  Без тех слов что звучали для жизни моей!</lyrics>
+<key>G</key>
 <title>Я так хочу</title>
+<hymn_number>2971</hymn_number>
 </song>

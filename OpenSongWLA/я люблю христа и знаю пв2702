@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2702</hymn_number>
-<title>Я люблю Христа и знаю ПВ2702</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я люблю Христа и знаю,
  Любит Он давно меня.
  Песни я Ему слагаю,
@@ -30,4 +27,7 @@
  Быть счастливыми всегда,
  Дар любви Христа примите.
  Будут петь ваши уста.</lyrics>
+<hymn_number>2702</hymn_number>
+<title>Я люблю Христа и знаю ПВ2702</title>
+<key>C</key>
 </song>

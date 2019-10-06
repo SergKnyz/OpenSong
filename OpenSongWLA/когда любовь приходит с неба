@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>176</hymn_number>
-<title>Когда любовь приходит с неба</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Когда любовь приходит с неба</title>
+<key>Am</key>
+<hymn_number>176</hymn_number>
+<author>Светлана Мангутова</author>
 <lyrics>[V1]
 .Am Dm E Am
   
@@ -48,6 +50,4 @@
  Любовь одна спасти нас сможет,
 .  E                Am
  одна любооооовь, одна.</lyrics>
-<key>Am</key>
-<author>Светлана Мангутова</author>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2423</hymn_number>
-<aka>Бегу я к престолу</aka>
-<author>Kim Walker-Smith, Ким Уалкер-Смитх</author>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
  Видение во сне духом, Ты говоришь, со мной,
  Слово о том, что царство прийдет
@@ -34,5 +30,9 @@
    К Тебе Бог, единственному
    Бегу я к престолу
    Перед Тобою, я склонён</lyrics>
+<author>Kim Walker-Smith, Ким Уалкер-Смитх</author>
 <title>Видение во сне духом, Ты говоришь, со мной,</title>
+<key>D</key>
+<aka>Бегу я к престолу</aka>
+<hymn_number>2423</hymn_number>
 </song>

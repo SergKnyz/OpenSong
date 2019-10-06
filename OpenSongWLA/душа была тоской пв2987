@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2987</hymn_number>
-<title>Душа была тоской ПВ2987</title>
-<key>Eb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Душа была тоской
  и горечью полна,
  и я искал покой
@@ -38,4 +35,7 @@
  сияет как мираж.
  Иду, Господь, к Тебе:
  лишь Ты покой мне дашь.</lyrics>
+<hymn_number>2987</hymn_number>
+<key>Eb</key>
+<title>Душа была тоской ПВ2987</title>
 </song>

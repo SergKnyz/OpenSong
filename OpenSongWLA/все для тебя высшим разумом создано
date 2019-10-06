@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1635</hymn_number>
-<title>Все для тебя Высшим разумом создано</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Все для тебя Высшим разумом создано</title>
+<key>G</key>
+<hymn_number>1635</hymn_number>
+<author>Берники</author>
 <lyrics>[V1]
  1 куплет:
 .           Gm                Cm
@@ -31,6 +33,4 @@
  В жертвенной крови Иисуса Христа.
  Радость спасения, с Богом общение -
  Все для тебя, все для тебя.</lyrics>
-<author>Берники</author>
-<key>G</key>
 </song>

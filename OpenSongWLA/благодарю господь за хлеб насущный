@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5157</hymn_number>
-<title>Благодарю Господь за хлеб насущный</title>
-<author>Авана</author>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Авана</author>
 <lyrics>[V1]
  1 куплет:
 .   Dm          C               Bb
@@ -44,4 +41,7 @@
  Меня Твоя любовь по жизни проведёт,
  Прославлен, будь навек Ты, мой Спаситель,
  Хвала Тебе, хвала, Господь</lyrics>
+<key>D</key>
+<title>Благодарю Господь за хлеб насущный</title>
+<hymn_number>5157</hymn_number>
 </song>

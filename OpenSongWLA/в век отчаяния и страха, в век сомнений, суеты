@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Верим мы</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>В век отчаяния и страха, в век сомнений, суеты</title>
+<key>Bb</key>
 <hymn_number>2756</hymn_number>
-<title>В век отчаяния и страха, в век сомнений, суеты</title>
+<aka>Верим мы</aka>
+<author>Новый Завет NTWorship</author>
 <lyrics>[V1]
  1 куплет:
 .Bb                 Eb    Bb                   Eb
@@ -41,6 +43,4 @@
    Вратам ада нас не одолеть сила Божья победила смерть
 .           G                 A            Hm   A/C#
    Знаем мы любовь Его вовек, верим мы, верим мы</lyrics>
-<author>Новый Завет NTWorship</author>
-<key>Bb</key>
 </song>

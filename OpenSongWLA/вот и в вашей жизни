@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вот и в вашей жизни</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2070</hymn_number>
 <key>C</key>
-<author>Иван Деченко</author>
+<title>Вот и в вашей жизни</title>
 <lyrics>[V1]
  1 Куплет:
 .C
@@ -57,5 +57,5 @@
   Для Христа живите,
 .Dm             G            C
   И старайтесь Богу жизнь отдать</lyrics>
-<hymn_number>2070</hymn_number>
+<author>Иван Деченко</author>
 </song>

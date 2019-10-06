@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Кто сотворил эту землю</title>
-<author>Спасение церковь г. Вишневое</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Спасение церковь г. Вишневое</author>
 <lyrics>[V1]
  1 куплет:
 .C         G          Dm         Am
@@ -19,5 +17,7 @@
  2 куплет:
  Кто даровал эту радость, Кто даровал тебе жизнь?
  Кто дал спасенье для мира? Скажи мне ты!</lyrics>
+<key>C</key>
+<title>Кто сотворил эту землю</title>
 <hymn_number>1339</hymn_number>
 </song>

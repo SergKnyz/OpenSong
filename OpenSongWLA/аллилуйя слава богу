@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
-<hymn_number>5</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5</hymn_number>
 <aka>Царю царей Господу всех господ</aka>
+<title>Аллилуйя Слава Богу</title>
+<key>C</key>
+<tempo>70</tempo>
+<time_sig>4/4</time_sig>
 <lyrics>[V1]
  вступление
 .C B / 4раза
@@ -27,7 +30,4 @@
    Все дышащее да хвалит Господа!
 .       Gm          F          B
    Все дышащее да хвалит Господа!</lyrics>
-<key>C</key>
-<tempo>70</tempo>
-<title>Аллилуйя Слава Богу</title>
 </song>

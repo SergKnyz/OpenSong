@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Силён спасти</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>663</hymn_number>
+<title>Силён спасти</title>
+<key>G</key>
+<copyright>2006 Хиллсонг Публисхинг</copyright>
+<author>Реубен Морган, Бен Филдинг, Бен Фиелдинг, Реубен Морган</author>
 <lyrics>[V1]
 .C                     G                       Em
  Нужно всем состраданье, любовь, что бесконечна
@@ -38,8 +42,4 @@
    Яркий свет Твой, пусть видит вся земля, мы будем
 .  C               G                D   Em
    Петь во славу воскресшего Царя, Иисус.</lyrics>
-<copyright>2006 Хиллсонг Публисхинг</copyright>
-<key>G</key>
-<author>Реубен Морган, Бен Филдинг, Бен Фиелдинг, Реубен Морган</author>
-<hymn_number>663</hymn_number>
 </song>

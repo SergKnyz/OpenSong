@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Улетают года</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>Улетают года</title>
+<hymn_number>1405</hymn_number>
+<author>Набат</author>
 <lyrics>[V1]
  1 куплет:
 . F              C          F
@@ -60,7 +63,4 @@
    Благодарность прими, моё сердце Ты возьми,
 .           C      D7     Em
    Жизнь Тебе отдаю я сполна!</lyrics>
-<author>Набат</author>
-<key>F</key>
-<hymn_number>1405</hymn_number>
 </song>

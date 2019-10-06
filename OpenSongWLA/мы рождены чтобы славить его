@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мы рождены чтобы славить Его</title>
-<author>Supernatural Worship</author>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Am        G              C      D
  Отрывайся вместе с нами от земли.
 .Am          G            C    D
@@ -24,5 +21,8 @@
  Я получил любовь взамен за весь грех мой.
 .         F                       G
  И снова жаждет дух, чтоб вознести хвалу.</lyrics>
+<author>Supernatural Worship</author>
 <hymn_number>1514</hymn_number>
+<key>A</key>
+<title>Мы рождены чтобы славить Его</title>
 </song>

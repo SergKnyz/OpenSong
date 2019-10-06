@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ты достоин</aka>
-<hymn_number>3393</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bm</key>
 <title>Твоя любовь исцелила душу мою</title>
+<hymn_number>3393</hymn_number>
+<aka>Ты достоин</aka>
+<author>Новый Завет NTWorship</author>
 <lyrics>[V1]
  вступление:
 .Hm G D F#m
@@ -31,6 +33,4 @@
    Любовь, что бесконечна
 .   A
    Наполняет, наполняет нас!</lyrics>
-<key>Bm</key>
-<author>Новый Завет NTWorship</author>
 </song>

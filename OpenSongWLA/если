@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2079</hymn_number>
-<title>Если</title>
-<author>NDay</author>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G         C       G     C
  Если проблемы тебя окружили,
@@ -37,4 +33,8 @@
  Если не можешь смотреть в небеса,
  Если покинули тебя силы,
  Знай, выведет Божья рука.</lyrics>
+<author>NDay</author>
+<key>G</key>
+<title>Если</title>
+<hymn_number>2079</hymn_number>
 </song>

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Вифлеемская звезда</title>
+<key>F#</key>
+<hymn_number>2804</hymn_number>
+<aka>. Зимней ночью, когда снег летит с небес,</aka>
+<author>Открытое небо</author>
 <lyrics>[V1]
 .F#m----------------------E
  1. Зимней ночью, когда снег летит с небес,
@@ -56,7 +60,4 @@
  Этой яркою звездой освещает путь Бог твой!
 .----Am          D     G
  И любовь Его пребудет с тобой! Навсегда!</lyrics>
-<key>F#</key>
-<author>Открытое небо</author>
-<hymn_number>2804</hymn_number>
 </song>

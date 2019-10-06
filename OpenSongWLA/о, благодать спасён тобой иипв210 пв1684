@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О, благодать! Спасён Тобой ИИПВ210 ПВ1684</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>210</hymn_number>
+<title>О, благодать! Спасён Тобой ИИПВ210 ПВ1684</title>
+<key>G</key>
+<author>Йохн Неутон</author>
 <lyrics>[V1]
 . E A E
  О, благодать! Спасен Тобой
@@ -38,7 +41,4 @@
  Забудем смерти тень,
  А Богу также будем петь,
  Как в самый первый день.</lyrics>
-<author>Йохн Неутон</author>
-<key>G</key>
-<hymn_number>210</hymn_number>
 </song>

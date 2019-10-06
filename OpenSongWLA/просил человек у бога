@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>557</hymn_number>
-<author>Достичь небес</author>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Достичь небес</author>
 <lyrics>[V1]
  1 куплет:
 .  D#m       Bb   D#m   Bb D#m      Bb      D#m
@@ -35,5 +33,7 @@
  А счастье за ним помчалось и с ним навсегда осталось
  Добро и уют в его сердце живут. Готовит ему венец
  В доме Творец.</lyrics>
+<hymn_number>557</hymn_number>
+<key>Bb</key>
 <title>Просил человек у Бога</title>
 </song>

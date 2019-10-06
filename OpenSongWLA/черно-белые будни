@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1579</hymn_number>
+<key>F#</key>
+<title>Черно-белые будни</title>
+<author>NDay</author>
+<lyrics>[V1]
  1 куплет:
 .      F#m                  A
  Не досказаны фразы, не дописаны письма
@@ -26,8 +30,4 @@
  Кто-то ищет надежду, жаждет согреться
  Равнодушные скроет старых масок улыбки
  Но опять повторяем те же ошибки...</lyrics>
-<key>F#</key>
-<author>NDay</author>
-<title>Черно-белые будни</title>
-<hymn_number>1579</hymn_number>
 </song>

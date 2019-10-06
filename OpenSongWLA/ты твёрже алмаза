@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1743</hymn_number>
-<author>Песнь возрождения 2800</author>
-<key>B</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    Hm       Em      F#       Hm
  Ты тверже алмаза и крепче гранита,
@@ -36,5 +33,8 @@
  Бессильны спасенных сломить.
  С молитвой они одолеют угрозы,
  Бог силу им даст победить.</lyrics>
+<author>Песнь возрождения 2800</author>
+<key>B</key>
 <title>Ты твёрже алмаза</title>
+<hymn_number>1743</hymn_number>
 </song>

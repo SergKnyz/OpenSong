@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Боже видишь Ты страданье ПВ580</title>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Боже, видишь Ты страданье
  На земном моем пути,
  Устаю я от скитанья,
@@ -35,5 +33,7 @@
  Нет того, кто б мог понять.
  Ты как Друг мой неизменный,
  Ты один все можешь знать.</lyrics>
+<key>F</key>
+<title>Боже видишь Ты страданье ПВ580</title>
 <hymn_number>580</hymn_number>
 </song>

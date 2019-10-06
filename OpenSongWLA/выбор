@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Артём Янский</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    Em               Am
  Человек душа твоя пуста
@@ -40,6 +38,8 @@
  И судьба твоя в этом не виновна
  А сам Бог пребывает прямо здесь
  Говорит приди ко мне с любовью.</lyrics>
+<author>Артём Янский</author>
+<key>E</key>
 <title>Выбор</title>
 <hymn_number>274</hymn_number>
 </song>

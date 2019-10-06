@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус, наш великий Царь!</title>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . A             F#m
  Иисус, наш великий Царь!
 . D            E
@@ -19,4 +17,6 @@
    Ты, наш Господь, Ты-наш Иисус!
 .     Bm           E       A
    Боже царствуй во веки веков!</lyrics>
+<key>A</key>
+<title>Иисус, наш великий Царь!</title>
 </song>

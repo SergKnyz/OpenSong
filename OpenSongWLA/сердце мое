@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Siloam Church</author>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Сердце мое</title>
+<hymn_number>23</hymn_number>
 <lyrics>[V1]
  Куплет:
 .D                   C#/A      Hm
@@ -57,6 +58,5 @@
    Дай присутствием Твоим
 .        E   D#/H  C#m
    Мне подольше насладиться.</lyrics>
-<title>Сердце мое</title>
-<hymn_number>23</hymn_number>
+<author>Siloam Church</author>
 </song>

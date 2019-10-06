@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Ты моя скала</title>
+<key>G</key>
+<hymn_number>2597</hymn_number>
+<author>Hillsong Ukraine</author>
 <lyrics>[V1]
 .G         Cm6
  В тишине слышен голос, он душу пронзает
@@ -32,7 +35,4 @@
 [V4]
 .Am7  D
  Ууу__</lyrics>
-<key>G</key>
-<author>Hillsong Ukraine</author>
-<hymn_number>2597</hymn_number>
 </song>

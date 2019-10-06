@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Am</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Am               B
  Багато пісень на землі,
 .Dm                 E
@@ -24,6 +23,7 @@
  Я пісню про небо співаю,
  Співаю, бо хочу туди,
  Де близькі, де рідні чекають</lyrics>
+<key>Am</key>
 <title>Багато пісень на землі</title>
 <hymn_number>4011</hymn_number>
 </song>

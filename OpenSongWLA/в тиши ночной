@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4013</hymn_number>
-<author>Виталий Русавук</author>
-<key>F#</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .  A#m                         C#
  Благодарю, Господь, за тихий вечер,
@@ -36,5 +33,8 @@
  Уйдя от повседневной суеты,
  Я дорожу такой взаимной встречей,
  Я рада слушать то, что скажешь Ты.</lyrics>
+<author>Виталий Русавук</author>
+<hymn_number>4013</hymn_number>
+<key>F#</key>
 <title>В тиши ночной</title>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3320</hymn_number>
-<title>Наполни</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
  Куплет:
 .Am       D          Em         C
@@ -52,6 +51,7 @@
    Пою я всегда Иисус, Ты нужен мне.
 .  Em         C    G       D
    Пою я всегда Иисус, Ты нужен мне.</lyrics>
-<author>Hillsong Ukraine</author>
+<hymn_number>3320</hymn_number>
+<title>Наполни</title>
 <key>A</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3171</hymn_number>
-<aka>Боже дай мне Дух Святой</aka>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Боже, дай мне Дух Святой,
  сердца жажду утоли.
  Кровью Ты меня омой
@@ -37,4 +34,7 @@
  и не бросишь никогда
  - я принадлежу Тебе.</lyrics>
 <title>сердца жажду утоли. ПВ3171</title>
+<key>F</key>
+<aka>Боже дай мне Дух Святой</aka>
+<hymn_number>3171</hymn_number>
 </song>

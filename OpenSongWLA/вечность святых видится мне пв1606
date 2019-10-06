@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Дом мой небесный в родной стороне.</aka>
-<hymn_number>1606</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1606</hymn_number>
+<aka>Дом мой небесный в родной стороне.</aka>
+<key>E</key>
 <title>Вечность святых видится мне ПВ1606</title>
 <lyrics>[V1]
  Вечность святых видится мне,
@@ -24,5 +25,4 @@
  Боже мой, умоляю Тебя:
  Блудного сына к Себе Ты прими.
  Лаской Отцовской меня обними.</lyrics>
-<key>E</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<author>Авана</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Авана</author>
 <lyrics>[V1]
  1 куплет:
 .             Bb              Gm7          Cm         Cm/Bb
@@ -33,6 +32,7 @@
    Счастливых встреч, успешных дел, улыбок и надежды
 .               H          Abm         E  Gb     H
    И пусть все будет впереди прекраснее, чем прежде</lyrics>
-<title>Желаем счастья и любви</title>
 <hymn_number>99</hymn_number>
+<title>Желаем счастья и любви</title>
+<key>Bb</key>
 </song>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Берники</author>
-<key>G</key>
 <lyrics>[V1]
  1 куплет:
 .        G
@@ -36,5 +35,6 @@
  Вы не делайте кумира,
  Чтоб жил в сердце только Бог.</lyrics>
 <title>Розы</title>
+<key>G</key>
 <hymn_number>4699</hymn_number>
 </song>

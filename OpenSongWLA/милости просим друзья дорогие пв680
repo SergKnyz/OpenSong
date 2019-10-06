@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4765</hymn_number>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Милости просим, друзья дорогие!
  Настежь открыты пред вами сердца;
  Вы не чужие для нас, но родные:
@@ -35,5 +33,7 @@
  Бог ваш беседовал с вами не раз;
  Братья, споем мы торжественно, стройно:
  Тот же Господь и у вас и у нас.</lyrics>
+<hymn_number>4765</hymn_number>
 <title>Милости просим друзья дорогие ПВ680</title>
+<key>A</key>
 </song>

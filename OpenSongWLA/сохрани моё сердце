@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Сохрани моё сердце</title>
+<key>D</key>
+<hymn_number>1165</hymn_number>
+<author>Алексей Сергеев</author>
 <lyrics>[V1]
  1 куплет:
 .D                     A     E                       F#m   E
@@ -34,7 +37,4 @@
    Чистый источник воды живой
    Сохрани мое сердце в любви
    Твоей безусловной любви святой</lyrics>
-<key>D</key>
-<author>Алексей Сергеев</author>
-<hymn_number>1165</hymn_number>
 </song>

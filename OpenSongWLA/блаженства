@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>18</hymn_number>
+<aka>Блажен тот кто духом ослаб</aka>
+<title>Блаженства</title>
+<key>C#m</key>
+<tempo>74</tempo>
+<time_sig>4/4</time_sig>
+<author>JG Youth Worship</author>
+<lyrics>[V1]
  1 куплет:
 .   C#m
  Блажен тот, кто духом ослаб,
@@ -45,11 +52,4 @@
  Блажен тот, кто изгнан был,
 .  Hsus4                  A                  Hsus4 C#m
  Из рук Твоих Он получит венец, Он получит венец.</lyrics>
-<key>C#m</key>
-<author>JG Youth Worship</author>
-<tempo>74</tempo>
-<title>Блаженства</title>
-<time_sig>4/4</time_sig>
-<hymn_number>18</hymn_number>
-<aka>Блажен тот кто духом ослаб</aka>
 </song>

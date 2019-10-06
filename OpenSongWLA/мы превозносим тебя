@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Александр Соколов</author>
-<key>Bb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  Cm                   D#
  Милость Твоя выше небес
 .F                        Cm
@@ -16,5 +14,7 @@
  Выше небес и земли
 .                     Cm       G#
  Мы превозносим Тебя, о Господь</lyrics>
+<author>Александр Соколов</author>
 <title>Мы превозносим Тебя</title>
+<key>Bb</key>
 </song>

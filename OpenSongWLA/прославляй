@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>949</hymn_number>
-<title>Прославляй</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Прославляй</title>
+<key>C</key>
+<hymn_number>949</hymn_number>
+<author>Hillsong Ukraine</author>
 <lyrics>[V1]
  1 куплет:
 .  C  G          F      C  G       F
@@ -49,6 +51,4 @@
  Прославляй!
 .        C G  Am F
  Прославляй!__</lyrics>
-<key>C</key>
-<author>Hillsong Ukraine</author>
 </song>

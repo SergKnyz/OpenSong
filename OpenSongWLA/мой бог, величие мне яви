@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1676</hymn_number>
-<aka>Знать хочу больше, Тебя!</aka>
-<author>Исход Краснодар, Alaniaworshipband</author>
-<key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Исход Краснодар, Alaniaworshipband</author>
 <lyrics>[V1]
  1 куплет:
 .F#m          D         A  E/G#
@@ -41,5 +38,8 @@
    Целитель наш - мы зовем Тебя!
 .  F#m        D           A      E
    Спаситель наш - мы зовем Тебя!</lyrics>
+<hymn_number>1676</hymn_number>
+<aka>Знать хочу больше, Тебя!</aka>
+<key>F#</key>
 <title>Мой Бог, величие мне яви</title>
 </song>

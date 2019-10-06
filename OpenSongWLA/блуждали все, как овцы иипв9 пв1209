@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1209</hymn_number>
-<time_sig>4/4</time_sig>
-<title>Блуждали все, как овцы ИИПВ9 ПВ1209</title>
-<tempo>70</tempo>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  G               D
  Блуждали все, как овцы мы,
 . Em              Bm
@@ -35,5 +31,9 @@
  Через Сына к Себе,
  Омой кровью Его,
  Дай пасть пред Тобой.</lyrics>
+<hymn_number>1209</hymn_number>
+<time_sig>4/4</time_sig>
+<tempo>70</tempo>
 <key>G</key>
+<title>Блуждали все, как овцы ИИПВ9 ПВ1209</title>
 </song>

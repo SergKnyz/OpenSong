@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Чудно как сиянье солнца ПВ3273</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Чудно, как сиянье солнца,
  светит нам вечерний свет,
  на земле везде и всюду
@@ -42,4 +40,6 @@
  Вывел нас из заблуждений
  в милосердии Своём.</lyrics>
 <hymn_number>3273</hymn_number>
+<key>G</key>
+<title>Чудно как сиянье солнца ПВ3273</title>
 </song>

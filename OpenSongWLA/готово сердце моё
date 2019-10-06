@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Готово сердце моё</title>
-<author>JC Movement</author>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Готово сердце моё</title>
+<hymn_number>3510</hymn_number>
 <lyrics>[C1]
    Припев:
 .  Hm              G
@@ -37,5 +37,5 @@
    Будь превознесен выше небес, Боже.
 .  A
    Готово сердце мое славить Тебя.</lyrics>
-<hymn_number>3510</hymn_number>
+<author>JC Movement</author>
 </song>

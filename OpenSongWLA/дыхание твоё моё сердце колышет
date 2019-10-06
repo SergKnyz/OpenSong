@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Рома Иванько</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .  Em              D
  Дыхание Твоё моё сердце колышет
@@ -39,7 +37,9 @@
  Там Господь - мой Храм. И жизни нет конца.
  Там обитель моя с видом на Творца
  Там обитель моя с видом на Творца</lyrics>
+<author>Рома Иванько</author>
 <title>Дыхание Твоё моё сердце колышет</title>
-<hymn_number>840</hymn_number>
+<key>E</key>
 <aka>Ближе</aka>
+<hymn_number>840</hymn_number>
 </song>

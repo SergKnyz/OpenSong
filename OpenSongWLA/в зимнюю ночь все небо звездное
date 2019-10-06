@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
-<key>Cm</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   D#                  Cm
  Мария сердцем чистим простиралась ввысь:
@@ -61,7 +59,9 @@
 
 [V4]
  В зимнюю ночь Рождества - 2р.</lyrics>
-<title>В зимнюю ночь все небо звездное</title>
-<hymn_number>1365</hymn_number>
+<author>Неизвестный</author>
 <aka>Мария сердцем чистим простиралась ввысь:</aka>
+<hymn_number>1365</hymn_number>
+<title>В зимнюю ночь все небо звездное</title>
+<key>Cm</key>
 </song>

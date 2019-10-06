@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
+<lyrics>[V1]
  1 куплет:
 .Em
  Красным диском обрушилось солнце в закат,
@@ -40,8 +41,7 @@
  Бог, прости, не ищу оправдательных слов,
 .D
  Я хочу быть с Тобой, я от жизни устал!</lyrics>
-<author>Виталий Ефремочкин</author>
-<key>E</key>
-<title>Покаяние</title>
 <hymn_number>141</hymn_number>
+<title>Покаяние</title>
+<key>E</key>
 </song>

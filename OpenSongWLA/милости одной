@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1312</hymn_number>
-<author>Sizi</author>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Sizi</author>
 <lyrics>[V1]
 .Em                 H7
  Господи! Избавь от зависти
@@ -26,5 +24,7 @@
  Господи! Молю о милости
 . C    H7   Em
  Милости одной</lyrics>
+<hymn_number>1312</hymn_number>
 <title>Милости одной</title>
+<key>E</key>
 </song>

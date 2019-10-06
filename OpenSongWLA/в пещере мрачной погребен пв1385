@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В пещере мрачной погребен ПВ1385</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>В пещере мрачной погребен ПВ1385</title>
+<hymn_number>1385</hymn_number>
 <lyrics>[V1]
  В пещере мрачной погребен,
  Спаситель наш лежал.
@@ -37,6 +39,4 @@
  Аллилуйя, Аминь!
  Славен наш воскресший Бог.
  Аминь.</lyrics>
-<key>F</key>
-<hymn_number>1385</hymn_number>
 </song>

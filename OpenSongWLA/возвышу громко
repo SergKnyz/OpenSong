@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4995</hymn_number>
-<title>Возвышу громко</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  1 куплет:
 .E
@@ -34,6 +33,7 @@
 [V2]
 .   A             C#m H
  Я петь буду вечно</lyrics>
-<author>Виталий Ефремочкин</author>
 <key>E</key>
+<title>Возвышу громко</title>
+<hymn_number>4995</hymn_number>
 </song>

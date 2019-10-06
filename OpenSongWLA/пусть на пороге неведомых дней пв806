@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2781</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Пусть на пороге неведомых дней
  Сердце не дрогнет твое,
  Пусть если даже и будет темней, -
@@ -16,6 +15,7 @@
  Силу черпает душа,
  Силу, которую дал нам ручей,
  Тот, что течет со креста.</lyrics>
-<key>G</key>
 <title>Пусть на пороге неведомых дней ПВ806</title>
+<key>G</key>
+<hymn_number>2781</hymn_number>
 </song>

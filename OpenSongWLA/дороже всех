@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Дороже всех</title>
-<key>E</key>
-<author>Holy Generation</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em       D      C     D/F# G
  Дороже всех желаний моих,
 .Em       D      C  D/F# G
@@ -30,5 +27,8 @@
  Во всем Тебе доверяю,
 .     G
  Во всем на Тебя уповаю.</lyrics>
+<author>Holy Generation</author>
+<title>Дороже всех</title>
+<key>E</key>
 <hymn_number>367</hymn_number>
 </song>

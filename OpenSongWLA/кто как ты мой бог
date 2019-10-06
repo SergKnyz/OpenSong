@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Кто как Ты мой Бог</title>
-<author>Неизвестный</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1203</hymn_number>
+<title>Кто как Ты мой Бог</title>
 <key>F</key>
+<author>Неизвестный</author>
 <lyrics>[V1]
 .F       C/E    Bb/D F/C
  Кто как Ты, мой Бог?
@@ -64,5 +65,4 @@
  Могу искать я вечно и не найти, Господь,
 .G/D    D        G
  Нет таких, как Ты!</lyrics>
-<hymn_number>1203</hymn_number>
 </song>

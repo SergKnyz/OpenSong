@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Научи меня Боже мудрости</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>172</hymn_number>
+<title>Научи меня Боже мудрости</title>
+<key>E</key>
+<author>Дарина Кочанжи</author>
 <lyrics>[V1]
  1 куплет:
 .         Em                      Hm          C               E
@@ -27,7 +30,4 @@
  Чтоб всегда в непрестанной радости воспевать Твои Божьи милости.
  И служить Тебе не из корысти, не из выгоды и не из зависти,
  Но по доброму зову совести, ради Истины, рады благости.</lyrics>
-<author>Дарина Кочанжи</author>
-<key>E</key>
-<hymn_number>172</hymn_number>
 </song>

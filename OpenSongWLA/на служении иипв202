@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>На служении ИИПВ202</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D.     F#m              G
  На служении пусть Твой дух
 .             A  A7
@@ -27,5 +25,7 @@
    Любовь Твою, наш верный Бог.
 .  Em.        A        D
    Ты верный наш Господь.</lyrics>
+<key>D</key>
+<title>На служении ИИПВ202</title>
 <hymn_number>202</hymn_number>
 </song>

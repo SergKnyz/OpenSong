@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2956</hymn_number>
-<title>Я падаю</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я падаю</title>
+<key>C</key>
+<hymn_number>2956</hymn_number>
+<author>Simon Khorolskiy, Дарина Кочанжи</author>
 <lyrics>[V1]
  1 куплет:
 .C                 Em
@@ -67,6 +69,4 @@
    Все отпускаю мечты, пусть будет как хочешь Ты,
 .  H              F#/A#
    Я просто падаю в руки Твои.</lyrics>
-<key>C</key>
-<author>Simon Khorolskiy, Дарина Кочанжи</author>
 </song>

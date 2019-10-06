@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4174</hymn_number>
 <title>Мы любим, Бог, Тебя</title>
+<key>E</key>
 <lyrics>[V1]
  Куплет:
 .      E F#m      C#m    A
@@ -33,6 +34,5 @@
  Когда мы зовем, Господь, Тебя
 .     C#m         A
  Ты слышишь наши голоса</lyrics>
-<key>E</key>
 <author>Слово Жизни Москва</author>
 </song>

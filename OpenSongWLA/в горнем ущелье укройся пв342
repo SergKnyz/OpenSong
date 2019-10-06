@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В горнем ущелье укройся ПВ342</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>342</hymn_number>
+<aka>Ты, изнуренный трудом.</aka>
 <key>D</key>
+<title>В горнем ущелье укройся ПВ342</title>
 <lyrics>[V1]
  В горнем ущелье укройся,
  Ты, изнуренный трудом.
@@ -21,6 +23,4 @@
  Плач прекратит и стенанья,
  Все слезы с очей Сам отрет.
  Все слезы с очей Сам отрет.</lyrics>
-<aka>Ты, изнуренный трудом.</aka>
-<hymn_number>342</hymn_number>
 </song>

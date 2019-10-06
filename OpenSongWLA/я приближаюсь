@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Просто сосуды</author>
-<key>D</key>
 <lyrics>[V1]
 .Dm      C        Bb C Dm          C        Bb C
  Твоё желанье Господь построить скинию с небес
@@ -27,6 +26,7 @@
    Мост:
 .  Gm C Dm Bb Csus4  C
    Изнемогаю от люб__ви,Тебе все слова мои,я на веки твоя</lyrics>
-<title>Я приближаюсь</title>
 <hymn_number>265</hymn_number>
+<title>Я приближаюсь</title>
+<key>D</key>
 </song>

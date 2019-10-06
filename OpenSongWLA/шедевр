@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Шедевр</title>
-<author>Слово Жизни Music</author>
-<key>B</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .H    C#m     G#m       E
  Сотворил небо Ты землю и моря, сады
@@ -51,5 +48,8 @@
    И трепещут силы тьмы Твои дети знают кто они
 .  C#m         E              H            F#
    В наши руки дал всю власть в Твоей силе будем наступать</lyrics>
+<author>Слово Жизни Music</author>
+<title>Шедевр</title>
+<key>B</key>
 <hymn_number>6232</hymn_number>
 </song>

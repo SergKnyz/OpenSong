@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4665</hymn_number>
-<title>Дотянусь</title>
-<key>Dm</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .    Dm                         Bb
  Коснись прошу Тебя коснись меня
 .         A                      Dm
@@ -28,4 +25,7 @@
  Будь благ и мне в любви яви Себя .
  Ты всё, что нужно мне сейчас,
  Я хочу дышать Тобой.</lyrics>
+<hymn_number>4665</hymn_number>
+<title>Дотянусь</title>
+<key>Dm</key>
 </song>

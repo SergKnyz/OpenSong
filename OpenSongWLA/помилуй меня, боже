@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4137</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Помилуй меня, Боже!</title>
 <key>A</key>
-<author>Сергей Перекрёстов</author>
+<hymn_number>4137</hymn_number>
 <lyrics>[V1]
  Am /H         C     Am /H     C
  Помилуй меня, Боже! Помилуй меня!
@@ -45,5 +45,5 @@
  Готово мое сердце, Боже!
 .       C       E7
  Буду петь и славить Тебя!</lyrics>
-<title>Помилуй меня, Боже!</title>
+<author>Сергей Перекрёстов</author>
 </song>

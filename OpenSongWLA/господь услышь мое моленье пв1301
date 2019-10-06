@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1301</hymn_number>
-<key>Bb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Господь, услышь мое моленье!
  К Тебе, к Тебе мой дух зовет,
  Прими мой плач и сокрушенье,
@@ -35,5 +33,7 @@
  В законе истины сильней.
  Мой Бог, моих путей Правитель,
  Внемли словам души моей!</lyrics>
+<hymn_number>1301</hymn_number>
 <title>Господь услышь мое моленье ПВ1301</title>
+<key>Bb</key>
 </song>

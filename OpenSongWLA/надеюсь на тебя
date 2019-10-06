@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Надеюсь на Тебя</title>
-<author>Алекс и Лена Исаевы</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>593</hymn_number>
+<title>Надеюсь на Тебя</title>
 <key>F</key>
+<author>Алекс и Лена Исаевы</author>
 <lyrics>[V1]
  1 куплет:
 .Fm     C#     D#       Bb
@@ -46,5 +47,4 @@
    Оставь грех, ведь за тебя
 .              G#/C       D#
    Там кровь лилась за тебя</lyrics>
-<hymn_number>593</hymn_number>
 </song>

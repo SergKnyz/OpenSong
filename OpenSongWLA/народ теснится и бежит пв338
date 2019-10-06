@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Народ теснится и бежит ПВ338</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Народ теснится и бежит ПВ338</title>
+<hymn_number>338</hymn_number>
 <lyrics>[V1]
  Народ теснится и бежит,
  Куда-то стар и млад спешит.
@@ -46,6 +48,4 @@
  И с ужасом потом узнать:
  &quot;Господь был близко и ушел, -
  Иисус Назорей прошел!&quot;</lyrics>
-<key>G</key>
-<hymn_number>338</hymn_number>
 </song>

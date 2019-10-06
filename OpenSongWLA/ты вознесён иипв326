@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5404</hymn_number>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  F                   F/A
  Ты вознесён, Царь царей,
 .              Bb        Bb/C  C/E
@@ -19,5 +17,7 @@
  Ты вознесён, Царь царей,
 .    Gm/C       F
  Вознесён на трон.</lyrics>
+<hymn_number>5404</hymn_number>
 <title>Ты вознесён ИИПВ326</title>
+<key>F</key>
 </song>

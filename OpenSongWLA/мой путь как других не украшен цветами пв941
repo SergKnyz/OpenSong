@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>941</hymn_number>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Мой путь, как других, не украшен цветами,
  Душистые розы на нем не растут.
  Мой путь весь усыпан одними шипами,
@@ -29,5 +27,7 @@
  &quot;Усталый, измученный путник земли,
  Награда святая тебя ожидает,
  В небесную славу скорей ты войди&quot;.</lyrics>
+<hymn_number>941</hymn_number>
 <title>Мой путь как других не украшен цветами ПВ941</title>
+<key>A</key>
 </song>

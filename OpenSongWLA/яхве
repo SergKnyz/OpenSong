@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>595</hymn_number>
-<title>Яхве</title>
-<author>Елеватион Уорсхип</author>
-<key>B</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .           E        F# G#m
  Наш Бог живет вовеки
 .             E          H C#m7
@@ -49,4 +45,8 @@
    Стремимся к Тебе, Яхве
 .      G#m             E F#
    Надежда в Тебе, Яхве</lyrics>
+<author>Елеватион Уорсхип</author>
+<title>Яхве</title>
+<key>B</key>
+<hymn_number>595</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3091</hymn_number>
-<title>Излей от Духа</title>
-<author>Reallife band</author>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Reallife band</author>
 <lyrics>[V1]
  Куплет:
 .Fm         Ab
@@ -41,4 +38,7 @@
  Мы жаждем Тебя, жаждем Тебя,
 . Fm      Cm
  Жаждем Тебя, Дух Святой!</lyrics>
+<key>F</key>
+<title>Излей от Духа</title>
+<hymn_number>3091</hymn_number>
 </song>

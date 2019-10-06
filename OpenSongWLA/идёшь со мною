@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Идёшь со мною</title>
-<author>Просто сосуды</author>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Просто сосуды</author>
 <lyrics>[V1]
  1 куплет:
 .Hm             D     G            A
@@ -37,5 +35,7 @@
 
 [B1]
    Концовка:</lyrics>
+<title>Идёшь со мною</title>
+<key>B</key>
 <hymn_number>432</hymn_number>
 </song>

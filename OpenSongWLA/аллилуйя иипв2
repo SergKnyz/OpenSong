@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя ИИПВ2</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D         G         A
  Аллилуйя, Аллилуйя, Аллилуйя
 .D                   G
@@ -21,5 +20,6 @@
 .D G  A7 D
  Аллилуйя!</lyrics>
 <key>D</key>
+<title>Аллилуйя ИИПВ2</title>
 <hymn_number>2</hymn_number>
 </song>

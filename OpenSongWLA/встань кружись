@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>NG Worship</author>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .Am          F         C                  G
  Вот Ты грядёшь по холмам, по горным вершинам.
@@ -29,6 +27,8 @@
    Руки к небу вознесем
 .        G  F          C
    С хвалой Тебе, мой Бог</lyrics>
+<author>NG Worship</author>
+<key>A</key>
 <title>Встань кружись</title>
 <hymn_number>69</hymn_number>
 </song>

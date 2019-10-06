@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Кто-то стучит, кто-то стучит,</aka>
-<hymn_number>811</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <title>В двери закрытые поздней порой ПВ811</title>
+<hymn_number>811</hymn_number>
+<aka>Кто-то стучит, кто-то стучит,</aka>
 <lyrics>[V1]
  В двери закрытые поздней порой
  Кто-то стучит, кто-то стучит,
@@ -30,5 +31,4 @@
  Кто-то стучит, кто-то стучит!
  Грешник, покайся и сердце открой!
  Кто-то стучит, стучит!</lyrics>
-<key>E</key>
 </song>

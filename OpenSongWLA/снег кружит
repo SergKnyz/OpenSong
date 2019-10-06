@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1464</hymn_number>
-<title>Снег кружит</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .        E          H      E
  Может за окном мороз и вьюга
@@ -44,6 +42,8 @@
  И пусть кружит, снег кружит!
  И пусть кружит, снег кружит!
  И пусть кружит, снег кружит!</lyrics>
-<key>E</key>
 <author>Роман Касевич</author>
+<hymn_number>1464</hymn_number>
+<key>E</key>
+<title>Снег кружит</title>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>552</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вперед дружнее, братья!
  Пойдем туда вперед,
  Где будет славить Бога
@@ -34,6 +33,7 @@
  И мы торжествовать.
  Зачем же в мире плакать?
  Зачем нам унывать?</lyrics>
-<key>G</key>
 <title>Вперед дружнее братья ПВ552</title>
+<key>G</key>
+<hymn_number>552</hymn_number>
 </song>

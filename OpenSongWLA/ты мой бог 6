@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>174</hymn_number>
-<key>D</key>
-<author>Божье прикосновение</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Ты мой Бог</title>
+<hymn_number>174</hymn_number>
 <lyrics>[V1]
  1 куплет:
 . Dm             Gm       A     Dm
@@ -32,5 +32,5 @@
  &quot;Во всём будь совершенным, человек,
  Как совершенный наш Отец Небесный.
  Надейся, верь, люби и будешь жить вовек&quot;</lyrics>
-<title>Ты мой Бог</title>
+<author>Божье прикосновение</author>
 </song>

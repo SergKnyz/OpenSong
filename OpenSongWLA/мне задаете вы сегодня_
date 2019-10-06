@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Вечный вопрос</aka>
-<hymn_number>569</hymn_number>
-<title>Мне задаете вы сегодня:</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вечный вопрос
  Мне задаете вы сегодня:
  Ты и небо.
@@ -33,4 +30,7 @@
  Ты и небо.
  Ты и небо.
  Что остается навсегда!</lyrics>
+<hymn_number>569</hymn_number>
+<aka>Вечный вопрос</aka>
+<title>Мне задаете вы сегодня:</title>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3206</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Слушай: стоны за морями
  раздаются там и тут
  - то язычники веками
@@ -44,6 +43,7 @@
  В жертву дал Иисус Себя,
  так и ты иди в край дальний,
  чтоб трудиться для Христа.</lyrics>
-<key>F</key>
 <title>Слушай стоны за морями ПВ3206</title>
+<key>F</key>
+<hymn_number>3206</hymn_number>
 </song>

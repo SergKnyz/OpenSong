@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>478</hymn_number>
-<title>Вот Иисус зовет детей ПВ478</title>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
+<hymn_number>478</hymn_number>
 <lyrics>[V1]
  Вот Иисус зовет детей,
  Он сегодня нас зовет;
@@ -24,4 +23,5 @@
  Дайте Богу утро дней.
  Вот Иисус зовет опять:
  Поспешите зов принять.</lyrics>
+<title>Вот Иисус зовет детей ПВ478</title>
 </song>

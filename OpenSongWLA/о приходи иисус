@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Русавуки</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1039</hymn_number>
+<key>E</key>
+<author>Русавуки</author>
+<title>О приходи Иисус</title>
 <lyrics>[V1]
  Куплет 1:
 .Em                   Am
@@ -34,7 +37,4 @@
  Когда с Тобою мне уйти,
  И взявшись за руки, вдвоем
  Путь к вечной жизни мы пройдем.</lyrics>
-<hymn_number>1039</hymn_number>
-<title>О приходи Иисус</title>
-<key>E</key>
 </song>

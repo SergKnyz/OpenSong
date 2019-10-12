@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2575</hymn_number>
-<title>По Твоим следам Спаситель ПВ2575</title>
-<key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>По Твоим следам Спаситель ПВ2575</title>
 <lyrics>[V1]
  По Твоим следам, Спаситель,
  Шествовать всегда, везде
@@ -35,4 +33,6 @@
  Было свято пред Тобой;
  Чтоб, как Ты, душою смелой
  Нес я подвиг трудовой...</lyrics>
+<hymn_number>2575</hymn_number>
+<key>F#</key>
 </song>

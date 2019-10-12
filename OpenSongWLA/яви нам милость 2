@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Яви нам милость</title>
-<key>A</key>
-<hymn_number>990</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am                    G   Dm           Am
@@ -34,5 +32,7 @@
    Ты Бог, что пред Тобою человек?
 .      Bb                           E
    Но милость свою Ты превознес превыше небес</lyrics>
+<hymn_number>990</hymn_number>
 <author>Виталий Ефремочкин</author>
+<key>A</key>
 </song>

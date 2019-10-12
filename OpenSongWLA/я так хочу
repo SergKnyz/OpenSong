@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Я так хочу</title>
-<key>D</key>
-<hymn_number>494</hymn_number>
-<author>Slavic New Beginnings Church, Йаред Андерсон</author>
 <lyrics>[V1]
  1 куплет:
 .D         G   A/C#      D
@@ -45,4 +42,7 @@
    Он был и есть и будет в век,
 .             Hm            G                D A
    Ты Царь царей, Ты был и есть и будешь в век.</lyrics>
+<hymn_number>494</hymn_number>
+<author>Slavic New Beginnings Church, Йаред Андерсон</author>
+<key>D</key>
 </song>

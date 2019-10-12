@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1215</hymn_number>
-<aka>Видеть свет Его очей,</aka>
-<title>Быть лицом к лицу с Иисусом ПВ1215</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Быть лицом к лицу с Иисусом ПВ1215</title>
 <lyrics>[V1]
  Быть лицом к лицу с Иисусом,
  Видеть свет Его очей,
@@ -29,4 +27,6 @@
  А теперь так чудно знать.
  Что ведет нас к совершенству Тот,
  Кто дал нам благодать!</lyrics>
+<aka>Видеть свет Его очей</aka>
+<hymn_number>1215</hymn_number>
 </song>

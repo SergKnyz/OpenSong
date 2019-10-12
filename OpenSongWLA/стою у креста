@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5579</hymn_number>
-<key>E</key>
-<title>Стою у креста</title>
-<author>Божье прикосновение</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Стою у креста</title>
 <lyrics>[V1]
  1 куплет:
 .Em                C
@@ -56,4 +53,7 @@
    Не стоит тех страданий жизнь моя, как умирал Спаситель за меня,
 .    Cm  D      Gm
    Мой друг и за тебя.</lyrics>
+<hymn_number>5579</hymn_number>
+<author>Божье прикосновение</author>
+<key>E</key>
 </song>

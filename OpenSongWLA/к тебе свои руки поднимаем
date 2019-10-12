@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Марина</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>872</hymn_number>
+<author>Ольга Марина</author>
+<key>G</key>
+<title>К Тебе свои руки поднимаем</title>
 <lyrics>[V1]
  1 куплет:
 .    G
@@ -42,7 +45,4 @@
    Ты так благ ко мне, Господь
 .           G
    Ты так благ ко мне, Господь</lyrics>
-<title>К Тебе свои руки поднимаем</title>
-<key>G</key>
-<hymn_number>872</hymn_number>
 </song>

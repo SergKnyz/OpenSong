@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1042</hymn_number>
-<title>То единственный был на земле ПВ1042</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>1042</hymn_number>
 <lyrics>[V1]
  То единственный был на земле
  Страшный день изо всех мира дней.
@@ -30,4 +29,5 @@
  - Отче, дух Мой Тебе предаю!&quot;
  И завеса порвалась, чтоб всем
  Открыть доступ в небесную дверь.</lyrics>
+<title>То единственный был на земле ПВ1042</title>
 </song>

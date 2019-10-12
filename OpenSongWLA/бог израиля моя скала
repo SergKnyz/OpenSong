@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Захаренко</author>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог Израиля - моя защита</aka>
+<hymn_number>2780</hymn_number>
+<key>A</key>
+<author>Алексей Захаренко</author>
+<title>Бог Израиля моя скала</title>
 <lyrics>[V1]
 .Am     D  F     G   Am
  Бог Израиля - моя скала
@@ -28,8 +32,4 @@
  Буду славить я всем сердцем
  Am    D        С               G      Am
  И Тебя Господь превозносить</lyrics>
-<hymn_number>2780</hymn_number>
-<aka>Бог Израиля - моя защита</aka>
-<title>Бог Израиля моя скала</title>
-<key>A</key>
 </song>

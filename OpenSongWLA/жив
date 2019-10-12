@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Жив</title>
-<hymn_number>1014</hymn_number>
-<author>Hillsong Ukraine</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .     C             D
  С надеждой мы в начале дня
@@ -52,4 +48,8 @@
    Навечно, навечно в любви, Бог, Твоей я
 .  C      D       Hm      Em
    Навечно, навечно всё это мы знаем</lyrics>
+<title>Жив</title>
+<key>C</key>
+<author>Hillsong Ukraine</author>
+<hymn_number>1014</hymn_number>
 </song>

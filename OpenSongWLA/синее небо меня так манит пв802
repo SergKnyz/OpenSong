@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>802</hymn_number>
-<title>Синее небо меня так манит ПВ802</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<hymn_number>802</hymn_number>
 <lyrics>[V1]
  Синее небо меня так манит,
  Знаю, что там мой Спаситель Христос.
@@ -30,4 +29,5 @@
  Чтобы, скитаясь на этой земле,
  Я всегда помнил: там мой Спаситель,
  Он меня примет скоро к Себе.</lyrics>
+<title>Синее небо меня так манит ПВ802</title>
 </song>

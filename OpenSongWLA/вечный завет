@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5390</hymn_number>
-<aka>Душа моя долго так</aka>
-<title>Вечный завет</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Душа моя долго так</aka>
+<hymn_number>5390</hymn_number>
 <lyrics>[V1]
  Душа моя долго так
  Пребывала во тьме и не знала Тебя,
@@ -41,4 +40,5 @@
    Даёшь познать всю славу Божьей любви
    Я только Твой, к Тебе преград больше нет.
    Ты заключил со мною вечный завет.</lyrics>
+<title>Вечный завет</title>
 </song>

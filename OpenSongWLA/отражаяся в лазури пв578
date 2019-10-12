@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Отражаяся в лазури ПВ578</title>
-<key>D</key>
-<hymn_number>578</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Отражаяся в лазури,
  По волнам ладья скользит;
  Тихо все, не слышно бури,
@@ -40,4 +37,7 @@
  Вера чистая сердец;
  Он для гибнущих из стада -
  Верный Пастырь и Отец.</lyrics>
+<title>Отражаяся в лазури ПВ578</title>
+<key>D</key>
+<hymn_number>578</hymn_number>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Для тебя эту песню пою ПВ892</title>
-<key>D</key>
-<hymn_number>4261</hymn_number>
 <lyrics>[V1]
  Для тебя эту песню пою,
  Для тебя, мой хороший, родной,
@@ -24,4 +22,6 @@
  Этот призыв звучит для тебя:
  Выбирай, милый друг, выбирай
  - Есть две вечности: ад или рай.</lyrics>
+<hymn_number>4261</hymn_number>
+<key>D</key>
 </song>

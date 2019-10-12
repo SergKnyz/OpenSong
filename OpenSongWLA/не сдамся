@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Не сдамся</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3033</hymn_number>
+<author>Аргам Хачатрян</author>
 <key>C#m</key>
-<hymn_number>3033</hymn_number>
+<title>Не сдамся</title>
 <lyrics>[V1]
  1 Куплет:
 .C#m          H
@@ -51,5 +52,4 @@
    Я сам выбираю свой итог
 .  F#m         G#m        C#m E A
    Я сам выбираю свой итог</lyrics>
-<author>Аргам Хачатрян</author>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Творец красоты</title>
-<key>D</key>
-<hymn_number>381</hymn_number>
-<author>Слово Жизни Music</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D                F#m  D           F#m
  Создатель всей земли, Творец красоты,
 .D              F#m
@@ -19,4 +15,8 @@
  Жизнь мою искупил,
 .          F#m             G         D F#m
  Ты знал меня прежде чем создал, Иисус.</lyrics>
+<title>Творец красоты</title>
+<key>D</key>
+<author>Слово Жизни Music</author>
+<hymn_number>381</hymn_number>
 </song>

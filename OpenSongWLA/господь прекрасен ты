@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2721</hymn_number>
-<copyright>1980 Бирдуинг Мусиц</copyright>
-<title>Господь прекрасен Ты</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .       C              F G
  Господь, прекрасен Ты,
 .    C        F G
@@ -11,5 +7,9 @@
  //  Когда Ты смотришь на меня,
 .           F   G            F  C G
  Благодать Твоя со мной.  //  2р.</lyrics>
+<copyright>1980 Бирдуинг Мусиц</copyright>
+<title>Господь прекрасен Ты</title>
+<key>C</key>
 <author>Кеитх Греен</author>
+<hymn_number>2721</hymn_number>
 </song>

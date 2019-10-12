@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Нам жизнь дана чтобы любить ПВ266</title>
-<key>D</key>
-<hymn_number>266</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Нам жизнь дана, чтобы любить,
  Любить без меры, без предела,
  И всем страдальцам посвятить
@@ -24,4 +21,7 @@
  Любить без меры, без предела,
  И всем страдальцам посвятить
  Свой разум, кровь свою и тело.</lyrics>
+<title>Нам жизнь дана чтобы любить ПВ266</title>
+<key>D</key>
+<hymn_number>266</hymn_number>
 </song>

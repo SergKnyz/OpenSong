@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>65</hymn_number>
-<key>D</key>
-<title>Глаза подняв ИИПВ65</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  D        A         G      A   D
  Глаза подняв, посмотри на Господа.
 .            A         G  A    D
@@ -12,4 +9,7 @@
  Люблю Тебя, о, мой Господь.
 .G ABmG    Em.  A   D
  Аллилуйя! Хвала Тебе.</lyrics>
+<title>Глаза подняв ИИПВ65</title>
+<key>D</key>
+<hymn_number>65</hymn_number>
 </song>

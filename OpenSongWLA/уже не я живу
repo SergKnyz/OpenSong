@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2115</hymn_number>
+<key>E</key>
+<author>Imprintband</author>
+<title>Уже не я живу</title>
+<lyrics>[V1]
  1 куплет:
 .Em                 G               A
  В моём сердце был лёд - теперь течёт вода.
@@ -40,8 +44,4 @@
  Уже не я живу, уже не я живу,
 .Em                 G                A
  У же не я живу, живёт Господь во мне.</lyrics>
-<author>Imprintband</author>
-<key>E</key>
-<title>Уже не я живу</title>
-<hymn_number>2115</hymn_number>
 </song>

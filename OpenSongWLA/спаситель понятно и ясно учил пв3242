@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3242</hymn_number>
-<title>Спаситель понятно и ясно учил ПВ3242</title>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Спаситель понятно и ясно учил ПВ3242</title>
 <lyrics>[V1]
  Спаситель понятно и ясно учил:
  кто хочет познать любовь,
@@ -34,4 +32,6 @@
  но Бог нам явил любовь:
  мы верой оправданы ныне в Христе
  - вы должны родиться вновь.</lyrics>
+<hymn_number>3242</hymn_number>
+<key>Ab</key>
 </song>

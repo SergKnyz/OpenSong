@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3743</hymn_number>
-<title>Ну вот и наступил тот славный час</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .C           C9          Am7
  Ну вот и наступил тот славный час
@@ -47,5 +44,8 @@
  Не забывайте вы на Господа взирать
 .Dm7                   G6
  И чтоб любовь вовеки в вас не гасла</lyrics>
+<title>Ну вот и наступил тот славный час</title>
 <author>Иван Деченко</author>
+<key>C</key>
+<hymn_number>3743</hymn_number>
 </song>

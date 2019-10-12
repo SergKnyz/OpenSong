@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Новое Поколение Мелитополь</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<author>Новое Поколение Мелитополь</author>
+<hymn_number>1481</hymn_number>
 <lyrics>[V1]
 .Hm             G                D          A
  В чем суть любви всей, вот вопрос, что задаю себе
@@ -69,7 +71,5 @@
 [V10]
  Я рожден любить Тебя
  Я рожден любить Тебя</lyrics>
-<hymn_number>1481</hymn_number>
 <title>Открыв объятья</title>
-<key>B</key>
 </song>

@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Господь превыше всех</title>
-<key>D</key>
-<copyright>1977 Пете Санцхез, Йр.</copyright>
-<aka>Превозносим</aka>
-<author>Пете Санцхез Йр., Пете Санцхез, Йр.</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D        Em      A
  Господь превыше всех
 .D       Bm
@@ -20,4 +15,9 @@
     Превозносим
 .  D          (Em A7)
     О, Господь!___</lyrics>
+<title>Господь превыше всех</title>
+<copyright>1977 Пете Санцхез, Йр.</copyright>
+<author>Пете Санцхез Йр., Пете Санцхез, Йр.</author>
+<key>D</key>
+<aka>Превозносим</aka>
 </song>

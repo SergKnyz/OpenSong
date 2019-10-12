@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мечта</title>
-<key>E</key>
-<hymn_number>919</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <author>Набат</author>
+<hymn_number>919</hymn_number>
 <lyrics>[V1]
  1 куплет:
 . E              F#          H            Em
@@ -47,4 +46,5 @@
    В небе встреча будет с Ним, со Спасителем Моим.
 .   F#m                    H  Hm     C#m      F#m
    В небе встреча будет с Ним, со Спасителем Моим.</lyrics>
+<title>Мечта</title>
 </song>

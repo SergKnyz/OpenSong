@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>536</hymn_number>
-<title>Журавли</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<author>Авен Езер</author>
+<hymn_number>536</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .    Am                                            Dm
@@ -54,5 +54,5 @@
  Полетишь высоко, высоко, в небеса далеко, далеко
  Вместе с стаей большой, большой, над огромной землёю, землёй,
  Полетишь высоко, высоко, в небеса далеко, далеко</lyrics>
-<author>Авен Езер</author>
+<title>Журавли</title>
 </song>

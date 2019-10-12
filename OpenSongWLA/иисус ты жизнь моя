@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Сила Веры церковь</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>851</hymn_number>
+<author>Сила Веры церковь</author>
+<key>G</key>
+<title>Иисус Ты жизнь моя</title>
 <lyrics>[V1]
  Запев:
 .   Gm          Eb      Bb   F
@@ -58,7 +61,4 @@
    Не престанно петь, буду для Тебя,
 .                 Bb             F
    Больше жизни всей я люблю Тебя.</lyrics>
-<title>Иисус Ты жизнь моя</title>
-<key>G</key>
-<hymn_number>851</hymn_number>
 </song>

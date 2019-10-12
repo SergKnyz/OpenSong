@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3284</hymn_number>
-<key>A</key>
-<title>Дом молитвы</title>
-<author>Виталий Ефремочкин</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
  Господь внутри меня дом
  Молитвенный дом сотвори
@@ -22,4 +18,8 @@
    День и ночь, ночь и день,
    День и ночь, ночь и день,
    Молитву твори во мне</lyrics>
+<title>Дом молитвы</title>
+<key>A</key>
+<author>Виталий Ефремочкин</author>
+<hymn_number>3284</hymn_number>
 </song>

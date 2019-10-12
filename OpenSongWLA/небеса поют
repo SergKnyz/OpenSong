@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>19</hymn_number>
-<title>Небеса поют</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Небеса поют</title>
 <lyrics>[V1]
  1 куплет:
 .      F#m
@@ -37,5 +35,7 @@
  Я влечён и к Иисусу бегу
  Я на встречу любви тороплюсь
  Ведь с Тобой не чего не боюсь</lyrics>
+<hymn_number>19</hymn_number>
+<key>E</key>
 <author>Алексей Грудинский</author>
 </song>

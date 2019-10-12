@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>181</hymn_number>
-<title>Время жить</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 . G                   D
  Только не забывай пожалуйста
@@ -36,5 +33,8 @@
  То для чего сюда мы посланы
  В сердце любовь горит и ты живёшь
  Может когда нибудь меня зажжёшь.</lyrics>
+<title>Время жить</title>
+<key>G</key>
 <author>Дарина Кочанжи</author>
+<hymn_number>181</hymn_number>
 </song>

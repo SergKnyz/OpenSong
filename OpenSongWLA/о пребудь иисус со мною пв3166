@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
-<title>О пребудь Иисус со мною ПВ3166</title>
-<hymn_number>3166</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>О пребудь Иисус со мною ПВ3166</title>
 <lyrics>[V1]
  О, пребудь, Иисус, со мною,
  чтоб не колебался я.
@@ -30,4 +28,6 @@
  о, услышь мольбу мою,
  чтоб Тебе я стал подобным,
  близость ощущал Твою.</lyrics>
+<hymn_number>3166</hymn_number>
+<key>Eb</key>
 </song>

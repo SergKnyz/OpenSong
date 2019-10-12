@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2189</hymn_number>
-<key>Ab</key>
-<title>Лодка по волнам во тьме плывет ПВ2189</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Лодка по волнам во тьме плывет,
  Море пенится, шумит,
  Страх за сердце каждого берет,
@@ -36,4 +33,7 @@
  Помощь придет с небес.
  В пристань тихую Он приведет,
  Наш Господь Тво-рец чудес.</lyrics>
+<title>Лодка по волнам во тьме плывет ПВ2189</title>
+<key>Ab</key>
+<hymn_number>2189</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>У двери сердца Я стою ПВ2369</title>
-<key>Ab</key>
-<hymn_number>2369</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  У двери сердца Я стою,
  Там ясли Я найти хочу.
  Хочу Я близко к ним прильнуть
@@ -24,4 +21,7 @@
  Утрата будет велика,
  Уйдет и радость, и покой,
  Погибнешь ты душой.</lyrics>
+<title>У двери сердца Я стою ПВ2369</title>
+<key>Ab</key>
+<hymn_number>2369</hymn_number>
 </song>

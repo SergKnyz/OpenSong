@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>По Христа обетованью ПВ3086</title>
-<key>C</key>
-<hymn_number>3086</hymn_number>
 <lyrics>[V1]
  По Христа обетованью
  Дух Святой к нам снизошёл,
@@ -30,4 +28,6 @@
  в мире сладостном живу.
  Освящён я, рад и счастлив,
  весь Ему принадлежу.</lyrics>
+<hymn_number>3086</hymn_number>
+<key>C</key>
 </song>

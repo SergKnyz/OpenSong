@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1560</hymn_number>
-<key>A</key>
-<title>Я не один на земном пути ПВ1560</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я не один на земном пути ПВ1560</title>
 <lyrics>[V1]
  Я не один на земном пути.
  Близок Иисус, близок Иисус.
@@ -36,4 +34,6 @@
  Не убоюсь я угрозы зла.
  Сильной храним я рукой Христа,
  Близок Иисус Спаситель.</lyrics>
+<hymn_number>1560</hymn_number>
+<key>A</key>
 </song>

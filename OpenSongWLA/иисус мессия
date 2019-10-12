@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G#m</key>
-<title>Иисус Мессия</title>
-<hymn_number>445</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус Мессия</title>
 <lyrics>[V1]
  1 КУПЛЕТ:
 .G#m        E              H F#/Bb
@@ -44,5 +42,7 @@
    Восславь Царя царей всей силой прославляй
 .  G#m             E
    Ведь спасена душа Иисус Мессия</lyrics>
+<hymn_number>445</hymn_number>
+<key>G#m</key>
 <author>Слово Жизни Music</author>
 </song>

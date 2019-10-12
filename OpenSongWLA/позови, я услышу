@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>965</hymn_number>
-<key>G</key>
-<title>Позови, я услышу</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em   C        G
   Позови - я услышу.
 .Em7   C        D
@@ -24,4 +21,7 @@
    Быть хочу там, где Ты пребываешь,
 .  С    Em   C  D
     Я так люблю Тебя.</lyrics>
+<title>Позови, я услышу</title>
+<key>G</key>
+<hymn_number>965</hymn_number>
 </song>

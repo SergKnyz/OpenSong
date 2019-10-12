@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Александр Соколов</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1078</hymn_number>
+<key>Dm</key>
+<author>Александр Соколов</author>
+<title>Голос Твой</title>
 <lyrics>[V1]
 .Dm           Am
  Я помолюсь Тебе,
@@ -24,7 +27,4 @@
  Утренний рассвет словно сходит солцце
  Я прошу Себя яви
  От Твоей любви вселенная проснется...</lyrics>
-<key>Dm</key>
-<title>Голос Твой</title>
-<hymn_number>1078</hymn_number>
 </song>

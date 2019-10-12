@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2863</hymn_number>
-<key>Bb</key>
-<title>Свободу нам дал</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .Bb                   Dm/A
  Бог искупил нас, и поём, что прощены.
@@ -42,5 +39,8 @@
    Так возлюбил - и будем петь, мы славим! Славим!
 .           Bb/C D#
    Будем славить!</lyrics>
+<title>Свободу нам дал</title>
+<key>Bb</key>
 <author>Слово Жизни Music</author>
+<hymn_number>2863</hymn_number>
 </song>

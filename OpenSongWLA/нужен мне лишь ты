@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>979</hymn_number>
-<title>Нужен мне лишь Ты</title>
-<author>перевод Касевич Хилсонг Киев</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Нужен мне лишь Ты</title>
 <lyrics>[V1]
  Навсегда страх из жизни ушёл,
  Ты позвал - я пошёл,
@@ -29,4 +27,6 @@
    И всё на земле Твоё!
    Твоя Вселенная,
    И всё Твоё!</lyrics>
+<hymn_number>979</hymn_number>
+<author>перевод Касевич Хилсонг Киев</author>
 </song>

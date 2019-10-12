@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>446</hymn_number>
-<key>B</key>
-<title>О как прискорбны горьки нам ПВ446</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>О как прискорбны горьки нам ПВ446</title>
 <lyrics>[V1]
  О, как прискорбны, горьки нам
  Воспоминания
@@ -24,4 +22,6 @@
  Текла вода и кровь;
  Что к этому Его вело?
  К нам всем Его любовь.</lyrics>
+<hymn_number>446</hymn_number>
+<key>B</key>
 </song>

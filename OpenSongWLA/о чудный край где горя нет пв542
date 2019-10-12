@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О чудный край где горя нет ПВ542</title>
-<hymn_number>542</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О чудный край, где горя нет,
  Где нет насилья и оков,
  Лишь царствует там жизнь и свет
@@ -22,4 +20,6 @@
  Христос введет нас в край родной,
  И всем погибшим весть неси,
  Что в Иисусе есть покой.</lyrics>
+<title>О чудный край где горя нет ПВ542</title>
+<hymn_number>542</hymn_number>
 </song>

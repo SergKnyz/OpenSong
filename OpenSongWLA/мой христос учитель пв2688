@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Мой Христос Учитель ПВ2688</title>
-<hymn_number>2688</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мой Христос Учитель ПВ2688</title>
 <lyrics>[V1]
  Мой Христос - Учитель
  Душу спас мою,
@@ -24,4 +22,6 @@
  Жажду я пребыть,
  На Тебя похожим
  Я стараюсь быть.</lyrics>
+<hymn_number>2688</hymn_number>
+<key>C</key>
 </song>

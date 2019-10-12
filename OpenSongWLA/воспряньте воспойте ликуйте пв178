@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3576</hymn_number>
-<key>Bb</key>
-<title>Воспряньте воспойте ликуйте ПВ178</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Воспряньте воспойте ликуйте ПВ178</title>
 <lyrics>[V1]
  Воспряньте, воспойте, ликуйте,
  Омытые кровью Христа!
@@ -30,4 +28,7 @@
  Хвалебную песню Тому,
  Кто нас искупил Своей кровью,
  О, слава навеки Ему!</lyrics>
+<hymn_number>3576</hymn_number>
+<aka>Омытые кровью Христа</aka>
+<key>Bb</key>
 </song>

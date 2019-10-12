@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Глубже всех морей и океанов ПВ92</title>
-<key>F</key>
-<hymn_number>92</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .F               C        Dm
  Глубже всех морей и океанов,
 .Bb           C        F
@@ -44,5 +41,8 @@
  Сердцем грех теперь не овладеет,
 .Bb           C        F
  В нем обитель Господа Христа.</lyrics>
+<title>Глубже всех морей и океанов ПВ92</title>
+<key>F</key>
 <author>И. И. Вечерок, Неизвестный</author>
+<hymn_number>92</hymn_number>
 </song>

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Спасение церковь г. Вишневое</author>
+<key>D</key>
+<hymn_number>1009</hymn_number>
 <lyrics>[V1]
 .Dm       C    F
  Единому Богу слава
@@ -17,6 +19,4 @@
 .  Bb    Am    Dm
  Единому Богу слава</lyrics>
 <title>Единому Богу слава</title>
-<key>D</key>
-<hymn_number>1009</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Мы ждём Тебя Господь</title>
-<hymn_number>4178</hymn_number>
-<author>Слово Жизни Москва</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мы ждём Тебя Господь</title>
 <lyrics>[V1]
  1 куплет:
 .      C                      Am           G
@@ -39,4 +36,7 @@
    Бридж:
 .  F   Am  G F   Am G
    Аллилуйя! Аллилуйя!</lyrics>
+<hymn_number>4178</hymn_number>
+<author>Слово Жизни Москва</author>
+<key>C</key>
 </song>

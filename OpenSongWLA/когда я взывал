@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Александр Соколов (Armageddon)</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Когда я взывал</title>
 <lyrics>[V1]
  1 куплет:
 .Em       C               G             Hm
@@ -38,7 +38,7 @@
  Я слышу нежный голос Твой.
  Лишь для Тебя мой каждый вздох,
  Ты подарил душе покой.</lyrics>
-<key>E</key>
-<title>Когда я взывал</title>
 <hymn_number>253</hymn_number>
+<author>Александр Соколов (Armageddon)</author>
+<key>E</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Скажите мне братья и сестры ПВ392</title>
-<hymn_number>392</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Скажите мне братья и сестры ПВ392</title>
 <lyrics>[V1]
  Скажите мне, братья и сестры,
  Куда вы хотите идти?
@@ -36,4 +34,6 @@
  Поспешно нам руки давай
  И вместе пойдем в единенье
  В тот славный обещанный край.</lyrics>
+<hymn_number>392</hymn_number>
+<key>A</key>
 </song>

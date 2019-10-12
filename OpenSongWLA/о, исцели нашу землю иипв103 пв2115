@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>250</hymn_number>
-<aka>Если Мой народ смирится пред Мной</aka>
-<title>О, исцели нашу землю ИИПВ103 ПВ2115</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>О, исцели нашу землю ИИПВ103 ПВ2115</title>
 <lyrics>[V1]
 .      A            G
  Если Мой народ смирится пред Мной,
@@ -31,4 +28,7 @@
  Всё злое отвергнув прочь,
  Ты услышь нас с неба и прости наш грех,
  Исцели нам землю, утешь нас всех.</lyrics>
+<aka>Если Мой народ смирится пред Мной</aka>
+<hymn_number>250</hymn_number>
+<key>A</key>
 </song>

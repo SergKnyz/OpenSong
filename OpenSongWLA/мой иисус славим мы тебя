@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Мой Иисус славим мы Тебя</title>
-<key>G#m</key>
-<hymn_number>85</hymn_number>
-<aka>Божий Сын</aka>
-<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
 .G#m Bbm  H       Bbm   F#
  Мой Иисус славим мы Тебя
@@ -36,4 +32,8 @@
    В величии Твоем, Господь
 .    C#m/D#                  G#m F#
    Из глубины мой дух поет: &quot;Святой, Святой!&quot;</lyrics>
+<hymn_number>85</hymn_number>
+<aka>Божий Сын</aka>
+<key>G#m</key>
+<author>Виталий Ефремочкин</author>
 </song>

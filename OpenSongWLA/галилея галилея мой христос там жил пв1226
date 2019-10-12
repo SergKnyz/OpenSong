@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1226</hymn_number>
-<title>Галилея Галилея Мой Христос там жил ПВ1226</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Галилея Галилея Мой Христос там жил ПВ1226</title>
 <lyrics>[V1]
  Галилея, Галилея!
  Мой Христос там жил.
@@ -27,4 +26,5 @@
  Царь Христос воскрес!
  Он дает освобожденье,
  Верным всем сердцам спасенье В Воскресеньи!</lyrics>
+<hymn_number>1226</hymn_number>
 </song>

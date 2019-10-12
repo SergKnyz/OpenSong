@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
-<title>Стучит, стучит</title>
-<hymn_number>2964</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Стучит, стучит</title>
 <lyrics>[V1]
  1 куплет:
 .  C#m      A/C#  G#     C#m
@@ -50,5 +48,7 @@
    О, человек, остановись!
    Взгляни на гору, на Голгофу:
    Распятый Бог в венце висит.</lyrics>
+<hymn_number>2964</hymn_number>
 <author>Сусанна Шарикова</author>
+<key>C#m</key>
 </song>

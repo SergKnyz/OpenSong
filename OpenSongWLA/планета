@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Siloam Church</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Am         Dm      G
  Я, как блуждающая планета
@@ -61,7 +60,8 @@
    Пускай планет всех в небе не станет,
 .  Hm            D
    Я не боюсь, Ты меня ведешь.</lyrics>
-<hymn_number>24</hymn_number>
-<key>A</key>
 <title>Планета</title>
+<key>A</key>
+<author>Siloam Church</author>
+<hymn_number>24</hymn_number>
 </song>

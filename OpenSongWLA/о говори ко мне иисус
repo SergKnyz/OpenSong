@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>699</hymn_number>
+<key>E</key>
+<author>Вадим Ятковский</author>
+<title>О говори ко мне Иисус</title>
+<lyrics>[V1]
 .  Em         C/E        Em6        C/E
  О говори ко мне Иисус освободи от тайных уз
 .     Em          C/E         Em6 Em7
@@ -19,8 +23,4 @@
  Говори ко мне,
 . Em  C       G H
  Говори ко мне.</lyrics>
-<author>Вадим Ятковский</author>
-<key>E</key>
-<title>О говори ко мне Иисус</title>
-<hymn_number>699</hymn_number>
 </song>

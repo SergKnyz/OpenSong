@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2497</hymn_number>
-<title>Реальная любовь</title>
-<key>A</key>
-<author>ConversionBand</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am G            F           C
   Великий Бог мы славим Тебя,
@@ -40,4 +36,8 @@
    Дашь совет, как и что где и когда
    Верю я, что Ты есть Бог.
    Боли все стерпеть ты смог.</lyrics>
+<title>Реальная любовь</title>
+<author>ConversionBand</author>
+<key>A</key>
+<hymn_number>2497</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2836</hymn_number>
-<key>A</key>
-<title>Утолил Иисус мне жажду</title>
-<author>Неизвестный</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Утолил Иисус мне жажду</title>
 <lyrics>[V1]
  1 куплет:
 .       A       D     A D         A    F#m   Hm E
@@ -30,4 +27,7 @@
  4 куплет:
  Ключ воды, текущей вечно, Хлеб обильный - жизнь моя,
  Несказанное богатство - Искупитель для меня.</lyrics>
+<hymn_number>2836</hymn_number>
+<key>A</key>
+<author>Неизвестный</author>
 </song>

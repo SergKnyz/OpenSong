@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>122</hymn_number>
-<key>B</key>
-<title>Твой Свет</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Твой Свет</title>
 <lyrics>[V1]
  1 куплет:
 .       Hm        G         A
@@ -41,5 +39,7 @@
  Вознесу свои руки к Тебе ,Царь,
  Благодарю Тебя бесконечно,
  Через кровь Свою дал свободу навечно!</lyrics>
+<hymn_number>122</hymn_number>
 <author>Алексей Каратаев</author>
+<key>B</key>
 </song>

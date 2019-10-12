@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Александр Черпаков</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>983</hymn_number>
+<author>Александр Черпаков</author>
+<key>E</key>
+<title>Не для себя Господь</title>
 <lyrics>[V1]
  1 куплет:
 .          Em                  Hm
@@ -82,7 +85,4 @@
    Но я молю Тебя о милосердный Боже.
    Пусть нескольких,пусть только одного;
    Помилуй ради Сына Твоего, помилуй ради Сына Твоего.</lyrics>
-<hymn_number>983</hymn_number>
-<key>E</key>
-<title>Не для себя Господь</title>
 </song>

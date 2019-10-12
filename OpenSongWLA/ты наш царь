@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>181</hymn_number>
+<author>Алексей Каратаев</author>
+<key>C</key>
+<title>Ты наш Царь</title>
+<lyrics>[V1]
  1 куплет:
 .Cm               G#       Bb    Cm
  Ангелы у трона Твоего, Твоего поют
@@ -20,8 +24,4 @@
  2 куплет:
  Небеса для Тебя поют, Тебе поют, Господь Святой!
  Творения все на земле склоняются перед Тобой!</lyrics>
-<author>Алексей Каратаев</author>
-<title>Ты наш Царь</title>
-<key>C</key>
-<hymn_number>181</hymn_number>
 </song>

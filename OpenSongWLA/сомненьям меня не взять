@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3857</hymn_number>
+<key>A</key>
+<author>Ковчег церковь Днепропетровск</author>
 <title>Сомненьям меня не взять</title>
-<hymn_number>3857</hymn_number>
 <lyrics>[V1]
  1 КУПЛЕТ:
 .             E       A D
@@ -45,5 +46,4 @@
  Но верю, что до конца
  Ты будешь меня держать!
  Я больше не буду в страхе жить!</lyrics>
-<author>Ковчег церковь Днепропетровск</author>
 </song>

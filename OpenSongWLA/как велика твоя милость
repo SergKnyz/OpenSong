@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<author>Новое Поколение церковь г. Рига</author>
+<hymn_number>1280</hymn_number>
+<lyrics>[V1]
  Припев 1,2,3:
 .   C  E7(#9)        Am7  Am7/G
  О Господь,       как Ты благ,
@@ -60,8 +63,5 @@
  Как велика Твоя милость к нам!
 .     G7  A7     D13
  Как велика Твоя милость к нам!</lyrics>
-<author>Новое Поколение церковь г. Рига</author>
-<key>C</key>
 <title>Как велика Твоя милость</title>
-<hymn_number>1280</hymn_number>
 </song>

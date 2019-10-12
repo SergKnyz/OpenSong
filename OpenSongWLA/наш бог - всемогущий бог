@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Наш Бог - Всемогущий Бог</title>
-<key>E</key>
-<hymn_number>1776</hymn_number>
-<author>Неизвестный</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   Em
  Возвысим голос в песне, сольёмся все в хвале;
@@ -39,4 +35,8 @@
  И наш трофей обилен - спасённые сердца.
  Мы возвещаем миру о том, каков наш Бог;
  Наш Бог - Всемогущий Бог!</lyrics>
+<title>Наш Бог - Всемогущий Бог</title>
+<key>E</key>
+<author>Неизвестный</author>
+<hymn_number>1776</hymn_number>
 </song>

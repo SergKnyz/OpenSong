@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>На землю снизошёл ИИПВ200</title>
-<key>G</key>
-<hymn_number>200</hymn_number>
 <lyrics>[V1]
 .     G
  На землю снизошёл
@@ -39,4 +37,6 @@
  Властьмира перед Ним
  Ужесокрушена
  Жизньистина и сила Бога превознесена.</lyrics>
+<hymn_number>200</hymn_number>
+<key>G</key>
 </song>

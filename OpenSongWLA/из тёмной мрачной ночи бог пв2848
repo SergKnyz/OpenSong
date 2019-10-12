@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2848</hymn_number>
-<key>E</key>
-<title>Из тёмной мрачной ночи Бог ПВ2848</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Из тёмной мрачной ночи Бог ПВ2848</title>
 <lyrics>[V1]
  Из тёмной, мрачной ночи Бог,
  где под грехом я изнемог,
@@ -30,4 +28,6 @@
  Твою лишь волю я творю,
  покой в Тебе лишь нахожу.
  Ты - свет и спасенье мне.</lyrics>
+<hymn_number>2848</hymn_number>
+<key>E</key>
 </song>

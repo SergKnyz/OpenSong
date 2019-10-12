@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Иисус, забыл я святые обещанья,</aka>
+<hymn_number>1051</hymn_number>
+<key>E</key>
+<author>Anterium Atis</author>
+<title>Божья милость</title>
+<lyrics>[V1]
  1 куплет:
 .Em        C        G      D   C
  Иисус, забыл я святые обещанья,
@@ -44,9 +49,4 @@
    Бог есть милость, Он со мною
 .  Hm  E     A        D  E A
    Бог есть милость для меня!</lyrics>
-<author>Anterium Atis</author>
-<aka>Иисус, забыл я святые обещанья,</aka>
-<hymn_number>1051</hymn_number>
-<title>Божья милость</title>
-<key>E</key>
 </song>

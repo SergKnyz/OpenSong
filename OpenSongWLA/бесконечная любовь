@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Бесконечная любовь</title>
-<aka>О взор мой не напрасно смотрит ввысь, поверь</aka>
-<hymn_number>3153</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бесконечная любовь</title>
 <lyrics>[V1]
  1 куплет:
 .   Dm                           Gm
@@ -37,5 +34,8 @@
  И весть Твою несёт
  И словно звонкой трелью соловья в росе
  До жаждущих дойдёт</lyrics>
+<hymn_number>3153</hymn_number>
+<aka>О взор мой не напрасно смотрит ввысь, поверь</aka>
+<key>D</key>
 <author>Carolina Nedorea</author>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Skinia Worship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4153</hymn_number>
+<author>Skinia Worship</author>
+<key>C#m</key>
+<title>Выход</title>
 <lyrics>[V1]
  1 куплет:
 .C#m               H
@@ -38,7 +41,4 @@
    Он все может, поток Божий полон воды
 .  A                           H
    Душу насыщает жажду утоляет дарует свой мир.</lyrics>
-<hymn_number>4153</hymn_number>
-<key>C#m</key>
-<title>Выход</title>
 </song>

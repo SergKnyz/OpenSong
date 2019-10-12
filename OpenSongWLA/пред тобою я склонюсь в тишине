@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Сила Веры церковь</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>849</hymn_number>
+<key>E</key>
+<author>Сила Веры церковь</author>
+<title>Пред Тобою я склонюсь в тишине</title>
 <lyrics>[V1]
  КУПЛЕТ:
 .        Em2                   C/E
@@ -20,7 +23,4 @@
    Как с цветка роса - потекут из моих уст
 .          Em/C#                      Hsus  H
    Пусть коснутся Тебя, дорогой мой Иисус!__</lyrics>
-<hymn_number>849</hymn_number>
-<key>E</key>
-<title>Пред Тобою я склонюсь в тишине</title>
 </song>

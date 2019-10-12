@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я иду домой</title>
-<key>G</key>
-<hymn_number>1149</hymn_number>
-<author>Игорь Сидоров</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .C   G      Am      F             C    G          Am   F
  Пришёл в себя, пойду домой к Отцу хотя бы как наёмник.
@@ -30,4 +26,8 @@
  Отец быть сыном, не достоин я, но Ты любовью лечишь.
  Одежду правды, дал ты мне Господь, и перстень дал на руку.
  Мир, счастья, радости и святой любви, мне дал понять разлуку.</lyrics>
+<title>Я иду домой</title>
+<key>G</key>
+<author>Игорь Сидоров</author>
+<hymn_number>1149</hymn_number>
 </song>

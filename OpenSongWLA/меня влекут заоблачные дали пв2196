@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1679</hymn_number>
-<key>B</key>
-<title>Меня влекут заоблачные дали ПВ2196</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<hymn_number>1679</hymn_number>
 <lyrics>[V1]
  Меня влекут заоблачные дали,
  Меня влекут лишь только небеса.
@@ -24,4 +23,5 @@
  Достигнуть тот небесный весь покой.
  Где песнь хваленья новыми устами
  Я воспою на Родине святой.</lyrics>
+<title>Меня влекут заоблачные дали ПВ2196</title>
 </song>

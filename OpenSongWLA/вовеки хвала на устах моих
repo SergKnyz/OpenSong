@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2559</hymn_number>
-<key>D</key>
-<title>Вовеки хвала на устах моих</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Вовеки хвала на устах моих</title>
 <lyrics>[V1]
  1 куплет:
  Любовь Твоя, Отче, словно золото чиста,
@@ -39,5 +37,8 @@
    Bridge:
    Слава Тебе, Слава Тебе
    Все Небеса поют: Достоин Ты, Господь</lyrics>
+<aka>Любовь Твоя, Отче, словно золото чиста,</aka>
+<hymn_number>2559</hymn_number>
 <author>Bethel Music, Бетхел Мусиц</author>
+<key>D</key>
 </song>

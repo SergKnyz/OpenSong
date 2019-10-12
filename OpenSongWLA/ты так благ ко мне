@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1265</hymn_number>
-<title>Ты так благ ко мне</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <author>NG Worship</author>
+<hymn_number>1265</hymn_number>
 <lyrics>[V1]
 .G     D           A      Hm
  Когда солнце первый луч пронзает тьму
@@ -37,4 +36,5 @@
    Хвалы достоин, хвалы достоин.
    Ты Бог великий, Ты всемогущий
    Хвалы достоин, громко славлю я Тебя</lyrics>
+<title>Ты так благ ко мне</title>
 </song>

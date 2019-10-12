@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты ждешь когда я приду к Тебе</title>
-<key>C#m</key>
-<hymn_number>158</hymn_number>
-<author>Виталий Ефремочкин</author>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .  C#m                  A        E        F#m
    Ты ждешь когда я приду к Тебе такой как есть
@@ -45,4 +41,8 @@
    Господь, мы хотим ещё, Господь, мы хотим ещё,
 .  E                   F#m
    Господь, мы хотим ещё больше славы...</lyrics>
+<title>Ты ждешь когда я приду к Тебе</title>
+<key>C#m</key>
+<author>Виталий Ефремочкин</author>
+<hymn_number>158</hymn_number>
 </song>

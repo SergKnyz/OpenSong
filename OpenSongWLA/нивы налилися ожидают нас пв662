@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>662</hymn_number>
-<key>C</key>
-<title>Нивы налилися ожидают нас ПВ662</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>662</hymn_number>
 <lyrics>[V1]
  Нивы налилися, ожидают нас,
  Бог пришлет жнецов к нам в тот великий час.
@@ -24,4 +23,5 @@
  Жатвы день не долог, скоро он пройдет.
  Бойся без снопов живых к Христу прийти
  И старайся их побольше принести.</lyrics>
+<title>Нивы налилися ожидают нас ПВ662</title>
 </song>

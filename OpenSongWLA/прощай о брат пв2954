@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2954</hymn_number>
-<key>Bb</key>
-<title>Прощай о брат ПВ2954</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
+<hymn_number>2954</hymn_number>
 <lyrics>[V1]
  Прощай, о брат!
  Ты ныне покинул этот мир;
@@ -31,4 +30,5 @@
  тебе сияет утро там после тьмы ночной.
  Твоя душа ликует: узришь лик Христа
  и с ангельским хваленьем сольется песнь твоя.</lyrics>
+<title>Прощай о брат ПВ2954</title>
 </song>

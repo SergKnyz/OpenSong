@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вставайте все на труд святой ПВ2066</title>
-<key>C</key>
-<hymn_number>2066</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вставайте все на труд святой,
  Христовы друзья,
  Пока ещё не сильный зной,
@@ -29,4 +26,7 @@
  Наставит, укрепит,
  С улыбкой ясной на лице
  Успехом наделит.</lyrics>
+<title>Вставайте все на труд святой ПВ2066</title>
+<key>C</key>
+<hymn_number>2066</hymn_number>
 </song>

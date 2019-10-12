@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Милость Твоя</title>
+<lyrics>[V1]
  1 куплет:
 . C     Em   C          Em
  Верный Бог  утешение моё
@@ -50,8 +51,7 @@
  Милость Твоя льется дождем
  В дух мой пролей силу Свою
  Вновь оживи веру мою</lyrics>
-<author>Skeemans Worship</author>
-<title>Милость Твоя</title>
-<key>C</key>
 <hymn_number>231</hymn_number>
+<key>C</key>
+<author>Skeemans Worship</author>
 </song>

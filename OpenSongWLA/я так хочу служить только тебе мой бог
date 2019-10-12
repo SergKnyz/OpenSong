@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Виктория Виту</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<author>Виктория Виту</author>
+<hymn_number>1612</hymn_number>
+<aka>Благодать</aka>
 <lyrics>[V1]
  1 куплет:
 .Am      Dm          E        Am
@@ -29,8 +32,5 @@
    И столько в сердце тепла душа покой обрела,
 .    Am            Dm      E             Am
    Иисус хочу я принять Твоей любви благодать.</lyrics>
-<key>A</key>
 <title>Я так хочу служить только Тебе мой Бог</title>
-<hymn_number>1612</hymn_number>
-<aka>Благодать</aka>
 </song>

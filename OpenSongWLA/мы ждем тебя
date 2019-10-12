@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Мы ждем Тебя</title>
-<hymn_number>854</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am
  Каждое сердце и вся земля,
@@ -44,5 +41,8 @@
    Господь Мы ждем, мы ждем, Тебя,
 .     C  Em   D
    Бог, мы ждем, открыв сердца.</lyrics>
+<title>Мы ждем Тебя</title>
 <author>Алексей Каратаев</author>
+<key>A</key>
+<hymn_number>854</hymn_number>
 </song>

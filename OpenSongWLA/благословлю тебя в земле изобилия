@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>16</hymn_number>
+<key>A</key>
+<title>Благословлю Тебя в земле изобилия</title>
+<lyrics>[V1]
 .A         E          F#m     D
  Благословлю Тебя в земле изобилия,
 . A        E                D
@@ -39,7 +42,4 @@
    Ты можешь всё мне дать, Ты можешь все отнять,
 .     A           E  F#m         D
    Но я хочу за всё Тебя благословить</lyrics>
-<hymn_number>16</hymn_number>
-<key>A</key>
-<title>Благословлю Тебя в земле изобилия</title>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Ты для меня самый лучший</title>
-<key>Eb</key>
-<hymn_number>4974</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .    Ebm                    Ab
@@ -39,5 +37,7 @@
    Ты для меня самый нежный
    C Тобою Я словно на небесах
    Лишь с Тобой - на небесах</lyrics>
+<hymn_number>4974</hymn_number>
+<key>Eb</key>
 <author>Марин и Марина Севастиян</author>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2659</hymn_number>
-<title>Иисус из Галилеи (Galileu)</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  ИНСТРУМЕНТАЛ:
 
 [V2]
@@ -50,5 +47,8 @@
    БРИДЖ:
 .    О-о-о-о, о-о-о-о, о-о-о-о
    ПРИПЕВ...</lyrics>
+<title>Иисус из Галилеи (Galileu)</title>
 <author>Fernandinho</author>
+<key>C</key>
+<hymn_number>2659</hymn_number>
 </song>

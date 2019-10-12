@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>44</hymn_number>
-<aka>Вместе дружно придём</aka>
-<title>Хвалу Богу споём. ИИПВ44</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .G.
  Вместе дружно придём,
 .              C
@@ -19,4 +15,8 @@
    Вместе дружно придём,
 .               G C G
    Хвалу Богу споём.</lyrics>
+<title>Хвалу Богу споём. ИИПВ44</title>
+<key>G</key>
+<hymn_number>44</hymn_number>
+<aka>Вместе дружно придём</aka>
 </song>

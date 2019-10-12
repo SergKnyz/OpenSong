@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты для меня свет мира ИИПВ327</title>
-<key>G</key>
-<hymn_number>327</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . G        C        D     G
  Ты для меня свет мира, Бог.
 . C           D      G
@@ -34,4 +31,7 @@
  Унёсвсе печали прочь.
  Унёсвсе печали прочь.
  Унёсвсе печали прочь.</lyrics>
+<title>Ты для меня свет мира ИИПВ327</title>
+<key>G</key>
+<hymn_number>327</hymn_number>
 </song>

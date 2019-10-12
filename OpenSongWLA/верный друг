@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Адриана Борш</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Верный Друг</title>
 <lyrics>[V1]
  1 куплет:
 .             C      Em/H
@@ -42,8 +42,8 @@
  С ним много места в шалаше
 .     Dm                      E
  И с ним в бою становишься отрадом</lyrics>
-<title>Верный Друг</title>
-<key>C</key>
 <hymn_number>596</hymn_number>
 <aka>В беде ты друга узнаёшь</aka>
+<key>C</key>
+<author>Адриана Борш</author>
 </song>

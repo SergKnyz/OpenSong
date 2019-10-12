@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2715</hymn_number>
-<title>Иди дорогой одинокою ПВ2715</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Иди дорогой одинокою,
  Я встретил Странника с крестом.
  Он шел, согнувшись с ношей тяжкою,
@@ -24,4 +21,7 @@
  До достижения ненца,
  Доколе Он Своей десницею
  Не снимет ношу Сам с меня.</lyrics>
+<title>Иди дорогой одинокою ПВ2715</title>
+<key>D</key>
+<hymn_number>2715</hymn_number>
 </song>

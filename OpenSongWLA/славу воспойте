@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1745</hymn_number>
-<title>Славу воспойте</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Славу воспойте</title>
 <lyrics>[V1]
  Славу воспойте Господу Богу!
  Ныне живущие на земле.
@@ -27,4 +26,5 @@
 [V3]
  Радостно пойте Ему.
  Радостно пойте Ему.</lyrics>
+<hymn_number>1745</hymn_number>
 </song>

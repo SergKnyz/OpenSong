@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Siloam Church</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>484</hymn_number>
+<key>C</key>
+<author>Siloam Church</author>
+<title>Только не плачь</title>
 <lyrics>[V1]
  1 куплет:
 .    Cm                D#                 G#
@@ -43,7 +46,4 @@
    Концовка:
 .      Cm
    Почему из глаз твоих часто так катятся слёзы</lyrics>
-<hymn_number>484</hymn_number>
-<key>C</key>
-<title>Только не плачь</title>
 </song>

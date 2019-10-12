@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3326</hymn_number>
-<title>Говорят ты за меня молилась ПВ1307</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Говорят ты за меня молилась ПВ1307</title>
 <lyrics>[V1]
  Говорят, ты за меня молилась.
  Долго в дом не приходила весть.
@@ -24,4 +22,6 @@
  Посвятить всю жизнь хочу Христу,
  Чтоб теперь спасать, как я такого
  И познать молитвы красоту.</lyrics>
+<hymn_number>3326</hymn_number>
+<key>D</key>
 </song>

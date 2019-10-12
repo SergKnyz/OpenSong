@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1393</hymn_number>
-<title>Он родился</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Дети церкви Благодать</author>
 <key>G</key>
-<author>Дети церкви Благодать</author>
+<hymn_number>1393</hymn_number>
 <lyrics>[V1]
 .G            C         D             G  D
  Люди в шубы прячутся вновь пришла зима__
@@ -38,4 +37,5 @@
  Возлюбил людей
  И теперь счастливей нас нету никого
  Будем вечно славить Его.</lyrics>
+<title>Он родился</title>
 </song>

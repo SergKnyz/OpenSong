@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>306</hymn_number>
-<title>Покайся пока есть сознанье ПВ306</title>
-<key>Db</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Покайся пока есть сознанье ПВ306</title>
 <lyrics>[V1]
  Покайся, пока есть сознанье
  Греховности жизни твоей,
@@ -42,4 +40,6 @@
  В душе приглашенья любви,
  Ответь же на Божьи призывы,
  Покайся и вечно живи.</lyrics>
+<hymn_number>306</hymn_number>
+<key>Db</key>
 </song>

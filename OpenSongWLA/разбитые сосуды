@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>672</hymn_number>
-<title>Разбитые сосуды</title>
-<key>E</key>
-<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Разбитые сосуды</title>
 <lyrics>[V1]
  1 куплет:
 .         Em              G
@@ -41,4 +38,7 @@
  Свою Ты ценность в нас поместил.
  В моём Ты сердце, я - Твой сосуд, Бог.
  Пусть видит мир: во мне Ты жив.</lyrics>
+<hymn_number>672</hymn_number>
+<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
+<key>E</key>
 </song>

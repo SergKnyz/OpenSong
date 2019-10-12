@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Я пребуду в Иисусе ПВ2947</title>
-<hymn_number>2947</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я пребуду в Иисусе ПВ2947</title>
 <lyrics>[V1]
  Я пребуду в Иисусе.
  О, как счастлив я!
@@ -34,4 +32,6 @@
  Благодать разрушит силу зла.
  Вечной жизнью и радостью полна душа,
  потому так счастлив я всегда.</lyrics>
+<hymn_number>2947</hymn_number>
+<key>E</key>
 </song>

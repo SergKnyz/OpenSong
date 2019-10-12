@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3135</hymn_number>
-<title>Приди же к источнику жизни ПВ3135</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Приди же к источнику жизни ПВ3135</title>
 <lyrics>[V1]
  Приди же к источнику жизни,
  открытому ныне для всех!
@@ -31,4 +29,6 @@
  в источник спасенья войди.
  Верь в силу крови Иисуса,
  - омыт от греха будешь ты!</lyrics>
+<hymn_number>3135</hymn_number>
+<key>C</key>
 </song>

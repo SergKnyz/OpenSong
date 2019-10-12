@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Денис Никитин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>632</hymn_number>
+<author>Денис Никитин</author>
+<key>G</key>
+<title>Прославляю</title>
 <lyrics>[V1]
  1 куплет:
 .G        Hm              Em          C
@@ -30,7 +33,4 @@
  Прославляю я Господа Царя!
  Мне не нужно вдохновенье, чтобы просто за спасенье
  Прославлять Тебя, прославлять Тебя.</lyrics>
-<hymn_number>632</hymn_number>
-<key>G</key>
-<title>Прославляю</title>
 </song>

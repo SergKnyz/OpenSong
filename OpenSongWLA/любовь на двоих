@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>999</hymn_number>
+<key>A</key>
+<author>Кристалл</author>
+<title>Любовь на двоих</title>
+<lyrics>[V1]
  1 куплет:
 .Cm                          Fm      Bb                  D#
  Есть на любовь печальный ответ, когда одному она не нужна,
@@ -32,8 +36,4 @@
  У кого любовь бывает на двоих ...
  Хорошо только тем, я знаю, хорошо только тем, я знаю
  У кого любовь бывает на двоих ...</lyrics>
-<author>Кристалл</author>
-<hymn_number>999</hymn_number>
-<key>A</key>
-<title>Любовь на двоих</title>
 </song>

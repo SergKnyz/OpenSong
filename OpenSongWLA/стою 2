@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Стою</title>
-<key>Bb</key>
-<hymn_number>476</hymn_number>
-<author>Слово Жизни Music</author>
 <lyrics>[V1]
 .Bb F      C           Dm
  Стою, подняв взгляд и руки к небу,
@@ -11,4 +8,7 @@
  Стою к Тебе, Бог, склоняю сердце
 . Bb      F    C
  Всё во мне Твоё!</lyrics>
+<hymn_number>476</hymn_number>
+<author>Слово Жизни Music</author>
+<key>Bb</key>
 </song>

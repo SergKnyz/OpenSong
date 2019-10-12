@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>563</hymn_number>
-<key>F#</key>
-<title>Не знаешь</title>
-<author>Достичь небес</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .F#m          D             E               C#m
  Жизнь тебе дается только раз дорог каждый день и каждый час
@@ -55,4 +51,8 @@
    Не знаем... Для чего нужны уроки
    Не знаем... Что нас ждет в дали
    Не видим простор Божией любви</lyrics>
+<title>Не знаешь</title>
+<key>F#</key>
+<author>Достичь небес</author>
+<hymn_number>563</hymn_number>
 </song>

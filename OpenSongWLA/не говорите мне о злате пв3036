@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3036</hymn_number>
-<title>Не говорите мне о злате ПВ3036</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Не говорите мне о злате ПВ3036</title>
 <lyrics>[V1]
  Не говорите мне о злате,
  благах, сокровищах земных:
@@ -32,4 +30,6 @@
  в борьбе со злом дал благодать;
  сокровищ столько Он дарует,
  что я несказанно богат.</lyrics>
+<hymn_number>3036</hymn_number>
+<key>A</key>
 </song>

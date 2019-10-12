@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3117</hymn_number>
-<title>Все хочу Господь оставить ПВ3117</title>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
+<hymn_number>3117</hymn_number>
 <lyrics>[V1]
  Все хочу, Господь, оставить,
  за Тобою лишь идти,
@@ -30,4 +29,5 @@
  завершится путь земной,
  вера место даст виденью,
  просьбы сменятся хвалой.</lyrics>
+<title>Все хочу Господь оставить ПВ3117</title>
 </song>

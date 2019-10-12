@@ -1,10 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Блаженны за правду гонимые ПВ2011</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Блаженны простые сердца</aka>
 <hymn_number>2011</hymn_number>
-<aka>Блаженны простые сердца</aka>
+<key>Em</key>
+<title>Блаженны за правду гонимые ПВ2011</title>
 <lyrics>[V1]
+.Em                  B
  Блаженны за правду гонимые,
+.Am                 Em E
  Блаженны простые сердца,
+.Am       C     Em  C
  Великою верой хранимые,
+.B               Em
  Вы узрите Бога Отца.
 
 [V2]

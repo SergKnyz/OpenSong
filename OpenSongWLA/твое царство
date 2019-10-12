@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1193</hymn_number>
-<title>Твое Царство</title>
-<key>C#m</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Твое Царство</title>
 <lyrics>[V1]
  1 куплет:
 .C#m                       F#m   H                  E
@@ -35,5 +33,7 @@
  Будут водой живой напоены души иссохшие, и рухнут все твердыни
  Все будет так, как хочешь Ты царство любви Твоей наполнит эту землю
  Царство свободы, добра и красоты всё будет так, как хочешь Ты</lyrics>
+<hymn_number>1193</hymn_number>
+<key>C#m</key>
 <author>Краеугольный камень</author>
 </song>

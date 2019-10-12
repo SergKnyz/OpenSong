@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Любовью и силой</title>
-<key>G</key>
-<copyright>1987 Мерцы / Винеыард Публисхинг</copyright>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <author>Йуде Дел Хиерро</author>
 <lyrics>[V1]
 .   Em      C
@@ -27,4 +25,6 @@
    Я ищу Тебя всей силой моей
 .                 C  Bm            Em
    Лишь Тебя, мой Бог,    Иисус Господь</lyrics>
+<copyright>1987 Мерцы / Винеыард Публисхинг</copyright>
+<title>Любовью и силой</title>
 </song>

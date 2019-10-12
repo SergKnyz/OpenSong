@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я нашёл Иисуса</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Белый Ангел</author>
 <key>F</key>
 <hymn_number>2524</hymn_number>
 <lyrics>[V1]
@@ -51,5 +51,5 @@
    Я нашел Иисуса, я нашел Иисуса,
 .  C#                   F#m
    Я нашел Иисуса Христа</lyrics>
-<author>Белый Ангел</author>
+<title>Я нашёл Иисуса</title>
 </song>

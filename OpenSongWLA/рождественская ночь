@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2935</hymn_number>
-<key>D</key>
-<title>Рождественская ночь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <author>IFound Worship</author>
+<hymn_number>2935</hymn_number>
 <lyrics>[V1]
  1 куплет:
 
@@ -13,4 +12,5 @@
 
 [B1]
    Бридж:</lyrics>
+<title>Рождественская ночь</title>
 </song>

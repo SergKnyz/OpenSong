@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Мне повезло что есть на свете ты</title>
-<hymn_number>104</hymn_number>
-<author>Авана</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мне повезло что есть на свете ты</title>
 <lyrics>[V1]
  1 куплет:
 .           D     A/C#           Hm
@@ -41,4 +38,7 @@
  Доверю все сердечные секреты.
  Поверь тебя я высоко ценю,
  Ты лучший человек на свете .</lyrics>
+<hymn_number>104</hymn_number>
+<author>Авана</author>
+<key>G</key>
 </song>

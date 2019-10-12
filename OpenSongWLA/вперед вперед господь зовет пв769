@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Вперед вперед Господь зовет ПВ769</title>
-<key>A</key>
-<hymn_number>769</hymn_number>
 <lyrics>[V1]
  &quot;Вперед, вперед! - Господь зовет. -
  Иди за Мной на труд святой!&quot;
@@ -36,4 +34,6 @@
  Иди за Мной на труд святой!&quot;
  Борись смелей, трудись дружней,
  Молись сильней и пой стройней!</lyrics>
+<hymn_number>769</hymn_number>
+<key>A</key>
 </song>

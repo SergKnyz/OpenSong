@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Сам Спаситель приглашает нас ПВ1177</title>
-<hymn_number>1177</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Сам Спаситель приглашает нас:
  &quot;О, приди! О, приди!&quot;
  Слушай, друг, призывный, нежный глас.
@@ -24,4 +21,7 @@
  &quot;О, приди! О, приди!&quot;
  И Ему я трепетно внимал!
  Я нашел спасенье, друг, о, приди!</lyrics>
+<title>Сам Спаситель приглашает нас ПВ1177</title>
+<key>A</key>
+<hymn_number>1177</hymn_number>
 </song>

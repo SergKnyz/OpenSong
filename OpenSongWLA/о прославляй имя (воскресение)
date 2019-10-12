@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4255</hymn_number>
-<key>C</key>
-<title>О Прославляй Имя (Воскресение)</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>О Прославляй Имя (Воскресение)</title>
 <lyrics>[V1]
  | C /// | Cmaj7/E  F | 2x
 . C
@@ -40,5 +38,7 @@
  И солнца свет прогонит ночь
  Воскресну со святыми я
  Прикован взгляд к лицу Христа</lyrics>
+<hymn_number>4255</hymn_number>
+<key>C</key>
 <author>Hillsong Ukraine</author>
 </song>

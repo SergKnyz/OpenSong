@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2831</hymn_number>
-<key>G</key>
-<title>Как прекрасен он</title>
-<author>Mavjuda</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Как прекрасен он</title>
 <lyrics>[V1]
 .Dm  Gm
  Как прекрасен Он
@@ -41,4 +38,7 @@
  Ему славу воспоем
  Нет конца Его Любви
  Он достоен всей хвалы</lyrics>
+<hymn_number>2831</hymn_number>
+<key>G</key>
+<author>Mavjuda</author>
 </song>

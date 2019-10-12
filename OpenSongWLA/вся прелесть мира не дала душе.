@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Вся прелесть мира не дала душе.</title>
-<key>D</key>
-<aka>В исканьи счастья я пришёл к Тебе.</aka>
-<hymn_number>227</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .    Gm            A            Dm  C
@@ -37,5 +34,8 @@
  Страны, которой не найдёшь другой.
  Смысл жизни вот в чём - только во Христе,
  Любви в полноте Давшего мне.</lyrics>
+<hymn_number>227</hymn_number>
+<aka>В исканьи счастья я пришёл к Тебе.</aka>
 <author>Русавуки</author>
+<key>D</key>
 </song>

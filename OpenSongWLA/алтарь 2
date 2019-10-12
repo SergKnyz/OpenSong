@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Юрий Литвинчук</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Алтарь</title>
 <lyrics>[V1]
  Алтарь
  (стихи Александра Шевченко, музыка Юрия Литвинчука)
@@ -41,5 +41,5 @@
 <hymn_number>2770</hymn_number>
 <aka>Я восхожу, Господь, на Твой алтарь,</aka>
 <key>A</key>
-<title>Алтарь</title>
+<author>Юрий Литвинчук</author>
 </song>

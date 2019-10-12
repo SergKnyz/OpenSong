@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Трициа Рицхардс, Ноел Рицхардс</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<author>Трициа Рицхардс, Ноел Рицхардс</author>
+<hymn_number>2068</hymn_number>
 <lyrics>[V1]
 .G        D   C      D                C G
  Все небеса славят Христа воскресшего.
@@ -18,8 +20,6 @@
 [V2]
  Провозглашу имя Христа воскресшего,
  Как был распят, чтоб примирить людей с Творцом.</lyrics>
-<hymn_number>2068</hymn_number>
-<key>G</key>
-<title>Все небеса славят Христа воскресшего ПВ2068</title>
 <copyright>1987 Тханкыоу Мусиц</copyright>
+<title>Все небеса славят Христа воскресшего ПВ2068</title>
 </song>

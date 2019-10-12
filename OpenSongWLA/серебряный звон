@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Маханаим</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>904</hymn_number>
+<author>Маханаим</author>
+<key>D</key>
+<title>Серебряный звон</title>
 <lyrics>[V1]
  1 куплет:
 .Dm                   F   C                    G
@@ -28,7 +31,4 @@
  Между миром и Тобой навсегда помоги порвать возврата нить,
  Чтобы ни одна земная мечта больше не смогла меня от Тебя отдалить.
  Больше не смогла меня от Христа отлучить.</lyrics>
-<key>D</key>
-<title>Серебряный звон</title>
-<hymn_number>904</hymn_number>
 </song>

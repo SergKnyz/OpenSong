@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>161</hymn_number>
-<title>Я дойду с Тобой</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Gm         D#/G
  За Тобой иду, Ты стоишь, стою
 .A#/F          F           Gm7 D# A# F
@@ -46,5 +43,8 @@
    Для меня открыл Ты бесконечность,
 .  D# F
    Я дойду с Тобой!</lyrics>
+<title>Я дойду с Тобой</title>
 <author>Алексей Каратаев</author>
+<key>G</key>
+<hymn_number>161</hymn_number>
 </song>

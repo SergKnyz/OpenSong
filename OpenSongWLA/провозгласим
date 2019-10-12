@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Краеугольный камень</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3444</hymn_number>
+<author>Краеугольный камень</author>
+<key>E</key>
+<title>Провозгласим</title>
 <lyrics>[V1]
  1 Куплет:
 .Em                   D       G
@@ -24,7 +27,4 @@
  Будем воспевать и величить Царя.
  Взору Его светлому откроем сердца.
  Все что в жизни есть происходит не зря.</lyrics>
-<title>Провозгласим</title>
-<key>E</key>
-<hymn_number>3444</hymn_number>
 </song>

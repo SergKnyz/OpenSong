@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Песни</title>
-<hymn_number>2283</hymn_number>
-<author>Александр Контузоров</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .C         G             Am
  У меня от песен рвется грудь!
@@ -37,4 +33,8 @@
  Пусть течет рекой живая песня.
  Кто-нибудь услышит невзначай
  И отыщет путь к стране небесной.</lyrics>
+<title>Песни</title>
+<key>C</key>
+<author>Александр Контузоров</author>
+<hymn_number>2283</hymn_number>
 </song>

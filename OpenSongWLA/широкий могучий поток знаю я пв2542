@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2542</hymn_number>
-<title>Широкий могучий поток знаю я ПВ2542</title>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Широкий могучий поток знаю я ПВ2542</title>
 <lyrics>[V1]
  Широкий, могучий поток знаю я.
  Дает всем усталым сердцам
@@ -30,4 +28,6 @@
  Источник ее во Христе.
  Свою дорогую Он кровь за тебя,
  О грешник, пролил на кресте.</lyrics>
+<hymn_number>2542</hymn_number>
+<key>Ab</key>
 </song>

@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>На земле, на море и на небе</title>
-<key>C</key>
-<hymn_number>3128</hymn_number>
-<author>Путь Христа церковь, г. Нюрнберг</author>
 <lyrics>[V1]
  1.
 .       C      G  Dm     C
@@ -30,4 +27,7 @@
  Только в Иисусе вечная жизнь.
 .   F         C      G               C
  За Господа Иисуса крепче сестра держись!</lyrics>
+<hymn_number>3128</hymn_number>
+<key>C</key>
+<author>Путь Христа церковь, г. Нюрнберг</author>
 </song>

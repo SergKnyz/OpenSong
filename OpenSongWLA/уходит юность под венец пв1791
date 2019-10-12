@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1791</hymn_number>
-<title>Уходит юность под венец ПВ1791</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Уходит юность под венец ПВ1791</title>
 <lyrics>[V1]
  Уходит юность под венец,
  Сияет счастье с тенью грусти,
@@ -23,4 +22,5 @@
  Положит радости начало,
  И чтоб любовь не обветшала,
  Но в Небо проложила след.</lyrics>
+<hymn_number>1791</hymn_number>
 </song>

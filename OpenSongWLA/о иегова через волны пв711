@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>711</hymn_number>
-<title>О Иегова через волны ПВ711</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<hymn_number>711</hymn_number>
 <lyrics>[V1]
  О Иегова, через волны,
  Чрез пустыни нас веди;
@@ -24,4 +23,5 @@
  Твой народ мог отдохнуть.
  Песни славы, песни славы
  Вознесутся там к Тебе.</lyrics>
+<title>О Иегова через волны ПВ711</title>
 </song>

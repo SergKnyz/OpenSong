@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Нет на свете красоты</aka>
-<hymn_number>364</hymn_number>
-<title>Я люблю тебя Иисус ИИПВ364</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я люблю тебя Иисус ИИПВ364</title>
 <lyrics>[V1]
 .           Bm                    Em
  Нет на свете красоты без Тебя мой БОГ
@@ -29,4 +26,7 @@
  держишь Ты в любви Господь рукой своей,
  В свете утренней зари и вечерней мгле
  буду петь я о любви Господь к Тебе</lyrics>
+<hymn_number>364</hymn_number>
+<aka>Нет на свете красоты</aka>
+<key>D</key>
 </song>

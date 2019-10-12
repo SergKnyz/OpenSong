@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Владимир Литвинов</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<author>Владимир Литвинов</author>
+<hymn_number>3215</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .    Gm                                Cm
@@ -60,7 +62,5 @@
  туда, где радость и любовь
 .Eb                      Abm
  и где не знают слова боль (2x)</lyrics>
-<key>G</key>
 <title>Утопая в снегу</title>
-<hymn_number>3215</hymn_number>
 </song>

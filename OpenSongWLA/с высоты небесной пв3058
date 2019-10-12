@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3058</hymn_number>
-<title>С высоты небесной ПВ3058</title>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<hymn_number>3058</hymn_number>
 <lyrics>[V1]
  С высоты небесной,
  с ангельских высот
@@ -24,4 +23,5 @@
  Бог - Отец для них,
  и Он любит малых,
  на земле не забудет их.</lyrics>
+<title>С высоты небесной ПВ3058</title>
 </song>

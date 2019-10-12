@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5362</hymn_number>
-<key>D</key>
-<title>Ад разрушил Агнец Божий</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ад разрушил Агнец Божий</title>
 <lyrics>[V1]
 .D                                       A
  Ад разрушил Агнец Божий эту весть несут века,
@@ -28,4 +26,6 @@
  Это Бог Своей рукою посылает счастье в мир.
  И журчит ручьем весенним радость чистая в груди.
  Здравствуй праздник воскресенья, здравствуй вечность впереди!</lyrics>
+<hymn_number>5362</hymn_number>
+<key>D</key>
 </song>

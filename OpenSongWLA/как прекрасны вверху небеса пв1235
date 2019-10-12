@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4245</hymn_number>
-<title>Как прекрасны вверху небеса ПВ1235</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Как прекрасны вверху небеса ПВ1235</title>
 <lyrics>[V1]
  Как прекрасны вверху небеса.
  Среди звезд ходит плавно луна,
@@ -30,4 +28,6 @@
  Иисусу Христу рассказать,
  Но слов лучших найти не могу,
  Как Иисуса всем сердцем люблю.</lyrics>
+<hymn_number>4245</hymn_number>
+<key>G</key>
 </song>

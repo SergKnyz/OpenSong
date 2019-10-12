@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3061</hymn_number>
-<key>C</key>
-<title>Об Иисусе я петь люблю ПВ3061</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>3061</hymn_number>
 <lyrics>[V1]
  Об Иисусе я петь люблю.
  Он Своей кровью спас жизнь мою.
@@ -30,4 +29,5 @@
  где лишь святая любовь войдёт,
  там я увижу лицом к лицу
  Христа Иисуса, любовь мою.</lyrics>
+<title>Об Иисусе я петь люблю ПВ3061</title>
 </song>

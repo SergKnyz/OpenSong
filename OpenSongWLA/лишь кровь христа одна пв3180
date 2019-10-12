@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3180</hymn_number>
-<key>Bb</key>
-<title>Лишь кровь Христа одна ПВ3180</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
+<hymn_number>3180</hymn_number>
 <lyrics>[V1]
  Лишь кровь Христа одна
  и Божья благодать
@@ -30,4 +29,5 @@
  нас с Богом примирит
  И нас на все века
  от бед освободит.</lyrics>
+<title>Лишь кровь Христа одна ПВ3180</title>
 </song>

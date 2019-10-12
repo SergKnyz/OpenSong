@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2449</hymn_number>
-<title>Зло</title>
-<author>Илюха Корвин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Зло</title>
 <lyrics>[V1]
  Каждый день я прасыпаюсь, начиная новый бой.
  И борюсь не с миром и с системой, а с самим собой.
@@ -41,4 +39,6 @@
  Оно себя проявит, но главное что б ты не сдавался.
  Когда ты видишь руку помощи, откройся всей душой.
  Ведь Он сказал: не бойся, ибо Я с тобой.</lyrics>
+<hymn_number>2449</hymn_number>
+<author>Илюха Корвин</author>
 </song>

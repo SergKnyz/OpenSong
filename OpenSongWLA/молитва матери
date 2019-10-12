@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Молитва Матери</title>
-<hymn_number>1418</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Молитва Матери</title>
 <lyrics>[V1]
  1 куплет:
 .     Gm         Gm/A#      Cm   Cm/D#
@@ -48,5 +46,7 @@
  Знаю, буду для тебя всегда ребёнком
  Ангел мой хранитель, ты моя звезда
  Я в тебе нуждаться буду долго, долго.</lyrics>
+<hymn_number>1418</hymn_number>
 <author>Геннадий Вербицкий</author>
+<key>G</key>
 </song>

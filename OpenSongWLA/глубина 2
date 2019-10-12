@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>408</hymn_number>
+<key>C#m</key>
+<author>Филипп Реннер</author>
+<title>Глубина</title>
+<lyrics>[V1]
  1 куплет:
 .      C#m
  Твоей славой окружённый я проснулся сутра,
@@ -40,8 +44,4 @@
    Всё больше познаю я Тебя,
 .               F#m       A
    Когда в глубине, в Твоей любви!</lyrics>
-<author>Филипп Реннер</author>
-<title>Глубина</title>
-<key>C#m</key>
-<hymn_number>408</hymn_number>
 </song>

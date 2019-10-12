@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Знать Тебя</title>
-<key>B</key>
-<hymn_number>4002</hymn_number>
 <lyrics>[V1]
  Куплет:
 .Hm                           D/F#       G  A
@@ -38,5 +36,7 @@
    Стал как я: кровь и плоть.
 .     D                 A/C# (A)
    В мир пришёл ради меня.</lyrics>
+<hymn_number>4002</hymn_number>
 <author>Новый Завет NTWorship</author>
+<key>B</key>
 </song>

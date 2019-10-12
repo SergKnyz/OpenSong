@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1028</hymn_number>
-<title>Воспрянь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <key>B</key>
-<author>Hillsong Ukraine</author>
+<hymn_number>315</hymn_number>
+<aka>Есть яркий свет, сильнее солнца светит нам</aka>
 <lyrics>[V1]
  1 куплет:
 .             H             E             H
@@ -49,4 +49,5 @@
    Бог свобода, победил Он всё.
    Бог нам крепость, Бог - приют,
    Бог наш с нами, победил Он все.</lyrics>
+<title>Воспрянь</title>
 </song>

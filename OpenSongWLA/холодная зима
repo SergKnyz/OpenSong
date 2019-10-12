@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3165</hymn_number>
-<key>E</key>
-<title>Холодная зима</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <author>Михаил Мантай</author>
+<hymn_number>3165</hymn_number>
 <lyrics>[V1]
  Музыка - Михаил Мантай
  Слова - Elena Stoykova-McEachern
@@ -50,4 +49,5 @@
 [V9]
  Холодная зима не хочет умирать...
  Холодная зима...</lyrics>
+<title>Холодная зима</title>
 </song>

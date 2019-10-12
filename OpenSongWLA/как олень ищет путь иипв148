@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>148</hymn_number>
-<title>Как олень ищет путь ИИПВ148</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Как олень ищет путь ИИПВ148</title>
 <lyrics>[V1]
 . D    A/C#      Bm        G
  Как олень ищет путь к ручью живому,
@@ -18,4 +16,6 @@
  Моя надежда, моя сила.
 .   D  A        Bm  G    Em    A   D
  Всю мою душу, всего себя отдаю Тебе.</lyrics>
+<hymn_number>148</hymn_number>
+<key>D</key>
 </song>

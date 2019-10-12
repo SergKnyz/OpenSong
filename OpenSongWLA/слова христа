@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>48</hymn_number>
-<key>E</key>
-<title>Слова Христа</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<author>Алексей Каратаев, Цастинг Цроунс</author>
+<hymn_number>48</hymn_number>
 <lyrics>[V1]
  1 куплет:
 . E                    C#m                      A
@@ -58,5 +58,5 @@
    Я расправил свои крылья, когда однажды
 .  A                           H       E
    Я услышал зов Христа и эти Его Слова</lyrics>
-<author>Алексей Каратаев, Цастинг Цроунс</author>
+<title>Слова Христа</title>
 </song>

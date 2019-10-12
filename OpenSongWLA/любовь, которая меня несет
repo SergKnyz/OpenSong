@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3485</hymn_number>
-<title>Любовь, которая меня несет</title>
-<author>Rivers &amp; Robots, Риверс &amp; Роботс</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Любовь, которая меня несет</title>
 <lyrics>[V1]
  Как велика
  Любовь Твоя ко мне, мой чудесный Бог!
@@ -47,4 +45,6 @@
 
 [V7]
  Перевод: Оксана Бондарь-Павловская</lyrics>
+<hymn_number>3485</hymn_number>
+<author>Rivers &amp; Robots, Риверс &amp; Роботс</author>
 </song>

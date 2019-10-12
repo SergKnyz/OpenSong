@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Игорь Иванов</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .        C#m             F#m
  Пусть душа холодна, как лед...
@@ -29,5 +28,6 @@
  Только в Нем обретается счастье!</lyrics>
 <title>Пусть душа холодна как лед</title>
 <key>C#m</key>
+<author>Игорь Иванов</author>
 <hymn_number>717</hymn_number>
 </song>

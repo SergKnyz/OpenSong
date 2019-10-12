@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>575</hymn_number>
-<title>Ночь над городом царила ПВ575</title>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
+<hymn_number>575</hymn_number>
 <lyrics>[V1]
  Ночь над городом царила...
  Улицы, где целый день
@@ -40,4 +39,5 @@
  Песня сердцу мир дарит!
  О молись! Из клети темной
  Бог тебя освободит.</lyrics>
+<title>Ночь над городом царила ПВ575</title>
 </song>

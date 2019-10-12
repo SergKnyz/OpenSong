@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Ты радость, свобода</title>
-<key>E</key>
 <lyrics>[V1]
  Ты радость, свобода
 .E                     C#m
@@ -23,4 +22,5 @@
    С Тобой всегда любовь моя
 .                            E              H A
    В Тебе смысл жизни. Я живу лишь для Тебя.</lyrics>
+<key>E</key>
 </song>

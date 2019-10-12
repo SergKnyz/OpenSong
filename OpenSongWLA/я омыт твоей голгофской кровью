@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><tempo>66</tempo>
-<time_sig>4/4</time_sig>
-<key>D</key>
-<title>Я омыт Твоей голгофской Кровью</title>
-<aka>Бог моя надежда</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <hymn_number>25</hymn_number>
+<aka>Бог моя надежда</aka>
+<tempo>66</tempo>
 <lyrics>[V1]
 .D            Hm   H7  Em         A7
  Бог - моя надежда, Б__ог - моя опора,
@@ -19,4 +17,6 @@
    Даровал спасенье мне, Благодарен я Тебе,
 .       D/A        Asus A7 D  Dsus
    Ты омыл меня Своею    Кровью.</lyrics>
+<time_sig>4/4</time_sig>
+<title>Я омыт Твоей голгофской Кровью</title>
 </song>

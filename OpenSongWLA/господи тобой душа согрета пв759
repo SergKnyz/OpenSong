@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Господи Тобой душа согрета ПВ759</title>
-<key>D</key>
-<hymn_number>2600</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Господи! Тобой душа согрета,
  Ты - велик, а я - так слаб и мал!
  Дай мне помнить все мои обеты,
@@ -30,4 +27,7 @@
  Победить земную суету!
  Только полной радостной отдачей
  Я Тебя, Господь, приобрету.</lyrics>
+<title>Господи Тобой душа согрета ПВ759</title>
+<key>D</key>
+<hymn_number>2600</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>303</hymn_number>
-<title>Ты сказал Я слишком молод ПВ303</title>
-<key>Ab</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ты сказал: &quot;Я слишком молод,
  Чтоб вступить на путь Христа&quot;.
  Дух сковал неверья холод,
@@ -48,4 +45,7 @@
  Нерешительным умом;
  Суете скажи подлунной:
  &quot;Я решил, иду с Христом&quot;.</lyrics>
+<title>Ты сказал Я слишком молод ПВ303</title>
+<key>Ab</key>
+<hymn_number>303</hymn_number>
 </song>

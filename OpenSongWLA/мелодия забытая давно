@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Мелодия забытая давно</title>
-<key>C</key>
-<hymn_number>671</hymn_number>
 <lyrics>[V1]
 .Cm                Ab                        Cm  G
  В тот час когда в душе твоей усталой вдруг проснётся ,
@@ -35,5 +33,7 @@
  Я знаю, что не время нет не время сердце лечит,
 .   Cm     Eb          Cm         G
  Ты помни о том  - Он давно тебя простил !</lyrics>
+<hymn_number>671</hymn_number>
 <author>Синай</author>
+<key>C</key>
 </song>

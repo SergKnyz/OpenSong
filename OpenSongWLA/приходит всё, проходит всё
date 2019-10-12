@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6283</hymn_number>
-<title>Приходит всё, проходит всё</title>
-<author>Планетсхакерс</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Приходит всё, проходит всё</title>
 <lyrics>[V1]
  Приходит всё, проходит всё,
  Знаю точно лишь одно
@@ -28,4 +26,6 @@
 [B1]
    Мне не важно, что скажут я в Нем тону,
    Не угасить мою страсть Бог, я Тебя хвалю!</lyrics>
+<hymn_number>6283</hymn_number>
+<author>Планетсхакерс</author>
 </song>

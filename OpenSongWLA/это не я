@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Алла и Сергей Манчик</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>66</hymn_number>
+<key>Bb</key>
+<author>Алла и Сергей Манчик</author>
+<title>Это не я</title>
 <lyrics>[V1]
  Вст
 
@@ -39,7 +42,4 @@
  Это не я,  не я, Это не я,  не я
 .A7                  Dm A7 Bb
  Это не я,  не я, Это Ты</lyrics>
-<title>Это не я</title>
-<key>Bb</key>
-<hymn_number>66</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Нет места о Спаситель ПВ606</title>
-<key>D</key>
-<hymn_number>606</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Нет места, о Спаситель,
  Здесь в мире для Тебя;
  И крова не имел Ты
@@ -50,4 +47,7 @@
  Но, если Ты придешь,
  Приют в сердечной клети
  Ты для Себя найдешь.</lyrics>
+<title>Нет места о Спаситель ПВ606</title>
+<key>D</key>
+<hymn_number>606</hymn_number>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Бог надежды Бог любви ПВ3239</title>
-<key>Ab</key>
-<hymn_number>3239</hymn_number>
 <lyrics>[V1]
  Бог надежды, Бог любви,
  в жертву Ты меня прими.
@@ -50,4 +48,6 @@
  о, чрез Христа Ты вновь и вновь,
  покажи, что Ты - любовь,
  да, покажи, что Ты - любовь.</lyrics>
+<hymn_number>3239</hymn_number>
+<key>Ab</key>
 </song>

@@ -1,23 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>757</hymn_number>
-<title>Дождь придёт</title>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+.            Am
  Мы жаждем славы Твоей,
+.            F
  Ждем ветер Духа Святого,
+.      C
  Открываем сердца.
+.            G/H
  Господь, излей!
 
 [V2]
+.            Am
  Мы жаждем славы Твоей,
+.      F
  И ожидаем, чтоб снова
+.      C
  Твой дождь излился на нас.
+.            G/H
  Господь, излей!
 
 [C1]
    Припев:
+.            Am            F
    Дождь придет, дождь придет
+.      C              G/H
    Откроются окна на небе
+.            Am            F
    Дождь придет, дождь придет
+.     C                 G/H
    Потоки прольются на землю.</lyrics>
-<author>Ольга Марина</author>
+<title>Дождь придёт</title>
+<author>Мицхаел У. Смитх, Мицхаел Фаррон</author>
+<key>A</key>
+<hymn_number>757</hymn_number>
 </song>

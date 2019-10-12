@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3017</hymn_number>
-<key>D</key>
-<title>Достоин Ты</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Hm           G              A
  Небеса проповедуют славу Твою
 .Hm             G             A
@@ -70,5 +67,8 @@
  Взывает: «приди ко мне, мой Бог»
 .        G         A
  Достоин, достоин Ты</lyrics>
+<title>Достоин Ты</title>
+<key>D</key>
 <author>Виталий Ефремочкин</author>
+<hymn_number>3017</hymn_number>
 </song>

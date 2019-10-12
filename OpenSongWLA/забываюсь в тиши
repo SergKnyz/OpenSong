@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Забываюсь в тиши</title>
-<key>A</key>
-<hymn_number>516</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <author>Imprintband</author>
+<hymn_number>516</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Gm   F/A       Bb      D#/G   Bb/F
@@ -37,4 +36,5 @@
  Знаю, Ты всё поймёшь.
  Будешь рядом везде, протянешь руку Ты мне
  Охраняя меня.</lyrics>
+<title>Забываюсь в тиши</title>
 </song>

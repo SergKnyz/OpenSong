@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>672</hymn_number>
-<aka>Ария Марии</aka>
-<title>Я чувствую Твою боль и каждый стук сердца Твой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Анастасия Яценко</author>
 <key>Dm</key>
-<author>Анастасия Яценко</author>
+<aka>Ария Марии</aka>
+<hymn_number>672</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .       Gm7                 A7       Dm
@@ -54,4 +53,5 @@
  5 куплет:
  Но у тьмы есть надежды луч, Твое слово в душе храню.
  Ты воскреснешь, Сынок, этого я жду...</lyrics>
+<title>Я чувствую Твою боль и каждый стук сердца Твой</title>
 </song>

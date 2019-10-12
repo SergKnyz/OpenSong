@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Спаситель путь мне указал ПВ2728</title>
-<key>F</key>
-<hymn_number>2728</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Спаситель путь мне указал
  И за Собой повел,
  И зову нежному я внял,
@@ -30,4 +27,7 @@
    Я за любовь Твою,
    Что Кровью чистою омыл
    Душу грешную.</lyrics>
+<title>Спаситель путь мне указал ПВ2728</title>
+<key>F</key>
+<hymn_number>2728</hymn_number>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>29</hymn_number>
+<author>Алексей Каратаев</author>
+<key>F</key>
+<title>Дивный Бог</title>
 <lyrics>[V1]
  1 куплет:
 .F Gm7         Eb F     Gm7       Eb
@@ -30,7 +33,4 @@
    Аллилуйя, Я превозношу Тебя
 .  Cm7        Eb     F
    Аллилуйя, Славой наполняй меня</lyrics>
-<hymn_number>29</hymn_number>
-<title>Дивный Бог</title>
-<key>F</key>
 </song>

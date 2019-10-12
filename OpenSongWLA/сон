@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>998</hymn_number>
-<title>Сон</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Сон</title>
 <lyrics>[V1]
  1 куплет:
 .    Am                      E           Am
@@ -28,5 +26,7 @@
  3 куплет:
  А если в дальний путь ты позовёшь Христа
  Раздоров и разлуки не будет никогда</lyrics>
+<hymn_number>998</hymn_number>
 <author>Кристалл</author>
+<key>A</key>
 </song>

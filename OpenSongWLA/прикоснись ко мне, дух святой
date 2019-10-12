@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Am</key>
-<title>Прикоснись ко мне, Дух Святой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Прикоснись ко мне, Дух Святой</title>
 <lyrics>[V1]
 .Am                 Dm      E
  Прикоснись ко мне, Дух Святой,
@@ -16,4 +15,5 @@
    Слава Тебе, Бог Мой, за любовьТвою,
 .  Am              E
    За Святого Духа я благодарю.  //</lyrics>
+<key>Am</key>
 </song>

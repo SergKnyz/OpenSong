@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>В святости Боже храни меня ПВ3179</title>
-<hymn_number>3179</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В святости, Боже, храни меня.
  Дай, чтоб Твоим быть мне навсегда,
  чтоб отражался лик Твой во мне.
@@ -24,4 +21,7 @@
  Шаг мой и поступь Ты укрепи.
  Если окончу путь мой земной,
  дай мне, о Боже, вечный покой.</lyrics>
+<title>В святости Боже храни меня ПВ3179</title>
+<key>G</key>
+<hymn_number>3179</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>356</hymn_number>
-<title>Словно пламя</title>
-<key>A</key>
-<author>Слово Жизни Music</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Словно пламя</title>
 <lyrics>[V1]
  1 куплет:
 .        Am                   G
@@ -41,4 +38,7 @@
    Как ветер приди и обнови
 .    Am              G
    Иисус, мне нужен Ты</lyrics>
+<hymn_number>356</hymn_number>
+<author>Слово Жизни Music</author>
+<key>A</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Победил</title>
-<hymn_number>3511</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
  Был рожден в плену греха,
  Плакала моя душа.
@@ -40,5 +38,7 @@
 [V4]
  Я Тобою воскрешен -
  Бог во мне, а я лишь в Нем!</lyrics>
+<title>Победил</title>
 <author>Hillsong College</author>
+<hymn_number>3511</hymn_number>
 </song>

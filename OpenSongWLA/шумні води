@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Шумні води</title>
-<key>G</key>
-<hymn_number>888</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Gm             D        Gm
  Я прийду вже скоро за тобою,
@@ -36,5 +33,8 @@
  Всі почують надзвичайний крик.
  Суд гряде рад грішною землею,
  Ти ж готова будь у кожну мить.</lyrics>
+<title>Шумні води</title>
+<key>G</key>
 <author>Давидюки</author>
+<hymn_number>888</hymn_number>
 </song>

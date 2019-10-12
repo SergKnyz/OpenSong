@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>566</hymn_number>
+<author>Спасение церковь г. Вишневое</author>
+<key>D</key>
+<title>Ты рядом</title>
+<lyrics>[V1]
  1 куплет:
 .Dm                         A
  Ты - Надежда моя! Ты - Спасение моё!
@@ -33,8 +37,4 @@
    Ты не оставишь, Ты не покинешь,
 .  Gm               A
    Всегда Ты рядом, я навеки Твой! Иисус!</lyrics>
-<author>Спасение церковь г. Вишневое</author>
-<hymn_number>566</hymn_number>
-<title>Ты рядом</title>
-<key>D</key>
 </song>

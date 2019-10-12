@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Средь дышащих влагаю райских садов ПВ2331</title>
-<hymn_number>2331</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Средь дышащих влагаю райских садов
  Во время вечерней прохлады
  Раздался суровый Божественный зов:
@@ -36,4 +33,7 @@
  Листвой не покроешь себя ты.
  Скорей выходи, ибо вот звучит зов:
  &quot;Адам, где ты? Адам, где ты?&quot;.</lyrics>
+<title>Средь дышащих влагаю райских садов ПВ2331</title>
+<key>G</key>
+<hymn_number>2331</hymn_number>
 </song>

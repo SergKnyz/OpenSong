@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5858</hymn_number>
-<key>E</key>
-<title>Нести Твой Свет</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .E G#m  H F#
  Разольюсь океанами, по всей земле
@@ -44,5 +41,8 @@
    Я хочу нести Твой свет...
    Я хочу нести Твой свет, я хочу нести Твой свет,
    Я хочу нести Твой свет...</lyrics>
+<title>Нести Твой Свет</title>
 <author>SokolovBrothers</author>
+<key>E</key>
+<hymn_number>5858</hymn_number>
 </song>

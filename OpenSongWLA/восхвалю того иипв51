@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Восхвалю Того ИИПВ51</title>
+<lyrics>[V1]
 .        A   C#m
  Восхвалю Того,
 .          D
@@ -13,7 +14,7 @@
 [V2]
 .   D      E        C#m       F#m
  Дана мне Богом эта дивная любовь -
-.     Bm   E          A  A7
+.     Bm   E          A A7
  Сильнее нет любви иной.
 .     D     E        C#m       F#m
  В минуты, полные отчаянья, тревог
@@ -29,9 +30,9 @@
  Свет Его любви не погас.
 
 [V3]
-.D.      Bm    E    A
+.D       Bm    E    A
  В Господе я всё могу.</lyrics>
 <hymn_number>51</hymn_number>
+<aka>Кто всегда со мною рядом,</aka>
 <key>A</key>
-<title>Восхвалю Того ИИПВ51</title>
 </song>

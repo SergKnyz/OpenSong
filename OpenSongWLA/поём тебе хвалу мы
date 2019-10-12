@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Поём Тебе хвалу мы</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
+<key>A</key>
 <hymn_number>755</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -40,5 +40,5 @@
 [V4]
 .Am    F   G
  О-о-о-о-о-о - 4 раза</lyrics>
-<author>Виталий Ефремочкин</author>
+<title>Поём Тебе хвалу мы</title>
 </song>

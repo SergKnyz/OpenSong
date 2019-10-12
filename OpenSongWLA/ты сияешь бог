@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>638</hymn_number>
+<author>Hillsong Ukraine</author>
+<key>F#</key>
+<title>Ты сияешь Бог</title>
+<lyrics>[V1]
  1 куплет:
 .            F#m     C#m      E         H
  Господь нам жизнь дал по огромной любви
@@ -44,8 +48,4 @@
    Земля споет: «Христос - наш Царь,
 .  F#m  D E
    Хвала Тебе!»</lyrics>
-<author>Hillsong Ukraine</author>
-<key>F#</key>
-<title>Ты сияешь Бог</title>
-<hymn_number>638</hymn_number>
 </song>

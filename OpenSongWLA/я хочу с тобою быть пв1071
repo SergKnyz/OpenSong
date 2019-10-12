@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>555</hymn_number>
-<key>G</key>
-<title>Я хочу с Тобою быть ПВ1071</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я хочу с Тобою быть,
  О Спаситель мой.
  Лишь в Тебе хочу пребыть
@@ -48,4 +45,7 @@
  Лишь Тебе хочу служить.
  Ты, Христос мой, верю я
  - Будущность моя.</lyrics>
+<title>Я хочу с Тобою быть ПВ1071</title>
+<key>G</key>
+<hymn_number>555</hymn_number>
 </song>

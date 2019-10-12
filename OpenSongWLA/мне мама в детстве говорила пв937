@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>937</hymn_number>
-<key>F</key>
-<title>Мне мама в детстве говорила ПВ937</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Мне мама в детстве говорила:
  &quot;Дитя, почаще ты молись.
  В молитве дивная есть сила,
@@ -42,4 +39,7 @@
  Так ясно слышалось:
  &quot;Борись! Господня помощь недалеко!
  Встань на колени и молись!&quot;</lyrics>
+<title>Мне мама в детстве говорила ПВ937</title>
+<key>F</key>
+<hymn_number>937</hymn_number>
 </song>

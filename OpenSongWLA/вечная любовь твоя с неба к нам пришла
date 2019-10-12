@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3391</hymn_number>
-<aka>Благодарю</aka>
-<key>D</key>
-<title>Вечная любовь Твоя с неба к нам пришла</title>
-<author>Новый Завет NTWorship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Вечная любовь Твоя с неба к нам пришла</title>
 <lyrics>[V1]
  Куплет:
 . Dm       Am/C        A#              F
@@ -27,4 +23,8 @@
    Благодарю, благодарю, благодарю Тебя Иисус.
 .          Dm         Am/C        A#        C/A
    Благодарю, благодарю, благодарю Тебя Иисус.</lyrics>
+<aka>Благодарю</aka>
+<hymn_number>3391</hymn_number>
+<author>Новый Завет NTWorship</author>
+<key>D</key>
 </song>

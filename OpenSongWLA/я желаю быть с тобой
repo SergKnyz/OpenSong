@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>42</hymn_number>
-<title>Я желаю быть с Тобой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев</author>
 <key>D</key>
-<author>Алексей Каратаев</author>
+<hymn_number>42</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .D            F#m              D          F#m
@@ -28,4 +27,5 @@
 [V4]
 .F#m G  A F#m G A B Dadd9 D
  Возьми меня__</lyrics>
+<title>Я желаю быть с Тобой</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2535</hymn_number>
-<key>F</key>
-<title>Я увижу во славе Иисуса ПВ2535</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я увижу во славе Иисуса ПВ2535</title>
 <lyrics>[V1]
  Я увижу во славе Иисуса
  и войду в мир чудесный, иной,
@@ -40,4 +38,6 @@
  Его все изменит во мне;
  Все земное навеки исчезнет,
  уподоблюсь Иисусу вполне.</lyrics>
+<hymn_number>2535</hymn_number>
+<key>F</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1259</hymn_number>
-<key>E</key>
-<title>Иди к Христу</title>
-<author>NDay</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Иди к Христу</title>
 <lyrics>[V1]
  Intro:
 
@@ -29,4 +26,7 @@
  Но внутри пустота, прямо в сердце твоем.
  И ты ходишь по кругу, ищешь свою звезду
  Я скажу тебе просто, иди к Христу.</lyrics>
+<hymn_number>1259</hymn_number>
+<key>E</key>
+<author>NDay</author>
 </song>

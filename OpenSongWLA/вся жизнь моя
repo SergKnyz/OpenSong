@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вся жизнь моя</title>
-<key>Bb</key>
-<hymn_number>1168</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Bbm           C#
  Вся жизнь моя в Руках Твоих,
@@ -44,5 +41,8 @@
    Любовью Своею Ты покрыл, чтоб я был с Тобой.
 .     G#    Bbm
    Ты жизнь моя.</lyrics>
+<title>Вся жизнь моя</title>
+<key>Bb</key>
 <author>Вместе к совершенству</author>
+<hymn_number>1168</hymn_number>
 </song>

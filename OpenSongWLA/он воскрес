@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Божье прикосновение</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>176</hymn_number>
+<key>D</key>
+<author>Божье прикосновение</author>
+<title>Он воскрес</title>
 <lyrics>[V1]
  1 куплет:
 .      G#                   D#/G            Fm
@@ -56,7 +59,4 @@
  Он воскрес, аллилуйя осанна,
 .       F#m    D A E    F#m  D A E
  Он воскрес... Он  воскрес...</lyrics>
-<hymn_number>176</hymn_number>
-<key>D</key>
-<title>Он воскрес</title>
 </song>

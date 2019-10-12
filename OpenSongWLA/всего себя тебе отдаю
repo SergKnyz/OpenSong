@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>52</hymn_number>
-<title>Всего себя Тебе отдаю</title>
-<key>F#</key>
-<author>Слово Жизни Music</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Всего себя Тебе отдаю</title>
 <lyrics>[V1]
  1 Куплет:
 . C#            G#     F#
@@ -41,4 +38,7 @@
    Вот ноги мои, они пойдут,  куда скажешь Ты.
 .                    C# G# D#m F#
    Иисус, меня возьми.</lyrics>
+<hymn_number>52</hymn_number>
+<key>F#</key>
+<author>Слово Жизни Music</author>
 </song>

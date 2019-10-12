@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Осколки неба</title>
-<hymn_number>1311</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Небо разбилось, упало с высоты
  Морем осколков одной большой мечты,
  Достигло земли и стало людьми.
@@ -33,4 +31,6 @@
  Это неба осколки летят и, коснувшись земли,
  Они станут однажды людьми.
  Они станут однажды, как я и ты.</lyrics>
+<title>Осколки неба</title>
+<hymn_number>1311</hymn_number>
 </song>

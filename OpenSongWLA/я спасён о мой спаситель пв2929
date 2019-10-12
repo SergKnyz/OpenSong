@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2929</hymn_number>
-<key>Eb</key>
-<title>Я спасён О мой Спаситель ПВ2929</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
+<hymn_number>2929</hymn_number>
 <lyrics>[V1]
  Я спасён! О мой Спаситель!
  Сердце радостно поёт.
@@ -30,4 +29,5 @@
  - как Его не восхвалить!
  Я спасён! О дай, Спаситель,
  крепче мне Тебя любить!</lyrics>
+<title>Я спасён О мой Спаситель ПВ2929</title>
 </song>

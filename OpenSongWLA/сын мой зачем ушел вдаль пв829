@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Сын мой Зачем ушел вдаль ПВ829</title>
-<hymn_number>829</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Сын мой! Зачем ушел вдаль?
  Вернись, Христос зовет!
  Иль ты не слышишь зова?
@@ -24,4 +21,7 @@
  Две тысячи уж лет.
  Все ждет Христос ответа
  На зов любви Своей.</lyrics>
+<title>Сын мой Зачем ушел вдаль ПВ829</title>
+<key>A</key>
+<hymn_number>829</hymn_number>
 </song>

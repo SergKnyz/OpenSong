@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1293</hymn_number>
-<title>Крылья орла</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <author>Imprintband</author>
+<hymn_number>1293</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am     Em        G            D
@@ -49,4 +48,5 @@
    Ты расправь мне крылья, научи летать
 .  Am          C    G         D
    Научи как птицу небо покорять</lyrics>
+<title>Крылья орла</title>
 </song>

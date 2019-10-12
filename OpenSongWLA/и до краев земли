@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3171</hymn_number>
-<title>И до краев земли</title>
-<key>A</key>
-<author>Наталья Доценко, Мосаиц МСЦ</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>И до краев земли</title>
 <lyrics>[V1]
  Intro:
 
@@ -49,4 +46,7 @@
  Запев:
  О-о! Обнял Ты землю
  Своей любовью!</lyrics>
+<hymn_number>3171</hymn_number>
+<key>A</key>
+<author>Наталья Доценко, Мосаиц МСЦ</author>
 </song>

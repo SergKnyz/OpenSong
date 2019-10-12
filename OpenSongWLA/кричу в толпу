@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Кричу в толпу</title>
-<hymn_number>562</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Кричу в толпу, кричу до слез,
  До хрипоты, до сильной боли,
  А этот мир, как сытый пес
@@ -15,4 +13,6 @@
  Дела, заботы и проблемы,
  И мысли те, и то же зло...
  И в разговорах те же темы...</lyrics>
+<title>Кричу в толпу</title>
+<hymn_number>562</hymn_number>
 </song>

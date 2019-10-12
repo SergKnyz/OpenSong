@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1999</hymn_number>
-<title>Воскресшему слава</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>МСЦ ЕХБ</author>
 <key>Bb</key>
+<aka>Иисусу воскресшему юность поёт!</aka>
+<hymn_number>1999</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .  Bb       D#      F        Bb
@@ -36,5 +37,5 @@
  Достойно прославлен пусть будет Господь!
  Он вечность цветущую нам подарил
  В сиянье Своей негасимой любви.</lyrics>
-<author>МСЦ ЕХБ</author>
+<title>Воскресшему слава</title>
 </song>

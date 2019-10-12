@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Каждый день на устах моих</aka>
+<title>Я буду славить Господа Христа</title>
+<lyrics>[V1]
 .F
  Каждый день на устах моих
 .Dm
@@ -33,8 +35,6 @@
  Согревая всю землю теплом
  В моём сердце опять звучит
  Иисусу Царю Псалом.</lyrics>
-<key>F</key>
-<title>Я буду славить Господа Христа</title>
 <author>Сергей Брикса</author>
-<aka>Каждый день на устах моих</aka>
+<key>F</key>
 </song>

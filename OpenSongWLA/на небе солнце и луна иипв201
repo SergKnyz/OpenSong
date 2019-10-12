@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>На небе солнце и луна ИИПВ201</title>
-<hymn_number>201</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>На небе солнце и луна ИИПВ201</title>
 <lyrics>[V1]
 .    D    F#        Bm
  На небе солнце и луна,
@@ -38,4 +36,6 @@
  Что дышит, всё, что движется
 .        Em        A          D
  Пусть хвалит и прославляет Его.</lyrics>
+<hymn_number>201</hymn_number>
+<key>D</key>
 </song>

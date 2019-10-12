@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Да, Ты - мой Бог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Наталья Шемчишина</author>
 <key>Bb</key>
 <hymn_number>2880</hymn_number>
-<author>Наталья Шемчишина</author>
 <lyrics>[V1]
  1 куплет:
 .Bbm                          F#  F
@@ -37,4 +36,5 @@
  Человек ничтожен так и слаб
  И к Тебе в молитве я взываю,
  Каюсь пред Тобой в своих грехах.</lyrics>
+<title>Да, Ты - мой Бог</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>255</hymn_number>
-<key>F#</key>
-<title>Ты не будешь одинок</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 . D#                     Fm                   A#
  Один в пути, нет силы идти - то дождь, то зной.
@@ -52,5 +49,8 @@
  Держит за руку крепко Он тебя.
  Бог идет всегда с тобой.
  Он будет рядом средь тревог.</lyrics>
+<title>Ты не будешь одинок</title>
+<key>F#</key>
 <author>Эдем</author>
+<hymn_number>255</hymn_number>
 </song>

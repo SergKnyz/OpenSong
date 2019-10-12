@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Счастлив свободен лишь тот ПВ2996</title>
-<hymn_number>2996</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Счастлив свободен лишь тот ПВ2996</title>
 <lyrics>[V1]
  Счастлив, свободен лишь тот,
  кто спасен, мир он обрел и покой;
@@ -30,4 +28,6 @@
  что душу к смерти ведет,
  - радость имеют безмерную те,
  кто непорочно и свято ждет.</lyrics>
+<hymn_number>2996</hymn_number>
+<key>A</key>
 </song>

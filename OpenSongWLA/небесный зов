@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2227</hymn_number>
-<title>Небесный зов</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Небесный зов</title>
 <lyrics>[V1]
  1. Пусть история станет пылью
  И луна навсегда зайдет...
@@ -26,5 +25,6 @@
  Этот тихий, небесный зов.
  Тот, кто хочет подняться выше,
  Подойди (приходи) под Его покров.</lyrics>
+<hymn_number>2227</hymn_number>
 <author>Виктория и Елена Дзони</author>
 </song>

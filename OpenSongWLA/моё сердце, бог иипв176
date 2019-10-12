@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>176</hymn_number>
-<key>C</key>
-<title>Моё сердце, Бог ИИПВ176</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>176</hymn_number>
 <lyrics>[V1]
 . C.          Dm  G.            C
  Моё сердце, Бог, сделай истинным.
@@ -20,4 +19,5 @@
 [V3]
  Сердцемоё возьми и измени.
  Ивсё, что хочешь Ты, из него лепи.</lyrics>
+<title>Моё сердце, Бог ИИПВ176</title>
 </song>

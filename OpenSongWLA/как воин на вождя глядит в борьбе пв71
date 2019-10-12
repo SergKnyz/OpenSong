@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>71</hymn_number>
-<title>Как воин на вождя глядит в борьбе ПВ71</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>71</hymn_number>
 <lyrics>[V1]
  Как воин на вождя глядит в борьбе,
  Глаза обращены мои к Тебе;
@@ -24,4 +23,5 @@
  И жаждет зов услышать с высоты;
  Я жду Тебя с сердечною мольбою;
  Спаситель мой, приди, приди за мною!</lyrics>
+<title>Как воин на вождя глядит в борьбе ПВ71</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>130</hymn_number>
-<title>Я духом обновленья ПВ130</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я духом обновленья ПВ130</title>
 <lyrics>[V1]
  Я духом обновленья,
  Свободный от оков,
@@ -70,4 +68,6 @@
  Господь за мной грядет
  И в одеянье света
  Меня Он облечет.</lyrics>
+<hymn_number>130</hymn_number>
+<key>A</key>
 </song>

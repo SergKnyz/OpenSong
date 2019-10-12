@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>701</hymn_number>
-<title>Навеки не оставлю ПВ701</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Навеки не оставлю ПВ701</title>
 <lyrics>[V1]
  Навеки не оставлю
  Святую Библию;
@@ -30,4 +28,6 @@
  В ней истина и свет,
  Она - источник жизни,
  Ей в мире равной нет.</lyrics>
+<hymn_number>701</hymn_number>
+<key>A</key>
 </song>

@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мой Маяк</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3183</hymn_number>
 <key>C</key>
-<hymn_number>3183</hymn_number>
+<author>Rend collective</author>
+<title>Мой Маяк</title>
 <lyrics>[V1]
  Куплет 1:
 .C F  C
@@ -50,5 +51,4 @@
    Ты светишь ярко!
 .  F  C  Am  G
    М__е__ня проводишь через шторм!</lyrics>
-<author>Rend collective</author>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Этот вечер</title>
-<hymn_number>607</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Этот вечер, как чёрный кот
  Тихо сел у окна...
  И душа ничего не ждёт..
@@ -28,4 +26,6 @@
  Кто-то ищет любви и покоя, заботливых рук!
  Кто-то целую жизнь сиротой на пустом пепелище...
  Кто-то очень устал от тревог, от обид и разлук!</lyrics>
+<title>Этот вечер</title>
+<hymn_number>607</hymn_number>
 </song>

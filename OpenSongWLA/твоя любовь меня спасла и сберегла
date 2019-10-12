@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
-<title>Твоя любовь меня спасла и сберегла</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Марина Левина</author>
+<key>C#m</key>
 <hymn_number>2239</hymn_number>
-<author>Марина Левина</author>
 <lyrics>[V1]
 .C#m         F#m   G#            C#m
  Твоя любовь меня спасла и сберегла,
@@ -21,4 +20,5 @@
 [V4]
  Славу Господу, славу Господу,
  Славу Господу поёт душа!</lyrics>
+<title>Твоя любовь меня спасла и сберегла</title>
 </song>

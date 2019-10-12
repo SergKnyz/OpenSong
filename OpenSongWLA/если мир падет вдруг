@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Если мир падет вдруг</title>
-<key>C</key>
-<hymn_number>4144</hymn_number>
-<author>Hillsong Young &amp; Free</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет
  Ты любовью мир завоевал
  Взял битвы на Себя
@@ -41,4 +37,8 @@
    Пройду сквозь огонь и не сгорю
    Молитвой я в битве устою
    Я все возложу к Твоим ногам, Иисус</lyrics>
+<title>Если мир падет вдруг</title>
+<author>Hillsong Young &amp; Free</author>
+<key>C</key>
+<hymn_number>4144</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Нас почитают безумными ПВ1250</title>
-<key>F</key>
-<hymn_number>1250</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Нас почитают безумными,
  Прошлых веков поколеньем,
  Когда мы в местах бесшумных
@@ -40,4 +37,7 @@
  Клеймят, не стыдясь неправды,
  Наш путь Иисусом проложенный,
  А значит - цель жизни оправдана.</lyrics>
+<title>Нас почитают безумными ПВ1250</title>
+<key>F</key>
+<hymn_number>1250</hymn_number>
 </song>

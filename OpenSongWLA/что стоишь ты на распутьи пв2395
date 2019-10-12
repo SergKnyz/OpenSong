@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3125</hymn_number>
-<key>C</key>
-<title>Что стоишь ты на распутьи ПВ2395</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Что стоишь ты на распутьи ПВ2395</title>
 <lyrics>[V1]
  Что стоишь ты на распутьи
  С сердцем раненым в груди?
@@ -30,4 +28,6 @@
  Грех души твоей сотрет.
  Его голос вот сегодня
  Нежно так тебя зовет.</lyrics>
+<hymn_number>3125</hymn_number>
+<key>C</key>
 </song>

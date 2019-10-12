@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Велик Ты Господь</title>
-<key>D</key>
-<aka>Ты дал жизнь, Ты любовь, в темноте свет приносишь,</aka>
-<hymn_number>771</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .        D          F#m            E
  Ты дал жизнь, Ты любовь, в темноте свет приносишь,
@@ -30,5 +26,9 @@
    Сердца воскликнут лишь к Нему
 .   D        A
    Как Ты велик.</lyrics>
+<title>Велик Ты Господь</title>
+<key>D</key>
 <author>Виталий Ефремочкин, Сонс анд Даугхтерс, Давид Леонард</author>
+<hymn_number>771</hymn_number>
+<aka>Ты дал жизнь, Ты любовь, в темноте свет приносишь,</aka>
 </song>

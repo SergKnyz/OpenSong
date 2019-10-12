@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1844</hymn_number>
-<key>Cm</key>
-<title>Ах если б вид Его мучений ПВ1844</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Cm</key>
+<hymn_number>1844</hymn_number>
 <lyrics>[V1]
 .Cm                   G
  Ах, если б вид Его мучений
@@ -48,4 +47,5 @@
  Записан к вечной жизни с Ним.
  Куда мой дух за Ним со славой
  Войдет обновленным, святым.</lyrics>
+<title>Ах если б вид Его мучений ПВ1844</title>
 </song>

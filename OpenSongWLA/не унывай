@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Не унывай</title>
-<hymn_number>3393</hymn_number>
-<author>Hillsong Ukraine</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Не унывай</title>
 <lyrics>[V1]
  Куплет:
 .       D                         A/C#
@@ -23,4 +20,7 @@
    Не унывай! Бог с тобой всегда!
 .    Hm             G            D
    Ты помни что Господь с тобой всегда!</lyrics>
+<hymn_number>3393</hymn_number>
+<key>D</key>
+<author>Hillsong Ukraine</author>
 </song>

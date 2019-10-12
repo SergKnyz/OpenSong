@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Как хорошо в Боге ИИПВ150</title>
-<key>A</key>
-<hymn_number>150</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .A  Bm/F# A
  Как хорошо в Боге нам пребывать!
  Братьями сёстрам
@@ -25,4 +22,7 @@
  Любовью связанные навсегда.
 .D/E     A/E    Bm/E      E
  О!      О!     О!        О!</lyrics>
+<title>Как хорошо в Боге ИИПВ150</title>
+<key>A</key>
+<hymn_number>150</hymn_number>
 </song>

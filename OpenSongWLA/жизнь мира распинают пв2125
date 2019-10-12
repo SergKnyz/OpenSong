@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2125</hymn_number>
-<key>Bb</key>
-<title>Жизнь мира распинают ПВ2125</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
+<hymn_number>2125</hymn_number>
 <lyrics>[V1]
  Жизнь мира распинают,
  ко древу пригвождают,
@@ -23,4 +22,5 @@
  Навек с Тобой сольюсь.
  Жизнь мира распинают, ко древу пригвождают,
  Сын Божий па кресте, па смерть Он обречен.</lyrics>
+<title>Жизнь мира распинают ПВ2125</title>
 </song>

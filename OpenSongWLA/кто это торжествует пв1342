@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1342</hymn_number>
-<title>Кто это торжествует ПВ1342</title>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Кто это торжествует ПВ1342</title>
 <lyrics>[V1]
  Кто это торжествует
  И радостно поет?
@@ -48,4 +46,6 @@
  И вы торжествовать?
  Придите - и Спаситель
  Пошлет вам благодать.</lyrics>
+<hymn_number>1342</hymn_number>
+<key>F</key>
 </song>

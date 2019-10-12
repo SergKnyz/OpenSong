@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Альфа и Омега</title>
-<hymn_number>2549</hymn_number>
-<aka>Благодарность и хвала из уст моих течет.</aka>
-<author>Iota worship</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G             C D
  Благодарность и хвала из уст моих течет.
@@ -44,4 +39,9 @@
  2 куплет:
  Возведи меня, Господь, на высоты Твои.
  Возведи меня, Господь, на высоты Твои.</lyrics>
+<title>Альфа и Омега</title>
+<key>G</key>
+<author>Iota worship</author>
+<aka>Благодарность и хвала из уст моих течет.</aka>
+<hymn_number>2549</hymn_number>
 </song>

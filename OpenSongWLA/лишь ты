@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Holy Generation</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>363</hymn_number>
+<key>C</key>
+<author>Holy Generation</author>
+<title>Лишь Ты</title>
 <lyrics>[V1]
  1 куплет:
 .C                      D          Em
@@ -27,7 +30,4 @@
    Лишь Ты один отдал за меня жизнь Свою.
 .        Em               G             Am Hm
    Лишь Ты освободил, я больше не в плену.</lyrics>
-<hymn_number>363</hymn_number>
-<key>C</key>
-<title>Лишь Ты</title>
 </song>

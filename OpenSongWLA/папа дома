@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Вадим Ятковский</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4443</hymn_number>
+<author>Вадим Ятковский</author>
+<key>G</key>
+<title>Папа дома</title>
 <lyrics>[V1]
  1 куплет:
 .G                 D
@@ -36,7 +39,4 @@
  И будут песни в доме том
  И радость в сердце лишь о Нем
  Когда - Папа дома</lyrics>
-<title>Папа дома</title>
-<key>G</key>
-<hymn_number>4443</hymn_number>
 </song>

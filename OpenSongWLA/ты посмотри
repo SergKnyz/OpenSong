@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Лена Исаева (Ковалева)</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>285</hymn_number>
+<key>E</key>
+<author>Лена Исаева (Ковалева)</author>
+<title>Ты посмотри</title>
 <lyrics>[V1]
  1 куплет:
 .Em             D
@@ -34,7 +37,4 @@
  Где радость без конца.
  Скоро встречу Тебя мой Иисус дорогой,
  И буду там всегда.</lyrics>
-<title>Ты посмотри</title>
-<key>E</key>
-<hymn_number>285</hymn_number>
 </song>

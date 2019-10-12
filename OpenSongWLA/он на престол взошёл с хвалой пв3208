@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3208</hymn_number>
-<aka>Благословен Спаситель мой</aka>
-<key>Bb</key>
-<title>Он на престол взошёл с хвалой ПВ3208</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Он на престол взошёл с хвалой ПВ3208</title>
 <lyrics>[V1]
  Благословен Спаситель мой.
  Он на престол взошёл с хвалой.
@@ -31,4 +28,7 @@
  Спаситель мой, Иисус Христос.
  Подумай, что Он пережил,
  когда Отцом оставлен был!</lyrics>
+<hymn_number>3208</hymn_number>
+<aka>Благословен Спаситель мой</aka>
+<key>Bb</key>
 </song>

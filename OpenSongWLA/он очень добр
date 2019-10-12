@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Он очень добр</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<author>Ладони</author>
 <hymn_number>3507</hymn_number>
 <lyrics>[V1]
  Он очень добр
@@ -19,5 +19,5 @@
  Смотрит внимательно, слушает, ждёт.
  Не устаёт и конечно не спит,
  Он Бог, Он свой собирает народ</lyrics>
-<author>Ладони</author>
+<title>Он очень добр</title>
 </song>

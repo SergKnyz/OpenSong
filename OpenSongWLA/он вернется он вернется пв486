@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3611</hymn_number>
-<key>E</key>
-<title>Он вернется Он вернется ПВ486</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Он вернется Он вернется ПВ486</title>
 <lyrics>[V1]
  Он вернется, Он вернется
  На землю, Царь славы,
@@ -24,4 +22,6 @@
  Спасителя любит, -
  Те жемчужинки живые,
  Любимые Им.</lyrics>
+<hymn_number>3611</hymn_number>
+<key>E</key>
 </song>

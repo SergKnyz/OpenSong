@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ближе быть</aka>
-<hymn_number>1542</hymn_number>
-<title>Роли озвучены изъяты все образы</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Роли озвучены изъяты все образы</title>
 <lyrics>[V1]
  1 куплет:
 .E      G#m    E         G#m
@@ -30,5 +27,8 @@
  Стремлюсь к Тебе как волны к берегам
  Всё я уже нашёл заполнил пустые листы
  И пусть чистота их страниц подскажет мне как жить</lyrics>
+<hymn_number>1542</hymn_number>
+<aka>Ближе быть</aka>
+<key>E</key>
 <author>Сергей Брикса</author>
 </song>

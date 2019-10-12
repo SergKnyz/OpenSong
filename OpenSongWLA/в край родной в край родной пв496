@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>В край родной в край родной ПВ496</title>
-<key>G</key>
-<aka>В край родной страны,</aka>
-<hymn_number>496</hymn_number>
 <lyrics>[V1]
  В край родной, в край родной,
  В край родной страны,
@@ -31,4 +28,7 @@
  И в мыслях не имел,
  О чем я слухом не слыхал, -
  Там будет мой удел!</lyrics>
+<aka>В край родной страны,</aka>
+<hymn_number>496</hymn_number>
+<key>G</key>
 </song>

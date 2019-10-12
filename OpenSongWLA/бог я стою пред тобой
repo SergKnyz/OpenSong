@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Ксения Кузнецова</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бог я стою пред Тобой</title>
 <lyrics>[V1]
  Куплет:
 .C#        G#        F#
@@ -28,7 +28,7 @@
    Дай мне прожить для Тебя жизнь ,о которой Ты мечтал,
 .  C#       G#        F#
    Когда творил Ты меня.</lyrics>
-<title>Бог я стою пред Тобой</title>
-<key>F#</key>
 <hymn_number>122</hymn_number>
+<author>Ксения Кузнецова</author>
+<key>F#</key>
 </song>

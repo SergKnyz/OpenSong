@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>362</hymn_number>
-<aka>Пусть всё проходит, летят года.</aka>
-<title>Верь Он придет</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Верь Он придет</title>
 <lyrics>[V1]
  Пусть всё проходит, летят года.
  Светлой надеждой живи всегда
@@ -32,4 +30,6 @@
  Нас соберёт и свой народ спасённый
  В светлую даль поведёт,
  В светлую даль поведёт.</lyrics>
+<hymn_number>362</hymn_number>
+<aka>Пусть всё проходит, летят года.</aka>
 </song>

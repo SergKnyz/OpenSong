@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1545</hymn_number>
-<key>A</key>
-<title>Не просто так</title>
-<author>Сергей Брикса</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am    Dm        Am        G              F        Dm   Am   G
  Разрывая темноту первым криком - с Неба Он в наш мир    вошёл.
@@ -34,4 +30,8 @@
  Не просто так, не просто так , ууууу....
 .Bb          Am                C   G
  Не просто так, не просто так , ууууу....</lyrics>
+<title>Не просто так</title>
+<key>A</key>
+<author>Сергей Брикса</author>
+<hymn_number>1545</hymn_number>
 </song>

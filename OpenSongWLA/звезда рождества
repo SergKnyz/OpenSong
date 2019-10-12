@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5284</hymn_number>
-<title>Звезда рождества</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Звезда рождества</title>
 <lyrics>[V1]
  Однажды появилась и зажглась
  На небе ярче всех одна Звезда
@@ -21,4 +20,5 @@
 [B1]
    Такой далекий свет я вижу в небесах
    И по нему иду к Тебе</lyrics>
+<hymn_number>5284</hymn_number>
 </song>

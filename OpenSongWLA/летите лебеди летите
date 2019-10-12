@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Летите лебеди летите</title>
-<key>A</key>
-<hymn_number>5952</hymn_number>
-<author>Авана</author>
 <lyrics>[V1]
  1 куплет:
 .                Am
@@ -42,4 +39,7 @@
  С Богом не страшны ни дождь, ни град
  С Ним мы долетим в пределы рая
  Вечно будем с Богом в небесах</lyrics>
+<hymn_number>5952</hymn_number>
+<author>Авана</author>
+<key>A</key>
 </song>

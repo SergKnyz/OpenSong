@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><copyright>2005 Бридге Буилдинг Мусиц, Инц.</copyright>
 <title>Я раньше не допонимал</title>
-<key>C</key>
 <lyrics>[V1]
 .C
  Я раньше не до понимал
@@ -62,5 +61,6 @@
    Казалось это странным мне,
 .                     C
    Но спас меня Спаситель.</lyrics>
+<key>C</key>
 <author>Аарон Схуст, Доротхы Дора Греенуелл</author>
 </song>

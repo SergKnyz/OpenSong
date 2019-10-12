@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>809</hymn_number>
-<key>G</key>
-<title>Прости меня Боже прости я молю ПВ809</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Прости меня Боже прости я молю ПВ809</title>
 <lyrics>[V1]
  Прости меня, Боже, прости, я молю,
  Прости, что так поздно к Тебе прихожу,
@@ -40,4 +38,6 @@
  И, светом влекомые, шли все к Тебе.
  Чтоб люди увидели свет Твой во мне
  И, светом влекомые, шли все к Тебе.</lyrics>
+<hymn_number>809</hymn_number>
+<key>G</key>
 </song>

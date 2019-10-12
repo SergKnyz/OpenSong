@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Река</title>
-<key>G</key>
-<hymn_number>2544</hymn_number>
-<author>Iota worship</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G            D        C        D
  Мне нужна защита и любовь Твоя.
@@ -34,4 +30,8 @@
  Как ветры в поле слышу поют о Тебе.
  О том как Ты даруешь утром милость Свою.
  Небесной красоты Волю Твою.</lyrics>
+<title>Река</title>
+<author>Iota worship</author>
+<key>G</key>
+<hymn_number>2544</hymn_number>
 </song>

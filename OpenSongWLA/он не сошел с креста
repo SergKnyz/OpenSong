@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Они</author>
 <key>D</key>
-<title>Он не сошел с креста</title>
+<hymn_number>3</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .        Dm            F               Gm           A
@@ -66,5 +66,5 @@
    ОН не сошёл с креста!!!
 .       H         G#m     Bb
    Прости им, как Я прощаю</lyrics>
-<author>Они</author>
+<title>Он не сошел с креста</title>
 </song>

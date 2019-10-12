@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1419</hymn_number>
+<author>Gospel Project</author>
+<key>B</key>
+<title>Скажи Бог что сделать мне</title>
+<lyrics>[V1]
  Куплет:
 .    Hm                     G
  Скажи, Бог, что сделать мне?
@@ -22,8 +26,4 @@
    Не могу, не могу
 .         D              A
    Без тебя жить, без Тебя быть</lyrics>
-<author>Gospel Project</author>
-<key>B</key>
-<title>Скажи Бог что сделать мне</title>
-<hymn_number>1419</hymn_number>
 </song>

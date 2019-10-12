@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2907</hymn_number>
-<title>Путь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Путь</title>
 <lyrics>[V1]
  Любил я жечь свечу напрасно.
  Смотрел все, как она горит.
@@ -29,5 +28,6 @@
  Свеча горела для тебя.
  И понял ты, зачем погасла
  Свеча, сгоревшая дотла.</lyrics>
+<hymn_number>2907</hymn_number>
 <author>Александр Грайцер</author>
 </song>

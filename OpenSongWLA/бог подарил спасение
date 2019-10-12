@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бог подарил спасение</title>
-<key>D</key>
-<hymn_number>1634</hymn_number>
-<aka>Теперь пою хваление</aka>
-<author>Артём Янский</author>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев: 2раза
 .           D          G
    Бог подарил спасение
@@ -31,4 +26,9 @@
  Воспевши сердцем, поя псалмы
  Ведь достоин славы только Он
  Дар уст положим перед трон</lyrics>
+<title>Бог подарил спасение</title>
+<key>D</key>
+<author>Артём Янский</author>
+<aka>Теперь пою хваление</aka>
+<hymn_number>1634</hymn_number>
 </song>

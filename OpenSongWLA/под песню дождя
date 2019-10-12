@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1538</hymn_number>
-<title>Под песню дождя</title>
-<key>B</key>
-<author>Сергей Брикса</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Hm                G                  Hm G
  Осенний дождь стучит в моё окно слегка,
@@ -45,4 +41,8 @@
    Кровь Христа в небо поднять сильна,
    Все во мне изменяя и очищая, и призывая под песню дождя...
    Под песню дождя...</lyrics>
+<title>Под песню дождя</title>
+<author>Сергей Брикса</author>
+<key>B</key>
+<hymn_number>1538</hymn_number>
 </song>

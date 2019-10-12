@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>942</hymn_number>
-<key>E</key>
-<title>Дом</title>
-<author>Hillsong Ukraine</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   E
  С громкой хвалой из сердца
@@ -52,4 +48,8 @@
    Иисус, о, моя Ты ценность.
 .  E  F#m      E      A
    Иисус, о, моя Ты ценность.</lyrics>
+<title>Дом</title>
+<key>E</key>
+<author>Hillsong Ukraine</author>
+<hymn_number>942</hymn_number>
 </song>

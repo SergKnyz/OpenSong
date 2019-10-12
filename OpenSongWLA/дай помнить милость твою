@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Дай помнить милость Твою</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>78</hymn_number>
+<author>Артём Янский</author>
 <key>E</key>
-<hymn_number>78</hymn_number>
+<title>Дай помнить милость Твою</title>
 <lyrics>[V1]
  1 куплет:
 .      Em           Am          D            G
@@ -36,5 +37,4 @@
  Тебе хваление мое, хоть каменистая тропа.
  Почитать здесь все за сор -Тебя приобретать.
  Посещать Твой храм и двор - плоть свою мне усмирять.</lyrics>
-<author>Артём Янский</author>
 </song>

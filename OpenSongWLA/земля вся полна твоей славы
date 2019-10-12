@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Земля вся полна Твоей славы</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em7
  Народы, царства на земле
  но Ты Господь превыше всех
@@ -47,4 +45,6 @@
    чтоТы один достоин,только Ты достоин
 .  D
    И все творенье пред Твоим лицом падет</lyrics>
+<key>G</key>
+<title>Земля вся полна Твоей славы</title>
 </song>

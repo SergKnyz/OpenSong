@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Александр Соколов</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я был один</title>
 <lyrics>[V1]
 .Gm
  Я был один искал пути наугад в темноте
@@ -38,7 +38,7 @@
    Только Ты меня понимаешь Бог, только Ты меня понимаешь
 .  Cm                      Gm
    Только Ты меня понимаешь</lyrics>
-<title>Я был один</title>
-<key>Gm</key>
 <hymn_number>851</hymn_number>
+<author>Александр Соколов</author>
+<key>Gm</key>
 </song>

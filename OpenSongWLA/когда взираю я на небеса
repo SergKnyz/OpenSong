@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Аллилуйя, Господи Боже наш как величественно имя Твоё</aka>
-<hymn_number>1045</hymn_number>
-<key>C</key>
-<title>Когда взираю я на небеса</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет 1:
 . C   G   C
  Господи, Боже наш,
@@ -62,5 +58,9 @@
     Всем сердцем буду прославлять Тебя,
 .F       D7  G
     Услышь молитву мою!</lyrics>
+<title>Когда взираю я на небеса</title>
+<key>C</key>
 <author>Вадим Ятковский</author>
+<hymn_number>1045</hymn_number>
+<aka>Аллилуйя, Господи Боже наш как величественно имя Твоё</aka>
 </song>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>Ты мой Бог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Holy Generation</author>
+<key>F#</key>
 <hymn_number>369</hymn_number>
 <lyrics>[V1]
 .F#m
@@ -34,5 +34,5 @@
  Ты надежда моя,Ты крепость моя
 . F#m       A
  И сила моя.</lyrics>
-<author>Holy Generation</author>
+<title>Ты мой Бог</title>
 </song>

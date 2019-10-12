@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я Тобой восхищён</title>
-<key>D</key>
-<hymn_number>149</hymn_number>
-<author>Виталий Ефремочкин</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .      D    G   Hm       A
  Посвящаю всё Тебе, мой Бог
@@ -28,4 +24,8 @@
    Бридж:
 .  G   Hm        A
    Я Тобой восхищён</lyrics>
+<title>Я Тобой восхищён</title>
+<author>Виталий Ефремочкин</author>
+<key>D</key>
+<hymn_number>149</hymn_number>
 </song>

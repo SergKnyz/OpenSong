@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2443</hymn_number>
-<key>A</key>
-<title>Мэцэ Тэрэ ев шат орнял</title>
-<author>Елена</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мэцэ Тэрэ ев шат орнял</title>
 <lyrics>[V1]
  ՄԵԾ Է ՏԵՐԸ ԵՎ ՇԱՏ ՕՐՀՆՅԱԼ
  ՊԱՀԱՊԱՆԸ ՈՂՋ ԵՐԿՐԻ
@@ -35,4 +32,7 @@
  ИМ СИРТЭ ГОВЭРКУМЭ КЭЗ ТЭР
  ОРНЯЛ ЛИНИ ИСРАЭЛИ АСТВАЦЭ
  АВИТЭНИЦ МИНЧЭВ АВИТЯН</lyrics>
+<hymn_number>2443</hymn_number>
+<author>Елена</author>
+<key>A</key>
 </song>

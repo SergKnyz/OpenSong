@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты самый лучший Друг</title>
-<key>A</key>
-<hymn_number>827</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <author>Натали Дорошенко</author>
+<hymn_number>827</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .A           F#m          C#m  D
@@ -63,4 +62,5 @@
    Ты, Ты - освещаешь путь
 .     Eb         F           Bb
    Твоя опора крепче,чем гранит!</lyrics>
+<title>Ты самый лучший Друг</title>
 </song>

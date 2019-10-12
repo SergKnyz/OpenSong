@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2718</hymn_number>
-<title>Как тяжко на сердце бывает порою</title>
-<key>A</key>
-<author>Simon Khorolskiy</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .           Dm    Am   E      Am
  Как тяжко на сердце бывает порою,
@@ -48,4 +44,8 @@
  С той песней небесной свой голос солью.
  А здесь я, как странник и пленник в сем, мире,
  Пою лишь печальную песню мою.</lyrics>
+<title>Как тяжко на сердце бывает порою</title>
+<author>Simon Khorolskiy</author>
+<key>A</key>
+<hymn_number>2718</hymn_number>
 </song>

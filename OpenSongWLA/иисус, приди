@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3967</hymn_number>
-<title>Иисус, приди</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>X-MKS, Пассион</author>
 <key>A</key>
-<author>X-MKS, Пассион</author>
+<hymn_number>3967</hymn_number>
 <lyrics>[V1]
  Куплет 1:
 .Am
@@ -59,4 +58,5 @@
    Вот, мы ждем, мы ждем Тебя!
 .   C   Em  D
    Ты придешь, мы ждем Тебя.</lyrics>
+<title>Иисус, приди</title>
 </song>

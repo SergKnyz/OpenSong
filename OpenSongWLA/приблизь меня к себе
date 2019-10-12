@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Приблизь меня к Себе</title>
-<key>A</key>
-<copyright>1994 Мерцы / Винеыард Публисхинг</copyright>
-<author>Келлы Царпентер</author>
+<?xml version="1.0" encoding="UTF-8"?><song><copyright>1994 Мерцы / Винеыард Публисхинг</copyright>
+<title>Приблизь меня к Себе</title>
 <lyrics>[V1]
 .A               D/A
  Приблизь меня к Себе
@@ -33,4 +31,6 @@
    Ты нужен мне,
    .Esus4 E A
    Дай только знать Тебя</lyrics>
+<key>A</key>
+<author>Келлы Царпентер</author>
 </song>

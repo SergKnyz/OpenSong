@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Земля тряслась еще давно  (песня на анг)</aka>
-<hymn_number>3910</hymn_number>
-<title>Верю я</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Верю я</title>
 <lyrics>[V1]
  1 куплет:
  Земля тряслась еще давно
@@ -33,5 +31,7 @@
 [B1]
    Бридж:
    Верю я всей душой</lyrics>
+<hymn_number>3910</hymn_number>
+<aka>Земля тряслась еще давно  (песня на анг)</aka>
 <author>Bethel Music, Бетхел Мусиц</author>
 </song>

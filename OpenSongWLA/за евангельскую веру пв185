@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>185</hymn_number>
-<title>За евангельскую веру ПВ185</title>
-<key>Eb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
+<hymn_number>185</hymn_number>
 <lyrics>[V1]
  За евангельскую веру,
  За Христа мы постоим;
@@ -36,4 +35,5 @@
  Будем смело совершать
  И шатры любви Христовой
  Будем в мире расширять.</lyrics>
+<title>За евангельскую веру ПВ185</title>
 </song>

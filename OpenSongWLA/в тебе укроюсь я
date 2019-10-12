@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>В Тебе укроюсь я</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Am7          Dm7
  В Тебе укроюсь я,
 .G                    Cmaj7
@@ -17,4 +15,6 @@
    Уповая  на Тебя
 .                 F  Dm7        Esus  - E
    Слабый скажет: &quot;я силен в Господе моем&quot;</lyrics>
+<key>C</key>
+<title>В Тебе укроюсь я</title>
 </song>

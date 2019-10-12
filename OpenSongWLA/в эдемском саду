@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>411</hymn_number>
-<title>В Эдемском саду</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>В Эдемском саду</title>
 <lyrics>[V1]
  Там где утро росу рассыпает,
  На листву свежих бурных лесов.
@@ -29,4 +28,5 @@
  Дай мне ту, что разделит всегда.
  Через будни плохих и погожих,
  С нею будем мы славить Тебя.</lyrics>
+<hymn_number>411</hymn_number>
 </song>

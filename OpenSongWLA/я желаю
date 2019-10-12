@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>783</hymn_number>
-<title>Я желаю</title>
-<key>B</key>
-<author>Альфа</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Intro:
 
 [V2]
@@ -38,4 +34,8 @@
  Я желаю исполнить волю Твою
 . G          D   G                      F#
  Боже, Боже мой, и закон Твой у меня в сердце</lyrics>
+<title>Я желаю</title>
+<key>B</key>
+<author>Альфа</author>
+<hymn_number>783</hymn_number>
 </song>

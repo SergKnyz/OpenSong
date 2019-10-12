@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Будем славить Бога</aka>
-<hymn_number>322</hymn_number>
-<title>Ты один милостив я стою счастлив</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты один милостив я стою счастлив</title>
 <lyrics>[C1]
    Припев:
 .  Em  C  G            D
@@ -30,5 +27,8 @@
  Мне надежду дает лишь Твоя милость
  Каждый день лишь в Тебе наполняюсь силой
  Мне надежду дает лишь Твоя милость</lyrics>
+<hymn_number>322</hymn_number>
+<aka>Будем славить Бога</aka>
+<key>E</key>
 <author>Skeemans Worship</author>
 </song>

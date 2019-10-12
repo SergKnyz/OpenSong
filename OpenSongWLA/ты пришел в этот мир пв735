@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>735</hymn_number>
-<title>Ты пришел в этот мир ПВ735</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты пришел в этот мир ПВ735</title>
 <lyrics>[V1]
  Ты пришел в этот мир,
  И ты скоро уйдешь,
@@ -28,4 +26,6 @@
  Муки терпят они
  Счастья нет без любви,
  Что живет без конца.</lyrics>
+<hymn_number>735</hymn_number>
+<key>G</key>
 </song>

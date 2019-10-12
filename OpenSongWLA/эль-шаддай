@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2969</hymn_number>
-<title>Эль-Шаддай</title>
-<copyright>1981, 1982 Моле Енд Мусиц</copyright>
-<author>Йохн Тхомпсон, Мицхаел Цард</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Эль-Шаддай
 
 [C1]
@@ -22,4 +18,8 @@
  Люди не могли открыть Кто Мессией должен быть
  Хотя в Слове был Твой план но народ не понимал
  Что Ты сделал для него смертью Сына Своего</lyrics>
+<title>Эль-Шаддай</title>
+<copyright>1981, 1982 Моле Енд Мусиц</copyright>
+<author>Йохн Тхомпсон, Мицхаел Цард</author>
+<hymn_number>2969</hymn_number>
 </song>

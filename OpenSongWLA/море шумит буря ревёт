@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Море шумит буря ревёт</title>
-<hymn_number>3324</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Море шумит, буря ревёт
  Чёлн мой волнами бросает
  Ужас кругом, стремлюсь в Отчий Дом
@@ -47,4 +45,6 @@
    Лазурное небо над нами, над нами
    Путь наш свершён, встречать нас пришли
    На пристани Новой Земли.</lyrics>
+<title>Море шумит буря ревёт</title>
+<hymn_number>3324</hymn_number>
 </song>

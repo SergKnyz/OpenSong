@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3722</hymn_number>
-<title>Научи меня Господь смиряться</title>
-<key>Bb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Bb          C          F Bb           C         Dm
  К Тебе, Спаситель святой, спешу в молитве прийти.
@@ -44,5 +41,8 @@
  Забывая покой и души красоту.
  Вот моя мольба: научи меня
  Другом верным быть Тебе и всегда.</lyrics>
+<title>Научи меня Господь смиряться</title>
 <author>Кучіяші</author>
+<key>Bb</key>
+<hymn_number>3722</hymn_number>
 </song>

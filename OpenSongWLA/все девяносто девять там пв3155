@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3155</hymn_number>
-<key>D</key>
-<title>Все девяносто девять там ПВ3155</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>3155</hymn_number>
 <lyrics>[V1]
  Все девяносто девять там
  в горах укрыты от беды,
@@ -28,4 +27,5 @@
  из глаз Его слеза течёт.
  Кто к девяносто девяти
  одну овечку приведёт?</lyrics>
+<title>Все девяносто девять там ПВ3155</title>
 </song>

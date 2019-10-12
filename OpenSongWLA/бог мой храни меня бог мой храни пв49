@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>49</hymn_number>
+<key>F</key>
+<title>Бог мой храни меня Бог мой храни ПВ49</title>
+<lyrics>[V1]
+.F#             C#              F#
  Бог мой, храни меня! Бог мой, храни;
+.F#           G#m       C#
  Даруй, чтоб прожил я краткие дни
+.F#         B
  С книгой святой в руках,
+.C#        F#      Ebm
  С словом Твоим в устах;
+.         G#m
  Бог мой, храни меня!
+.C#        F#
  Бог мой, храни!
 
 [V2]
@@ -29,7 +38,4 @@
  В вере Твоей святой:
  Бог мой, храни меня!
  Бог мой, храни!</lyrics>
-<hymn_number>49</hymn_number>
-<key>F</key>
-<title>Бог мой храни меня Бог мой храни ПВ49</title>
 </song>

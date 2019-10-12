@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>50</hymn_number>
+<aka>Восхвали Господа</aka>
+<key>G</key>
+<title>Восхвали, душа моя ИИПВ50</title>
+<lyrics>[V1]
 .       G          C
  Восхвали, душа моя,
 .       D        D7
@@ -15,7 +19,4 @@
 
 [V4]
  Радуйся,душа моя, радуйся Господу.</lyrics>
-<title>Восхвали, душа моя ИИПВ50</title>
-<key>G</key>
-<hymn_number>50</hymn_number>
 </song>

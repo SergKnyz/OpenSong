@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Ты никогда не предашь меня</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>SMBS</author>
+<key>C</key>
 <hymn_number>3844</hymn_number>
-<author>SMBS</author>
 <lyrics>[V1]
  1 Куплет:
 .Cm  Fm
@@ -43,4 +42,5 @@
  Сердце моё славит Тебя!
  В руки Твои себя отдаю,
  Всё потому, что Тебя я люблю!</lyrics>
+<title>Ты никогда не предашь меня</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2604</hymn_number>
-<key>Db</key>
-<title>Милость Божья беспредельна ПВ2604</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Милость Божья беспредельна,
  Как безбрежный океан.
  В правосудье неизменном
@@ -24,4 +21,7 @@
  Утешенье и оплот;
  Наша жизнь идет светлее,
  Если с нами наш Господь.</lyrics>
+<title>Милость Божья беспредельна ПВ2604</title>
+<key>Db</key>
+<hymn_number>2604</hymn_number>
 </song>

@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1283</hymn_number>
+<author>Сергей Назарский</author>
+<key>D</key>
 <title>Алая кровь</title>
-<hymn_number>1283</hymn_number>
 <lyrics>[V1]
 .Dm
  Смотрю в глаза Спасителю Христу,
@@ -119,5 +120,4 @@
  Это Христова любовь, это Христова любовь,
 .  C              B7       Em
  Смерть на земле, смерть победила</lyrics>
-<author>Сергей Назарский</author>
 </song>

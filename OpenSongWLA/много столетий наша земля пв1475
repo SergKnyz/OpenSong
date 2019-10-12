@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Много столетий наша земля ПВ1475</title>
-<key>D</key>
-<hymn_number>1475</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Много столетий наша земля,
  Мерно качаясь, плывет,
  Ближе к причалу вечного дня
@@ -24,4 +21,7 @@
  Милость Его и любовь.
  Помните близость жизни конца,
  Слушайте благости зов.</lyrics>
+<title>Много столетий наша земля ПВ1475</title>
+<key>D</key>
+<hymn_number>1475</hymn_number>
 </song>

@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1445</hymn_number>
-<aka>Адонай</aka>
-<title>Вот сейчас стою пред Тобой</title>
-<key>F#</key>
-<author>Awakening Worship, Ауакенинг Уорсхип</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .       F#m           C#m/A
  Вот сейчас стою пред Тобой
@@ -59,4 +54,9 @@
 
 [V3]
  * Перевод: Белецкий Богдан vk.com/qusic</lyrics>
+<title>Вот сейчас стою пред Тобой</title>
+<author>Awakening Worship, Ауакенинг Уорсхип</author>
+<key>F#</key>
+<aka>Адонай</aka>
+<hymn_number>1445</hymn_number>
 </song>

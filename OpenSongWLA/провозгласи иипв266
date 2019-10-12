@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Провозгласи ИИПВ266</title>
-<hymn_number>266</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Провозгласи ИИПВ266</title>
 <lyrics>[V1]
 . A.     D E.          D    A
  Провозгласи воскресшего Царя царей.
@@ -17,4 +15,6 @@
  Всегосебя отдай, всю силу и любовь,
  Будьс Господом всегда,
  ХвалуЕму воспой.</lyrics>
+<hymn_number>266</hymn_number>
+<key>A</key>
 </song>

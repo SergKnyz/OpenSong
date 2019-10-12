@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3146</hymn_number>
-<title>Дом мой полон</title>
-<key>C</key>
-<author>Евгений Косенков</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Cm          Fm          G#       G
  Дом мой полон от скорбей, нерешаемых задач
@@ -31,4 +27,8 @@
  4 куплет:
  И советчиков полно, всё легко со стороны
  А мне ведь нужно лишь одно, чтобы всё сказал мне Ты...</lyrics>
+<title>Дом мой полон</title>
+<author>Евгений Косенков</author>
+<key>C</key>
+<hymn_number>3146</hymn_number>
 </song>

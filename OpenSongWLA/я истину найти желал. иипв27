@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Был подобен женщине у колодца</aka>
-<hymn_number>27</hymn_number>
-<key>A</key>
-<title>Я истину найти желал. ИИПВ27</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я истину найти желал. ИИПВ27</title>
 <lyrics>[V1]
 .A                 A7     E
  Был подобен женщине у колодца
@@ -23,4 +20,7 @@
  Дай насытиться мне словом жизни,
 .       E        E7           A
  Без Тебя мне, Господь нелегко.</lyrics>
+<hymn_number>27</hymn_number>
+<aka>Был подобен женщине у колодца</aka>
+<key>A</key>
 </song>

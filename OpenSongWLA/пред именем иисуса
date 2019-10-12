@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Пред именем Иисуса</title>
-<key>D</key>
-<tempo>120</tempo>
-<time_sig>4/4</time_sig>
-<hymn_number>2</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2</hymn_number>
 <aka>Аллилуйя Иисус воскрес</aka>
 <author>Часовня у Голгофы (г. Владимир)</author>
+<key>D</key>
+<time_sig>4/4</time_sig>
+<title>Пред именем Иисуса</title>
+<tempo>120</tempo>
 <lyrics>[V1]
 .     D  G            D G
  Аллилуйя, Иисус воскрес

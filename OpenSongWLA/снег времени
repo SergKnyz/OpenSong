@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Снег времени</title>
+<lyrics>[V1]
  1 куплет:
 .Dm            Bb     Gm
  Снег времени выпал однажды в судьбе.
@@ -26,8 +27,7 @@
  Мы вспомним едва ли снежинок полёт.
  А время не плачет; закаты, рассвет,
  Но это не значит, что вечности нет.</lyrics>
-<author>Дарина Кочанжи</author>
-<title>Снег времени</title>
-<key>D</key>
 <hymn_number>1151</hymn_number>
+<author>Дарина Кочанжи</author>
+<key>D</key>
 </song>

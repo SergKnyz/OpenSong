@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Грешные</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Инна Звягинцева</author>
+<key>C</key>
 <hymn_number>316</hymn_number>
-<author>Инна Звягинцева</author>
 <lyrics>[V1]
  1 куплет:
 .Cm                Fm       Bb                      D# G
@@ -26,4 +25,5 @@
  Может, завтра придёшь к нам Господи, а наша жизнь от Бога вдалеке
  Боже мой, с Тобою быть хочу, избежать дай теплоты в себе
  Вновь зажги любовь зажги во мне сделай меня преданной Тебе</lyrics>
+<title>Грешные</title>
 </song>

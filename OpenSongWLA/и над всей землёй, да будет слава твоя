@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2575</hymn_number>
-<aka>Будь превознесен выше небес</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Игорь А. Михайлов</author>
 <key>G</key>
-<title>И над всей землёй, да будет слава Твоя!</title>
-<author>Игорь А. Михайлов</author>
+<aka>Будь превознесен выше небес</aka>
+<hymn_number>2575</hymn_number>
 <lyrics>[V1]
 .G             C  D      G
  Будь превознесён выше небес
@@ -32,4 +31,5 @@
 [V6]
  Автор и исполнитель: Игорь А. Михайлов
  Церковь на Камне г. Новокузнецк</lyrics>
+<title>И над всей землёй, да будет слава Твоя!</title>
 </song>

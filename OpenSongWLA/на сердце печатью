@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2065</hymn_number>
-<title>На сердце Печатью</title>
-<author>Егор и Наталия Лансере</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>На сердце Печатью</title>
 <lyrics>[V1]
  1. Знаю, ты Мой тихий Голос в сердце слышишь,
  О, дитя, тебе родиться должно свыше!
@@ -39,4 +37,6 @@
  | Am Dm Am E | Am Dm Am E | Am G F E | Am Dm E F | Am Dm Am E ||
  *| Am E Am | Am E Am | C G E Am | Am E Am Am7 | F Em Am Am7F Em Am Am7 | F Em Am Am7 F Em ||
  #| C G Am F G | C G Am F G || - 2р</lyrics>
+<hymn_number>2065</hymn_number>
+<author>Егор и Наталия Лансере</author>
 </song>

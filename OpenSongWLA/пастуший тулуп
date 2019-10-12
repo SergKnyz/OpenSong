@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Светлана Копылова</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2276</hymn_number>
+<author>Светлана Копылова</author>
+<key>D</key>
+<title>Пастуший тулуп</title>
 <lyrics>[V1]
 .Dm  Gm
  В ту ночь, как никогда, сияли ярко звёзды,
@@ -79,7 +82,4 @@
  Впервые услыхать.
  Вот так произошло в ту ночь преображенье
  Души у пастуха.</lyrics>
-<key>D</key>
-<title>Пастуший тулуп</title>
-<hymn_number>2276</hymn_number>
 </song>

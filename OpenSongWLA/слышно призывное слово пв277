@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Слышно призывное слово ПВ277</title>
-<hymn_number>277</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Слышно призывное слово,
  Всюду работников ждут,
  Желтая нива готова,
@@ -43,4 +40,7 @@
  Ждет Сам Господь сынов,
  К жнущим, доколе день,
  Примыкай!</lyrics>
+<title>Слышно призывное слово ПВ277</title>
+<key>F</key>
+<hymn_number>277</hymn_number>
 </song>

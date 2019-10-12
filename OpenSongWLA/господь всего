@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Господь всего</title>
-<hymn_number>508</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Em                       G
  Давай хвалу Ему кричать, Он дал сил нам волю Божью исполнять.
@@ -40,5 +37,8 @@
    Все, все мы будем все кричать, все, все мы будем все кричать,
 .  C#m                            C         | G A |
    Все, все кричать всем, что Иисус Господь.</lyrics>
+<title>Господь всего</title>
 <author>Hillsong Ukraine</author>
+<key>E</key>
+<hymn_number>508</hymn_number>
 </song>

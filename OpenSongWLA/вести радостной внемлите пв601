@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вести радостной внемлите ПВ601</title>
-<key>C</key>
-<hymn_number>601</hymn_number>
-<aka>Бог пришел в юдоль скорбей!</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вести радостной внемлите:
  Бог пришел в юдоль скорбей!
  Всем народам возвестите:
@@ -31,4 +27,8 @@
  Весь греховный мир спасти,
  Всех Он к счастью приглашает.
  О, не медлите прийти.</lyrics>
+<title>Вести радостной внемлите ПВ601</title>
+<key>C</key>
+<aka>Бог пришел в юдоль скорбей!</aka>
+<hymn_number>601</hymn_number>
 </song>

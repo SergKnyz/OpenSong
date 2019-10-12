@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Бесконечный, когда века летят</title>
-<key>G#m</key>
-<hymn_number>1433</hymn_number>
-<aka>Ты Блудных Найдёшь</aka>
-<author>Hillsong Ukraine, Slavic New Beginnings Church</author>
 <lyrics>[V1]
  1 Куплет:
 .     G#m         E         H   D#m
@@ -32,4 +28,8 @@
    Ты блудных найдешь мертвый оживет
 .        H              C#m           G#m E
    Ведь Ты, наш Бог господствуешь вовек___</lyrics>
+<hymn_number>1433</hymn_number>
+<aka>Ты Блудных Найдёшь</aka>
+<author>Hillsong Ukraine, Slavic New Beginnings Church</author>
+<key>G#m</key>
 </song>

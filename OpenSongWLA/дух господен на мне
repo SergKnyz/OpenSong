@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1767</hymn_number>
-<key>E</key>
-<title>Дух Господен на мне</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Дух Господен на мне</title>
 <lyrics>[V1]
  Куплет:
 .Em               Am     H7             Em
@@ -22,5 +20,7 @@
    Дух Господень на мне ибо Он помазал меня
 .        C                  Am   H7          Em
    Сокрушённых сердцем исцелять петь Ему и играть.</lyrics>
+<hymn_number>1767</hymn_number>
 <author>Борис Кожух</author>
+<key>E</key>
 </song>

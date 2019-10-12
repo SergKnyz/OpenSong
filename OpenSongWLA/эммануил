@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1330</hymn_number>
-<title>Эммануил</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Эммануил</title>
 <lyrics>[V1]
  1 куплет:
  О, к нам приди Эммануил
@@ -25,5 +24,6 @@
  Тебя так долго мы все ждем
  Ты навсегда провозглашен Царем
  Превознесен превыше всех имен.</lyrics>
+<hymn_number>1330</hymn_number>
 <author>Роман Касевич</author>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>234</hymn_number>
-<title>От рассвета солнца ИИПВ234</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<hymn_number>234</hymn_number>
 <lyrics>[V1]
 .E.
  От рассвета солнца до заката солнца
@@ -19,4 +18,5 @@
    И отныне до вечности мы радостно
 .   A    E B7   E
    Господа воспоём.</lyrics>
+<title>От рассвета солнца ИИПВ234</title>
 </song>

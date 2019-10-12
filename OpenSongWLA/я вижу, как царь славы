@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Осанна</aka>
-<title>Я вижу, как Царь славы</title>
-<key>E</key>
-<copyright>2006 Хиллсонг Публисхинг</copyright>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <author>Хиллсонг, Брооке Фрасер</author>
+<aka>Осанна</aka>
 <lyrics>[V1]
 .E
  Я вижу, как Царь славы
@@ -43,4 +41,6 @@
    Так пройду свой путь земной
 .         A
    я к Вечности.</lyrics>
+<copyright>2006 Хиллсонг Публисхинг</copyright>
+<title>Я вижу, как Царь славы</title>
 </song>

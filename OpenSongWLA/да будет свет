@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Да будет свет</title>
-<hymn_number>2333</hymn_number>
-<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  BPM 142
 
 [V2]
@@ -90,4 +86,8 @@
  Станет светом в нас теперь
  Все пути Твои светлы
  Ты нас веди Господь, веди</lyrics>
+<title>Да будет свет</title>
+<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
+<key>C</key>
+<hymn_number>2333</hymn_number>
 </song>

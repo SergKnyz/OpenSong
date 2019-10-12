@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>В море жизни я плыву ПВ2677</title>
+<lyrics>[V1]
  В море жизни я плыву,
  Поручив себя Христу:
  Не страшусь я бури злой,
@@ -23,8 +24,7 @@
  С верой полного в груди
  Смело я плыву домой,
  Капитан Христос со мной.</lyrics>
-<key>Eb</key>
-<title>В море жизни я плыву ПВ2677</title>
-<aka>Поручив себя Христу:</aka>
 <hymn_number>2677</hymn_number>
+<aka>Поручив себя Христу:</aka>
+<key>Eb</key>
 </song>

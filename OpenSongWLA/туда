@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Туда</title>
-<hymn_number>360</hymn_number>
 <author>История</author>
+<hymn_number>360</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Em                Am
@@ -38,4 +37,5 @@
  Трудно идти так бывает порою
  Я вознесусь над унылой землею
  Улечу, навстречу к небу навсегда</lyrics>
+<title>Туда</title>
 </song>

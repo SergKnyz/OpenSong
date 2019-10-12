@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я буду славить</title>
+<lyrics>[V1]
  1 куплет:
 .  Fm             D#               Bbm
  За каждый день и каждый вдох за всё что дал мне Ты мой Бог
@@ -35,8 +36,7 @@
    Лишь Твоё имя превозносить
 .         C#                       C
    Все что есть у меня дала мне рука Твоя</lyrics>
-<author>Reallife band</author>
-<key>F</key>
-<title>Я буду славить</title>
 <hymn_number>1971</hymn_number>
+<key>F</key>
+<author>Reallife band</author>
 </song>

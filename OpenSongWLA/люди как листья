@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Люди как листья</title>
+<lyrics>[V1]
  Люди как листья, цветут и опадают,
  Люди как капли, как капли в огромном море.
  Этот мир как берег, на берегу много песка,
@@ -68,8 +69,7 @@
    Человек, открой свои уши, И услышишь голос Творца.
    Голос Творца, улетай в небеса,
    Улетай в небеса, даю тебе крылья Я.</lyrics>
+<hymn_number>1659</hymn_number>
 <author>Last Time</author>
 <key>A</key>
-<title>Люди как листья</title>
-<hymn_number>1659</hymn_number>
 </song>

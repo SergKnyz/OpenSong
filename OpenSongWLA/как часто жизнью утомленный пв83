@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>83</hymn_number>
-<title>Как часто жизнью утомленный ПВ83</title>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Как часто жизнью утомленный,
  Разбитый грозною волной,
  Молюсь я с верой умиленной:
@@ -54,4 +51,7 @@
  В победе вечного добра,
  Покой от скорби и страданья
  В лучах бессмертного утра.</lyrics>
+<title>Как часто жизнью утомленный ПВ83</title>
+<key>A</key>
+<hymn_number>83</hymn_number>
 </song>

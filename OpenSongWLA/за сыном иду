@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>За Сыном иду</title>
-<key>E</key>
-<hymn_number>514</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <author>Hillsong Ukraine</author>
+<hymn_number>514</hymn_number>
 <lyrics>[V1]
 .Em                        G           D
  Ведёт меня всегда Твой свет сквозь страх
@@ -35,4 +34,5 @@
 [V5]
 .                     Em G D
  Для меня Ты - целый мир!</lyrics>
+<title>За Сыном иду</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мы с молитвой ИИПВ195</title>
-<key>D</key>
-<hymn_number>195</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .         D  Bm   G     A7    DGD
  Мы с молитвой колени преклоним.
 .        D   A7  D7    G     D A7D
@@ -25,4 +22,7 @@
  Своёсердце кладу я на алтарь.
  Отдаюя Тебе душу и всего себя,
  Отченаш, прими меня.</lyrics>
+<title>Мы с молитвой ИИПВ195</title>
+<key>D</key>
+<hymn_number>195</hymn_number>
 </song>

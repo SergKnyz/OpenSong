@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3093</hymn_number>
-<title>Церковь ты земля святая ПВ3093</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>3093</hymn_number>
 <lyrics>[V1]
  Церковь, ты - земля святая,
  веет Божий Дух в тебе;
@@ -34,4 +33,5 @@
  Вождь и Пастырь твой - Господь;
  верно стадо охраняя,
  Он домой его ведет.</lyrics>
+<title>Церковь ты земля святая ПВ3093</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6176</hymn_number>
-<aka>Взлететь</aka>
-<title>В этой жизни, то радость, то грусть</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>В этой жизни, то радость, то грусть</title>
 <lyrics>[V1]
  В этой жизни, то радость, то грусть
  Но ты всегда со мной.
@@ -39,4 +37,6 @@
    Тот, который мои мысли знает
    Всегда поймет и изменит вдруг
    До конца доведет</lyrics>
+<aka>Взлететь</aka>
+<hymn_number>6176</hymn_number>
 </song>

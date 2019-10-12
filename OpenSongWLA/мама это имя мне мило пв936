@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Мама это имя мне мило ПВ936</title>
-<hymn_number>936</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  &quot;Мама&quot; - это имя мне мило,
  Полно оно ласки, любви.
  Мама на руках нас носила
@@ -30,4 +27,7 @@
  То, что насадила рука.
  Чти мать, и тогда улыбнется
  Счастьем жизнь в печали твоей.</lyrics>
+<title>Мама это имя мне мило ПВ936</title>
+<key>E</key>
+<hymn_number>936</hymn_number>
 </song>

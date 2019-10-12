@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>533</hymn_number>
-<key>F</key>
-<title>Для тебя о человек</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Для тебя о человек</title>
 <lyrics>[V1]
  1 куплет:
 .      Cm                                  Fm
@@ -29,5 +27,7 @@
  Для тебя роса на травах на заре,
  Для тебя моря и горы, все живое - для тебя,
  Для тебя все это создала Его рука.</lyrics>
+<hymn_number>533</hymn_number>
 <author>Русавуки</author>
+<key>F</key>
 </song>

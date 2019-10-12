@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>800</hymn_number>
+<lyrics>[V1]
  Струн души рука Христа касается,
  И она восторженно поет,
  Песнь еще одна на свет рождается,
@@ -27,7 +29,5 @@
  И она восторженно поет.
  Пусть вовеки песня не кончается,
  Песнь о Том, Кто счастье нам дает!</lyrics>
-<key>C</key>
 <title>Струн души рука Христа касается ПВ800</title>
-<hymn_number>800</hymn_number>
 </song>

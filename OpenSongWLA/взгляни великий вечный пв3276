@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3276</hymn_number>
-<aka>Бог на Церковь Божию,</aka>
-<key>E</key>
-<title>Взгляни Великий Вечный ПВ3276</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Взгляни Великий Вечный
  Бог на Церковь Божию,
  чтобы росли в ней, к
@@ -31,4 +27,8 @@
  а не в беспечности.
  Чтоб отряхнули пыль земли
  в преддверье вечности.</lyrics>
+<title>Взгляни Великий Вечный ПВ3276</title>
+<key>E</key>
+<hymn_number>3276</hymn_number>
+<aka>Бог на Церковь Божию</aka>
 </song>

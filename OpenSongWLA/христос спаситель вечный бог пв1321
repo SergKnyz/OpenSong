@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Христос Спаситель вечный Бог ПВ1321</title>
-<key>D</key>
-<hymn_number>1321</hymn_number>
 <lyrics>[V1]
  Христос, Спаситель, вечный Бог!
  Пошли мне благодать.
@@ -29,4 +27,6 @@
  Покинуть скорбь земли,
  Прими меня, о Бог живых,
  И светлый мир пошли.</lyrics>
+<hymn_number>1321</hymn_number>
+<key>D</key>
 </song>

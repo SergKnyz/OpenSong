@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6308</hymn_number>
-<title>Мария знала ль ты</title>
-<key>B</key>
-<author>A-SIDE</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мария знала ль ты</title>
 <lyrics>[V1]
  1 куплет:
 .                 Hm          A            Em            F#
@@ -39,4 +36,7 @@
  Мария, знала ль ты, что младенец твой царить рожден над миром
  Знала ль ты, что сладенец твой нам Богом данный Сын
  То дитя, что спит так мирно, сеть Всевышний Бог</lyrics>
+<hymn_number>6308</hymn_number>
+<key>B</key>
+<author>A-SIDE</author>
 </song>

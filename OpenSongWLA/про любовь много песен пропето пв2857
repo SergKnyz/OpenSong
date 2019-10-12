@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2857</hymn_number>
-<title>Про любовь много песен пропето ПВ2857</title>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Про любовь много песен пропето ПВ2857</title>
 <lyrics>[V1]
  Про любовь много песен пропето,
  пусть сегодня и наша звучит;
@@ -24,4 +22,6 @@
  невозможное может творить;
  она чиста, скромна, терпелива,
  до конца будет только любить.</lyrics>
+<hymn_number>2857</hymn_number>
+<key>F</key>
 </song>

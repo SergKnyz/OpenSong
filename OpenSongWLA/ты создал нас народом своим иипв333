@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>333</hymn_number>
-<title>Ты создал нас народом Своим ИИПВ333</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты создал нас народом Своим ИИПВ333</title>
 <lyrics>[V1]
 .C.         G     F       G
  Ты создал нас народом Своим,
@@ -28,4 +26,6 @@
    Голос наш услышь, мы дети Твои.
 .  Dm7        G    C
    Хвалу Тебе мы воздаём.</lyrics>
+<hymn_number>333</hymn_number>
+<key>C</key>
 </song>

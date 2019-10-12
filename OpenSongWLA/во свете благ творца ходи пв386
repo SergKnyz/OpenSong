@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>386</hymn_number>
-<title>Во свете благ Творца ходи ПВ386</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Во свете благ Творца ходи ПВ386</title>
 <lyrics>[V1]
  Во свете благ Творца ходи,
  Его путем иди;
@@ -30,4 +28,7 @@
  Любовь храни в груди;
  Союз с Ним здесь так сладок нам,
  Но слаще будет там.</lyrics>
+<aka>Его путем иди;</aka>
+<hymn_number>386</hymn_number>
+<key>D</key>
 </song>

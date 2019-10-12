@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Лишь любовь</title>
-<hymn_number>1789</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am                Dm
  В сердце у меня любовь Христа
@@ -42,5 +39,8 @@
  Где Иисус Святую Кровь пролил
  И поймёшь всё то, что Он сказал
  Бог прощенье людям дал.</lyrics>
+<title>Лишь любовь</title>
+<key>A</key>
 <author>Виктория Виту</author>
+<hymn_number>1789</hymn_number>
 </song>

@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Лейся дождь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3801</hymn_number>
+<author>Imprintband</author>
 <key>A</key>
-<hymn_number>3801</hymn_number>
+<title>Лейся дождь</title>
 <lyrics>[V1]
  1 куплет:
 .Am                     G
@@ -40,5 +41,4 @@
    Всему живому очищения принося,
 .  Am                          G
    Так лейся лейся дождь, уж ждали все тебя.</lyrics>
-<author>Imprintband</author>
 </song>

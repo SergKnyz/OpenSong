@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>543</hymn_number>
-<key>E</key>
-<title>Ты - Святой Бог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты - Святой Бог</title>
 <lyrics>[C1]
    Припев:
 .  D#m               H
@@ -78,5 +76,7 @@
  Свято, Свято, Свято Имя Твоё!___
 .  C       D     C   D      E
  Свято, Свято, Свято Имя Твоё!</lyrics>
+<hymn_number>543</hymn_number>
+<key>E</key>
 <author>Благодать церква г. Минск</author>
 </song>

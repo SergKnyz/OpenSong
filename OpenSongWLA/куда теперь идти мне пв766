@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>766</hymn_number>
-<title>Куда теперь идти мне ПВ766</title>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Куда теперь идти мне ПВ766</title>
 <lyrics>[V1]
  Куда теперь идти мне?
  Куда направить путь?
@@ -24,4 +22,6 @@
  Случилось вдруг теперь,
  А сердце все тоскует
  О Родине моей.</lyrics>
+<hymn_number>766</hymn_number>
+<key>B</key>
 </song>

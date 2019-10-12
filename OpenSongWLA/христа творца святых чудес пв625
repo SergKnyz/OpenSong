@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3069</hymn_number>
-<title>Христа Творца святых чудес ПВ625</title>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Христа, Творца святых чудес,
  Прославьте все сердечным пеньем!
  Ликуйте с радостным хваленьем:
@@ -24,4 +21,7 @@
  Тебе и слава, и хваленье,
  Величье, честь и поклоненье
  Во веки вечные! Аминь!</lyrics>
+<title>Христа Творца святых чудес ПВ625</title>
+<key>F</key>
+<hymn_number>3069</hymn_number>
 </song>

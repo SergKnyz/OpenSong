@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Есть край</title>
+<lyrics>[V1]
  1 куплет:
 .                 G#m     Bb          D#m
  Есть край, есть край, отчизна есть другая,
@@ -40,8 +41,7 @@
  И ношу сбросим под крестом.
  Оттуда наш начаток жизни,
  В том вечном Божьем Царстве со Христом.</lyrics>
+<hymn_number>1008</hymn_number>
 <author>Чеботарёвы</author>
 <key>B</key>
-<title>Есть край</title>
-<hymn_number>1008</hymn_number>
 </song>

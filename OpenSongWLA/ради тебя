@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Ради тебя</title>
-<key>D</key>
-<hymn_number>422</hymn_number>
 <lyrics>[V1]
  intro:
 
@@ -34,5 +32,7 @@
  За тебя и меня Он кровь Свою пролил!
  Ты на крест, на крест посмотри -
  Видишь, как Он ждёт твоей и моей любви!</lyrics>
+<hymn_number>422</hymn_number>
+<key>D</key>
 <author>Жизнь</author>
 </song>

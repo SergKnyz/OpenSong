@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Вдали вдали я вижу крест ПВ1217</title>
-<hymn_number>1217</hymn_number>
-<aka>И лик Страдальца виден мне.</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вдали, вдали я вижу крест,
  И лик Страдальца виден мне.
  Там умирает Царь небес
@@ -25,4 +21,8 @@
  Они не знают, что творят&quot;,
  - Слова несутся над землей
  Из уст распятого Царя.</lyrics>
+<title>Вдали вдали я вижу крест ПВ1217</title>
+<key>D</key>
+<aka>И лик Страдальца виден мне</aka>
+<hymn_number>1217</hymn_number>
 </song>

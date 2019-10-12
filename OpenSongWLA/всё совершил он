@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Всё совершил Он</title>
-<key>Dm</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .             Dm                 Gm
  // Всё совершил Он, нам дал победу
 .  C7                         F           A7
@@ -25,4 +23,6 @@
    аллилуйя, аллилуйя,
    Аллилуйя, аллилуйя,
    Он Господь над всей землёй.</lyrics>
+<key>Dm</key>
+<title>Всё совершил Он</title>
 </song>

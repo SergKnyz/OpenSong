@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>560</hymn_number>
-<key>E</key>
-<title>Не оставлю Я вас не забуду ПВ560</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Не оставлю Я вас не забуду ПВ560</title>
 <lyrics>[V1]
  &quot;Не оставлю Я вас, не забуду! -
  Говорит Он и мне, и тебе. -
@@ -36,4 +34,6 @@
  Если мир вас отвергнет, то Я
  Вам Отцом и Хранителем буду,
  Не покинет вас милость Моя!&quot;</lyrics>
+<hymn_number>560</hymn_number>
+<key>E</key>
 </song>

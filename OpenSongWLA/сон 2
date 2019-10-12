@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1315</hymn_number>
-<title>Сон</title>
-<key>Eb</key>
-<author>Imprintband</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .  Ebm                Db
  Вздох мой ветер лишь уносил
@@ -50,4 +46,8 @@
    И ночи и страх, ушел с вчерашним днем
 .         Gb        Ebm
    Я успокаиваюсь в Боге моем</lyrics>
+<title>Сон</title>
+<author>Imprintband</author>
+<key>Eb</key>
+<hymn_number>1315</hymn_number>
 </song>

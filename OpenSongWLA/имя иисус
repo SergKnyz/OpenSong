@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>863</hymn_number>
-<title>Имя Иисус</title>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<author>Алексей Каратаев</author>
+<hymn_number>863</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .H
@@ -52,5 +52,5 @@
  Иисус, Иисус, Иисус.
 .   E
  Превыше всех превыше Бог наш</lyrics>
-<author>Алексей Каратаев</author>
+<title>Имя Иисус</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вы пальмы принесите ПВ1379</title>
-<key>F</key>
-<hymn_number>1379</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вы пальмы принесите,
  Украсьте алтари.
  Псалмы, в сердцах звучите
@@ -40,4 +37,7 @@
  Встречать Тебя пойдут,
  То пусть Твои заслуги
  Нам вход к Тебе дадут.</lyrics>
+<title>Вы пальмы принесите ПВ1379</title>
+<key>F</key>
+<hymn_number>1379</hymn_number>
 </song>

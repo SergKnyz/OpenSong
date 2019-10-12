@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<hymn_number>238</hymn_number>
+<lyrics>[V1]
 .G  Am7    D    G
  Отче, люблю Тебя,
 .      Am7    D     G
@@ -11,7 +13,5 @@
 
 [V3]
  ДухСвятой, люблю Тебя</lyrics>
-<hymn_number>238</hymn_number>
 <title>Отче, люблю Тебя ИИПВ238</title>
-<key>G</key>
 </song>

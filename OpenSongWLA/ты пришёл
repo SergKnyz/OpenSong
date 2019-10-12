@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты пришёл</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Корван</author>
 <key>G</key>
 <hymn_number>1716</hymn_number>
-<author>Корван</author>
 <lyrics>[V1]
  1 куплет:
 . G                           D
@@ -30,4 +29,5 @@
  Я всё смогу жизнь сберегу для Тебя
  Ты пришёл Царь Спаситель в моём сердце поселился
  Жизнь мою Тебе даю навсегда</lyrics>
+<title>Ты пришёл</title>
 </song>

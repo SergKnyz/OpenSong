@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2117</hymn_number>
-<key>E</key>
-<title>Наш Бог Всемогущий</title>
-<author>Валерий Короп</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Em                      Am
  Кто открыл наше сердце для Небесной мечты
@@ -26,4 +22,8 @@
    Наш Бог - Всемогущий... Наш Бог - Всемогущий,
 .  C       G           Am         Hm   Em
    Наш Бог - Всемогущий... Слава Ему и честь.</lyrics>
+<title>Наш Бог Всемогущий</title>
+<key>E</key>
+<author>Валерий Короп</author>
+<hymn_number>2117</hymn_number>
 </song>

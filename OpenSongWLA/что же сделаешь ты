@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Что же сделаешь ты</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Денис Попурей</author>
+<key>E</key>
 <hymn_number>1647</hymn_number>
-<author>Денис Попурей</author>
 <lyrics>[V1]
  1 куплет:
 . Em                 D          C                    Hm
@@ -34,4 +33,5 @@
  Хочет Бог голодных накормить, обогреть Своим теплом замерзших,
 .  G            D              C                   H             Em D
  Всякую нужду людей покрыть, но любовь явить не может в черствых.</lyrics>
+<title>Что же сделаешь ты</title>
 </song>

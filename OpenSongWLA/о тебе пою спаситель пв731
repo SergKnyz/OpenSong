@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>731</hymn_number>
-<key>E</key>
-<title>О Тебе пою Спаситель ПВ731</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О Тебе пою, Спаситель,
  Этот гимн души моей
  На пути земном в обитель,
@@ -24,4 +21,7 @@
  Этот гимн опять спою,
  Гимн святой и бесконечный
  Про святую жизнь в раю.</lyrics>
+<title>О Тебе пою Спаситель ПВ731</title>
+<key>E</key>
+<hymn_number>731</hymn_number>
 </song>

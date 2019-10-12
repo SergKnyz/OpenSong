@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>342</hymn_number>
-<title>Хвалу воспой ИИПВ342</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Хвалу воспой ИИПВ342</title>
 <lyrics>[V1]
 .          A.            Bm
  Хвалу воспой! Хвалу воспой!
@@ -16,4 +14,6 @@
    Колени преклонив, Тебя зову,
 .           Bm  A  D        E A
    Иисус - мой Господь. (×3) Аминь.</lyrics>
+<hymn_number>342</hymn_number>
+<key>A</key>
 </song>

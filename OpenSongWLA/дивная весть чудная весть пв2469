@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Дивная весть чудная весть ПВ2469</title>
-<key>C</key>
-<hymn_number>2469</hymn_number>
 <lyrics>[V1]
  Дивная весть, чудная весть,
  Все унесли года.
@@ -24,4 +22,6 @@
  Ведь спас Он нас от уз,
  Счастье дарит, даром дарит,
  Ярко звезда горит.</lyrics>
+<hymn_number>2469</hymn_number>
+<key>C</key>
 </song>

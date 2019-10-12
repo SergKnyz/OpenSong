@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Стоишь на пороге ты в вечность ПВ1034</title>
-<key>G</key>
-<hymn_number>1034</hymn_number>
 <lyrics>[V1]
  Стоишь на пороге ты в вечность.
  Зовет тебя счастье: &quot;Приди!&quot;
@@ -48,4 +46,6 @@
    сомненья так трудно прогнать.
    Но только борьба к победе ведет,
    О воин Христа, твердо стой!</lyrics>
+<hymn_number>1034</hymn_number>
+<key>G</key>
 </song>

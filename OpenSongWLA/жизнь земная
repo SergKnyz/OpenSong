@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Жизнь земная</title>
-<hymn_number>1878</hymn_number>
-<author>Божье прикосновение</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
  Жизнь земная коротка, на года, не на века
  Нам назначен срок с Земли уйти.
@@ -28,4 +25,7 @@
    Прикоснись меня Своей рукой,
    Душу грешную омой, двери в небо ей открой,
    Помоги ей путь найти Домой.</lyrics>
+<title>Жизнь земная</title>
+<author>Божье прикосновение</author>
+<hymn_number>1878</hymn_number>
 </song>

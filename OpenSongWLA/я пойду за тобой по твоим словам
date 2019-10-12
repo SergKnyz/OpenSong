@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2016</hymn_number>
-<key>A</key>
-<title>Я пойду за Тобой по Твоим словам</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я пойду за Тобой по Твоим словам</title>
 <lyrics>[V1]
  Куплет:
 .Am                            G
@@ -46,5 +44,7 @@
  Но мы помним кто Ты есть
  Как Ты благ для нас
  Как Ты благ для нас.</lyrics>
+<hymn_number>2016</hymn_number>
+<key>A</key>
 <author>Алексей Захаренко, Йесус Цултуре</author>
 </song>

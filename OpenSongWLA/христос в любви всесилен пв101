@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>101</hymn_number>
-<title>Христос в любви всесилен ПВ101</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>101</hymn_number>
 <lyrics>[V1]
  Христос в любви всесилен,
  В Нем благодати свет,
@@ -39,4 +38,5 @@
  Хвалу я воспою
  Тому, Кто от страданья
  Избавил жизнь мою.</lyrics>
+<title>Христос в любви всесилен ПВ101</title>
 </song>

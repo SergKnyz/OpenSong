@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Бедное сердце сколько тревоги ПВ1428</title>
-<hymn_number>1428</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em             B         Em
  Бедное сердце, сколько тревоги
 .D       G    Am      B
@@ -34,4 +31,7 @@
  Он не оставит в житейской борьбе.
  Разве допустит, чтоб в жизненном бою
  Гибнуть пришлося и мне, и тебе.</lyrics>
+<title>Бедное сердце сколько тревоги ПВ1428</title>
+<key>D</key>
+<hymn_number>1428</hymn_number>
 </song>

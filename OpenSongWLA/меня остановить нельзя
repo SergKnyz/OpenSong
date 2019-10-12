@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Меня остановить нельзя</title>
-<hymn_number>2058</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2058</hymn_number>
+<author>Егор и Наталия Лансере</author>
+<title>Меня остановить нельзя</title>
 <lyrics>[V1]
  Меня остановить нельзя - I can not be stopped
 
@@ -40,5 +41,4 @@
  *| C G D | C G D | C Em | Am Em D ||
  **| Em C | G C D | Em C | G C D ||
  ** | F#m D | A D E | F#m D | A D E ||</lyrics>
-<author>Егор и Наталия Лансере</author>
 </song>

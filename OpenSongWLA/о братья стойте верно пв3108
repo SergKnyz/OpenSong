@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3108</hymn_number>
-<title>О братья стойте верно ПВ3108</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>О братья стойте верно ПВ3108</title>
 <lyrics>[V1]
  О братья, стойте верно:
  скоро нам домой;
@@ -34,4 +32,6 @@
  - и будет радость в небесах.
  О братья, стойте верно:
  скоро нам домой.</lyrics>
+<hymn_number>3108</hymn_number>
+<key>A</key>
 </song>

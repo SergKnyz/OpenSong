@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Гимн Молодежи</title>
-<hymn_number>1519</hymn_number>
-<author>Денис Никитин</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C
  Может мой друг ты меня не поймёшь,
 .  Em
@@ -33,4 +29,8 @@
  Пойми что Иисус твой самый преданный Друг
  И ты не смотри, что творится вокруг
  Он завёт тебя, Он даст тебе всё!</lyrics>
+<title>Гимн Молодежи</title>
+<key>C</key>
+<author>Денис Никитин</author>
+<hymn_number>1519</hymn_number>
 </song>

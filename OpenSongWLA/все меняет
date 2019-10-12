@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1025</hymn_number>
+<key>A</key>
+<author>Hillsong Ukraine</author>
+<title>Все меняет</title>
+<lyrics>[V1]
  1 куплет:
 .A
  Ты нас во всём изменил,
@@ -46,8 +50,4 @@
    В нас сердца пробудил, лишь Ты в нас все изменил,
 .     F#m               E               D
    Изменил Ты нас, изменил Ты нас, Господь.</lyrics>
-<author>Hillsong Ukraine</author>
-<hymn_number>1025</hymn_number>
-<title>Все меняет</title>
-<key>A</key>
 </song>

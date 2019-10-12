@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Есть причины у меня ИИПВ105</title>
-<hymn_number>105</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .E.                 A
  Есть причины у меня, чтобы жить.
 .E
@@ -40,4 +37,7 @@
  Нет-нет-нет!
  Нетпричины, чтобы мне умирать.
  Теперьлюбовь Христа есть во мне.</lyrics>
+<title>Есть причины у меня ИИПВ105</title>
+<key>E</key>
+<hymn_number>105</hymn_number>
 </song>

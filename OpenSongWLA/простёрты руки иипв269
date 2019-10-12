@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>269</hymn_number>
-<key>E</key>
-<title>Простёрты руки ИИПВ269</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .           E            B7
  Простёрты руки мои к Тебе
 .            C#m              A
@@ -22,4 +19,7 @@
    Лишь одно моё желание.
 .      A F#m     B7      A/E
    К Тебе, мой Господь, я иду.</lyrics>
+<title>Простёрты руки ИИПВ269</title>
+<key>E</key>
+<hymn_number>269</hymn_number>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<author>Hillsong Ukraine</author>
+<hymn_number>2619</hymn_number>
 <lyrics>[V1]
  Intro: C2 | Am7 | C2 | Am7 ||
 
@@ -57,7 +59,5 @@
  С Тобой возможно всё!
 .A          G  -  A
  С Тобой возм__о__жно всё!</lyrics>
-<key>C</key>
 <title>С Богом возможно всё</title>
-<hymn_number>2619</hymn_number>
 </song>

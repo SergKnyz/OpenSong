@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2751</hymn_number>
-<key>C</key>
-<title>Страна небесного покоя ПВ2751</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>2751</hymn_number>
 <lyrics>[V1]
  Страна небесного покоя,
  Как манишь ты своей красой,
@@ -30,4 +29,5 @@
  И видеть Господа, как есть,
  Себя отвергнуть нужно, дабы
  Не отступила Божья весть.</lyrics>
+<title>Страна небесного покоя ПВ2751</title>
 </song>

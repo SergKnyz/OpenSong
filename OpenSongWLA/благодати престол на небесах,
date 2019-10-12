@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>557</hymn_number>
-<title>Благодати престол на небесах,</title>
-<key>G</key>
-<author>Спасение церковь г. Вишневое</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Благодати престол на небесах,</title>
 <lyrics>[V1]
  Куплет:
 .G           Cadd9       Dsus  D
@@ -25,4 +22,7 @@
    Вовеки царствуй, Тебе хвала!
 .            Am7          Dsus D
    Тебе вся слава, аллилуйя!___</lyrics>
+<hymn_number>557</hymn_number>
+<author>Спасение церковь г. Вишневое</author>
+<key>G</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Новая Земля церковь г. Минск</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .  A                D         A
  Святая ночь! Сверкают ярко звезды.
@@ -45,5 +44,6 @@
  Ему вся власть и честь принадлежит.</lyrics>
 <title>Святая ночь</title>
 <key>A</key>
+<author>Новая Земля церковь г. Минск</author>
 <hymn_number>4980</hymn_number>
 </song>

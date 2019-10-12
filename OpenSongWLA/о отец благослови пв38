@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>38</hymn_number>
-<title>О Отец благослови ПВ38</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О Отец, благослови
  Ты меня; вот я стою
  У креста; печаль мою
@@ -29,4 +26,7 @@
  Иисуса, кто мир спас,
  Как вот здесь и в этот час,
  Дай мне благодатных сил!</lyrics>
+<title>О Отец благослови ПВ38</title>
+<key>G</key>
+<hymn_number>38</hymn_number>
 </song>

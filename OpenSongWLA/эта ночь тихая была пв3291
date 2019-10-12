@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3291</hymn_number>
-<title>Эта ночь тихая была ПВ3291</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Эта ночь тихая была ПВ3291</title>
 <lyrics>[V1]
  Эта ночь тихая была
  В тишине спала вся земля
@@ -23,4 +22,5 @@
  В тишине спала вся земля
  Лишь Отец слышал Сына Своего,
  Как молил Тот с горечью Его.</lyrics>
+<hymn_number>3291</hymn_number>
 </song>

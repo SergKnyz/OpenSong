@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Лишь Тебя жажду</title>
-<hymn_number>168</hymn_number>
-<author>Алексей Каратаев</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .A
  Для Тебя живу, воздаю хвалу
@@ -39,4 +35,8 @@
  Совершенный Бог, лишь Тебя жажду,
  Ты меня поднял, Свою силу дал,
  О Тебе пою, лишь Тебя жажду.</lyrics>
+<title>Лишь Тебя жажду</title>
+<key>A</key>
+<author>Алексей Каратаев</author>
+<hymn_number>168</hymn_number>
 </song>

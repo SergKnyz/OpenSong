@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3639</hymn_number>
-<key>G</key>
-<title>Ты - мой Целитель</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 КУПЛЕТ:
 .    G            C
  Когда-то был я слеп, но Ты
@@ -51,5 +48,8 @@
    Ранами Христа      исцелен вовек
 .       C       Em        D
    Во мне, Бог, Царство Твоё</lyrics>
+<title>Ты - мой Целитель</title>
 <author>Слово Жизни Music, Слово Жизни Мусиц</author>
+<key>G</key>
+<hymn_number>3639</hymn_number>
 </song>

@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Всё это сбудется</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2140</hymn_number>
 <key>C</key>
-<hymn_number>2140</hymn_number>
+<author>Светлана Малова</author>
+<title>Всё это сбудется</title>
 <lyrics>[V1]
  1 куплет:
 .Cm              G#
@@ -68,5 +69,4 @@
  И может быть затронет их сердца
 .    Fm             G          Cm
  Хотя б одна строка из этой песни</lyrics>
-<author>Светлана Малова</author>
 </song>

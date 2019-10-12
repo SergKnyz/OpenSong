@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>429</hymn_number>
+<author>Слово Жизни Music</author>
+<key>D</key>
+<title>В ритме сердца</title>
 <lyrics>[V1]
  1 куплет:
 .     D                                  Hm
@@ -40,7 +43,4 @@
    Бог, Ты здесь!
 .           G    Hm G D
    Бог, Ты рядом!</lyrics>
-<key>D</key>
-<title>В ритме сердца</title>
-<hymn_number>429</hymn_number>
 </song>

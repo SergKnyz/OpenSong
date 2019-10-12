@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>196</hymn_number>
-<title>Коснусь Небес</title>
-<key>A</key>
-<author>Hillsong United, Хиллсонг Унитед</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Коснусь Небес</title>
 <lyrics>[V1]
  1 КУПЛЕТ:
  Что скрыто за сияньем звёзд?
@@ -29,4 +26,7 @@
    Всё во мне, Иисус у ног Твоих возложу я
    Вновь пусть наполнит любовь Твоя
    И парить душа будет в танце навечно</lyrics>
+<hymn_number>196</hymn_number>
+<author>Hillsong United, Хиллсонг Унитед</author>
+<key>A</key>
 </song>

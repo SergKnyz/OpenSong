@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<title>Снег в июне</title>
-<hymn_number>2203</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Светлана Малова - Снег В Июне
 
 [V2]
@@ -176,5 +173,8 @@
  Получить прощение - блаженство,
 .     C       B                 Em
  Ближнего простить - блаженство в двое.</lyrics>
+<title>Снег в июне</title>
+<key>Bb</key>
 <author>Светлана Малова</author>
+<hymn_number>2203</hymn_number>
 </song>

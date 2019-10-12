@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2963</hymn_number>
-<title>Двигайся</title>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Двигайся</title>
 <lyrics>[V1]
  1 куплет:
 .  Bb
@@ -50,5 +48,7 @@
    Приди к нам, Дух, ды__ши
 .          Gm     Bb
    Делай всё, что можешь Ты!</lyrics>
+<hymn_number>2963</hymn_number>
 <author>Bethel Music, Бетхел Мусиц</author>
+<key>Bb</key>
 </song>

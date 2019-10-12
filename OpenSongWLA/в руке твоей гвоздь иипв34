@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>34</hymn_number>
-<key>D</key>
-<title>В руке Твоей гвоздь ИИПВ34</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>34</hymn_number>
 <lyrics>[V1]
 .     D
  В руке Твоей гвоздь,
@@ -29,4 +28,5 @@
  Навеки я жизнь Тебе отдам.
 .   G      D
  Навеки отдам&quot;.</lyrics>
+<title>В руке Твоей гвоздь ИИПВ34</title>
 </song>

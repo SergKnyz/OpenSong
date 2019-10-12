@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2816</hymn_number>
-<title>Граждане неба</title>
-<key>D</key>
-<author>Олег Гонтарь</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Граждане неба</title>
 <lyrics>[V1]
 .Em  C    G  D
  Граждане неба небо для вас
@@ -17,4 +14,7 @@
 [V3]
  2) Что смертью смерть он победил, ключи от неба подарил
  Любовь он в сердце он поселил и души воскресил</lyrics>
+<hymn_number>2816</hymn_number>
+<author>Олег Гонтарь</author>
+<key>D</key>
 </song>

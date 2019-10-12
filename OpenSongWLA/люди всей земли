@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1808</hymn_number>
-<title>Люди всей земли</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Люди всей земли</title>
 <lyrics>[V1]
  Люди всей земли, С детства знать должны,
  Кто их имена знает наизусть,
@@ -23,4 +22,5 @@
    Сына Своего Он не пожалел.
    Чрез Христа спастись каждый чтобы смог,
    Добрый наш Бог, Мудрый Бог.</lyrics>
+<hymn_number>1808</hymn_number>
 </song>

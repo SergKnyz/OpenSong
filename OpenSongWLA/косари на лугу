@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Косари на лугу</title>
-<key>A</key>
-<hymn_number>803</hymn_number>
-<author>Евгения Романенко</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .            Gm                      Cm
  Косари на лугу размахалися острыми косами,
@@ -37,4 +33,8 @@
  Завершён сенокос, ну а я невредимым стою,
  И как в прежние дни, упиваюсь небесными росами,
  Прославляю Тебя за любовь и за милость Твою.</lyrics>
+<title>Косари на лугу</title>
+<author>Евгения Романенко</author>
+<key>A</key>
+<hymn_number>803</hymn_number>
 </song>

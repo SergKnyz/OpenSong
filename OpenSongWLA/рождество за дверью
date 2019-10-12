@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2397</hymn_number>
-<title>Рождество за дверью</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Рождество за дверью</title>
 <lyrics>[V1]
  Зимний вечер, яркие огни
  Люди праздник шумно отмечали.
@@ -49,4 +48,5 @@
  Тихо снег кружился над землею.
  // Если хочешь, с ними ты иди,
  Поддержи Христа своей рукою. //</lyrics>
+<hymn_number>2397</hymn_number>
 </song>

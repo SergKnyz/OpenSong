@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Вижу я вершины гор</aka>
-<hymn_number>4324</hymn_number>
-<title>Возвожу я к ним свой взор,</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Возвожу я к ним свой взор,</title>
 <lyrics>[V1]
  Вижу я вершины гор,
  Возвожу я к ним свой взор,
@@ -18,4 +16,6 @@
 [B1]
    Он - мой Господь, Он защита моя!
    Он - лев из колена Иудина!</lyrics>
+<aka>Вижу я вершины гор</aka>
+<hymn_number>4324</hymn_number>
 </song>

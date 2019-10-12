@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Счастливы те люди ПВ1036</title>
-<hymn_number>1036</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Счастливы те люди.
  Кто учит Библию.
 
@@ -32,4 +29,7 @@
 [V8]
  Счастливы те люди.
  Споем Аллилуйя!</lyrics>
+<title>Счастливы те люди ПВ1036</title>
+<key>G</key>
+<hymn_number>1036</hymn_number>
 </song>

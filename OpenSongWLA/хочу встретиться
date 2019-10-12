@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Просто сосуды</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
+<author>Просто сосуды</author>
+<hymn_number>2610</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .D#m             F#       C#            G#m
@@ -26,7 +28,5 @@
    Мост:
    А пока далеко от Тебя, но сердце мое понимает
    Прикосновение Твоей любви меня поднимает</lyrics>
-<key>F#</key>
 <title>Хочу встретиться</title>
-<hymn_number>2610</hymn_number>
 </song>

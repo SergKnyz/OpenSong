@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Танцуй</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>58</hymn_number>
 <key>E</key>
-<hymn_number>58</hymn_number>
+<author>Слово Жизни Music</author>
+<title>Танцуй</title>
 <lyrics>[V1]
  Куплет:
 .          C                  D
@@ -35,5 +36,4 @@
    Восклицай во весь голос,
 .  Em       G   A   H      Em      G  A H
    Прославляй, Он свободу нам подарил.</lyrics>
-<author>Слово Жизни Music</author>
 </song>

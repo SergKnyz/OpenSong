@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<hymn_number>279</hymn_number>
+<lyrics>[V1]
 .       F     C7F  Bb            F
  С самого восхода до заката солнца
 .         Bb     C7        F C7
@@ -15,7 +17,5 @@
    С самого восхода до заката солнца
 .      Bb     C7         F
    Пусть славиться Имя Господа!</lyrics>
-<key>F</key>
 <title>С самого восхода ИИПВ279</title>
-<hymn_number>279</hymn_number>
 </song>

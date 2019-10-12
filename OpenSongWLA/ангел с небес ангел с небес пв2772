@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2772</hymn_number>
-<title>Ангел с небес Ангел с небес ПВ2772</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ангел с небес Ангел с небес ПВ2772</title>
 <lyrics>[V1]
 .C#m
  Ангел с небес, Ангел с небес
@@ -38,4 +36,6 @@
    Бог так любит всех,
    Бог так любит всех!
    Ангелы здесь поют.</lyrics>
+<hymn_number>2772</hymn_number>
+<key>D</key>
 </song>

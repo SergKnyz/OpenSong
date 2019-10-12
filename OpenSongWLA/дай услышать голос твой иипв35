@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Дай услышать голос Твой ИИПВ35</title>
-<key>G</key>
-<hymn_number>35</hymn_number>
-<aka>В тишине Твоего величия</aka>
 <lyrics>[V1]
 .D/A                C2
  В тишине Твоего величия,
@@ -40,4 +37,7 @@
    Твой мягкий шёпот, о, Господь, Отец,
 .      Em     D            C
    Дай услышать голос Твой.</lyrics>
+<hymn_number>35</hymn_number>
+<aka>В тишине Твоего величия</aka>
+<key>G</key>
 </song>

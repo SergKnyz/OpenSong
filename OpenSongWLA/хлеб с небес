@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3026</hymn_number>
-<title>Хлеб с небес</title>
-<key>A</key>
-<author>Вадим Ятковский</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Хлеб с небес</title>
 <lyrics>[V1]
  1 куплет:
 .  Am                F/A        G         Em
@@ -37,4 +34,7 @@
  Иисусом будет жить, как Он живет Отцом.
  Хлеб истинный с небес, наполнил землю нашу
  Ядущий этот хлеб, вовеки будет жить!</lyrics>
+<hymn_number>3026</hymn_number>
+<key>A</key>
+<author>Вадим Ятковский</author>
 </song>

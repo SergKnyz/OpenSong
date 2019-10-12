@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Я буду ждать</title>
-<key>E</key>
-<hymn_number>906</hymn_number>
-<author>Маханаим</author>
 <lyrics>[V1]
  1 куплет:
 .Em                   C Am                C
@@ -25,4 +22,7 @@
  3 куплет:
  Укрепит меня Твой Дух сердце верою зажжется
  Ты к моей беде не глух через тьму Твой луч пробьется</lyrics>
+<hymn_number>906</hymn_number>
+<key>E</key>
+<author>Маханаим</author>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4244</hymn_number>
-<title>Хвала Тебе о Боже мой ПВ2376</title>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<hymn_number>4244</hymn_number>
 <lyrics>[V1]
  Хвала Тебе, о Боже мой,
  Великий Царь небес, земли,
@@ -48,4 +47,5 @@
  Тебе благодарены,
  Тебе пою я песнь мою,
  Великий свет, мое спасены.</lyrics>
+<title>Хвала Тебе о Боже мой ПВ2376</title>
 </song>

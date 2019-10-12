@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3489</hymn_number>
-<title>А Я говорю вам любите</title>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<hymn_number>3489</hymn_number>
 <lyrics>[V1]
 .B          E     B
  А Я говорю вам любите,
@@ -28,4 +27,5 @@
    И простит вам Отец ваш,
 .  C#m  F#  B
    Простит вам.</lyrics>
+<title>А Я говорю вам любите</title>
 </song>

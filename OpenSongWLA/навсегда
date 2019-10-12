@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<title>Навсегда</title>
-<hymn_number>492</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Навсегда</title>
 <lyrics>[V1]
  1 куплет:
 .H                 G#m             H
@@ -30,5 +28,7 @@
    Припев:
    Навсегда, о-о, на-на-на-на-на-на-на-навсегда
    Навсегда, о-о, на-на-на-на-на-на-на-на о-о</lyrics>
+<hymn_number>492</hymn_number>
 <author>Сергей Брикса</author>
+<key>B</key>
 </song>

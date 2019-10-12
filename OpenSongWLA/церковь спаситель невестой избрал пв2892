@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2892</hymn_number>
-<key>Bb</key>
-<title>Церковь Спаситель невестой избрал ПВ2892</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
+<hymn_number>2892</hymn_number>
 <lyrics>[V1]
  Церковь Спаситель невестой избрал
  и за неё на кресте пострадал.
@@ -30,4 +29,5 @@
  и в час любой ты сияй, как звезда.
  Скоро придёт Он С небес для суда:
  верно трудись, не терял время зря.</lyrics>
+<title>Церковь Спаситель невестой избрал ПВ2892</title>
 </song>

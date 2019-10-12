@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4170</hymn_number>
-<key>A</key>
-<title>Пусть знают все</title>
-<author>Слово Жизни Москва, Уорсхип Централ</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .A                 C#m
  Мы будем восклицать, петь и провозглашать,
@@ -44,4 +40,8 @@
    Мы восклицаем Твоё лишь имя
 .  C#m             H
    Громче и громче!</lyrics>
+<title>Пусть знают все</title>
+<author>Слово Жизни Москва, Уорсхип Централ</author>
+<key>A</key>
+<hymn_number>4170</hymn_number>
 </song>

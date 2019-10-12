@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>От труда устав дневного ПВ3045</title>
-<hymn_number>3045</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>От труда устав дневного ПВ3045</title>
 <lyrics>[V1]
  От труда устав дневного,
  Иисус присел в тени;
@@ -33,4 +31,6 @@
  не препятствуйте, пусть смело
  все придут к Моим рукам,
  все придут к Моим рукам».</lyrics>
+<hymn_number>3045</hymn_number>
+<key>C</key>
 </song>

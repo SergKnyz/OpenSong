@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4790</hymn_number>
-<key>F</key>
-<title>Все для тебя Всевышним решено ПВ1645</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Все для тебя Всевышним решено ПВ1645</title>
 <lyrics>[V1]
  Все для тебя Всевышним решено,
  Господь твой путь заранее предвидел.
@@ -24,4 +22,6 @@
  И все ж обиды все преодолимы.
  Прощения улыбка лучше тьмы.
  Она костром вражды неопалима.</lyrics>
+<hymn_number>4790</hymn_number>
+<key>F</key>
 </song>

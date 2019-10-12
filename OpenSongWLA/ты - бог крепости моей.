@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Ты - Бог    крепости моей.</title>
-<key>D</key>
-<hymn_number>3117</hymn_number>
-<aka>Буду славить Тебя я, Боже мой</aka>
-<author>Путь Христа церковь, г. Нюрнберг</author>
 <lyrics>[V1]
  1.
  Dm        Gm                                Псалом 42
@@ -36,4 +32,8 @@
 .      A               Dm
    Спасителя и Бога моего.                         .
    Припев: ...</lyrics>
+<aka>Буду славить Тебя я, Боже мой</aka>
+<hymn_number>3117</hymn_number>
+<key>D</key>
+<author>Путь Христа церковь, г. Нюрнберг</author>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1321</hymn_number>
-<title>В этот час</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>В этот час</title>
 <lyrics>[V1]
  Этот день сегодня похож на сон для вас в этот час.
  Две души слились воедино весь мир в этот час создан для вас.
@@ -21,4 +20,5 @@
  Пусть ее свет вас ведет сквозь седые года.
  Этот сбывшийся сон и ваша мечта,
  Пусть так будет всегда.</lyrics>
+<hymn_number>1321</hymn_number>
 </song>

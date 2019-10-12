@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Источник жизни</title>
+<lyrics>[V1]
 .F         G            E        Am
  1. Мой друг, присядь, послушай певца,
  Которым ранее владела лишь тьма,
@@ -28,8 +29,7 @@
    Не бойся! Не бойся, иди!
    Пред Христом на Голгофе колени склони!
    И Его пути, ведущие в жизнь, в Царствие любви, станут твои!</lyrics>
+<hymn_number>3868</hymn_number>
 <author>Владимир Скобочкин</author>
 <key>F</key>
-<title>Источник жизни</title>
-<hymn_number>3868</hymn_number>
 </song>

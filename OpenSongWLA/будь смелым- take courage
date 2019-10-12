@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Будь смелым- Take courage</title>
-<key>G</key>
-<hymn_number>3013</hymn_number>
-<aka>Стряхивая пыль былых дорог</aka>
-<author>Мария Сенокосова</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Будь смелым
 
 [V2]
@@ -64,4 +59,9 @@
    Простое, послушание
 .  C
    Меняет ход истории</lyrics>
+<title>Будь смелым- Take courage</title>
+<author>Мария Сенокосова</author>
+<key>G</key>
+<hymn_number>3013</hymn_number>
+<aka>Стряхивая пыль былых дорог</aka>
 </song>

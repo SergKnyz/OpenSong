@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ищу Тебя</title>
-<key>Cm</key>
-<hymn_number>4012</hymn_number>
-<author>Skeemans Worship</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .          G#
  Зажег звезду на небе
@@ -37,4 +33,8 @@
  Мне не страшно, ведь в Твоей я воле
  Есть вера у меня, спасён отныне я
  Навсегда</lyrics>
+<title>Ищу Тебя</title>
+<author>Skeemans Worship</author>
+<key>Cm</key>
+<hymn_number>4012</hymn_number>
 </song>

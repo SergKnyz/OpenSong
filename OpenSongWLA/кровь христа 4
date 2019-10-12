@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2087</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Альфа</author>
 <key>C</key>
-<title>Кровь Христа</title>
+<hymn_number>2087</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Cm       D#      Bb        G
@@ -36,5 +36,5 @@
  Не вздумай грешить, друг мой не вздумай грешить
  Зачем (зачем) распинать
  Зачем проливать второй раз кровь Христа.</lyrics>
-<author>Альфа</author>
+<title>Кровь Христа</title>
 </song>

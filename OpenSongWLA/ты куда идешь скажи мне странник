@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1761</hymn_number>
-<title>Ты куда идешь скажи мне странник</title>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .  Am                 G               F               E
  &quot;Ты куда идешь, скажи мне, странник с посохом в руке?&quot; -
@@ -32,5 +29,8 @@
  &quot;Да, мой друг, пойдем со мною, вот тебе моя рука!
  Недалеко уж родная и желанная страна.
  Вера чистая, живая нас введет с тобой туда&quot;.</lyrics>
+<title>Ты куда идешь скажи мне странник</title>
 <author>Песнь возрождения 2800</author>
+<key>A</key>
+<hymn_number>1761</hymn_number>
 </song>

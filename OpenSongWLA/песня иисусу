@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>Песня Иисусу</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
+<key>F#</key>
 <hymn_number>79</hymn_number>
-<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  Куплет:
 .C# Fm   F# C#
@@ -19,4 +18,5 @@
    Прославлю я, превознесу над всеми Твое Имя.
 .      G#           F#                     C#
    Прославлю я, превознесу над всеми Твое Имя.</lyrics>
+<title>Песня Иисусу</title>
 </song>

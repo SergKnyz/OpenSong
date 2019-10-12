@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>509</hymn_number>
+<author>Hillsong Ukraine</author>
+<key>C#m</key>
+<title>Спаситель Царь</title>
+<lyrics>[V1]
  1 куплет:
 .             C#m        H      E
  Пусть скажет тот, кто духом слаб:
@@ -49,8 +53,4 @@
  Пусть блудный мир, вернётся в дом
 .    F#m7         C#m             H            E
  И найдёт в нём любовь тех, кто был Тобой спасён</lyrics>
-<author>Hillsong Ukraine</author>
-<key>C#m</key>
-<title>Спаситель Царь</title>
-<hymn_number>509</hymn_number>
 </song>

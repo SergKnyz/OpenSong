@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Время пришло</title>
 <lyrics>[V1]
  Куплет:
 .Em
@@ -29,7 +29,7 @@
    Мы не воюем за деньги и власть,
 .         Am        Hm
    Пусть мир узнает силу спасенья.</lyrics>
-<title>Время пришло</title>
-<key>E</key>
 <hymn_number>523</hymn_number>
+<author>Hillsong Ukraine</author>
+<key>E</key>
 </song>

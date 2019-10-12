@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Среди Шторма</title>
-<key>A</key>
-<hymn_number>3736</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Am           G
  Когда ветер и волны окружили меня,
@@ -41,5 +38,8 @@
    Как солнце утром приходит надежда Твоя
 .  Dm           Em
    Я окружен Тобой , Ты вдохнул жизнь в меня.</lyrics>
+<title>Среди Шторма</title>
+<key>A</key>
 <author>Reallife band</author>
+<hymn_number>3736</hymn_number>
 </song>

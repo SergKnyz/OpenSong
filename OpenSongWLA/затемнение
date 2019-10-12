@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3719</hymn_number>
-<title>Затемнение</title>
-<author>Steffany Gretzinger, Стеффаны Гретзингер</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Затемнение</title>
 <lyrics>[V1]
  С рассветом дня
  То имя, что я имею,
@@ -72,4 +70,6 @@
 
 [V12]
  Перевод: Оксана Бондарь-Павловская</lyrics>
+<hymn_number>3719</hymn_number>
+<author>Steffany Gretzinger, Стеффаны Гретзингер</author>
 </song>

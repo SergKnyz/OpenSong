@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>О как радостно с хваленьем ПВ522</title>
-<key>Eb</key>
-<hymn_number>522</hymn_number>
 <lyrics>[V1]
  О как радостно с хваленьем
  Нам стремиться на Сион!
@@ -30,4 +28,6 @@
  Там никто; пусть все тропой
  С Ним идут, обет нам давшим,
  Что войдем в Его покой.</lyrics>
+<hymn_number>522</hymn_number>
+<key>Eb</key>
 </song>

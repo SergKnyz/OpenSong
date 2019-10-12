@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1567</hymn_number>
-<key>C</key>
-<title>Сегодня у окошка</title>
-<author>Сам себе Эдельвейс</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   C                Dm          G
  Сегодня у окошка чирикнул воробей
@@ -33,4 +29,8 @@
  Пусть всюду льётся пение Христос воскрес, воскрес!
  Сегодня воскресение! Поют Земля и лес!
  Сегодня воскресение! Поют Земля и лес!</lyrics>
+<title>Сегодня у окошка</title>
+<key>C</key>
+<author>Сам себе Эдельвейс</author>
+<hymn_number>1567</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>263</hymn_number>
-<title>Призван, чтобы побеждать ИИПВ263</title>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Призван, чтобы побеждать ИИПВ263</title>
 <lyrics>[V1]
 .           F
  Призван, чтобы побеждать,
@@ -32,4 +30,6 @@
    Если веришь, станет всё возможным,
 .  Gm7            Bb             Csus4
    Верь и станет всё возможно с Ним!</lyrics>
+<hymn_number>263</hymn_number>
+<key>F</key>
 </song>

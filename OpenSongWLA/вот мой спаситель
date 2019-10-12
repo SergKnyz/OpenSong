@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вот мой Спаситель</title>
-<key>G</key>
-<hymn_number>1840</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <author>Благодать церква г. Минск</author>
+<hymn_number>1840</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .G          D/F#        Em    Hm     C
@@ -67,4 +66,5 @@
    Ты - мой И__и__сус.
 .          Cm  F Bb   F Bb
    Ты - мой И__исус! Иисус!</lyrics>
+<title>Вот мой Спаситель</title>
 </song>

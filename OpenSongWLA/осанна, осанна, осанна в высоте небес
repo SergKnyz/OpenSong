@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Осанна, Осанна, Осанна в высоте небес</title>
-<key>A</key>
-<author>Царл Туттле</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .   A        E       F#m        D       E
  // Осанна, Осанна, Осанна в высоте небес! //
 
@@ -22,4 +19,7 @@
 [V3]
 .   A         E              F#m       D       E
  // Мы любим, мы любим, мы любим Тебя, Царь царей! //</lyrics>
+<key>A</key>
+<author>Царл Туттле</author>
+<title>Осанна, Осанна, Осанна в высоте небес</title>
 </song>

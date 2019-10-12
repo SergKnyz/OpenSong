@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>26</hymn_number>
-<key>E</key>
-<title>Свет пролился</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em              C
  Свет пролился тьма ушла
 . Em           C
@@ -62,5 +59,8 @@
    И прижалась к Его совершенству
    Оставляя в дали берега
    Этот мир, где так много сомненья.</lyrics>
+<title>Свет пролился</title>
+<key>E</key>
 <author>Алексей Грудинский</author>
+<hymn_number>26</hymn_number>
 </song>

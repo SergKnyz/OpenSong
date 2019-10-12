@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2418</hymn_number>
-<title>Я молился раз и ждал ПВ2418</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>2418</hymn_number>
 <lyrics>[V1]
  Я молился раз (и ждал),
  Я молился два (и ждал),
@@ -35,4 +34,5 @@
  Я молился два (и ждал),
  Чтобы Бог мне дал награду,
  Путь мой увенчал.</lyrics>
+<title>Я молился раз и ждал ПВ2418</title>
 </song>

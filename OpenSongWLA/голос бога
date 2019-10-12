@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Голос Бога</title>
-<hymn_number>2778</hymn_number>
-<author>Владимир Скобочкин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Голос Бога</title>
 <lyrics>[V1]
 .G                   C           G
  1. Голос любви услышал я в пути.
@@ -36,4 +33,7 @@
    И хвала из уст твоих лилась в Небеса
    Голос Божий спас тебя, спас тебя из забытья,
    Отдаю Тебе себя я, спасибо за спасение меня.</lyrics>
+<hymn_number>2778</hymn_number>
+<key>G</key>
+<author>Владимир Скобочкин</author>
 </song>

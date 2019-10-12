@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Чудная страна</title>
-<hymn_number>1522</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Чудная страна</title>
 <lyrics>[V1]
  1 куплет:
 .      E                   C#m      F#m      H         E
@@ -32,5 +30,7 @@
  Сам придёт во славе неземной, чтобы верных взять к Себе домой.
  Воспоём тогда Господа Христа, когда домой придём.
  В доме золотом будем петь о том, как любит Он.</lyrics>
+<hymn_number>1522</hymn_number>
+<key>E</key>
 <author>Русавуки</author>
 </song>

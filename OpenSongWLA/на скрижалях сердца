@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6142</hymn_number>
-<aka>Скрижали сердца</aka>
-<key>Am</key>
+<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
 <title>На Скрижалях Сердца</title>
-<time_sig>4/4</time_sig>
 <tempo>70</tempo>
-<author>Группа &quot;Новый Завет&quot;</author>
 <lyrics>[V1]
  вступление:
 .Am E6 C6/4 D6 Dm6, Am/E H9 Esus E7
@@ -58,4 +54,8 @@
  Воду жизни душа и в пустыне найдёт,
 .Dm           Dm/H   E7
  И Любовью Твоею напьётся.</lyrics>
+<hymn_number>6142</hymn_number>
+<aka>Скрижали сердца</aka>
+<author>Группа &quot;Новый Завет&quot;</author>
+<key>Am</key>
 </song>

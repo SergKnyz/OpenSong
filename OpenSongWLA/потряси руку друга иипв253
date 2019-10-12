@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Потряси руку друга ИИПВ253</title>
-<key>A</key>
-<hymn_number>253</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .      A        E   D         A
  Потряси руку друга от тебя справа,
 . D          A      E
@@ -33,4 +30,7 @@
  МойИисус, мой друг,
  Онтот друг, что рядом.
  Рукупотряси и пой.</lyrics>
+<title>Потряси руку друга ИИПВ253</title>
+<key>A</key>
+<hymn_number>253</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2976</hymn_number>
-<key>D</key>
-<title>Радуйся пред Богом Израиля</title>
-<author>Путь Христа церковь, г. Нюрнберг</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Радуйся пред Богом Израиля</title>
 <lyrics>[C1]
    Припев:
 .  Dm
@@ -38,4 +35,7 @@
  Вот нет Его во гробе, нет и на кресте.
 . Gm          Dm  A          Dm
  Где Иисус сейчас?-Он живёт в тебе  (во мне).</lyrics>
+<hymn_number>2976</hymn_number>
+<key>D</key>
+<author>Путь Христа церковь, г. Нюрнберг</author>
 </song>

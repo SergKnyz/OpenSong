@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<author>Imprintband</author>
+<hymn_number>438</hymn_number>
 <lyrics>[V1]
 .Hm         G         D A
  Всё мне говорило о Тебе
@@ -43,7 +45,5 @@
    Что дыхание во мне оно тоже Твоё
 .       A                        F#m
    Подарил Ты мне жизнь, в Тебе счастье моё!</lyrics>
-<hymn_number>438</hymn_number>
 <title>Кто скажет</title>
-<key>B</key>
 </song>

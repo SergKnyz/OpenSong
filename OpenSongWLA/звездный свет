@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Bethel Music, Бетхел Мусиц</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2627</hymn_number>
+<author>Bethel Music, Бетхел Мусиц</author>
+<key>G</key>
+<title>Звездный свет</title>
 <lyrics>[V1]
  1 куплет:
 .G           C                G
@@ -42,7 +45,4 @@
    Бесконечный Бог славе нет границ
 .    Em     D  (G D)
    Иисус Иисус!</lyrics>
-<title>Звездный свет</title>
-<key>G</key>
-<hymn_number>2627</hymn_number>
 </song>

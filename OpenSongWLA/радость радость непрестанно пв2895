@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2895</hymn_number>
-<key>Eb</key>
-<title>Радость радость непрестанно ПВ2895</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
+<hymn_number>2895</hymn_number>
 <lyrics>[V1]
  Радость, радость; непрестанно!
  Будем радостны всегда!
@@ -30,4 +29,5 @@
  пусть, как солнце, в нас горит!
  Любит всех нас Всемогущий,
  много благ Он нам дарит.</lyrics>
+<title>Радость радость непрестанно ПВ2895</title>
 </song>

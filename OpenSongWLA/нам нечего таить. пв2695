@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Нам нечего таить. ПВ2695</title>
-<key>G</key>
-<hymn_number>2695</hymn_number>
-<aka>Ведь пред Тобой открыто все</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ведь пред Тобой открыто все,
  Нам нечего таить.
  И сердца помышления
@@ -25,4 +21,8 @@
  - Дело Твоих рук.
  Прославить я хочу Тебя
  - Возликовал мой дух.</lyrics>
+<title>Нам нечего таить. ПВ2695</title>
+<key>G</key>
+<aka>Ведь пред Тобой открыто все</aka>
+<hymn_number>2695</hymn_number>
 </song>

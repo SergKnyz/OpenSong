@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Идёшь сегодня ты широким путём ПВ2139</title>
-<hymn_number>2904</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Идёшь сегодня ты широким путём ПВ2139</title>
 <lyrics>[V1]
  Идёшь сегодня ты широким путём,
  Уверенно шагая.
@@ -29,4 +27,6 @@
  Даёт тепло и нежность.
  Приди к Нему, Он жизнь даёт,
  Любовь Его безбрежна.</lyrics>
+<hymn_number>2904</hymn_number>
+<key>F</key>
 </song>

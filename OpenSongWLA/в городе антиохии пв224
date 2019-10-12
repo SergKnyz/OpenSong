@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>224</hymn_number>
+<aka>Как гласит о том рассказ</aka>
+<key>C</key>
+<title>В городе Антиохии ПВ224</title>
+<lyrics>[V1]
  В городе Антиохии,
  Как гласит о том рассказ,
  Христианами святые
@@ -69,8 +73,4 @@
  Духа Божья ураган,
  Царство Божье да начнется
  Правдой первых христиан.</lyrics>
-<key>C</key>
-<title>В городе Антиохии ПВ224</title>
-<hymn_number>224</hymn_number>
-<aka>Как гласит о том рассказ,</aka>
 </song>

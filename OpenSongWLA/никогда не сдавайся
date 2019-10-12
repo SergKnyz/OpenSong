@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Никогда не сдавайся</title>
-<key>A</key>
-<hymn_number>4286</hymn_number>
-<author>Subcultura</author>
 <lyrics>[V1]
  1 куплет:
 .    A          Hm   D    E
@@ -37,4 +34,7 @@
  Слышишь , слышишь как мечта зовет.
  Если вера есть внутри
  Ты изменишь этот мир, ты изменишь этот мир.</lyrics>
+<hymn_number>4286</hymn_number>
+<key>A</key>
+<author>Subcultura</author>
 </song>

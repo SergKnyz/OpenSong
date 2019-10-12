@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Из вечных чертогов Спаситель пришёл ПВ2140</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <hymn_number>2140</hymn_number>
 <lyrics>[V1]
  Из вечных чертогов Спаситель пришёл,
@@ -27,4 +26,5 @@
  И всю вину сложи.
  Вспомни, что Он за тебя был казнён,
  Ныне к Нему ты спеши.</lyrics>
+<title>Из вечных чертогов Спаситель пришёл ПВ2140</title>
 </song>

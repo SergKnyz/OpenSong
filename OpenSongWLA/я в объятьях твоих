@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1186</hymn_number>
-<key>B</key>
-<title>Я в объятьях Твоих</title>
-<author>Спасение церковь г. Вишневое</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Hm             F#m  G Hm                   A G
  Я в объятьях Твоих, здесь тепло, здесь покой,
@@ -30,4 +26,8 @@
    Я в Твоих объятьях я в Твоих объятьях,
 .  G            C    Am             H7
    Я в Твоих объятьях, я в Твоих объятьях.</lyrics>
+<title>Я в объятьях Твоих</title>
+<key>B</key>
+<author>Спасение церковь г. Вишневое</author>
+<hymn_number>1186</hymn_number>
 </song>

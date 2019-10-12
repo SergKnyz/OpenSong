@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я пою</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>965</hymn_number>
 <key>F#</key>
-<hymn_number>965</hymn_number>
+<author>Hillsong Ukraine</author>
+<title>Я пою</title>
 <lyrics>[V1]
  1 куплет:
 .F#m7        E             F#m7           E
@@ -43,5 +44,4 @@
  Ты всегда со мною__, Ты всегда со мною
 .F#m       A  H  A#m       D  E
  Ты всегда со м__ною, Ты всегда со мною</lyrics>
-<author>Hillsong Ukraine</author>
 </song>

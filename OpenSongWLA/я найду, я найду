@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5320</hymn_number>
-<title>Я найду, Я найду</title>
-<key>B</key>
-<author>Матфей Шариков</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я найду, Я найду</title>
 <lyrics>[V1]
  1 куплет:
 .     Hm
@@ -41,4 +38,7 @@
    Нужных слов не отыщешь когда...
 .  A
    Зная, я стану твоей молитвой.</lyrics>
+<hymn_number>5320</hymn_number>
+<author>Матфей Шариков</author>
+<key>B</key>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>418</hymn_number>
-<title>Знаешь ли подвиг Иисуса ПВ418</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>418</hymn_number>
 <lyrics>[V1]
  Знаешь ли подвиг Иисуса?
  Знаешь ли ужас креста?
@@ -50,4 +49,5 @@
  Лев пораженный лежит.
  К овцам любимым склоняясь,
  Пастырь Собой их хранит.</lyrics>
+<title>Знаешь ли подвиг Иисуса ПВ418</title>
 </song>

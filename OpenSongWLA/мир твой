@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Мир Твой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Корван</author>
+<key>D</key>
 <hymn_number>1719</hymn_number>
-<author>Корван</author>
 <lyrics>[V1]
  1 куплет:
 . D         Hm
@@ -30,4 +29,5 @@
  Быть хочу с Тобой, мой Бог
  С хвалой в сердце прихожу -
  Прославить Тебя хочу!</lyrics>
+<title>Мир Твой</title>
 </song>

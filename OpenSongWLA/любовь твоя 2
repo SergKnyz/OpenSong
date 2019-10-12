@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Любовь Твоя</title>
-<key>F#</key>
-<hymn_number>1972</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .F#m           D        A          Hm
@@ -47,5 +45,7 @@
    С Тобою так классно рядом
 .  E             F#m
    Твои глаза полны любви.</lyrics>
+<hymn_number>1972</hymn_number>
 <author>Reallife band</author>
+<key>F#</key>
 </song>

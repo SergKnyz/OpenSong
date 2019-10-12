@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>127</hymn_number>
-<title>Иисус Христос ИИПВ127</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<hymn_number>127</hymn_number>
 <lyrics>[V1]
 .            A             D
  Иисус Христос, Он мой Спаситель.
@@ -34,4 +33,5 @@
  Дорогата трудна, далека,
  НоТы, Христос,
  Поможешьнам её пройти.</lyrics>
+<title>Иисус Христос ИИПВ127</title>
 </song>

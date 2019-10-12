@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4018</hymn_number>
-<title>За крест</title>
-<author>Bethel Music, Бетхел Мусиц</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>За крест</title>
 <lyrics>[V1]
  1 Куплет:
  Любовь с Небес,
@@ -56,4 +54,6 @@
 
 [V5]
  Перевод: Ксения Бондарь-Павловская</lyrics>
+<hymn_number>4018</hymn_number>
+<author>Bethel Music, Бетхел Мусиц</author>
 </song>

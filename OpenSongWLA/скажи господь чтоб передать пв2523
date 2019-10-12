@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Скажи Господь чтоб передать ПВ2523</title>
-<hymn_number>2523</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Скажи Господь чтоб передать ПВ2523</title>
 <lyrics>[V1]
  Скажи, Господь, чтоб передать
  Твои я речи мог другим;
@@ -30,4 +28,6 @@
  Чтоб я покоить мог других,
  Чтоб душам, скованным тоской,
  Я вестником был слов Твоих.</lyrics>
+<hymn_number>2523</hymn_number>
+<key>G</key>
 </song>

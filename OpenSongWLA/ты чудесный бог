@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
-<title>Ты Чудесный Бог</title>
-<hymn_number>2189</hymn_number>
-<author>Дом Хлеба</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты Чудесный Бог</title>
 <lyrics>[V1]
  1 куплет:
 .C#m                    H     E
@@ -34,4 +31,7 @@
  И в небесных хранилищах грады и снег
  Ты светила создал и даруешь им свет
  Посылаешь Ты ночью прохладу земле Царь Вселенной!</lyrics>
+<hymn_number>2189</hymn_number>
+<author>Дом Хлеба</author>
+<key>C#m</key>
 </song>

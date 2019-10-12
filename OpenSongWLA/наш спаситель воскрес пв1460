@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1460</hymn_number>
-<key>D</key>
-<title>Наш Спаситель воскрес ПВ1460</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>1460</hymn_number>
 <lyrics>[V1]
  Наш Спаситель воскрес.
  Зло и тьму победил,
@@ -26,4 +25,5 @@
  В этот радостный день.
  И прославь ты Творца,
  Что к спасенью дверь открыл.</lyrics>
+<title>Наш Спаситель воскрес ПВ1460</title>
 </song>

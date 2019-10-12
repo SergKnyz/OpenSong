@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О нет Ты не оставишь</title>
-<key>A</key>
-<hymn_number>1111</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .           A
  Если и пойду я долиной тени смертной, -
@@ -55,5 +52,8 @@
    О, нет Ты не оставишь! Будь-то пропасть или ввысь.
 .  F                        D#                        Bb F
    О, нет Ты не оставишь, Бог, Ты никогда не оставишь.</lyrics>
+<title>О нет Ты не оставишь</title>
+<key>A</key>
 <author>Татьяна Игнатюк, Милена Игнатюк, Елена Кизевич</author>
+<hymn_number>1111</hymn_number>
 </song>

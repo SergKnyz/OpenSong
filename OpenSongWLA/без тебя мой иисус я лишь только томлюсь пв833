@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Без Тебя мой Иисус я лишь только томлюсь ПВ833</title>
-<key>Gm</key>
-<hymn_number>833</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Gm                                    D
  Без Тебя, мой Иисус, я лишь только томлюсь
 .     D                    Gm
@@ -35,4 +32,7 @@
  Силы мне Ты даешь, дух мой к небу влечешь,
  В Слове вечном Своем укрепляешь.
  Ты Спаситель, Христос!</lyrics>
+<title>Без Тебя мой Иисус я лишь только томлюсь ПВ833</title>
+<key>Gm</key>
+<hymn_number>833</hymn_number>
 </song>

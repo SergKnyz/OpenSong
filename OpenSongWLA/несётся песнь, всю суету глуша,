@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Белее снега</aka>
+<hymn_number>5723</hymn_number>
+<key>B</key>
+<title>Несётся песнь, всю суету глуша,</title>
+<lyrics>[V1]
 .Abm                F#     E
  Несётся песнь, всю суету глуша,
 .        B      Eb        Abm
@@ -23,8 +27,4 @@
  Стопа твоя земли не ощущает;
  Законы притяжения слабы,
  Когда Господь любовью наполняет.</lyrics>
-<title>Несётся песнь, всю суету глуша,</title>
-<key>B</key>
-<aka>Белее снега</aka>
-<hymn_number>5723</hymn_number>
 </song>

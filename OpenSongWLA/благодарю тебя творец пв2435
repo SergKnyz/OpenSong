@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Благодарю Тебя Творец ПВ2435</title>
-<hymn_number>2435</hymn_number>
-<aka>стих</aka>
 <lyrics>[V1]
  Благодарю Тебя, Творец,
  За все обычное, простое,
@@ -39,4 +37,6 @@
  За все грехи прошу прощенья,
  И приношу Тебе хвалены
  Из уст и сердца славу честь.</lyrics>
+<aka>стих</aka>
+<hymn_number>2435</hymn_number>
 </song>

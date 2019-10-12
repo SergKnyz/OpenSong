@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Ты всё и во всём</title>
-<key>D</key>
-<hymn_number>2265</hymn_number>
-<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  Я хочу сказать о том, что значишь для меня
 
@@ -29,4 +26,7 @@
    Ты- всё и во всём
    Ты - все и во всём
    Всё в Тебе, Господь</lyrics>
+<hymn_number>2265</hymn_number>
+<key>D</key>
+<author>Виталий Ефремочкин</author>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Могу ль забыть что Ты придешь ПВ2747</title>
-<key>C</key>
-<hymn_number>2747</hymn_number>
 <lyrics>[V1]
  Могу ль забыть, что Ты придешь?
  О нет, мой дух Тобою поли.
@@ -24,4 +22,6 @@
  Нет, нет в мир чудный Он зовет!
  Лишь в Нем любовь и жизнь моя,
  Не нужно мне мирских забот.</lyrics>
+<hymn_number>2747</hymn_number>
+<key>C</key>
 </song>

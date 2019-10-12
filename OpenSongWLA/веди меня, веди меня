@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Веди меня, веди меня</title>
-<aka>Ты - Правда и Свет, В Тебе - наш ответ</aka>
-<hymn_number>2086</hymn_number>
 <lyrics>[C1]
    Припев:
    Ты - Правда и Свет,
@@ -35,5 +33,7 @@
    Не хочу я огорчать Тебя,
    Ты веди меня.
    (перевод Инны Гладун)</lyrics>
+<hymn_number>2086</hymn_number>
+<aka>Ты - Правда и Свет, В Тебе - наш ответ</aka>
 <author>Цхрис Томлин</author>
 </song>

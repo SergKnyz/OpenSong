@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>26</hymn_number>
-<tempo>60</tempo>
-<time_sig>6/8</time_sig>
-<key>F</key>
-<title>Бог моя сила Тебе я пою</title>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
 .   F                      C
    Бог, моя сила, Тебе я пою!
 .   F                      C
@@ -40,4 +35,9 @@
    Буду я петь о си ле Твоей ночь напролёт.
 .   C             Gm       F
    Волю Твою воспою, не свою!</lyrics>
+<tempo>60</tempo>
+<title>Бог моя сила Тебе я пою</title>
+<time_sig>6/8</time_sig>
+<key>F</key>
+<hymn_number>26</hymn_number>
 </song>

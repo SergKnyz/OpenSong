@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2237</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Размер неба</author>
 <key>C</key>
-<title>Вслед за Тобой</title>
-<author>Размер неба</author>
+<hymn_number>2237</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .     Cm      Gm         G#      G
@@ -37,4 +36,5 @@
  Сбивает с ног ритм, суета столиц.
  Когда не могу Твой найти покой,
  Я иду вслед за Тобой.</lyrics>
+<title>Вслед за Тобой</title>
 </song>

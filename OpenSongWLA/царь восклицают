@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Царь восклицают</title>
-<hymn_number>955</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Царь восклицают</title>
 <lyrics>[V1]
 .Em        D        C    D
  Прославлю я, ведь Ты достоин
@@ -38,5 +36,7 @@
  Славьте, Славьте, Славьте, Славьте
 .C                     D
  Славьте, Славьте, Славьте Его всегда</lyrics>
+<hymn_number>955</hymn_number>
 <author>Hillsong Ukraine</author>
+<key>E</key>
 </song>

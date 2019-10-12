@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2272</hymn_number>
-<title>Это рождество</title>
-<key>F</key>
-<author>Открытое небо</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .F              Bb
  Мир наполнен красотой,
@@ -37,4 +33,8 @@
  И целый дар волхвов, и ангелов пение!
  Этот миг далек от нас!
  Так давай сейчас в Его День Рождения</lyrics>
+<title>Это рождество</title>
+<key>F</key>
+<author>Открытое небо</author>
+<hymn_number>2272</hymn_number>
 </song>

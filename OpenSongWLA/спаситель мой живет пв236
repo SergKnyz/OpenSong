@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>236</hymn_number>
-<title>Спаситель мой живет ПВ236</title>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
+<hymn_number>236</hymn_number>
 <lyrics>[V1]
  Спаситель мой живет!
  Да будут далеки
@@ -30,4 +29,5 @@
  Припав к стопам святым,
  Ему готов всегда я петь
  И радоваться с Ним.</lyrics>
+<title>Спаситель мой живет ПВ236</title>
 </song>

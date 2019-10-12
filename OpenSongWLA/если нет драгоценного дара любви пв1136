@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1136</hymn_number>
-<key>C</key>
-<title>Если нет драгоценного дара любви ПВ1136</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Если нет драгоценного дара любви ПВ1136</title>
 <lyrics>[V1]
  Если нет драгоценного дара любви.
  Если сердце холодно, как лед,
@@ -24,4 +22,6 @@
  И они пребывают лишь в Нем.
  Это - Божий вестники вечной любви,
  Они в славе пребудут с Христом.</lyrics>
+<hymn_number>1136</hymn_number>
+<key>C</key>
 </song>

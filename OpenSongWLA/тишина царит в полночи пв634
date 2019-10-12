@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>634</hymn_number>
-<key>F</key>
-<title>Тишина царит в полночи ПВ634</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<hymn_number>634</hymn_number>
 <lyrics>[V1]
  Тишина царит в полночи,
  В полумраке дремлет сад.
@@ -19,4 +18,5 @@
  Гроб расторгнут, Он воскрес.
  Для друзей и для Марии
  Радость Он принес с небес.</lyrics>
+<title>Тишина царит в полночи ПВ634</title>
 </song>

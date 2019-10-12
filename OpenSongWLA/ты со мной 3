@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Ты со мной</title>
-<key>A</key>
-<hymn_number>298</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am        C            F  G
@@ -49,5 +47,7 @@
    Любовь, что землю спасла
 .            F  Am        G
    Есть во мне, есть во мне</lyrics>
+<hymn_number>298</hymn_number>
+<key>A</key>
 <author>Hillsong Ukraine</author>
 </song>

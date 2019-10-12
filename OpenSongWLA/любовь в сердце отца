@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2521</hymn_number>
-<title>Любовь в сердце отца</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Любовь в сердце отца</title>
 <lyrics>[V1]
  Живущий в недре Отчем
  Нам Отца явил.
@@ -35,4 +34,5 @@
  Бог обитель Свою сотворит, -
  И Отец, и Сын, торжествуя,
  В Святом Духе будут там жить.</lyrics>
+<hymn_number>2521</hymn_number>
 </song>

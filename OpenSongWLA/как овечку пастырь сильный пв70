@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Как овечку Пастырь сильный ПВ70</title>
-<hymn_number>70</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Как овечку, Пастырь сильный,
  Ты веди меня вперед;
  Пажити Твои обильны,
@@ -32,4 +29,7 @@
  Научи любовью жить.
  О Иисус мой! О Иисус мой!
  До могилы будь со мной!</lyrics>
+<title>Как овечку Пастырь сильный ПВ70</title>
+<key>E</key>
+<hymn_number>70</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Я хочу под Твои крылья</title>
-<hymn_number>6100</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я хочу под Твои крылья</title>
 <lyrics>[V1]
  1 куплет:
 .Cm             Fm                 Cm            Fm
@@ -33,5 +31,7 @@
  А Ты всё ждал и молчал, когда приду и позову,
 .  Ab          Bb       Gsus4 G
  Тебе слова такие я скажу.</lyrics>
+<hymn_number>6100</hymn_number>
 <author>Оксана Козунь</author>
+<key>C</key>
 </song>

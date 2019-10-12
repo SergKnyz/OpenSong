@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1690</hymn_number>
-<title>Утопал я во грехах ПВ1690</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>1690</hymn_number>
 <lyrics>[V1]
  Утопал я во грехах,
  томилась так душа.
@@ -36,4 +35,5 @@
  Господь всесильный мой,
  Покровитель всеблагой,
  о, будь со мной.</lyrics>
+<title>Утопал я во грехах ПВ1690</title>
 </song>

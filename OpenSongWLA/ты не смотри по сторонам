@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5341</hymn_number>
-<key>C#m</key>
-<title>Ты не смотри по сторонам</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
 <author>SMBS</author>
+<hymn_number>5341</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .C#m
@@ -66,4 +65,5 @@
    Но ты за Господа держись, и я прошу, не оглянись.
 .     Gm               F     Gm     A        Dm
    Но ты за Господа держись, и я прошу, не оглянись.</lyrics>
+<title>Ты не смотри по сторонам</title>
 </song>

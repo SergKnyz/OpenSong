@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>948</hymn_number>
-<title>Склонился день к закату ПВ2706</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<hymn_number>948</hymn_number>
 <lyrics>[V1]
  Склонился день к закату,
  Созвездье &quot;Крест&quot; зажглось.
@@ -30,4 +29,5 @@
  Бессмертие в очах.
  Для нашего спасенья
  Он крестной путь свершал.</lyrics>
+<title>Склонился день к закату ПВ2706</title>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Светлана Копылова</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em              Am
  Сорок первый  год потерь и страха
 .B7          Em
@@ -142,7 +141,8 @@
  Вот такой убийственно-великой
 .Am      B7    Em
  Может быть у Матери любовь.</lyrics>
-<hymn_number>2130</hymn_number>
-<key>E</key>
 <title>Баллада о Матери</title>
+<author>Светлана Копылова</author>
+<key>E</key>
+<hymn_number>2130</hymn_number>
 </song>

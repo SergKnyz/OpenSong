@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1144</hymn_number>
-<title>К заоблачным далям к далеким вершинам ПВ1144</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<hymn_number>1144</hymn_number>
 <lyrics>[V1]
  К заоблачным далям, к далеким вершинам
  Нелегкие тропы ведут.
@@ -36,4 +35,5 @@
  А впереди последние грозы,
  Последние слезы
  И в вечности чудный покой.</lyrics>
+<title>К заоблачным далям к далеким вершинам ПВ1144</title>
 </song>

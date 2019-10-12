@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>168</hymn_number>
-<key>Ab</key>
-<title>Небесный луч в душе моей ПВ168</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Небесный луч в душе моей ПВ168</title>
 <lyrics>[V1]
  Небесный луч в душе моей,
  Светлей Он всех лучей,
@@ -31,4 +29,6 @@
  Хвала Ему звучит,
  За благо, что Он мне дарит,
  За счастье лучших дней.</lyrics>
+<hymn_number>168</hymn_number>
+<key>Ab</key>
 </song>

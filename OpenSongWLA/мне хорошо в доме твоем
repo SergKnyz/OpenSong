@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Мне хорошо в доме Твоем</title>
-<hymn_number>4425</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . Dm                             B        Gm
  Мне хорошо в доме Твоем искать Твое лицо.
 . C
@@ -24,4 +21,7 @@
    Возьми меня, Отец, в Свою святость.
 .     B             C                   Dm
    Возьми, как жертву, моя жизнь в Тебе.</lyrics>
+<title>Мне хорошо в доме Твоем</title>
+<key>F</key>
+<hymn_number>4425</hymn_number>
 </song>

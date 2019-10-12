@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О юность светлая моя ПВ2752</title>
-<key>G</key>
-<hymn_number>2752</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О, юность светлая моя,
  Всегда свети ты для Христа.
  Пусть каждый день и каждый час
@@ -24,4 +21,7 @@
  Всегда свети ты для Христа.
  Пусть каждый день и каждый час
  Христу звучит хваленья глас.</lyrics>
+<title>О юность светлая моя ПВ2752</title>
+<key>G</key>
+<hymn_number>2752</hymn_number>
 </song>

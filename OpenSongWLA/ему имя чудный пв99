@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Ему имя Чудный ПВ99</title>
-<hymn_number>99</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ему имя Чудный ПВ99</title>
 <lyrics>[V1]
  Ему имя: Чудный,
  Вечный и святой.
@@ -48,4 +46,6 @@
  Своего Отца;
  В вере возрастая,
  Льнут к Нему сердца.</lyrics>
+<hymn_number>99</hymn_number>
+<key>E</key>
 </song>

@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Нет в небесах и нет на земле</aka>
+<hymn_number>4209</hymn_number>
+<author>Imprintband</author>
+<key>C</key>
+<title>Агнец Божий</title>
+<lyrics>[V1]
  Куплет:
 . C                   G
  Нет в небесах и нет на земле
@@ -44,9 +49,4 @@
 
 [B2]
    Концовка:</lyrics>
-<author>Imprintband</author>
-<aka>Нет в небесах и нет на земле</aka>
-<hymn_number>4209</hymn_number>
-<key>C</key>
-<title>Агнец Божий</title>
 </song>

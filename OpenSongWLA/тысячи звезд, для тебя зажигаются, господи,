@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Кредо</author>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Верую</aka>
+<hymn_number>822</hymn_number>
+<author>Кредо</author>
+<key>C#m</key>
+<title>Тысячи звезд, для Тебя зажигаются, Господи,</title>
 <lyrics>[V1]
  1 куплет:
 .C#m                                F#m
@@ -34,8 +38,4 @@
  Светлый Твой лик освещает восход и закат,
  Тысячи звезд для Тебя зажигаются Господи,
  Тысячи слов, как молитва земная звучат.</lyrics>
-<hymn_number>822</hymn_number>
-<aka>Верую</aka>
-<key>C#m</key>
-<title>Тысячи звезд, для Тебя зажигаются, Господи,</title>
 </song>

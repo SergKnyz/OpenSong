@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1899</hymn_number>
-<aka>В мире горя и ненастья</aka>
-<title>В мире скорби вековой ПВ1899</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>В мире скорби вековой ПВ1899</title>
 <lyrics>[V1]
  В мире горя и ненастья,
  В мире скорби вековой
@@ -42,4 +40,6 @@
  Предвечный Все грехи мои простил
  И для жизни быстротечной
  Светоч веры мне вручил.</lyrics>
+<hymn_number>1899</hymn_number>
+<aka>В мире горя и ненастья</aka>
 </song>

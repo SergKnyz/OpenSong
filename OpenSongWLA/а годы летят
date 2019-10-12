@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>А годы летят</title>
-<hymn_number>3598</hymn_number>
-<aka>уходят мгновением в прошлое,</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  А годы летят и уходят мгновением в прошлое,
  И голос ослаб, и сердечко чего-то шалит,
  И юность прошла, и уже мы не дети, а взрослые,
@@ -43,4 +40,7 @@
 
 [V5]
  А годы летят &gt;3х</lyrics>
+<title>А годы летят</title>
+<hymn_number>3598</hymn_number>
+<aka>уходят мгновением в прошлое,</aka>
 </song>

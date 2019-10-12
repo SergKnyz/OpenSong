@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2015</hymn_number>
-<title>Святой Бог живёт во мне</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Святой Бог живёт во мне</title>
 <lyrics>[V1]
  Куплет:
 .G             C          F          D
@@ -22,5 +20,7 @@
    Я люблю Тебя прославляю Тебя
 .        G       C        F             D
    Наполняюсь Тобой не могу жить без Тебя.</lyrics>
+<hymn_number>2015</hymn_number>
+<key>G</key>
 <author>Алексей Захаренко</author>
 </song>

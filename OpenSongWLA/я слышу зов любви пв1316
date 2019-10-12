@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я слышу зов любви ПВ1316</title>
-<key>A</key>
-<hymn_number>2277</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я слышу зов любви,
  На крест Христа гляжу
  И в жертве праведной крови
@@ -24,4 +21,7 @@
  Всегда все так же благ.
  Все так же мудр в Своих путях,
  Все так в любви силен.</lyrics>
+<title>Я слышу зов любви ПВ1316</title>
+<key>A</key>
+<hymn_number>2277</hymn_number>
 </song>

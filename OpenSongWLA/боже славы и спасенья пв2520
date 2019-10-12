@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Боже славы и спасенья ПВ2520</title>
-<hymn_number>2520</hymn_number>
-<aka>На народ пролей Твой свет,</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Боже славы и спасенья,
  На народ пролей Твой свет,
  Жизни церкви и служенью
@@ -46,4 +42,8 @@
  Дай нам веры, дай нам силы
  Быть послушными во всем,
  Быть послушными во всем. Аминь.</lyrics>
+<title>Боже славы и спасенья ПВ2520</title>
+<key>G</key>
+<hymn_number>2520</hymn_number>
+<aka>На народ пролей Твой свет</aka>
 </song>

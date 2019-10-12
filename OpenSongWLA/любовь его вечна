@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5339</hymn_number>
-<title>Любовь Его Вечна</title>
-<key>D</key>
-<author>Slavic New Beginnings Church, Хиллсонг Унитед</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .D    | D   G  | Hm     | Hm G
  Спасенье, новое начало,
@@ -50,4 +46,8 @@
    И вступил Он в битву властно
 .   G      D
    Жизнь отдал Свою за нас.</lyrics>
+<title>Любовь Его Вечна</title>
+<author>Slavic New Beginnings Church, Хиллсонг Унитед</author>
+<key>D</key>
+<hymn_number>5339</hymn_number>
 </song>

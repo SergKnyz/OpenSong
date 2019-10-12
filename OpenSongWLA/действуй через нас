@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4007</hymn_number>
-<title>Действуй через нас</title>
-<key>C</key>
-<author>Новый Завет NTWorship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Действуй через нас</title>
 <lyrics>[V1]
  1 куплет: х2
 .C                G
@@ -35,4 +32,7 @@
    Жизнь моя в Твоей руке,
 .  G
    Ты достиг меня Любовью.</lyrics>
+<hymn_number>4007</hymn_number>
+<author>Новый Завет NTWorship</author>
+<key>C</key>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>В начале дня и навека</title>
-<aka>Верный</aka>
-<hymn_number>2398</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 КУПЛЕТ:
 .F#m         D
  В начале дня и навека
@@ -51,5 +47,9 @@
  В Его объятия бегу всегда я
 .F#m             D
  Во все века Господь наш верен</lyrics>
+<title>В начале дня и навека</title>
 <author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
+<key>F#</key>
+<aka>Верный</aka>
+<hymn_number>2398</hymn_number>
 </song>

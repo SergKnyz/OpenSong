@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Будь Боже со мной, там, где я пойду</aka>
-<hymn_number>1533</hymn_number>
-<key>A</key>
-<title>Взятый в удел</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am            Em   Dm             Am
  Будь Боже со мной, там, где я пойду
@@ -29,5 +25,9 @@
    Припев:
    Голос мой услышь,
    Голос мой услышь.</lyrics>
+<title>Взятый в удел</title>
 <author>Сергей Брикса</author>
+<key>A</key>
+<aka>Будь Боже со мной, там, где я пойду</aka>
+<hymn_number>1533</hymn_number>
 </song>

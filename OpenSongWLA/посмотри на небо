@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Посмотри на небо</title>
-<key>D</key>
-<hymn_number>3018</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
  Если ты в пути продрог и не знаешь где ты.
  Если силы не сберёг и не видишь света
@@ -28,5 +25,8 @@
    Никогда ты не был один.
    Посмотри на Небо, посмотри на Небо.
    Никогда ты не был один.</lyrics>
+<title>Посмотри на небо</title>
 <author>Ладони</author>
+<key>D</key>
+<hymn_number>3018</hymn_number>
 </song>

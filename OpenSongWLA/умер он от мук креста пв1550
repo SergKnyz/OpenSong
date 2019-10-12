@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Буду петь любовь Христа</aka>
-<hymn_number>1550</hymn_number>
-<title>Умер Он от мук креста ПВ1550</title>
-<key>B</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Буду петь любовь Христа.
  Умер Он от мук креста
  За меня и за тебя,
@@ -25,4 +21,8 @@
  Необъятна широка,
  Не вместить ту широту
  И любви той полноту.</lyrics>
+<title>Умер Он от мук креста ПВ1550</title>
+<key>B</key>
+<hymn_number>1550</hymn_number>
+<aka>Буду петь любовь Христа</aka>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Дел худых не делай ПВ477</title>
-<hymn_number>477</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Дел худых не делай ПВ477</title>
 <lyrics>[V1]
  Дел худых не делай,
  Зла не говори:
@@ -24,4 +22,6 @@
  Муки не страшись,
  Злу сопротивляйся
  И к добру стремись.</lyrics>
+<hymn_number>477</hymn_number>
+<key>C</key>
 </song>

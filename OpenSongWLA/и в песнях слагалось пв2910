@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2910</hymn_number>
-<title>И в песнях слагалось ПВ2910</title>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>И в песнях слагалось ПВ2910</title>
 <lyrics>[V1]
  И в песнях слагалось,
  и в духе все ждали:
@@ -47,4 +45,6 @@
  Когда Ты придёшь,
  чтоб судить все народы,
  мы будем укрыты в Тебе.</lyrics>
+<hymn_number>2910</hymn_number>
+<key>Ab</key>
 </song>

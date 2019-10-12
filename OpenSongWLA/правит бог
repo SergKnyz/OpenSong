@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Правит Бог</title>
-<key>G</key>
-<hymn_number>500</hymn_number>
 <lyrics>[V1]
  Куплет:
 .  G     D         C     G
@@ -29,5 +27,7 @@
    Правит Бог, правит Бог
 .      A     C  D
    Во все века__</lyrics>
+<hymn_number>500</hymn_number>
+<key>G</key>
 <author>Hillsong Ukraine</author>
 </song>

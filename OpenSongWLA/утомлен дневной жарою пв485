@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Утомлен дневной жарою ПВ485</title>
-<hymn_number>485</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Утомлен дневной жарою ПВ485</title>
 <lyrics>[V1]
  Утомлен дневной жарою,
  Наш Спаситель отдыхал,
@@ -24,4 +22,6 @@
  Но Иисус сказал: &quot;Детям
  Не препятствуйте, пусть смело
  Все придут к Моим рукам, все придут к Моим рукам &quot;</lyrics>
+<hymn_number>485</hymn_number>
+<key>F</key>
 </song>

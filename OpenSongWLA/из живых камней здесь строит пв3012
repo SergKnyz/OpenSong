@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Из живых камней здесь строит ПВ3012</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <hymn_number>3012</hymn_number>
 <lyrics>[V1]
  Из живых камней здесь строит
@@ -30,4 +29,5 @@
  был последний камень в дом;
  будет храм тогда построен,
  и на небо мы войдём.</lyrics>
+<title>Из живых камней здесь строит ПВ3012</title>
 </song>

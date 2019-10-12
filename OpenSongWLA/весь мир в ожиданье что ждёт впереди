@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Весь мир в ожиданье что ждёт впереди</title>
-<key>D</key>
-<hymn_number>1629</hymn_number>
-<aka>Что было вчера, то уже позади,</aka>
-<author>Второе пришествие</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вст
 
 [V2]
@@ -54,4 +49,9 @@
 
 [C3]
    Припев:</lyrics>
+<title>Весь мир в ожиданье что ждёт впереди</title>
+<author>Второе пришествие</author>
+<key>D</key>
+<aka>Что было вчера, то уже позади,</aka>
+<hymn_number>1629</hymn_number>
 </song>

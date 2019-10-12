@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>123</hymn_number>
-<title>Какая любовь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Какая любовь</title>
 <lyrics>[V1]
  1 куплет:
  Когда Сын Божий шёл как Агнец на заклание
@@ -40,5 +39,6 @@
    Для тех, кто любовь в сердце сохранил
    Звезды и луна склонятся перед Ним
    Воскликнет вся земля &quot;Господь гряди!&quot;</lyrics>
+<hymn_number>123</hymn_number>
 <author>Ксения Кузнецова</author>
 </song>

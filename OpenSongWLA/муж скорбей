@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Муж скорбей</title>
-<key>E</key>
-<hymn_number>3243</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  КУПЛЕТ 1:
 .E                 A      E
  Муж скорбей - Он Агнцем стал
@@ -62,5 +59,8 @@
  Гробница та пуста
  &quot;Аллилуйя!&quot; - Бога славь
  Из мёртвых Он восстал</lyrics>
+<title>Муж скорбей</title>
 <author>Hillsong United, Хиллсонг Унитед, Хиллсонг</author>
+<key>E</key>
+<hymn_number>3243</hymn_number>
 </song>

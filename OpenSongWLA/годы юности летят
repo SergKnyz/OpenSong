@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2929</hymn_number>
-<title>Годы юности летят</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
  Годы! Годы юности летят,
  Годы, им возврата нет назад,
@@ -27,5 +25,7 @@
  Годы, плод твой в жизни принеси,
  Годы, год прошел, идет другой,
  Годы, есть что думать нам с тобой.</lyrics>
+<title>Годы юности летят</title>
 <author>Simon Khorolskiy</author>
+<hymn_number>2929</hymn_number>
 </song>

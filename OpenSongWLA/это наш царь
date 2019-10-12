@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Это Наш Царь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <key>G#m</key>
 <hymn_number>290</hymn_number>
-<author>Hillsong Ukraine</author>
 <lyrics>[V1]
  Куплет:
 .G#m    H     F#
@@ -45,4 +44,5 @@
    Аллилуйя! Ты Святой Бог, Ты Святой Господь.
 .  E       G#m       H                F#
    Тебе хвала, вознесём голоса, и в единстве споём.</lyrics>
+<title>Это Наш Царь</title>
 </song>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Аллилуйя, аллилуйя Слава Тебе Господь</aka>
-<hymn_number>2102</hymn_number>
-<title>Только Ты Господь Упованье моё</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новое Поколение церковь г. Рига</author>
 <key>G</key>
+<hymn_number>2102</hymn_number>
+<aka>Аллилуйя, аллилуйя Слава Тебе Господь</aka>
 <lyrics>[V1]
  1 куплет:
 .        G             D     Em
@@ -33,5 +33,5 @@
  Закон Твой в сердце моем
  Дух Твой Святой да ведет меня
  В землю правды Твоей</lyrics>
-<author>Новое Поколение церковь г. Рига</author>
+<title>Только Ты Господь Упованье моё</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Моя душа беспомощна ИИПВ184</title>
-<hymn_number>184</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Моя душа беспомощна ИИПВ184</title>
 <lyrics>[V1]
 . A.       E.
  Моя душа беспомощна,
@@ -47,4 +45,6 @@
    Лишь в Боге сила,
 .  B7.             E7
    Моё убежище в Нём.</lyrics>
+<hymn_number>184</hymn_number>
+<key>A</key>
 </song>

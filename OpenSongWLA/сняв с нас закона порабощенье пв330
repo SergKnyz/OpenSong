@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
-<title>Сняв с нас закона порабощенье ПВ330</title>
-<hymn_number>330</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Сняв с нас закона порабощенье,
  Кровь Христос пролил, вот в чем прощенье;
  Мучен, истерзан, в язвах Он был,
@@ -26,4 +23,7 @@
  Честь же Христу, хвала и держава!
  К жизни от смерти мы перешли,
  Раз навсегда покой нашли.</lyrics>
+<title>Сняв с нас закона порабощенье ПВ330</title>
+<key>Eb</key>
+<hymn_number>330</hymn_number>
 </song>

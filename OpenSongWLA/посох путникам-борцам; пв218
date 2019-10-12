@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Посох путникам-борцам; ПВ218</title>
-<hymn_number>218</hymn_number>
-<aka>Вера щит от стрел сомненья</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вера - щит от стрел сомненья.
  Посох путникам-борцам;
  Вера - луч среди затменья.
@@ -43,4 +39,8 @@
  И сквозь тень грядущих благ
  Взорам нашим открывает
  Славу Бога в небесах.</lyrics>
+<title>Посох путникам-борцам; ПВ218</title>
+<key>E</key>
+<aka>Вера щит от стрел сомненья</aka>
+<hymn_number>218</hymn_number>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Не падай духом не ленись</title>
-<key>C</key>
-<hymn_number>2225</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <author>Лабинск ОЦХВЕ</author>
+<hymn_number>2225</hymn_number>
 <lyrics>[V1]
  Не падай духом не ленись
  Иди вперёд с грехом борись
@@ -24,4 +23,5 @@
  Но есть на свете вечный Бог
  Он дал победу над грехом
  :И нас ведёт в небесный дом:-2раза</lyrics>
+<title>Не падай духом не ленись</title>
 </song>

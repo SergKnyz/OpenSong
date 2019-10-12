@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3288</hymn_number>
-<key>A</key>
-<title>Жизнь моя как море бурное ПВ3288</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Жизнь моя как море бурное ПВ3288</title>
 <lyrics>[V1]
  Жизнь моя как море бурное,
  как разъяренный океан.
@@ -30,4 +28,6 @@
    усмиряешь бури вой.
    Ты даёшь мне преимущество
    быть твоим, о Боже мой.</lyrics>
+<hymn_number>3288</hymn_number>
+<key>A</key>
 </song>

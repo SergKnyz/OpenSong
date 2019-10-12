@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Дитя Царя</title>
+<lyrics>[V1]
  1 куплет:
 .      G
  Ты нашёл меня и избавлен я
@@ -56,8 +57,7 @@
    Ты спас меня и я готов петь вечно
 .     C       D   G
    Что я - дитя Царя</lyrics>
-<author>Новый Завет NTWorship, Бетхел Мусиц</author>
-<key>G</key>
-<title>Дитя Царя</title>
 <hymn_number>601</hymn_number>
+<key>G</key>
+<author>Новый Завет NTWorship, Бетхел Мусиц</author>
 </song>

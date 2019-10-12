@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Милосердие</title>
-<key>B</key>
-<hymn_number>2123</hymn_number>
-<author>Набат</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Hm          G            D-A
  Каждый день Твои щедроты и любовь,
 .G           Em           F#-Hm
@@ -31,4 +27,8 @@
 [V5]
  Каждый день для тебя
  каждый час он для нас</lyrics>
+<title>Милосердие</title>
+<author>Набат</author>
+<key>B</key>
+<hymn_number>2123</hymn_number>
 </song>

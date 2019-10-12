@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Размер неба</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3340</hymn_number>
+<author>Размер неба</author>
+<key>A</key>
+<title>Я Тебя ищу</title>
 <lyrics>[V1]
  1 куплет:
 .Am          C          Dm         F
@@ -35,7 +38,4 @@
    Любить детей Твоих, меня Ты научи.
 .                   C          G/B
    Ослаб я - на руках Своих неси.</lyrics>
-<title>Я Тебя ищу</title>
-<key>A</key>
-<hymn_number>3340</hymn_number>
 </song>

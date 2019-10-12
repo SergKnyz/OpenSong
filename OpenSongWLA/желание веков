@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Желание веков</title>
-<hymn_number>260</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Холодно, пустынно,
  Опустилась ночь над Палестиной,
  И из всех приютов лишь нашлась
@@ -32,4 +30,6 @@
 
 [C2]
    В словах молитвы за палачей.</lyrics>
+<title>Желание веков</title>
+<hymn_number>260</hymn_number>
 </song>

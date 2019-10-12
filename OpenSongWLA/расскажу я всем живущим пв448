@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>448</hymn_number>
-<title>Расскажу я всем живущим ПВ448</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Расскажу я всем живущим,
  Как Христос мой пострадал,
  Как под бременем гнетущим
@@ -30,4 +27,7 @@
  И опять вперед ведет;
  Я не знаю с Ним разлуки,
  Я не знаю с Ним забот.</lyrics>
+<title>Расскажу я всем живущим ПВ448</title>
+<key>E</key>
+<hymn_number>448</hymn_number>
 </song>

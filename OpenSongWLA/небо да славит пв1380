@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1380</hymn_number>
-<title>Небо да славит ПВ1380</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>1380</hymn_number>
 <lyrics>[V1]
  Небо да славит,
  Песнь да направит!
@@ -27,4 +26,5 @@
  В мире, в страданьи, в борьбе
  Служим мы верно Тебе,
  Лишь Тебе!</lyrics>
+<title>Небо да славит ПВ1380</title>
 </song>

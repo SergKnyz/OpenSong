@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2790</hymn_number>
-<key>Eb</key>
-<title>Ангельским голосом нежным ПВ2790</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ангельским голосом нежным ПВ2790</title>
 <lyrics>[V1]
  Ангельским голосом нежным
  Шепчет надежда в груди;
@@ -36,4 +34,6 @@
  Радость полнит нас вновь.
  Кончится вера, надежда,
  Вечно прибудет любовь.</lyrics>
+<hymn_number>2790</hymn_number>
+<key>Eb</key>
 </song>

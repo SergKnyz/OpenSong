@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<title>Христос Спаситель ПВ1355</title>
-<hymn_number>1355</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Христос Спаситель ПВ1355</title>
 <lyrics>[V1]
  Христос-Спаситель!
  члены Мы тела Твоего;
@@ -34,4 +32,6 @@
  В Твоем святом труде,
  В делах благотворенья.
  Во всем всегда, везде.</lyrics>
+<hymn_number>1355</hymn_number>
+<key>Bb</key>
 </song>

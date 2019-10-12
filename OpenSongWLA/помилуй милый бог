@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3285</hymn_number>
-<title>Помилуй милый Бог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Помилуй милый Бог</title>
 <lyrics>[V1]
  Помилуй, милый Бог, помилуй, милый Бог,
  И будь со мною, со мною.
@@ -35,4 +34,5 @@
    Ты скоро на землю придешь.
    Боже. Боже милый, Ты простишь, я верю
    И в Царство Свое заберешь.</lyrics>
+<hymn_number>3285</hymn_number>
 </song>

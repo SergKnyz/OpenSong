@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Церковь Божья поднимайся Слушай своего Царя ПВ2645</title>
-<hymn_number>2645</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Церковь Божья, поднимайся,
  Слушай своего Царя.
  Призыв мощный вновь раздался,
@@ -60,4 +57,7 @@
  Час полночный настает.
  Поднимите ваши очи,
  Наш Господь уже грядет.</lyrics>
+<title>Церковь Божья поднимайся Слушай своего Царя ПВ2645</title>
+<key>E</key>
+<hymn_number>2645</hymn_number>
 </song>

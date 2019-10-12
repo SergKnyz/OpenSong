@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2967</hymn_number>
-<key>A</key>
-<title>Когда вечер наступает ПВ2967</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Когда вечер наступает ПВ2967</title>
 <lyrics>[V1]
  Когда вечер наступает,
  солнца близиться закат,
@@ -40,4 +38,6 @@
  с Иисусом каждый час,
  можем мы Его под вечер
  славить с радостью в устах.</lyrics>
+<hymn_number>2967</hymn_number>
+<key>A</key>
 </song>

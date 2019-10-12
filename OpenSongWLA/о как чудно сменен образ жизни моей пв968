@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>О как чудно сменен образ жизни моей ПВ968</title>
-<hymn_number>968</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>О как чудно сменен образ жизни моей ПВ968</title>
 <lyrics>[V1]
  О, как чудно сменен образ жизни моей,
  Лишь когда я Христа познал.
@@ -31,4 +29,6 @@
  Лишь когда я Христа познал.
  И шагаю вперед к свету вечного дня,
  Лишь когда я Христа познал.</lyrics>
+<hymn_number>968</hymn_number>
+<key>F</key>
 </song>

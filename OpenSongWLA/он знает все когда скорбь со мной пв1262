@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1262</hymn_number>
-<title>Он знает все когда скорбь со мной ПВ1262</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>1262</hymn_number>
 <lyrics>[V1]
  Он знает все, когда скорбь со мной
  Глубже всяких слов и морей,
@@ -60,4 +59,5 @@
    Я сердцем чувствую все.
    Он знает: раны мне жизнью даны.
    Спаситель знает все.</lyrics>
+<title>Он знает все когда скорбь со мной ПВ1262</title>
 </song>

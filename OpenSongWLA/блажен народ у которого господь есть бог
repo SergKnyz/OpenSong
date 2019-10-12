@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Мы тот народ, у которого Господь есть Бог</aka>
-<hymn_number>17</hymn_number>
-<key>A</key>
-<title>Блажен народ у которого Господь есть Бог</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Am      G          Am        G
  Блажен народ, у которого Господь есть Бог,
 .F         Em       Am            G
@@ -17,5 +13,9 @@
 [V3]
  Мы тот народ, у которого Господь есть Бог,
  Мы тот народ, у которого Господь есть Бог.</lyrics>
+<title>Блажен народ у которого Господь есть Бог</title>
+<key>A</key>
 <author>Андрей Кочкин</author>
+<hymn_number>17</hymn_number>
+<aka>Мы тот народ, у которого Господь есть Бог</aka>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Есть благодатная страна ПВ2816</title>
-<key>F</key>
-<hymn_number>2816</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Есть благодатная страна,
  что глазом веры лишь видна;
  она лежит в конце пути
@@ -30,4 +27,7 @@
  спешите, братья, сестры, все!
  Путем тернистым в мире слез
  в небесный дом ведет Христос!</lyrics>
+<title>Есть благодатная страна ПВ2816</title>
+<key>F</key>
+<hymn_number>2816</hymn_number>
 </song>

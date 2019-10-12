@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3809</hymn_number>
-<title>Кто я такой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Кто я такой</title>
 <lyrics>[V1]
  1 куплет:
  Dm                     Gm                   A7                   Dm
@@ -38,5 +37,6 @@
  6 куплет:
  Господь, прошу меня веди, хочу идти с Тобой
  /Чтобы отпало всё моё и стану я святой/ 2р.</lyrics>
+<hymn_number>3809</hymn_number>
 <author>Евгений Косенков</author>
 </song>

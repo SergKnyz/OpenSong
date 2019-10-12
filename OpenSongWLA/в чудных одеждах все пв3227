@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3227</hymn_number>
-<key>Db</key>
-<title>В чудных одеждах все ПВ3227</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В чудных одеждах все:
  чудно в благой стране,
  в небесной родине!
@@ -36,4 +33,7 @@
  где я хвалу воздам,
  Господь Спаситель сам
  даст славу нам.</lyrics>
+<title>В чудных одеждах все ПВ3227</title>
+<key>Db</key>
+<hymn_number>3227</hymn_number>
 </song>

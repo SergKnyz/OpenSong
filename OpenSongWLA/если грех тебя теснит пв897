@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Если грех тебя теснит ПВ897</title>
-<hymn_number>897</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Если грех тебя теснит ПВ897</title>
 <lyrics>[V1]
  Если грех тебя теснит,
  - все скажи Иисусу.
@@ -30,4 +28,6 @@
  - все скажи Иисусу.
  Обещает Он помочь
  - все скажи Иисусу.</lyrics>
+<hymn_number>897</hymn_number>
+<key>E</key>
 </song>

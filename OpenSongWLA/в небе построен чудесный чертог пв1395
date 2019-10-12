@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1395</hymn_number>
-<aka>Божьих детей приют.</aka>
-<title>В небе построен чудесный чертог ПВ1395</title>
-<key>Db</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В небе построен чудесный чертог,
  Божьих детей приют.
  Сонмы спасенных там чудно живут,
@@ -28,4 +24,8 @@
  Путь наш туда
  Путь наш туда
  Путь наш туда</lyrics>
+<title>В небе построен чудесный чертог ПВ1395</title>
+<key>Db</key>
+<hymn_number>1395</hymn_number>
+<aka>Божьих детей приют.</aka>
 </song>

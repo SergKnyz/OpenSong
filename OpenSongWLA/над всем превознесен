@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Над всем превознесен</title>
-<key>B</key>
-<hymn_number>3855</hymn_number>
-<author>Vertical Worship</author>
 <lyrics>[V1]
  Intro
 
@@ -49,4 +46,7 @@
  Мы будем петь, будем петь, мы будем петь вовеки,
 .    F#          G#m       E            E
  Превознесен, превознесен Иисус над всем</lyrics>
+<hymn_number>3855</hymn_number>
+<author>Vertical Worship</author>
+<key>B</key>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2519</hymn_number>
-<title>О Господь я Твой и услышал я ПВ2519</title>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
+<hymn_number>2519</hymn_number>
 <lyrics>[V1]
  О Господь, я Твой, и услышал я
  Глас любви Твоей,
@@ -30,4 +29,5 @@
  Здесь отчасти понял я,
  Радость вечных дней мне скорей яви,
  Просвети скорей меня.</lyrics>
+<title>О Господь я Твой и услышал я ПВ2519</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Боже мой молю Тебя ПВ1590</title>
-<hymn_number>1590</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Боже мой, молю Тебя,
  Ты услышь с небес меня,
  Обрати ко мне Свой лик,
@@ -24,4 +21,7 @@
  Ты услышь нас от земли,
  Верим мы, настанет час -
  Ты возьмешь к Себе всех нас.</lyrics>
+<title>Боже мой молю Тебя ПВ1590</title>
+<key>G</key>
+<hymn_number>1590</hymn_number>
 </song>

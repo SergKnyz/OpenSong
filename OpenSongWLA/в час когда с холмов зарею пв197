@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>197</hymn_number>
-<key>D</key>
-<title>В час когда с холмов зарею ПВ197</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>197</hymn_number>
 <lyrics>[V1]
  В час, когда с холмов зарею
  Вдаль ночной туман бежит,
@@ -38,4 +37,5 @@
  В вечном дне рекой польет,
  Когда сгинут тени тленья,
  Когда ночи мгла пройдет!</lyrics>
+<title>В час когда с холмов зарею ПВ197</title>
 </song>

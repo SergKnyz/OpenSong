@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Церковь проснись</title>
-<hymn_number>1238</hymn_number>
-<author>Сион Молдова</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 . Dm                A
  Смутное время, тяжелое время
@@ -48,4 +44,8 @@
  Пред Богом в молитве склонится
 .      Gm                  A
  И по новому жизнь продолжать?</lyrics>
+<title>Церковь проснись</title>
+<key>D</key>
+<author>Сион Молдова</author>
+<hymn_number>1238</hymn_number>
 </song>

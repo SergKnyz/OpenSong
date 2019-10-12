@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Сколько раз Ты Господь с любовью ПВ1410</title>
-<key>A</key>
-<hymn_number>4649</hymn_number>
 <lyrics>[V1]
  Сколько раз Ты, Господь, с любовью
  Нежно в сердце мое стучал.
@@ -30,4 +28,6 @@
  Эти раны и кровь Христа.
  Я спасен - это милость Божья,
  Я на дланях записан там.</lyrics>
+<hymn_number>4649</hymn_number>
+<key>A</key>
 </song>

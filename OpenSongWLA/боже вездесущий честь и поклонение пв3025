@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3025</hymn_number>
-<key>G</key>
-<title>Боже вездесущий честь и поклонение ПВ3025</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Боже вездесущий,
  честь и поклоненье
  воздаём Тебе в смиреньи.
@@ -42,4 +39,7 @@
  Мы стоим иль спешим,
  дай нам в мире этом
  быть не тьмой, а светом!</lyrics>
+<title>Боже вездесущий честь и поклонение ПВ3025</title>
+<key>G</key>
+<hymn_number>3025</hymn_number>
 </song>

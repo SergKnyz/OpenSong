@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1993</hymn_number>
-<title>Тебя ищу всем сердцем я</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Тебя ищу всем сердцем я</title>
 <lyrics>[V1]
  Тебя ищу всем сердцем я,
  Душой и крепостью моей.
@@ -23,4 +22,5 @@
  Чем меньше я - тем ближе Ты,
  Я вижу океан в Твоих глазах,
  Бездонный океан любви!</lyrics>
+<hymn_number>1993</hymn_number>
 </song>

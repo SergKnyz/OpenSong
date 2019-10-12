@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4620</hymn_number>
+<key>G</key>
+<author>Василий Перебиковский</author>
 <title>Мирное небо</title>
-<hymn_number>4620</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .   Gm        D                         Gm
@@ -48,5 +49,4 @@
  Горе то тут, то там будь благодарен, друг.
  Это подарок нам - мирное небо вокруг,
  Горе то тут, то там будь благодарен, друг.</lyrics>
-<author>Василий Перебиковский</author>
 </song>

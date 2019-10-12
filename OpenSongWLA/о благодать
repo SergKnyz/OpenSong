@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О благодать</title>
-<key>D</key>
-<aka>Твоя слава здесь мой Бог</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Твоя слава здесь мой Бог</aka>
 <hymn_number>1830</hymn_number>
+<key>D</key>
+<author>4U Band</author>
+<title>О благодать</title>
 <lyrics>[V1]
  Куплет:
 .        D            Asus4
@@ -34,5 +35,4 @@
    Тебя я, люблю мой Бог
 .     G
    Тебя я, люблю мой Бог</lyrics>
-<author>4U Band</author>
 </song>

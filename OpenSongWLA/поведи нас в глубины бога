@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Александр Соколов</author>
-<title>Поведи нас в глубины Бога</title>
-<key>Em</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em           D
  Поведи нас в глубины Бога,
 .  C          D
@@ -18,4 +15,7 @@
  Дух Святой, держи нас в руках Своих,
 .Am7    Bm       Em
  Дух Святой, мы просим Тебя.</lyrics>
+<key>Em</key>
+<author>Александр Соколов</author>
+<title>Поведи нас в глубины Бога</title>
 </song>

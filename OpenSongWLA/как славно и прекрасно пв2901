@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2901</hymn_number>
-<key>F</key>
-<title>Как славно и прекрасно ПВ2901</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Как славно и прекрасно
  жить в мире без греха!
  Свободен я и счастлив,
@@ -48,4 +45,7 @@
  прими за всё хвалу!
  Был грешник, а теперь
  я Тебе принадлежу.</lyrics>
+<title>Как славно и прекрасно ПВ2901</title>
+<key>F</key>
+<hymn_number>2901</hymn_number>
 </song>

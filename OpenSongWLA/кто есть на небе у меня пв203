@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>203</hymn_number>
-<title>Кто есть на небе у меня ПВ203</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>203</hymn_number>
 <lyrics>[V1]
  Кто есть на небе у меня?
  Только Ты!
@@ -50,4 +49,5 @@
  Природы силы замолчат,
  Я буду петь сквозь смерти яд:
  Мой Христос!</lyrics>
+<title>Кто есть на небе у меня ПВ203</title>
 </song>

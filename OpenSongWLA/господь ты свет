@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Господь Ты Свет</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Олег Буркацкий</author>
+<key>D</key>
 <hymn_number>1547</hymn_number>
-<author>Олег Буркацкий</author>
 <lyrics>[V1]
  1 куплет:
 .Dm                     Bb
@@ -37,4 +36,5 @@
  Верных детей поколенья к Господу во свете придут!
  А в новом городе чудном мы увидим свет без лампад,
  Там даже солнца не нужно, и не светильники горят!</lyrics>
+<title>Господь Ты Свет</title>
 </song>

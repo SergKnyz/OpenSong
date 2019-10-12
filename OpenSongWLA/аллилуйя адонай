@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя Адонай</title>
-<aka>наш Господь</aka>
-<hymn_number>2755</hymn_number>
 <lyrics>[V1]
  Аллилуйя Адонай наш Господь
  Славьте Его все, весь народ.
@@ -28,4 +26,6 @@
  Твои чудеса, сластны,
  Слава, Слава, Аллилуйя
  Как прекрасны Твои чудеса.</lyrics>
+<hymn_number>2755</hymn_number>
+<aka>наш Господь</aka>
 </song>

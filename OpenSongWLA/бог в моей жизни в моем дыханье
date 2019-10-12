@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Бог в моей жизни в моем дыханье</title>
-<hymn_number>467</hymn_number>
-<author>Слово Жизни Music</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .             C             F
  Бог в моей жизни, в моем дыханье,
@@ -50,4 +46,8 @@
    Ты все для меня
 .                 C
    Ты все для меня</lyrics>
+<title>Бог в моей жизни в моем дыханье</title>
+<author>Слово Жизни Music</author>
+<key>C</key>
+<hymn_number>467</hymn_number>
 </song>

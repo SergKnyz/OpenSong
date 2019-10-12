@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1970</hymn_number>
-<title>Модно</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я співаю, ти чуєш мене,
  Ти чуєш мої слова,
  А хтось в цей час, за сотню грошей,
@@ -35,4 +33,6 @@
  Спати модно у ліжку чужім,
  Модно пізнать заворонений гріх,
  Модно купатися в нім.</lyrics>
+<title>Модно</title>
+<hymn_number>1970</hymn_number>
 </song>

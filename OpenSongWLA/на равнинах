@@ -1,26 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
-.C                       F       C
-  Пусть наш дом наполнит радость,
-.  Am                  F  G
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<author>Реубен Морган</author>
+<lyrics>[V1]
+.  C
+ Пусть наш дом наполнит радость,
+.Am      F       Gsus  G
  Пусть танцует весь народ.
-.  C                       F C
+.C      F/C       C
  Мы будем петь хвалу и славу,
-.  Am                F     G
+.Am      F       Gsus  G
  Пусть услышит нас Господь.
 
 [C1]
-.             Am   Em   F G
+.      C   G/B F/A
+   На равнинах и высотах
+.     Am7   Em7    F  Gsus
    Превозносим мы хвалу.
-.                     C    G F
+.  G      C   G   F
    Вместе с нами все народы
-.           Am   Em     F G
+.     Am7   Em7    F  Gsus
    Эту песню пусть поют.
 
 [V2]
  Пусть твой свет во тьме сияет,
  За Исой идем всегда.
  Землю Бог наполнит славой,
- Как водою океан.</lyrics>
+ Как водою океан.
+
+[B1]
+.    F   Dm7  Am7   Em7
+   Аллилуйя, аллилуйя.
+.    F   Dm7  Gsus4 G
+   Аллилуйя, аллилуйя.</lyrics>
+<copyright>Хиллсонг</copyright>
 <title>На равнинах</title>
-<key>C</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Михаил Мантай</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Музыка - Михаил Мантай, слова - Антонина Краузе
 
 [V2]
@@ -48,7 +47,8 @@
  Построенный Отцом,
  В том Чудном Вечном Доме
  Мы будем со Христом.</lyrics>
-<key>G</key>
 <title>Небесный дом</title>
+<key>G</key>
+<author>Михаил Мантай</author>
 <hymn_number>2393</hymn_number>
 </song>

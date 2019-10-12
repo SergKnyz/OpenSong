@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>NDay</author>
+<key>A</key>
+<hymn_number>1267</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .Am                Dm            G
  Ты говоришь, что нет нигде любви,
@@ -46,8 +49,5 @@
    И наступит рассвет.
 .  Am           Em             Esus4 E
    Утро нового дня, где ждут тебя!___</lyrics>
-<author>NDay</author>
-<hymn_number>1267</hymn_number>
 <title>Новый день</title>
-<key>A</key>
 </song>

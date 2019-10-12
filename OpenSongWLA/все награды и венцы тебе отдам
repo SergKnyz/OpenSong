@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ты достоин</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
 <title>Все награды и венцы Тебе отдам</title>
-<key>A</key>
+<tempo>68</tempo>
 <lyrics>[V1]
-.    Em                 Em/D   A/C# D
+.  Em    Em/D       A/C#     D
  Все награды и венцы свои отдам
-.            Em       Em/D      A/C#   D
+.        Em        Em/D  A/C#  D
  Все заслуги и хвалу кладу я пред Тобой
-.             F#m7        F#m7/E  H/D# E
+.        F#m7      F#m7/E  H/D# E
  Ведь подобного Тебе не видел мир.
-.         A/C#                   D     H/D# D
+.      A/C#       D     H/D#       D
  Лишь Ты Один достоин. Ты Один достоин.
 
 [V2]
@@ -18,18 +18,21 @@
  Воздам Тебе всю славу Воздам Тебе всю славу
 
 [C1]
-.            Hm7        F#m7        A E
+.         Hm7      F#m7         A E
    Ты достоин, о, Бог, высшей славы.
-.            Hm7                    F#m7 D
+.         Hm7           F#m7     D
    Ты достоин, Бог, принять всю честь.
-.        Hm7          F#m7                     A E
+.        Hm7     F#m7           A              E
    Я живу для Тебя, и всем, что есть внутри меня.
-.             D
+.        D
    Поклоняюсь я.
 
 [B1]
-.               D         F#m7
+.        D         F#m7
    Поклоняюсь я. Чту Тебя,
-.  Hm7           Esus4   E
+.    Hm7       Esus4   E
    Славлю я Тебя, мой Бог</lyrics>
+<hymn_number>73</hymn_number>
+<aka>Ты достоин</aka>
+<key>A</key>
 </song>

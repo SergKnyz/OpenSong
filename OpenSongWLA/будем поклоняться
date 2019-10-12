@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Будем поклоняться</title>
 <lyrics>[V1]
  1 куплет:
 .C                   F
@@ -32,8 +32,8 @@
    Огонь с небес горит в сердцах
 .       C             G
    Прославлен будь вовеки, Царь</lyrics>
-<key>C</key>
-<title>Будем поклоняться</title>
-<hymn_number>879</hymn_number>
 <aka>В надежде и с верой стоим мы и смело</aka>
+<hymn_number>879</hymn_number>
+<key>C</key>
+<author>Слово Жизни Music</author>
 </song>

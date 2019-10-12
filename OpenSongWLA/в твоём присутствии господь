@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>262</hymn_number>
-<title>В Твоём присутствии Господь</title>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<author>Просто сосуды</author>
+<hymn_number>262</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .F           C     G     Am
@@ -49,5 +49,5 @@
  Пусть через трещины его,
 .F                    G
  Течёт Твоей любви река.</lyrics>
-<author>Просто сосуды</author>
+<title>В Твоём присутствии Господь</title>
 </song>

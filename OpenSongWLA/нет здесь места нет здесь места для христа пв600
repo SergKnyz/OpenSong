@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
-<title>Нет здесь места нет здесь места для Христа ПВ600</title>
-<hymn_number>600</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Нет здесь места нет здесь места для Христа ПВ600</title>
 <lyrics>[V1]
  Нет здесь места, нет здесь места для Христа!
  Ум блуждающий пленила
@@ -35,4 +33,6 @@
  Вся окрестность занята
  Праздником толпы холодной, -
  Нет здесь места для Христа!</lyrics>
+<hymn_number>600</hymn_number>
+<key>Eb</key>
 </song>

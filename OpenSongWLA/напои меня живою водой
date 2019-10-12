@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Захаренко</author>
+<key>A</key>
+<hymn_number>2022</hymn_number>
+<lyrics>[V1]
  Куплет 1:
 .Am          G    Am
  Напои меня живою водой
@@ -26,8 +29,5 @@
  У тебя живая вода
  Океан Божьей любви
  С избытком наполни меня</lyrics>
-<author>Алексей Захаренко</author>
-<hymn_number>2022</hymn_number>
 <title>Напои меня живою водой</title>
-<key>A</key>
 </song>

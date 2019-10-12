@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1243</hymn_number>
-<key>E</key>
-<title>Любит Иисус меня любит меня ПВ1243</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Любит Иисус меня любит меня ПВ1243</title>
 <lyrics>[V1]
  Любит Иисус меня, любит меня,
  Песня об этом пусть будет твоя.
@@ -23,4 +21,6 @@
 [V3]
  Вечную радость в Нем ты обретешь,
  И песню новую ты запоешь:</lyrics>
+<hymn_number>1243</hymn_number>
+<key>E</key>
 </song>

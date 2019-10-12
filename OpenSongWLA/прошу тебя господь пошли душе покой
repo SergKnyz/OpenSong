@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Прошу Тебя Господь пошли душе покой</title>
-<hymn_number>252</hymn_number>
-<aka>Алиллуйя</aka>
-<author>Анна и Андрей Лукашины</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Прошу Тебя Господь пошли душе покой</title>
 <lyrics>[V1]
  1 куплет:
 .E        H   E     F#m  C#   F#m
@@ -56,4 +52,8 @@
  Поддержку находя в молитве
  Лукавого мог стрелы отражать
  И верой твердою Ему противостать.</lyrics>
+<aka>Алиллуйя</aka>
+<hymn_number>252</hymn_number>
+<key>E</key>
+<author>Анна и Андрей Лукашины</author>
 </song>

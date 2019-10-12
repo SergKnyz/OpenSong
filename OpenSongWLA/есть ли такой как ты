@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Есть ли такой как Ты</title>
-<key>G</key>
-<hymn_number>4177</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G                          Em
  Есть ли такой, как Ты, мой Царь?
@@ -40,5 +37,8 @@
    Иисус, Ты - мой путь, Ты - истина
 .              Em7  D/F#
    Ты - жизнь мояа__аа!</lyrics>
+<title>Есть ли такой как Ты</title>
 <author>Слово Жизни Москва</author>
+<key>G</key>
+<hymn_number>4177</hymn_number>
 </song>

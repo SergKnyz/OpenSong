@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Господь - мой Пастырь</aka>
-<author>Новое поколение (Рига)</author>
-<key>E</key>
-<title>Я не буду ни в чем нуждаться</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .    E          C#m
  Господь - мой Пастырь,
 .      F#m              B
@@ -17,4 +13,8 @@
  Меня во все дни жизни моей,
  Я пребываю в доме Господнем
  Многие дни, многие дни.</lyrics>
+<author>Новое поколение (Рига)</author>
+<key>E</key>
+<aka>Господь - мой Пастырь</aka>
+<title>Я не буду ни в чем нуждаться</title>
 </song>

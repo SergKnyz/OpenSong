@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3420</hymn_number>
-<key>C</key>
-<title>Песня о любви</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<author>Ярослава Лебе-Левинецкая</author>
+<hymn_number>3420</hymn_number>
 <lyrics>[V1]
  Любовь приходит словно утро к нам
  Лучем стучится в наше сердце
@@ -26,5 +26,5 @@
  И любовь эту с ближним делить любовью жить.
  Пускай приходит словно утро к нам
  И в каждый новый день стучится!</lyrics>
-<author>Ярослава Лебе-Левинецкая</author>
+<title>Песня о любви</title>
 </song>

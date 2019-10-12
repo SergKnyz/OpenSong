@@ -1,16 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1301</hymn_number>
-<title>Вся земля хвалу поет</title>
-<key>D</key>
-<author>Сила Веры церковь</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Вся земля хвалу поет</title>
+<time_sig>4/4</time_sig>
 <lyrics>[V1]
  1 куплет:
-.D             A   Hm               Hm/A     G
+.D             A/C#   Hm              Hm/A   G
  Вся земля хвалу поет лишь Тебе, наш чудный Бог.
-.D             A      Hm                  Hm/A      G
+.D             A/C#      Hm                 Hm/A    G
  И во всей вселенной нет кто б с Тобой сравниться смог.
-.Em                   D       Em                    G  A
+.Em                  D/F#           G               A
  Ты превосходнее всего на свете, и нет подобного Тебе!
-.Em                         D         Em                       G A
+.Em                        D/F#          G                    A
  Ты наш Господь, Ты царствуешь вовеки, превознесем Тебя в хвале!
 
 [C1]
@@ -30,4 +28,8 @@
  Для народа всей земли сияет свет Твоей любви.
  Своим присутствием покрой всю землю, пусть свет прольется в жизнь людей,
  И все народы преклонят колени, и воспоют хвалу Тебе!</lyrics>
+<tempo>74</tempo>
+<hymn_number>852</hymn_number>
+<author>Церковь &quot;Сила Веры&quot; (г. Киев)</author>
+<key>D</key>
 </song>

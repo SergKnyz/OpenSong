@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4904</hymn_number>
-<title>Словно гром, слышен мне голос</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Словно гром, слышен мне голос</title>
 <lyrics>[V1]
  Словно гром, слышен мне голос,
  Говорит о будущем он.
@@ -33,4 +32,5 @@
  Ведь Твои обещания придут.
  Все, что Ты сказал, Ты исполнишь,
  Да будет вовек воля Твоя.</lyrics>
+<hymn_number>4904</hymn_number>
 </song>

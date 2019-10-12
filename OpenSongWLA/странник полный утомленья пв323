@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>323</hymn_number>
-<key>G</key>
-<title>Странник полный утомленья ПВ323</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Странник полный утомленья ПВ323</title>
 <lyrics>[V1]
  Странник, полный утомленья!
  Слушай весть твоих друзей:
@@ -30,4 +28,6 @@
  Что Он всем гостям дает;
  В Нем прощенье, оправданье:
  Что же дух твой робкий ждет?</lyrics>
+<hymn_number>323</hymn_number>
+<key>G</key>
 </song>

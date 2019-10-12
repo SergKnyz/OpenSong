@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Ты - Господь, Ты - Элохим! Прихожу к Тебе!</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Hm      A          G
  Ты - Господь, Ты - Элохим
 .   Hm  A    G  (или Em - F#m - Hm)
@@ -19,4 +17,6 @@
    Дай узреть Твою славу
 .     G      A       D
    Я хочу познать Тебя.</lyrics>
+<key>D</key>
+<title>Ты - Господь, Ты - Элохим! Прихожу к Тебе!</title>
 </song>

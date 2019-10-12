@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вот она любовь</title>
-<key>E</key>
-<hymn_number>3175</hymn_number>
-<author>Марина Севастиян</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .        Em
  Вот и настал тот самый день
@@ -72,4 +68,8 @@
    Бог соединил два сердца
 .        Hsus4              H
    Что бы вы неразлучными стали.</lyrics>
+<title>Вот она любовь</title>
+<key>E</key>
+<author>Марина Севастиян</author>
+<hymn_number>3175</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Я был одинок,   Вокруг один песок.</aka>
-<hymn_number>2500</hymn_number>
-<title>Бог, исцеляй меня</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бог, исцеляй меня</title>
 <lyrics>[V1]
  СAPO 4
 
@@ -55,5 +52,8 @@
    Бог наполняй меня
    В сердце моё войди
    И жизнь мою измени</lyrics>
+<hymn_number>2500</hymn_number>
+<aka>Я был одинок,   Вокруг один песок.</aka>
 <author>Павел Геращенко</author>
+<key>A</key>
 </song>

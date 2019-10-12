@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я жажду петь во всякий час ПВ175</title>
-<key>C</key>
-<hymn_number>175</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я жажду петь во всякий час,
  Печаль и слезы прочь!
  Христос - мой Друг, меня Он спас,
@@ -29,4 +26,7 @@
  О Господе моем,
  Пока не станет воспевать
  Весь грешный мир о Нем.</lyrics>
+<title>Я жажду петь во всякий час ПВ175</title>
+<key>C</key>
+<hymn_number>175</hymn_number>
 </song>

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Неизвестный Край - Реквием</title>
-<hymn_number>2930</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2930</hymn_number>
+<author>Simon Khorolskiy</author>
+<title>Неизвестный Край - Реквием</title>
 <lyrics>[V1]
  1 куплет:
  Если ждет тебя дорога в неизвестный край,
@@ -27,5 +28,4 @@
  Не суди упавших строго, лучше поднимай.
  Может статься, сам в бессильи где - то упадешь.
  Ослабеют сердца крылья, веру надорвешь, веру надорвешь.</lyrics>
-<author>Simon Khorolskiy</author>
 </song>

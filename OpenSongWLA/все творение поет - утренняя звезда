@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Все творение поет - Утренняя Звезда!</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Все творение поет - Утренняя Звезда!</title>
 <lyrics>[V1]
 .D C G D
  Все творение поет - Утренняя Звезда!
@@ -29,4 +28,5 @@
  Придет Господь наш - Агнец Иисус,
 .A G D
  И Он разрушит крепость, крепость уз.</lyrics>
+<key>D</key>
 </song>

@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3401</hymn_number>
+<key>A</key>
+<author>Сергей Перекрёстов</author>
+<title>Только в Господе</title>
+<lyrics>[V1]
 .A               E
  Только в Господе
 .            F#m     D
@@ -37,8 +41,4 @@
  Не поколеблюсь
 .              A
  Только в Господе...</lyrics>
-<author>Сергей Перекрёстов</author>
-<hymn_number>3401</hymn_number>
-<key>A</key>
-<title>Только в Господе</title>
 </song>

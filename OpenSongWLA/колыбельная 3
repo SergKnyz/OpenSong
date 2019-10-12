@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>400</hymn_number>
-<title>Колыбельная</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Колыбельная</title>
 <lyrics>[V1]
  День догорел и ты
  Спи мой малыш усни
@@ -50,4 +49,5 @@
 
 [V9]
  Спи, мой малыш!</lyrics>
+<hymn_number>400</hymn_number>
 </song>

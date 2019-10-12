@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Остановись друг ПВ2660</title>
-<key>G</key>
-<hymn_number>848</hymn_number>
 <lyrics>[V1]
  Остановись, друг!
  Пред тобой опасность.
@@ -37,4 +35,6 @@
  Что навсегда погубишь ты себя?
  Прими Христа, прими без колебанья,
  Пока не поздно, поздно для тебя.</lyrics>
+<hymn_number>848</hymn_number>
+<key>G</key>
 </song>

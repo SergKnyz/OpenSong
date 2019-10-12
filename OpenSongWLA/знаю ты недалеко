@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Знаю Ты недалеко</title>
+<lyrics>[V1]
  1 куплет:
 .Em
  Господи, Ты видишь моё сердце
@@ -38,8 +39,7 @@
  Видишь душу и всю суть мою
  Дай остановиться, оглядеться
  На каком сейчас пути стою</lyrics>
+<hymn_number>5268</hymn_number>
 <author>Даша Яловец</author>
 <key>E</key>
-<title>Знаю Ты недалеко</title>
-<hymn_number>5268</hymn_number>
 </song>

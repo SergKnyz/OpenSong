@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1529</hymn_number>
-<key>Db</key>
-<title>Бежит ручеек по просторам полей ПВ1529</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Db</key>
+<hymn_number>1529</hymn_number>
 <lyrics>[V1]
 .C                          Dm
  Бежит ручеек по просторам полей,
@@ -34,4 +33,5 @@
  Больших неудач и суровых невзгод.
  Но как бы не труден мой путь был земной,
  Я в Церкви найду отдых, мир и покой...</lyrics>
+<title>Бежит ручеек по просторам полей ПВ1529</title>
 </song>

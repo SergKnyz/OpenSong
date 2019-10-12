@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Спасение церковь г. Вишневое</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>555</hymn_number>
+<author>Спасение церковь г. Вишневое</author>
+<key>G</key>
+<title>Иисус спасибо</title>
 <lyrics>[V1]
  Куплет:
 . G          D        Em
@@ -20,7 +23,4 @@
    О-о Иисус, крепость силы моей
 .         G  D         C
    О-о Иисус, благословен</lyrics>
-<key>G</key>
-<title>Иисус спасибо</title>
-<hymn_number>555</hymn_number>
 </song>

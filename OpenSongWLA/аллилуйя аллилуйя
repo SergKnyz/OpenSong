@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Будь прославлен Бог Великий</aka>
-<hymn_number>1</hymn_number>
-<tempo>66</tempo>
-<time_sig>4/4</time_sig>
-<title>Аллилуйя Аллилуйя</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . C  Dm  G7    C
  Аллилуйя / 4 раза
  Слава Богу / 4 раза
@@ -22,4 +16,10 @@
 [V4]
  Ты достоин / 4 раза
  Он грядёт к нам / 4 раза</lyrics>
+<tempo>66</tempo>
+<title>Аллилуйя Аллилуйя</title>
+<time_sig>4/4</time_sig>
+<key>C</key>
+<aka>Будь прославлен Бог Великий</aka>
+<hymn_number>1</hymn_number>
 </song>

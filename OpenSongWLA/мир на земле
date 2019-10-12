@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Мир на земле</title>
-<hymn_number>1480</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мир на земле</title>
 <lyrics>[V1]
  1 куплет:
 .                    Gm  D#
@@ -74,5 +72,7 @@
    Концовка:
    Мир земле, мир земле.
    Мир на земле, мир на земле.</lyrics>
+<hymn_number>1480</hymn_number>
+<key>G</key>
 <author>Алексей Каратаев</author>
 </song>

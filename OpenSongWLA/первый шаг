@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>691</hymn_number>
-<key>Bb</key>
-<title>Первый шаг</title>
-<author>Набат</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  гр. Набат - Первый шаг
 
 [V2]
@@ -50,4 +46,8 @@
  Аллилуйя  честь хвала!
 .Cm         F       Bb   Cm        F        Bb  Cm         F        Bb
  Аллилуйя  честь хвала!    Аллилуйя  честь хвала!   Аллилуйя  честь хвала!</lyrics>
+<title>Первый шаг</title>
+<key>Bb</key>
+<author>Набат</author>
+<hymn_number>691</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Научи любить</title>
-<hymn_number>1572</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Научи любить</title>
 <lyrics>[V1]
  1 куплет:
 .Em           D              C
@@ -37,5 +35,7 @@
  Помню, что не любовью люди светят
  Но знаю церковь Ты зажёг свечою
  Чтобы не смешался свет со тьмою</lyrics>
+<hymn_number>1572</hymn_number>
 <author>Инна Звягинцева</author>
+<key>E</key>
 </song>

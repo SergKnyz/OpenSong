@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Плачет небо</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>NDay</author>
+<key>G</key>
 <hymn_number>2445</hymn_number>
-<author>NDay</author>
 <lyrics>[V1]
  1 куплет:
 . Gm                 Bb
@@ -36,4 +35,5 @@
    Мост:
 .     Eb         F          Gm
    Страха нет, больше нет, Бог пришел, дал ответ...</lyrics>
+<title>Плачет небо</title>
 </song>

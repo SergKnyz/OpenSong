@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1319</hymn_number>
-<title>Хлеб сшедший с небес</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Хлеб сшедший с небес</title>
 <lyrics>[V1]
  Intro:
 .E F#m E F#m
@@ -40,5 +38,7 @@
  Что бы я делал и как бы я жил,
  Если бы хлеба с небес не вкусил.
  Если бы сердце своё для Него не открыл.</lyrics>
+<hymn_number>1319</hymn_number>
+<key>E</key>
 <author>Сергей Мачин, Краеугольный камень</author>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Дай сил</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Они</author>
 <key>D</key>
 <hymn_number>436</hymn_number>
-<author>Они</author>
 <lyrics>[V1]
  Вступление:
 
@@ -69,4 +68,5 @@
    И стало вдруг так больно, горько, страшно
 .            C          Bb
    Что я не той была и жизнь вела не ту!</lyrics>
+<title>Дай сил</title>
 </song>

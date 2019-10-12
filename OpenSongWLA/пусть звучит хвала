@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Пусть звучит хвала</title>
-<key>B</key>
-<hymn_number>2630</hymn_number>
 <lyrics>[C1]
    Припев:
 .   H               F#
@@ -36,5 +34,7 @@
    Всё творение в небе и на земле
 .  G#m  E2
    Славь Его, Славь Его.</lyrics>
+<hymn_number>2630</hymn_number>
+<key>B</key>
 <author>Алексей Каратаев, Йеремы Риддле</author>
 </song>

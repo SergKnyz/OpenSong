@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Игорь Мельничук</author>
+<key>A</key>
+<hymn_number>891</hymn_number>
 <lyrics>[V1]
 .Am                  F
  Мы слышим Голос, Он мягче моха,
@@ -64,7 +66,5 @@
  Пока вы юны, пока вы свежи,
 .Dm                       E A
  Не заглушайте Тот голос нежный&quot;.</lyrics>
-<hymn_number>891</hymn_number>
 <title>Молодым</title>
-<key>A</key>
 </song>

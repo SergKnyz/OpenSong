@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1408</hymn_number>
-<aka>Верую в Бога Отца</aka>
-<title>Всемогущего Творца неба и земли; ПВ1408</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Верую в Бога Отца</aka>
+<hymn_number>1408</hymn_number>
 <lyrics>[V1]
  Верую в Бога Отца,
  Всемогущего Творца неба и земли;
@@ -47,4 +46,5 @@
 [V12]
  И в жизнь вечную.
  Аминь.</lyrics>
+<title>Всемогущего Творца неба и земли; ПВ1408</title>
 </song>

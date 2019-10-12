@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<title>Тихо город спит</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Тихо город спит</title>
 <lyrics>[V1]
 .H     G#m     E
  Тихо город спит,
@@ -31,4 +30,5 @@
    Столько любви миру явил__
 .            H      F# E
    Благодать подарил</lyrics>
+<key>B</key>
 </song>

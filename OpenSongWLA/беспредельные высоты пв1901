@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ты открыл передо мной</aka>
-<hymn_number>1901</hymn_number>
-<title>Беспредельные высоты ПВ1901</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Беспредельные высоты ПВ1901</title>
 <lyrics>[V1]
  Беспредельные высоты
  Ты открыл передо мной,
@@ -54,4 +52,6 @@
  Ты стремиться повелел:
  В том души моей блаженство,
  В том счастливый мой удел.</lyrics>
+<hymn_number>1901</hymn_number>
+<aka>Ты открыл передо мной</aka>
 </song>

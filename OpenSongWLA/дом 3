@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2479</hymn_number>
-<title>Дом</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Planetshakers, Планетсхакерс</author>
 <key>C</key>
+<hymn_number>2479</hymn_number>
 <lyrics>[V1]
  Здесь, сердце открыто здесь
  Любовь наступает и разрушает страх
@@ -40,5 +40,5 @@
  Присутствие мой дом
  В присутствие Твоем
  В присутствие Твоем</lyrics>
-<author>Planetshakers, Планетсхакерс</author>
+<title>Дом</title>
 </song>

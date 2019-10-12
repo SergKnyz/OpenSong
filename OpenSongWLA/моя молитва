@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>690</hymn_number>
-<title>Моя молитва</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Gm         Cm    D7        Gm
  Звёзды зажигаются на вечернем небе,
 .                 Cm   D7       Gm
@@ -62,5 +59,8 @@
  За всех кто дорог мне и мил за всех кого люблю,
 . E                      Eb          Abm
  Дай им счастья, сохрани о мой Господь Тебя молю, молю.</lyrics>
+<title>Моя молитва</title>
+<key>G</key>
 <author>Вадим Плахотнюк</author>
+<hymn_number>690</hymn_number>
 </song>

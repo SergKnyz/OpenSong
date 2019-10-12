@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Каждый день улетают самолёты</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <key>C</key>
 <hymn_number>203</hymn_number>
-<author>Неизвестный</author>
 <lyrics>[C1]
    Припев:
 .          C
@@ -37,4 +36,5 @@
  Не покинет никогда.
  Он отдал всю жизнь Свою,
  Чтобы жил ты с Ним в раю.</lyrics>
+<title>Каждый день улетают самолёты</title>
 </song>

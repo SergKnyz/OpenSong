@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1404</hymn_number>
-<key>F#</key>
-<title>Прости</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   D#m           Bb       D#m
  Прости, что мои ноги пошатнулись,
@@ -36,5 +33,8 @@
  Ты разъяснишь и дашь душе покой.
  Здесь чашу пью и скорби принимаю
  Чтоб соединиться в вечности с Тобой.</lyrics>
+<title>Прости</title>
 <author>Набат</author>
+<key>F#</key>
+<hymn_number>1404</hymn_number>
 </song>

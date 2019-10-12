@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>В тишине</title>
+<lyrics>[C1]
 .  H C#/H D#m F#/A#
     
 .  H C#/H D#m С#
@@ -52,8 +53,7 @@
    И дух мой поёт
 .  D#m
    О, Святой, Святой!</lyrics>
-<author>ХДН</author>
-<key>F#</key>
-<title>В тишине</title>
 <hymn_number>5602</hymn_number>
+<key>F#</key>
+<author>ХДН</author>
 </song>

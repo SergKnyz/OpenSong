@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Друг усталый с ношей тяжкой ПВ3126</title>
-<key>Bb</key>
-<hymn_number>3126</hymn_number>
 <lyrics>[V1]
  Друг усталый, с ношей тяжкой,
  ты к кресту Христа спеши!
@@ -37,4 +35,6 @@
  У подножия креста
  благодать найдёшь ты ныне.
  О, прими её, душа!</lyrics>
+<hymn_number>3126</hymn_number>
+<key>Bb</key>
 </song>

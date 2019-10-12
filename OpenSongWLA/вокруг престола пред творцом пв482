@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Вокруг престола пред Творцом ПВ482</title>
-<hymn_number>482</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Вокруг престола пред Творцом ПВ482</title>
 <lyrics>[V1]
  Вокруг престола пред Творцом
  Толпы детей стоят
@@ -28,4 +26,7 @@
  В свои земные дни;
  Чтобы сильней любить могли,
  Он взял их от земли.</lyrics>
+<aka>Толпы детей стоят</aka>
+<hymn_number>482</hymn_number>
+<key>C</key>
 </song>

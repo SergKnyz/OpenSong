@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Адонай</aka>
+<hymn_number>157</hymn_number>
+<author>Виталий Ефремочкин</author>
+<key>A</key>
+<title>Бог Вечности, Господь неба и земли</title>
+<lyrics>[V1]
  Куплет:
 .Am        G     Dm             Am
  Бог Вечности, Господь неба и земли
@@ -31,9 +36,4 @@
    Ты Господь неба и земли
 .          C                    G
    Ты наш Бог, нет другого как Ты.</lyrics>
-<author>Виталий Ефремочкин</author>
-<key>A</key>
-<title>Бог Вечности, Господь неба и земли</title>
-<aka>Адонай</aka>
-<hymn_number>157</hymn_number>
 </song>

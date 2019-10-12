@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Когда в море бушует волна ПВ2166 ИИПВ158</title>
-<key>Dm</key>
-<hymn_number>2166</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .          Dm            Gm
  Когда в море бушует волна,
 .        A           Dm
@@ -40,4 +37,7 @@
  Веря в жертву Иисуса Христа,
  В силе Духа Святого тогда
  Спой слова:</lyrics>
+<title>Когда в море бушует волна ПВ2166 ИИПВ158</title>
+<key>Dm</key>
+<hymn_number>2166</hymn_number>
 </song>

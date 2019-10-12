@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2803</hymn_number>
-<key>G#m</key>
-<title>Ты словно якорь для души</title>
-<author>Слово Жизни Music</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты словно якорь для души</title>
 <lyrics>[V1]
  1 куплет:
 .G#m       F#/A#  H        C#m  H C#m H F#/A#
@@ -48,4 +45,7 @@
 
 [V6]
  Проигрыш 2 раза:</lyrics>
+<hymn_number>2803</hymn_number>
+<author>Слово Жизни Music</author>
+<key>G#m</key>
 </song>

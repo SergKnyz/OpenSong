@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1368</hymn_number>
-<title>Песня Иисуса (жало)</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Песня Иисуса (жало)</title>
 <lyrics>[V1]
  Ветер, ветер из моих губ
  На твои сады да задуло
@@ -23,4 +22,5 @@
  Я по долинам, по горам кричу
  Говоришь ты всем, что ты Меня нашел
  А Я каждый день тебя ищу</lyrics>
+<hymn_number>1368</hymn_number>
 </song>

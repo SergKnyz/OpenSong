@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1099</hymn_number>
-<key>C</key>
-<title>Возьми свой крест и следуй ПВ1099</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Возьми свой крест и следуй ПВ1099</title>
 <lyrics>[V1]
  Возьми свой крест и следуй
  В путь узкий за Христом.
@@ -12,4 +10,7 @@
  Пройти ты до конца.
  Тогда войдешь в Отчизну,
  заветный дом Отца.</lyrics>
+<aka>В путь узкий за Христом</aka>
+<hymn_number>1099</hymn_number>
+<key>C</key>
 </song>

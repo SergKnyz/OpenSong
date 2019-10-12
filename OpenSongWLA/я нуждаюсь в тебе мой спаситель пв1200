@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1200</hymn_number>
-<title>Я нуждаюсь в Тебе мой Спаситель ПВ1200</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<hymn_number>1200</hymn_number>
 <lyrics>[V1]
  Я нуждаюсь в Тебе, мой Спаситель,
  Я желаю всегда быть с Тобой,
@@ -30,4 +29,5 @@
  И даруй чувствованья Твои,
  Чтобы верным я был. Твой служитель,
  О, приди же ко мне и живи.</lyrics>
+<title>Я нуждаюсь в Тебе мой Спаситель ПВ1200</title>
 </song>

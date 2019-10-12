@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>517</hymn_number>
-<key>D</key>
-<title>Обитель моя у потоков живых ПВ517</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Обитель моя у потоков живых ПВ517</title>
 <lyrics>[V1]
  Обитель моя у потоков живых;
  Цветы там не блекнут от зноя;
@@ -30,4 +28,6 @@
  Душою мы в песне воспрянем...
  И Агнцу, кто смертью смерть победил,
  Петь славу и честь не престану.</lyrics>
+<hymn_number>517</hymn_number>
+<key>D</key>
 </song>

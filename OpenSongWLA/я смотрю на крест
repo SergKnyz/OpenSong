@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4323</hymn_number>
-<title>Я смотрю на Крест</title>
-<key>D</key>
-<author>Милана</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я смотрю на Крест</title>
 <lyrics>[V1]
 .              D               A
  Я смотрю на Крест, и вижу ответ
@@ -38,4 +35,7 @@
    Ты смерть победил Ты прошёл через Крест,
 .                A
    Обещал и воскрес!</lyrics>
+<hymn_number>4323</hymn_number>
+<key>D</key>
+<author>Милана</author>
 </song>

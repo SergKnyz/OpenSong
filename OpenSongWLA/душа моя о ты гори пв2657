@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Душа моя о ты гори ПВ2657</title>
-<hymn_number>2657</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Душа моя о ты гори ПВ2657</title>
 <lyrics>[V1]
  Душа моя, о ты гори
  Священным пламенем любви.
@@ -24,4 +22,6 @@
  Тебя прославить я смогу
  Хвалой достойного в псалмах,
  И Ты отрешь слезу мою.</lyrics>
+<hymn_number>2657</hymn_number>
+<key>C</key>
 </song>

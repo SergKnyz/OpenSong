@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>868</hymn_number>
-<key>E</key>
-<title>Знаешь ли ты</title>
-<author>Ксения Лапицкая</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Знаешь ли ты</title>
 <lyrics>[V1]
  1 куплет:
 . Em                 Am
@@ -37,4 +34,7 @@
  Вот ты живешь, завтра нет тебя, прах.
  Только душа утомительно ждет,
  О, как ей хочется снять тяжкий гнёт.</lyrics>
+<hymn_number>868</hymn_number>
+<key>E</key>
+<author>Ксения Лапицкая</author>
 </song>

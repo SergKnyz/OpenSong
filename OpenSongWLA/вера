@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1807</hymn_number>
-<aka>Народ наш лукавый  Не знает границ</aka>
-<title>Вера</title>
-<author>Oleh Hrinkov</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Вера</title>
 <lyrics>[V1]
  Народ наш лукавый
  Не знает границ
@@ -50,4 +47,7 @@
  Вера вера эта вера в Бога
  Вера вера творит чудеса
  Верою можно изменить сердца</lyrics>
+<hymn_number>1807</hymn_number>
+<aka>Народ наш лукавый  Не знает границ</aka>
+<author>Oleh Hrinkov</author>
 </song>

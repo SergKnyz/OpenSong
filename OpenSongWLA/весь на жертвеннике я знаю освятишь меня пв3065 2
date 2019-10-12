@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Весь на жертвеннике я знаю освятишь меня ПВ3065</title>
-<hymn_number>3065</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Весь на жертвеннике я
  - знаю, освятишь меня.
  Верю я, Господь, Тебе,
@@ -28,4 +25,7 @@
  сердцу счастье принесла,
  в нём чертог создали Свой
  Бог и Сын, и Дух святой.</lyrics>
+<title>Весь на жертвеннике я знаю освятишь меня ПВ3065</title>
+<key>A</key>
+<hymn_number>3065</hymn_number>
 </song>

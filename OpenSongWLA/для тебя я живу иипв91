@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Для Тебя я живу ИИПВ91</title>
-<key>A</key>
-<hymn_number>5522</hymn_number>
 <lyrics>[V1]
 .A            E/G#
  Для тебя я живу,
@@ -28,4 +26,6 @@
  Иисус, я пред Тобой предстою,
 .       D         E        A
  Сердце моё лишь Тебе я отдаю.</lyrics>
+<hymn_number>5522</hymn_number>
+<key>A</key>
 </song>

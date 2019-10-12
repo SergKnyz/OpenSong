@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>638</hymn_number>
-<title>А Небо кричит</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .       Gm
  С Твоим именем Боже мир давно уже свыкся
@@ -56,5 +53,8 @@
  Когда же когда нас небо разбудит
  Мир как будто не слышат уставов Твоих
  Боже я умоляю - помилуй глухих.</lyrics>
+<title>А Небо кричит</title>
 <author>Светлана Малова</author>
+<key>G</key>
+<hymn_number>638</hymn_number>
 </song>

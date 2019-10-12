@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бог любви, Отче наш ИИПВ13</title>
-<key>D</key>
-<hymn_number>13</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .        D        Bm
  Бог любви, Отче наш
 .     Em            A
@@ -14,4 +11,7 @@
  Меня светом озари -
 .      Em           A        G D
  Я с тобой всей душой навсегда.</lyrics>
+<title>Бог любви, Отче наш ИИПВ13</title>
+<key>D</key>
+<hymn_number>13</hymn_number>
 </song>

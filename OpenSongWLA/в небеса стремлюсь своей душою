@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В небеса стремлюсь своей душою</title>
-<key>D</key>
-<aka>На земле живу одной мечтою-</aka>
-<hymn_number>2014</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
  В небеса стремлюсь своей душою,
  На земле живу одной мечтою-
@@ -29,5 +25,9 @@
  Если и преткнусь, всё равно встану.
  К небесам приду, Бог мне поможет
  И меня до цели доведёт!</lyrics>
+<title>В небеса стремлюсь своей душою</title>
 <author>ХВЕ молодёжь Лабинска</author>
+<key>D</key>
+<hymn_number>2014</hymn_number>
+<aka>На земле живу одной мечтою-</aka>
 </song>

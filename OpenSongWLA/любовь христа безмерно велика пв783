@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>783</hymn_number>
-<key>G</key>
-<title>Любовь Христа безмерно велика ПВ783</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Любовь Христа безмерно велика,
  Начала нет и льется, как река,
  И как волна лобзает берега,
@@ -30,4 +27,7 @@
  Он возлюбил и тех, кто лишь одно
  Твердили: &quot;Нет!&quot; И поднимали смех,
  А Он с любовью призывает всех.</lyrics>
+<title>Любовь Христа безмерно велика ПВ783</title>
+<key>G</key>
+<hymn_number>783</hymn_number>
 </song>

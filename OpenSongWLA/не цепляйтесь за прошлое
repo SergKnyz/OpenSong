@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>667</hymn_number>
-<key>G</key>
-<title>Не цепляйтесь за прошлое</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<author>Юлия Авструб</author>
+<hymn_number>667</hymn_number>
 <lyrics>[C1]
    Припев:
 .  G        D/F#    Em7    Em/D
@@ -66,5 +66,5 @@
  И влюбляться всей страстью
 .C       D         G
  В свою жизнь полосатую...</lyrics>
-<author>Юлия Авструб</author>
+<title>Не цепляйтесь за прошлое</title>
 </song>

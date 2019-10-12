@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Не я ли в воинстве Христа ПВ289</title>
-<key>G</key>
-<hymn_number>289</hymn_number>
 <lyrics>[V1]
  Не я ли в воинстве Христа
  Хочу всю жизнь служить?
@@ -24,4 +22,6 @@
  Тот должен в бой вступить.
  Я в бой иду! Христос со мной!
  Я - слабый - с Ним - герой.</lyrics>
+<hymn_number>289</hymn_number>
+<key>G</key>
 </song>

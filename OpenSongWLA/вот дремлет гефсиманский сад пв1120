@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1120</hymn_number>
-<title>Вот дремлет Гефсиманский сад ПВ1120</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вот дремлет Гефсиманский сад...
  Друзья Иисуса мирно спят,
  А в отдалении, один,
@@ -24,4 +21,8 @@
  Как капли крови со креста.
  И Ангел Божий тут стоял,
  И Сына Божья подкреплял.</lyrics>
+<title>Вот дремлет Гефсиманский сад ПВ1120</title>
+<key>E</key>
+<aka>Друзья Иисуса мирно спят,</aka>
+<hymn_number>1120</hymn_number>
 </song>

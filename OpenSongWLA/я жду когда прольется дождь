@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2101</hymn_number>
-<key>F</key>
-<title>Я жду когда прольется дождь</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .------Fm---------------------Cm-------------------------Db
  Я жду, когда прольётся дождь, когда прольётся дождь,
 .------------------------Eb
@@ -40,5 +37,8 @@
  Гордыня сойдёт с престола и займёт по праву трон,
 .-------Db------Eb-----------Fm
  Мессия который пронзён.</lyrics>
+<title>Я жду когда прольется дождь</title>
+<key>F</key>
 <author>Неизвестный</author>
+<hymn_number>2101</hymn_number>
 </song>

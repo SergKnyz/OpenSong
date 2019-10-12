@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<title>Земля трепещет и сверкая ПВ125</title>
-<hymn_number>125</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Земля трепещет и, сверкая,
  Катится гром из края в край:
  То Божий глас гремит, взывая:
@@ -48,4 +45,7 @@
  И воля крепкая в труде,
  Мне нужен брат, любящий брата
  И верный Мне всегда, везде&quot;.</lyrics>
+<title>Земля трепещет и сверкая ПВ125</title>
+<key>Bb</key>
+<hymn_number>125</hymn_number>
 </song>

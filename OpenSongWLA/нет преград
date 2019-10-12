@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<title>Нет преград</title>
-<hymn_number>33</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Нет преград</title>
 <lyrics>[V1]
  1 куплет:
 .H
@@ -47,5 +45,7 @@
    Хочу Господь мой! в Свободе жить ,Тебя любить , С Тобою быть,
 .                    E F#
    Хочу Господь мой Бог</lyrics>
+<hymn_number>33</hymn_number>
 <author>Алексей Каратаев, Йесус Цултуре</author>
+<key>B</key>
 </song>

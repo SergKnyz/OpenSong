@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>269</hymn_number>
-<title>Свет с небес</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>NDay</author>
 <key>C</key>
+<hymn_number>269</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .C       G/H       Em          E       Am
@@ -29,5 +29,5 @@
  Я искал, но не нашел, к Нему пришел
  Знаю ищешь ты тепла так открой свои глаза,
  Посмотри, как для тебя горит звезда</lyrics>
-<author>NDay</author>
+<title>Свет с небес</title>
 </song>

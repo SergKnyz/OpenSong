@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2622</hymn_number>
-<aka>Все, что начал, свершил.  Кровью Ты заплатил.</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Bethel Music, Бетхел Мусиц</author>
 <key>B</key>
-<title>Без конца</title>
-<author>Bethel Music, Бетхел Мусиц</author>
+<aka>Все, что начал, свершил.  Кровью Ты заплатил.</aka>
+<hymn_number>2622</hymn_number>
 <lyrics>[V1]
  Куплет 1:
  Все, что начал, свершил.
@@ -35,4 +34,5 @@
    О, мы жаждем, мы так жаждем.
    В славе, Бог, Твоей
    Оживаю, когда Ты со мной.</lyrics>
+<title>Без конца</title>
 </song>

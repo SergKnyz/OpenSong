@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>362</hymn_number>
-<key>C</key>
-<title>Я за Христом лишь следовать буду ИИПВ362</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .          C                  C7
  Я за Христом лишь следовать буду
 .           F                  C
@@ -18,4 +15,7 @@
 [V3]
  Толькона крест Христовый взираю, -
  Этоединственный мой путь.</lyrics>
+<title>Я за Христом лишь следовать буду ИИПВ362</title>
+<key>C</key>
+<hymn_number>362</hymn_number>
 </song>

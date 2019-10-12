@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Авва Отче</title>
-<key>E</key>
-<aka>Хвалю   Тебя Господь за мир что так не прост</aka>
-<hymn_number>3509</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   Em   D        G        C               H7
  Хвалю   Тебя Господь, за мир что так не прост,
@@ -37,5 +33,9 @@
  Но силы Ты даёшь мне всё продолеть.
  И в этом мире жить, как Ты любить людей
  И в радости святой хвалу Тебе воспеть.</lyrics>
+<title>Авва Отче</title>
+<key>E</key>
 <author>Ладони</author>
+<aka>Хвалю   Тебя Господь за мир что так не прост</aka>
+<hymn_number>3509</hymn_number>
 </song>

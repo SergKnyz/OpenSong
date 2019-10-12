@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Отче, я люблю присутствие Твоё</title>
-<key>C</key>
 <lyrics>[V1]
 .Am                             Dm
  Отче, я люблю присутствие Твое.
@@ -20,4 +19,5 @@
 .  F                      E   Am
    Ничего другого мне не надо.
    (C)</lyrics>
+<key>C</key>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>О храни меня Спаситель ПВ2497</title>
-<key>F</key>
-<hymn_number>2497</hymn_number>
 <lyrics>[V1]
  О, храни меня, Спаситель,
  Ибо буря настает;
@@ -26,4 +24,6 @@
  Подними Своей рукой,
  И направь на путь счастливый,
  Даровав душе покой.</lyrics>
+<hymn_number>2497</hymn_number>
+<key>F</key>
 </song>

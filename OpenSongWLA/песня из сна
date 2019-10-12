@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Песня из сна</title>
-<key>G</key>
-<hymn_number>2194</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <author>Слово Жизни Music</author>
+<hymn_number>2194</hymn_number>
 <lyrics>[V1]
  1 куплет:
 . G
@@ -28,4 +27,5 @@
  Быть в Твоем присутствии все для меня
 .      D            Em G/H C D
  Я люблю Тебя, я люблю Тебя</lyrics>
+<title>Песня из сна</title>
 </song>

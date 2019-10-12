@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Слово любовь</title>
-<hymn_number>201</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Как много в нашей жизни разных слов,
  По смыслу разных, разных по значению.
  Но лучше всех звучит слово любовь,
@@ -37,4 +35,6 @@
    Чтоб свет любви, сияющий во мгле,
    Мог каменное сердце оживить.
    Мог каменное сердце оживить.</lyrics>
+<title>Слово любовь</title>
+<hymn_number>201</hymn_number>
 </song>

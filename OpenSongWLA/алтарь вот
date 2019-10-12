@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1727</hymn_number>
-<title>Алтарь вот</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <author>Elevation Worship, Елеватион Уорсхип</author>
+<hymn_number>1727</hymn_number>
 <lyrics>[V1]
  Перевод-Давид Кругляк
 
@@ -63,4 +62,5 @@
    Пой аллилуйя.
 .              B
    Наш Христос живой.</lyrics>
+<title>Алтарь вот</title>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1019</hymn_number>
+<author>Hillsong Ukraine</author>
+<key>Ab</key>
+<title>Глаза нам открой</title>
 <lyrics>[V1]
  1 куплет:
 .   Ab              Eb       Fm     C#
@@ -34,7 +37,4 @@
  Через крест нас примирил и свет послал
  Любовь Твоя мне сильно нужна, и я
  Знать хочу все больше Тебя</lyrics>
-<title>Глаза нам открой</title>
-<key>Ab</key>
-<hymn_number>1019</hymn_number>
 </song>

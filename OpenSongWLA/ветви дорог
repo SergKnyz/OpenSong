@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ветви крутых дорог ждут нас всех впереди,</aka>
-<hymn_number>1657</hymn_number>
-<key>Bb</key>
-<title>Ветви дорог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ветви дорог</title>
 <lyrics>[V1]
  1 куплет:
 .Bbm                                    F
@@ -37,5 +34,8 @@
  Нам не страшна печаль путь приготовил Бог.
  Светлой надежды луч сердечный мир дарит,
  Солнцем сквозь гряды туч за нами Бог  глядит.</lyrics>
+<aka>Ветви крутых дорог ждут нас всех впереди,</aka>
+<hymn_number>1657</hymn_number>
+<key>Bb</key>
 <author>Крила Віри</author>
 </song>

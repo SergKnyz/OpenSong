@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>746</hymn_number>
-<key>A</key>
-<title>Молитва</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<author>Ольга Заворотнюк</author>
+<hymn_number>746</hymn_number>
 <lyrics>[V1]
  Вст.
 
@@ -65,5 +65,5 @@
  Побудь ещё Христос со мною рядом,
 .    E                       A  G A
  На голову мне руку положи,положи.</lyrics>
-<author>Ольга Заворотнюк</author>
+<title>Молитва</title>
 </song>

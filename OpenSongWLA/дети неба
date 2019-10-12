@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Дети церкви Благодать</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3020</hymn_number>
+<author>Дети церкви Благодать</author>
+<key>D</key>
+<title>Дети неба</title>
 <lyrics>[V1]
  1 куплет:
 .         D              A/C#     Hm        G    A
@@ -33,7 +36,4 @@
  Мы, за руки взявшись,
  Пусть на нашей земле всем станет теплей
  От света, что светит в нас.</lyrics>
-<title>Дети неба</title>
-<key>D</key>
-<hymn_number>3020</hymn_number>
 </song>

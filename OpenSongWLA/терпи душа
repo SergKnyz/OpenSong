@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1656</hymn_number>
-<title>Терпи душа</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Терпи душа</title>
 <lyrics>[V1]
  1 куплет:
 .   Dm
@@ -58,5 +56,7 @@
    И выжжет то, что дьявол насадил
    Чтоб стали мы душистым, свежим хлебом
    Из зерен, что Сам Бог обмолотил</lyrics>
+<hymn_number>1656</hymn_number>
+<key>D</key>
 <author>Татьяна и Инна Воробьевы</author>
 </song>

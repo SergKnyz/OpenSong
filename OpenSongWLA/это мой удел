@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1541</hymn_number>
-<title>Это мой удел</title>
-<author>Егор и Наталия Лансере</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Это мой удел</title>
 <lyrics>[V1]
  Куплет:
  Я люблю, Господь, Твой Закон.
@@ -17,4 +15,6 @@
    Часть моя.
    Твою заповедь соблюдать буду я!
    Во все дни жизни моей.</lyrics>
+<hymn_number>1541</hymn_number>
+<author>Егор и Наталия Лансере</author>
 </song>

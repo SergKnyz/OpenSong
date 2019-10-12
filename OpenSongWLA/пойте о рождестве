@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1397</hymn_number>
-<key>C</key>
-<title>Пойте о Рождестве</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <author>Алла Чепикова</author>
+<hymn_number>1397</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Cm     G7            Cm
@@ -72,4 +71,5 @@
  повторение coda
 .D  A7/C# D
  ...</lyrics>
+<title>Пойте о Рождестве</title>
 </song>

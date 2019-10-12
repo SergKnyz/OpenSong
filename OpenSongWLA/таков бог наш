@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Таков Бог наш</title>
-<hymn_number>293</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .E                G#m
  Всё, что нужно мне - Лишь благодать
@@ -51,5 +48,8 @@
    Вовеки прославлен наш Господь
 .           F#m7            C#m       A       E
    Царь и Слуга, мир целый спас - Таков Бог наш!</lyrics>
+<title>Таков Бог наш</title>
+<key>E</key>
 <author>Hillsong Ukraine</author>
+<hymn_number>293</hymn_number>
 </song>

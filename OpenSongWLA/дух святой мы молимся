@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4484</hymn_number>
-<title>Дух Святой мы молимся</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<author>Вифания</author>
+<hymn_number>4484</hymn_number>
 <lyrics>[V1]
 .G
  Дух Святой, мы молимся,
@@ -16,5 +16,5 @@
  Наполни силою Своей
 .C           G       F          D
  О, огонь небесный, зажиай сердца</lyrics>
-<author>Вифания</author>
+<title>Дух Святой мы молимся</title>
 </song>

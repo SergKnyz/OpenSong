@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<hymn_number>138</hymn_number>
+<lyrics>[V1]
 .A              D
  Илии время настало,
 .        A       E7       A
@@ -43,7 +45,5 @@
  Кто был и Кто есть
 .D          A
  И Тот, Кто грядёт.</lyrics>
-<key>A</key>
 <title>Илии время настало ИИПВ138</title>
-<hymn_number>138</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<title>Открытое небо</title>
-<hymn_number>676</hymn_number>
-<author>Галим Хусаинов</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Открытое небо</title>
 <lyrics>[V1]
  Куплет:
 .Hm        A          G
@@ -47,4 +44,7 @@
    Песнь любви Тебе поём.
 .  G         A        D
    Песнь любви Тебе поём.</lyrics>
+<hymn_number>676</hymn_number>
+<author>Галим Хусаинов</author>
+<key>B</key>
 </song>

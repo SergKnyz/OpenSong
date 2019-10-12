@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>чтоб каждый узнал цену Его любви,</title>
-<aka>Бог Сына отдал</aka>
-<hymn_number>173</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>чтоб каждый узнал цену Его любви,</title>
 <lyrics>[V1]
  1 куплет:
 .Dm          F                  Bb Gm            C
@@ -38,5 +35,8 @@
  Тебя давно Он ждёт, но время всё идёт, а ты всё далеко,
  Спеши скорей, спеши, ведь дни все сочтены,
  Царство придёт, Творец нас заберёт.</lyrics>
+<hymn_number>173</hymn_number>
+<aka>Бог Сына отдал</aka>
 <author>Божье прикосновение</author>
+<key>D</key>
 </song>

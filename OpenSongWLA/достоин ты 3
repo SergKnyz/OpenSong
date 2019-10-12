@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Достоин Ты</title>
-<hymn_number>765</hymn_number>
-<author>Ольга Марина</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Cm                   Gm
  Пришёл, чтоб мир спасти
@@ -40,4 +36,8 @@
  Я был в Его мечтах
  И вот я здесь и сердцем всем пою
  Достоин, достоин Иисус.</lyrics>
+<title>Достоин Ты</title>
+<key>C</key>
+<author>Ольга Марина</author>
+<hymn_number>765</hymn_number>
 </song>

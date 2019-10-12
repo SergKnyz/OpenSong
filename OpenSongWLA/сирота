@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Сирота</title>
-<key>E</key>
-<hymn_number>2484</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вступление:
 
 [V2]
@@ -59,5 +56,8 @@
  Ему мы скажем: «Спи, сынок родной,
 .Fm C7  Fm
  Милый мой».</lyrics>
+<title>Сирота</title>
+<key>E</key>
 <author>Сергей Демидович</author>
+<hymn_number>2484</hymn_number>
 </song>

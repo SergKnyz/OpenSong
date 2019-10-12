@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Целитель</title>
-<hymn_number>4008</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .  F
  Здесь Ты, Бог Святой,
@@ -36,5 +33,8 @@
    Иисус, Твоё Имя призываю, уповаю на Тебя, Господь.
 .  Bb          C         Dm       C
    Иисус, Твоё Имя призываю, уповаю на Тебя, Господь.</lyrics>
+<title>Целитель</title>
 <author>Новый Завет NTWorship</author>
+<key>F</key>
+<hymn_number>4008</hymn_number>
 </song>

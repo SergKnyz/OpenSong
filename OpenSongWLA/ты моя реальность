@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты моя реальность</title>
-<key>B</key>
-<hymn_number>5603</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
 <author>ХДН</author>
+<hymn_number>5603</hymn_number>
 <lyrics>[V1]
  Куплет:
 
@@ -26,4 +25,5 @@
 [B2]
    Бридж:
    О, как мы любим!</lyrics>
+<title>Ты моя реальность</title>
 </song>

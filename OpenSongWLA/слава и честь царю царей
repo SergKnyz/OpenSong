@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Цхрис Томлин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Слава и честь Царю Царей</title>
+<aka>Навеки</aka>
 <key>E</key>
-<title>Слава и честь Царю Царей</title>
+<author>Цхрис Томлин</author>
 <lyrics>[V1]
  Слава и честь Царю Царей!
  Его любовь навеки!
@@ -38,5 +39,4 @@
    Мост:
    // Его любовь навеки.
    Его любовь навеки! //</lyrics>
-<aka>Навеки</aka>
 </song>

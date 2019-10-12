@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3935</hymn_number>
-<key>Ab</key>
-<title>Кровь Христа</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Кровь Христа</title>
 <lyrics>[V1]
  1 куплет:
 . Ab       Cm         Db    Eb  Eb7         Ab
@@ -38,5 +36,7 @@
  Он есть даятель вечной жизни, Он победил и ад и смерть.
  И это всё для меня!
  И это всё для меня!</lyrics>
+<hymn_number>3935</hymn_number>
 <author>Евгений и Елена Вотчель</author>
+<key>Ab</key>
 </song>

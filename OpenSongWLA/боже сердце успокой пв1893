@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1893</hymn_number>
-<aka>Дай, чтоб, дух свой укротя,</aka>
-<title>Боже Сердце успокой ПВ1893</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Боже Сердце успокой ПВ1893</title>
 <lyrics>[V1]
  Боже! Сердце успокой;
  Дай, чтоб, дух свой укротя,
@@ -24,4 +22,6 @@
  С ней лишь радостно идет,
  Дай чтоб я в Тебе пребыл,
  Мой Отец, источник сил.</lyrics>
+<aka>Дай, чтоб, дух свой укротя</aka>
+<hymn_number>1893</hymn_number>
 </song>

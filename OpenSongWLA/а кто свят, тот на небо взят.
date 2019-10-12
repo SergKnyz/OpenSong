@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Артём Янский</author>
+<key>C</key>
+<aka>Будьте совершенны, как Он свят,</aka>
+<hymn_number>125</hymn_number>
 <lyrics>[C1]
    Припев:
 .               C               D
@@ -39,8 +42,5 @@
  Исполняйте Божий завет.
  Не судите никого из людей,
  В вере святость покажите быстрей.</lyrics>
-<hymn_number>125</hymn_number>
-<aka>Будьте совершенны, как Он свят,</aka>
-<key>C</key>
 <title>А кто свят, тот на небо взят.</title>
 </song>

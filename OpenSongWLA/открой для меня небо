@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Открой для меня небо</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>111</hymn_number>
+<author>Авана</author>
 <key>A</key>
-<hymn_number>111</hymn_number>
+<title>Открой для меня небо</title>
 <lyrics>[V1]
  1 куплет:
 .Am
@@ -53,5 +54,4 @@
  Мои грехи, мои дела
  Ведь разлучила нас с Тобой греха стена
  Небесный и Святой, небесный и Святой.</lyrics>
-<author>Авана</author>
 </song>

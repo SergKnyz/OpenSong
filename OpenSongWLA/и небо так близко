@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>И небо так близко</title>
-<hymn_number>3716</hymn_number>
-<author>Кучіяші</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .       Gm         Cm           F               Bb F/A
  Если с Господом Иисусом на земле прожить эту жизнь.
@@ -36,4 +32,8 @@
  То душою можно увидеть райский сад даже среди зимы
 .     D#                       Cm              D
  И душою чувствовать ближе ароматы вечной весны</lyrics>
+<title>И небо так близко</title>
+<author>Кучіяші</author>
+<key>G</key>
+<hymn_number>3716</hymn_number>
 </song>

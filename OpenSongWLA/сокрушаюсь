@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>583</hymn_number>
-<key>D</key>
-<title>Сокрушаюсь</title>
-<author>Спасение церковь г. Вишневое</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .         Dm                    E
  Великий мой Господь, я пред Тобой склонюсь
@@ -37,4 +33,8 @@
    Пред Тобой я склоню Свое сердце,
 .       Gm             A7
    Ты Любовью Своею излечишь!</lyrics>
+<title>Сокрушаюсь</title>
+<author>Спасение церковь г. Вишневое</author>
+<key>D</key>
+<hymn_number>583</hymn_number>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2670</hymn_number>
-<key>C</key>
-<title>Плывет красавицалуна ПВ2670</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>2670</hymn_number>
 <lyrics>[V1]
  Плывет красавица-луна,
  Всем щедро свет свой льет она.
@@ -34,4 +33,5 @@
  День предвещается зарей.
  Заветной цели день придет
  - Хвалены дух мой воспоет!</lyrics>
+<title>Плывет красавицалуна ПВ2670</title>
 </song>

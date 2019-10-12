@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В том краю у реки</title>
-<key>F</key>
-<hymn_number>6163</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
 <author>Виталий Русавук</author>
+<hymn_number>6163</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .         Fm     Db   Bbm   C    Fm
@@ -37,4 +36,5 @@
  Но нечистое в город святой не войдет,
  Кто записан у Агнца был бесповоротно,
  Небожителем станет счастливейшим тот.</lyrics>
+<title>В том краю у реки</title>
 </song>

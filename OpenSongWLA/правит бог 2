@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>40</hymn_number>
-<key>D</key>
-<title>Правит Бог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <author>Slavic New Beginnings Church</author>
+<hymn_number>40</hymn_number>
 <lyrics>[V1]
  1 Куплет:
 .D                                    Hm
@@ -31,4 +30,5 @@
    Мост:
 .  D  A/C# G/H D G A  D
    А__ллилуйя, аллил__уйя!</lyrics>
+<title>Правит Бог</title>
 </song>

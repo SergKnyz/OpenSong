@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Воздам хвалу</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Jem Worship</author>
 <key>E</key>
+<aka>Лишь в Тебе вся жизнь моя</aka>
 <hymn_number>2357</hymn_number>
 <lyrics>[V1]
  Куплет:
@@ -25,5 +26,5 @@
    Сотни раз я воздам хвалу
 .          H
    Других имен не превознесу</lyrics>
-<author>Jem Worship</author>
+<title>Воздам хвалу</title>
 </song>

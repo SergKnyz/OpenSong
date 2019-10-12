@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1750</hymn_number>
-<title>Небо</title>
-<key>A</key>
-<author>Пирс</author>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .  Am        F      G                 C  G/H
    Небо, на небо, вверх за своей мечтой,
@@ -35,4 +31,8 @@
    Где бы я не был, быть хочу с Тобой.
 .          Am                  E
    Чистое небо, быть хочу с Тобой.</lyrics>
+<title>Небо</title>
+<author>Пирс</author>
+<key>A</key>
+<hymn_number>1750</hymn_number>
 </song>

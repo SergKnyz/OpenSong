@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Hava nagila</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .B
   // Радость, на сердце радость,
 .           C
@@ -38,6 +37,7 @@
  Радуйся (радуйся)!
 .           Em
  Радуйся,Земля!</lyrics>
-<title>Радость, на сердце радость</title>
 <key>B</key>
+<aka>Hava nagila</aka>
+<title>Радость, на сердце радость</title>
 </song>

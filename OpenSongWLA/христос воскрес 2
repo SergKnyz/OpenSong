@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Anelle</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
+<author>Anelle</author>
+<hymn_number>2461</hymn_number>
 <lyrics>[V1]
 .Ab                  Eb
  1. В этот светлый день Воскресения Христа
@@ -60,7 +62,5 @@
    Жизнь мрак победила,
 .         Eb
    Будем Бога прославлять!!!</lyrics>
-<key>Ab</key>
 <title>Христос Воскрес!</title>
-<hymn_number>2461</hymn_number>
 </song>

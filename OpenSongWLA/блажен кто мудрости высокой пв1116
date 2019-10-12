@@ -1,7 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<aka>послушен сердцем и умом</aka>
+<hymn_number>1116</hymn_number>
+<lyrics>[V1]
+.Dm                A
  Блажен, кто мудрости высокой
+.Dm              A   Dm
  послушен сердцем и умом,
+.F                C
  кто и в ночной тиши глубокой,
+.Dm            A  Dm
  И при сиянии дневном
 
 [V2]
@@ -34,7 +41,4 @@
  так он для Бога сердцем зреет,
  И плод святой растет на нем.</lyrics>
 <title>Блажен кто мудрости высокой ПВ1116</title>
-<key>G</key>
-<hymn_number>1116</hymn_number>
-<aka>послушен сердцем и умом</aka>
 </song>

@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бреду один я по пути</aka>
-<hymn_number>171</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>171</hymn_number>
+<aka>Бреду один я по пути</aka>
 <key>A</key>
+<author>Алексей Каратаев</author>
 <title>Аллилуйя</title>
 <lyrics>[V1]
  1 куплет:
@@ -35,5 +36,4 @@
  Любой глагол горит огнём,
  Когда я слышу святость в Нём,
  Кричу к Нему всем сердцем - Аллилуйя.</lyrics>
-<author>Алексей Каратаев</author>
 </song>

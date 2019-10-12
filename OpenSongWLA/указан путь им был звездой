@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Указан путь им был звездой</title>
-<hymn_number>2259</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2259</hymn_number>
+<author>Божья Коровка</author>
+<title>Указан путь им был звездой</title>
 <lyrics>[V1]
  Вступление
  C H7 Em
@@ -42,5 +43,4 @@
  Он Царь царей, пред Ним скорей
  C          H7      Em
  Дверь сердца отворите.</lyrics>
-<author>Божья Коровка</author>
 </song>

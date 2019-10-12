@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Другая Реальность</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1901</hymn_number>
+<author>Другая Реальность</author>
+<key>E</key>
+<title>Лей</title>
 <lyrics>[V1]
 .B-----------(7)-----------------
  G(7) 6x
@@ -43,7 +46,4 @@
    Лишь Тебя мой Бог
 .  Am         C
    Наполняй меня Собой</lyrics>
-<title>Лей</title>
-<key>E</key>
-<hymn_number>1901</hymn_number>
 </song>

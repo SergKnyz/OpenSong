@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вот Божий Сын льёт кровь Свою</title>
-<key>Dm</key>
-<author>E. Gebhardt, P. Schaban</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .(Dm)    A   Dm             Dm/C
   Вот Божий Сын льёт кровь Свою
-.      Gm    A        Dm-A
+.      Gm    A        Dm A
  На Голгофе, на Голгофе.
 .       Dm          Dm/C
  Там душу искупил мою
@@ -16,7 +13,7 @@
  Иисус сказал: «Свершилось всё!»
 .        Dm        B
  И жизни утро началось
-.      Gm    A     Dm -D    (Dm)
+.      Gm    A     Dm  D    (Dm)
  На Голгофе, на Голгофе. //
 
 [V2]
@@ -38,4 +35,8 @@
  И в мире всем провозглашай,
  И никогда не умолкай
  О Голгофе, о Голгофе. ///</lyrics>
+<key>Dm</key>
+<author>E. Gebhardt, P. Schaban</author>
+<aka>На Голгофе, на Голгофе.</aka>
+<title>Вот Божий Сын льёт кровь Свою</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>876</hymn_number>
-<key>E</key>
-<title>Год минувший прошел ПВ876</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Год минувший прошел ПВ876</title>
 <lyrics>[V1]
  Год минувший прошел,
  Как туман над землею.
@@ -36,4 +34,6 @@
  Что с собой принесет
  Знаешь Ты, дорогой
  Мой Спаситель благой.</lyrics>
+<hymn_number>876</hymn_number>
+<key>E</key>
 </song>

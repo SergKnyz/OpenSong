@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3163</hymn_number>
-<title>Лишь любовь Твоя</title>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
 <author>Hillsong Ukraine</author>
+<hymn_number>3163</hymn_number>
 <lyrics>[V1]
  Куплет:
 .Hm7    A2        D           Em
@@ -23,4 +22,5 @@
    Лишь любовь Твоя, любовь Твоя снова вернёт надежду
 .          G2          A2      Hm7           G2  D
    Лишь любовь Твоя, любовь Твоя со мной всегда__</lyrics>
+<title>Лишь любовь Твоя</title>
 </song>

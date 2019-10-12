@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2213</hymn_number>
-<title>Ес ворошэлэм</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ес ворошэлэм</title>
 <lyrics>[V1]
 .C
  ԵՍ ՈՐՈՇԵԼ ԵՄ ՔԵԶ ՀԵՏԵՎԵԼ ՏԵՐ
@@ -28,5 +26,7 @@
  МЭХКИ АШХАРЭ ИМ ЕТЭВУМЭ
  ИИСУС КО ХАЧЭ ИМ АРЧЭВУМЭ
  ЕТ ЧЭМ ДАРНА ЧЭМ НААНДЖИ</lyrics>
+<hymn_number>2213</hymn_number>
 <author>Eлена</author>
+<key>C</key>
 </song>

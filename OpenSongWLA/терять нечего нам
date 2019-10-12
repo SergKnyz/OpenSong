@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Терять нечего нам</title>
-<hymn_number>646</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .               G                      C
  Терять нечего нам скрываться нету причин
@@ -50,5 +47,8 @@
    Никто не разлучит нас любовь не заглушить в нас
 .  Am                   G
    С Тобою нас не разлучат</lyrics>
+<title>Терять нечего нам</title>
+<key>G</key>
 <author>Hillsong Ukraine</author>
+<hymn_number>646</hymn_number>
 </song>

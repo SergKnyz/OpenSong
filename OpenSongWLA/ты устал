@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты устал</title>
-<hymn_number>440</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ты устал, отдохни,
  С полевою травою сон вдохни.
  Этот путь как нибудь,
@@ -35,4 +33,6 @@
    Но опять в перёд зовут небеса.
    Вновь пройдешь тернистой тропой
    И увидишь поле пристанище верным....</lyrics>
+<title>Ты устал</title>
+<hymn_number>440</hymn_number>
 </song>

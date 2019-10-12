@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус к Тебе иду</title>
-<key>A</key>
-<hymn_number>88</hymn_number>
-<author>Божье прикосновение</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .      A        E/G#        F#m              A
  Иней белый на берёзе, под ногами снег скрипит,
@@ -30,4 +26,8 @@
  Нам Спаситель очень нужен в наступающем году.
  В этот праздник новогодний веселиться может тот,
  В сердце чьём любовь Господня и богатый веры плод.</lyrics>
+<title>Иисус к Тебе иду</title>
+<key>A</key>
+<author>Божье прикосновение</author>
+<hymn_number>88</hymn_number>
 </song>

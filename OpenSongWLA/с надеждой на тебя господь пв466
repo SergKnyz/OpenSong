@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>С надеждой на Тебя Господь ПВ466</title>
-<hymn_number>466</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  С надеждой на Тебя, Господь,
  Я в труд дневной иду.
  Ты укрепи мне дух и плоть
@@ -18,4 +15,7 @@
  Я сердцем и душой,
  Тебе все в жертву приносить,
  Что мне дано Тобой!</lyrics>
+<title>С надеждой на Тебя Господь ПВ466</title>
+<key>G</key>
+<hymn_number>466</hymn_number>
 </song>

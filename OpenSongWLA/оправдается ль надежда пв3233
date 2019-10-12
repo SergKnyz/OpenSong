@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3233</hymn_number>
-<key>G</key>
-<title>Оправдается ль надежда ПВ3233</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<hymn_number>3233</hymn_number>
 <lyrics>[V1]
  Оправдается ль надежда
  вечной жизни в небесах,
@@ -45,4 +44,5 @@
  Радость там не прекратиться,
  нас победный ждёт венец,
  как надеялись мы здесь.</lyrics>
+<title>Оправдается ль надежда ПВ3233</title>
 </song>

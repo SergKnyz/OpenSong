@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Михаил Мантай</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<author>Михаил Мантай</author>
+<hymn_number>4607</hymn_number>
 <lyrics>[V1]
  Музыка Елены Девиной, слова Дианы Лукьянец.
 
@@ -64,7 +66,5 @@
  Наверное, большего счастья
 .     G      A7       D
  На свете не может и быть.</lyrics>
-<hymn_number>4607</hymn_number>
 <title>Душа торжествует о Боге</title>
-<key>C</key>
 </song>

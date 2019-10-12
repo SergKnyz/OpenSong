@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3170</hymn_number>
-<title>Ты Духом Бог Святым ПВ3170</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты Духом Бог Святым ПВ3170</title>
 <lyrics>[V1]
  Ты Духом, Бог, Святым
  запечатли меня.
@@ -30,4 +28,6 @@
  я заключу союз,
  чтоб с каждым днём служить
  верней всем сердцем, мой Иисус.</lyrics>
+<hymn_number>3170</hymn_number>
+<key>C</key>
 </song>

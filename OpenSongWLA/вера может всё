@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Вера может всё</title>
-<aka>У каждой битвы есть причина</aka>
-<hymn_number>435</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .E              A       H7
  У каждой битвы есть причина
@@ -46,5 +42,9 @@
  Отцом небесным от начала
  И Он её конечно слышит
  Когда она к нему взывала</lyrics>
+<title>Вера может всё</title>
 <author>Алексей Грудинский</author>
+<key>E</key>
+<aka>У каждой битвы есть причина</aka>
+<hymn_number>435</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2587</hymn_number>
-<key>A</key>
-<title>Спряталось солнце за горы ПВ2587</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Спряталось солнце за горы,
  Стынет темнеющий лес.
  Месяц серебряным взором
@@ -24,4 +21,7 @@
  Всё примиряя в себе.
  Дай жить, люба и прощая,
  Боке, на этой земле!</lyrics>
+<title>Спряталось солнце за горы ПВ2587</title>
+<key>A</key>
+<hymn_number>2587</hymn_number>
 </song>

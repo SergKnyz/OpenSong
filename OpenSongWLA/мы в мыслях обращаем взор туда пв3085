@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мы в мыслях обращаем взор туда ПВ3085</title>
-<key>A</key>
-<hymn_number>3085</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Мы в мыслях обращаем взор туда,
  где Сын, терпя позор,
  готовился Свой путь свершить
@@ -42,4 +39,7 @@
  и нам так делать завешал:
  «Блаженны вы не в знании,
  а только в послушанию».</lyrics>
+<title>Мы в мыслях обращаем взор туда ПВ3085</title>
+<key>A</key>
+<hymn_number>3085</hymn_number>
 </song>

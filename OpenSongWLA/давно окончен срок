@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Давно окончен срок</title>
-<hymn_number>3443</hymn_number>
-<author>Александр Грайцер</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Давно отмерен срок
  Сомнений и тревог,
  В конце моих дорог
@@ -70,4 +67,7 @@
  Ликуя и скорбя,
  В путь снаряжаю я
  Крылатые суда</lyrics>
+<title>Давно окончен срок</title>
+<author>Александр Грайцер</author>
+<hymn_number>3443</hymn_number>
 </song>

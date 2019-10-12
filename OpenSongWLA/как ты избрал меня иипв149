@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Как Ты избрал меня ИИПВ149</title>
-<key>D</key>
-<hymn_number>149</hymn_number>
 <lyrics>[V1]
 . D         Bm
  Как Ты избрал меня
@@ -32,4 +30,6 @@
  Прекрасналюбовь Его
  Имилость Его щедра,
  Язнаю навек, что прощён.</lyrics>
+<hymn_number>149</hymn_number>
+<key>D</key>
 </song>

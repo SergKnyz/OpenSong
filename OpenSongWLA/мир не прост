@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>Мир не прост</title>
-<hymn_number>818</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мир не прост</title>
 <lyrics>[V1]
  1 куплет:
 .F#m Hm  F#m   Hm  F#m        Hm  F#m Hm
@@ -30,5 +28,7 @@
 [V4]
  Мир не прост...
  Мир не прост...</lyrics>
+<hymn_number>818</hymn_number>
+<key>F#</key>
 <author>Сергей Брикса</author>
 </song>

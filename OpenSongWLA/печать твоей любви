@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Печать Твоей любви</title>
-<key>C#m</key>
-<hymn_number>472</hymn_number>
-<author>Слово Жизни Music</author>
 <lyrics>[C1]
    Припев:
 .  C#m                    A
@@ -39,4 +36,7 @@
    И в ночной тишине
    Лишь смотреть на Тебя хочу,
    Только петь Тебе.</lyrics>
+<hymn_number>472</hymn_number>
+<author>Слово Жизни Music</author>
+<key>C#m</key>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>249</hymn_number>
-<key>Am</key>
-<title>Поднимем знамя любви ИИПВ249</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Am</key>
+<hymn_number>249</hymn_number>
 <lyrics>[V1]
 .   Am     G      Am
  Поднимем знамя любви, Аллилуйя!
@@ -26,4 +25,5 @@
  УмерОн, но воскрес.
  СокрушитьОн власть сатаны пришёл,
  Имяславное прославляй.</lyrics>
+<title>Поднимем знамя любви ИИПВ249</title>
 </song>

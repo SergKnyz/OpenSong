@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1880</hymn_number>
-<title>Вот ночь уж наступила ПВ1880</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Вот ночь уж наступила ПВ1880</title>
 <lyrics>[V1]
  Вот, ночь уж наступила
  И скрылось дня светило,
@@ -47,4 +46,5 @@
  О, Бог превознесенный!
  Приблизь к душе спасенной
  Твое блаженство и покой.</lyrics>
+<hymn_number>1880</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>647</hymn_number>
-<title>Держи меня в руках</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Держи меня в руках</title>
 <lyrics>[V1]
 .C#m7           A               E H
  Держи меня в руках и не отпускай,
@@ -36,4 +34,6 @@
    Всегда пою Тебе, мой Бог
 .  C#m7                  H                      A
    Ведь быть хочу всю жизнь в присутствии Твоём.</lyrics>
+<hymn_number>647</hymn_number>
+<key>E</key>
 </song>

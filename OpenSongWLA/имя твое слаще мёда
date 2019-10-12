@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Имя Твое слаще мёда</title>
-<key>E</key>
-<hymn_number>1191</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em                    Am   Hm
  Боже, сделай сердце моё   мягким
 .Em                    Am  Hm
@@ -22,5 +19,8 @@
  Имя Твоё слаще мёда, имя Твоё слаще мёда
 .    Am
  Положу я как печать, положу я как печать</lyrics>
+<title>Имя Твое слаще мёда</title>
+<key>E</key>
 <author>Новое Поколение церковь Новомосковск</author>
+<hymn_number>1191</hymn_number>
 </song>

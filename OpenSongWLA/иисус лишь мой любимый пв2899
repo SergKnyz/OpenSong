@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2899</hymn_number>
-<key>Eb</key>
-<title>Иисус лишь мой любимый ПВ2899</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус лишь мой любимый ПВ2899</title>
 <lyrics>[V1]
  Иисус лишь мой любимый
  знает боль мой души,
@@ -30,4 +28,6 @@
  душу сбережёт мою
  в искушениях и в смерти,
  если заповеди чту.</lyrics>
+<hymn_number>2899</hymn_number>
+<key>Eb</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>47</hymn_number>
-<key>Em</key>
-<title>Прости меня, хоть не прощенья ИИПВ270 ПВ47</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Прости меня, хоть не прощенья ИИПВ270 ПВ47</title>
 <lyrics>[V1]
 .     Em
  Прости меня, хоть не прощенья,
@@ -40,4 +38,6 @@
  Не отойду, пока душой
  Я не приму спасенья знаков,
  Пока не принят я Тобой!</lyrics>
+<hymn_number>47</hymn_number>
+<key>Em</key>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Твой взгляд</title>
-<hymn_number>4009</hymn_number>
-<author>Новый Завет NTWorship</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .     E                          H
  Как царь Давид хочу искренним быть.
@@ -33,4 +29,8 @@
    Что сегодня я смогу принести Тебе, Иисус?
 .  A                       E
    Что сегодня будет моим даром?</lyrics>
+<title>Твой взгляд</title>
+<key>E</key>
+<author>Новый Завет NTWorship</author>
+<hymn_number>4009</hymn_number>
 </song>

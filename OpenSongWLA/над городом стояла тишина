@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2062</hymn_number>
-<title>Над городом стояла тишина</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Над городом стояла тишина,
  Сгустился мрак холодной тени ночи.
  Уснула Иудейская земля,
@@ -32,4 +30,6 @@
  Сгустился мрак в холодной тени ночи
  Уснула иудейская земля
  И только в Бога не сомкнулись очи</lyrics>
+<title>Над городом стояла тишина</title>
+<hymn_number>2062</hymn_number>
 </song>

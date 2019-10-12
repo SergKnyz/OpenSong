@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Не спит петух</title>
-<hymn_number>3009</hymn_number>
-<author>Евгений Косенков</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
  (Cm)    Fm  G               Cm                      Fm G              Cm
  Села ночь чёрным вороном, зло летит во все стороны
@@ -37,4 +34,7 @@
  Если все ... я не побоюсь, если все ... я не отрекусь,
  Если все ... вот твой взгляд потух...
  Помни брат, мой брат, что не спит петух, что не спит петух, что не спит петух</lyrics>
+<title>Не спит петух</title>
+<author>Евгений Косенков</author>
+<hymn_number>3009</hymn_number>
 </song>

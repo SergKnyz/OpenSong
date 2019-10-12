@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>261</hymn_number>
-<title>Придите и поклонимся ИИПВ261</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Придите и поклонимся ИИПВ261</title>
 <lyrics>[V1]
 .D.       G          D
  Придите и поклонимся,
@@ -18,4 +16,6 @@
  И мы есть народ Его паствы.
 .      G    A7 F#mBm      G    A7   D
  Мы - овцы рук Его, мы - овцы рук Его.</lyrics>
+<hymn_number>261</hymn_number>
+<key>D</key>
 </song>

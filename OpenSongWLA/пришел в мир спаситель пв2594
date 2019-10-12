@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2594</hymn_number>
-<key>Eb</key>
-<title>Пришел в мир Спаситель ПВ2594</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
+<hymn_number>2594</hymn_number>
 <lyrics>[V1]
  Пришел в мир Спаситель,
  Дал людям свободу.
@@ -29,4 +28,5 @@
  Приди к нему скорей,
  Спеши, не опоздай!
  Не опоздай, не опаздай!</lyrics>
+<title>Пришел в мир Спаситель ПВ2594</title>
 </song>

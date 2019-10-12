@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Возвышается любовь  Буря милости со мной</aka>
-<hymn_number>1729</hymn_number>
-<title>Буря милости</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Буря милости</title>
 <lyrics>[V1]
  Перевод: Анна Ковалевская и Давид Кругляк
 
@@ -25,5 +23,7 @@
    Мой грех забрал
    Любовью спас меня
    Твоя любовь как шторм</lyrics>
+<hymn_number>1729</hymn_number>
+<aka>Возвышается любовь  Буря милости со мной</aka>
 <author>Hillsong Young &amp; Free, Хиллсонг Ыоунг &amp; Фрее</author>
 </song>

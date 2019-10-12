@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Анна Поночевная</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<author>Анна Поночевная</author>
+<hymn_number>3188</hymn_number>
 <lyrics>[C1]
    Припев:
 .        Dm        C            F
@@ -29,6 +31,4 @@
 .Dm  Bb    Gm           Bb
  Святой,  кровью Своей омой.</lyrics>
 <title>Достаточно</title>
-<key>D</key>
-<hymn_number>3188</hymn_number>
 </song>

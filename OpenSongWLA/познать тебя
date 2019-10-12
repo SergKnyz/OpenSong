@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Познать Тебя</title>
-<author>Хиллсонг, Хиллсонг Унитед</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Познать Тебя</title>
 <lyrics>[V1]
 .Bm               G          D
  Ценой крови Христос меня купил
@@ -31,4 +29,6 @@
    Взошёл на крест и за меня Ты был распят
 .       D        A     Bm            G
    И любил до конца людей, что недостойны</lyrics>
+<key>D</key>
+<author>Хиллсонг, Хиллсонг Унитед</author>
 </song>

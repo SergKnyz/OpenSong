@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2381</hymn_number>
-<key>D</key>
-<title>Хотел бы я в саду ПВ2381</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>2381</hymn_number>
 <lyrics>[V1]
  Хотел бы я в саду
  Твоем быть плодоносным деревцем,
@@ -30,4 +29,5 @@
  и встречу жизни я весну,
  Я знаю, вождь ведет меня
  в свой светлый рай - на небеса.</lyrics>
+<title>Хотел бы я в саду ПВ2381</title>
 </song>

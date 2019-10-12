@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2593</hymn_number>
-<title>Чудо</title>
-<key>B</key>
-<author>IFound Worship, Хиллсонг Унитед</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .                  H
  Кто же видел это чудо? Приоткрыв слегка глаза
@@ -90,4 +86,8 @@
  Ты природу сделал чудом
  Над природой ты царишь
  Ты природу сделал чудом</lyrics>
+<title>Чудо</title>
+<key>B</key>
+<author>IFound Worship, Хиллсонг Унитед</author>
+<hymn_number>2593</hymn_number>
 </song>

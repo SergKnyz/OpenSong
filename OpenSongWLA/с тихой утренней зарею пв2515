@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2515</hymn_number>
-<key>G</key>
-<title>С тихой утренней зарею ПВ2515</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  С тихой утренней зарею
  Все творены, все живое,
  Пробудясь, поет как может:
@@ -24,4 +21,7 @@
  Хоть вчера цвела их сила,
  Нас же поднял Бог с постели,
  Чтоб Ему кваленье пели.</lyrics>
+<title>С тихой утренней зарею ПВ2515</title>
+<key>G</key>
+<hymn_number>2515</hymn_number>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Есть радость в том чтоб люди ненавидели ПВ815</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <hymn_number>815</hymn_number>
 <lyrics>[V1]
  Есть радость в том, чтоб люди ненавидели,
@@ -36,4 +35,5 @@
  Не слыша дальних бурь,
  И серафимов крылья белоснежные
  Умчат тебя в лазурь.</lyrics>
+<title>Есть радость в том чтоб люди ненавидели ПВ815</title>
 </song>

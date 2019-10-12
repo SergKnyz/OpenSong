@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Превозносим</title>
+<key>Am</key>
+<author>Александр Соколов</author>
+<lyrics>[V1]
 .Am
  Великий Бог, в Твоё присутствие хотим,
 .Dm
@@ -36,7 +39,4 @@
    Мы превозносим Тебя!
 .  F                  E
    Святой Господь! //</lyrics>
-<author>Александр Соколов</author>
-<title>Превозносим</title>
-<key>Am</key>
 </song>

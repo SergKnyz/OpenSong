@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>581</hymn_number>
-<title>Не убоюсь я</title>
-<key>A</key>
-<author>Спасение церковь г. Вишневое</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Не убоюсь я</title>
 <lyrics>[V1]
  1 куплет:
 .Am   Fmaj7 Am  Fmaj7
@@ -30,4 +27,7 @@
  Наполняешь мою душу, наполняешь вновь и вновь, вновь и вновь!
  Я склоню свои колени и Творца благословлю!
  Об одном Тебя прошу я: Ты прими мою хвалу, мою хвалу!</lyrics>
+<hymn_number>581</hymn_number>
+<author>Спасение церковь г. Вишневое</author>
+<key>A</key>
 </song>

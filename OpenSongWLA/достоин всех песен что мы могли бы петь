@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3377</hymn_number>
-<aka>Буду строить жизнь в Твоей любви</aka>
-<title>Достоин всех песен что мы могли бы петь</title>
-<key>G</key>
-<author>Пассион</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G                 C/G
  Достоин всех песен что мы могли бы петь
@@ -50,4 +45,9 @@
    Буду доверять я лишь Тебе
 .          G/H
    Ты мир даешь в сознание</lyrics>
+<title>Достоин всех песен что мы могли бы петь</title>
+<key>G</key>
+<author>Пассион</author>
+<hymn_number>3377</hymn_number>
+<aka>Буду строить жизнь в Твоей любви</aka>
 </song>

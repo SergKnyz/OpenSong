@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>72</hymn_number>
-<key>G</key>
-<title>О Господи склонись ко мне ПВ72</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>О Господи склонись ко мне ПВ72</title>
 <lyrics>[V1]
  О Господи, склонись ко мне,
  Внемли моей мольбе!
@@ -42,4 +40,6 @@
  Тогда, прославленный Тобой,
  Найду покой в Тебе.
  Найду покой в Тебе.</lyrics>
+<hymn_number>72</hymn_number>
+<key>G</key>
 </song>

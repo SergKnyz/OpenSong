@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3458</hymn_number>
-<key>G</key>
-<title>Люблю Господь Твой дом ПВ248</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<hymn_number>3458</hymn_number>
 <lyrics>[V1]
  Люблю, Господь, Твой дом
  - Чертог любви Твоей;
@@ -30,4 +29,5 @@
  С ней славу я Твою;
  С ней буду петь я пред Тобой
  Спасенною душой.</lyrics>
+<title>Люблю Господь Твой дом ПВ248</title>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>335</hymn_number>
+<author>Слово Жизни Music</author>
+<key>G#m</key>
+<title>Что могу сказать Тебе</title>
 <lyrics>[V1]
  Куплет:
 .G#m                 H       F#        C#m
@@ -34,7 +37,4 @@
    Ты так рядом со мной ближе сердца голос Твой
 .  E   G#m    F#
    Я Люблю Тебя</lyrics>
-<hymn_number>335</hymn_number>
-<key>G#m</key>
-<title>Что могу сказать Тебе</title>
 </song>

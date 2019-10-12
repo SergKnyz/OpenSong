@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>252</hymn_number>
-<key>A</key>
-<title>Не храм не золотое зданье ПВ252</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<hymn_number>252</hymn_number>
 <lyrics>[V1]
  Не храм, не золотое зданье,
  Не круг отобранных друзей, -
@@ -60,4 +59,5 @@
  Хотел бы в ней я быть слугой,
  Но слуг там нет. Прими как сына
  Меня в ту Церковь, Бог благой!</lyrics>
+<title>Не храм не золотое зданье ПВ252</title>
 </song>

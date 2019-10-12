@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бесподобная живая</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
 <hymn_number>2513</hymn_number>
-<key>Bb</key>
-<title>Божья вечная любовь ПВ2513</title>
+<aka>Бесподобная живая</aka>
 <lyrics>[V1]
 .G         D    G
  Бесподобная, живая,
@@ -49,4 +48,5 @@
  Приведи в небесный дом,
  Там любовь Твою прославим
  Сладкозвучнейшим псалмом.</lyrics>
+<title>Божья вечная любовь ПВ2513</title>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1066</hymn_number>
-<title>Хотя бы на миг</title>
-<key>A</key>
-<author>Кучіяші</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 . Am                       G        Am
  Жизнь на земле очень трудна и суетна,
@@ -44,4 +40,8 @@
    Увижу Того, Того, кто сердцу мил...
    Увижу Того, Того, кто сердцу мил...
    Увижу Того, Того, кто сердцу мил...</lyrics>
+<title>Хотя бы на миг</title>
+<author>Кучіяші</author>
+<key>A</key>
+<hymn_number>1066</hymn_number>
 </song>

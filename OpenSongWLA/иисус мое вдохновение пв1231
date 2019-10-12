@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1231</hymn_number>
-<key>G</key>
-<title>Иисус мое вдохновение ПВ1231</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<hymn_number>1231</hymn_number>
 <lyrics>[V1]
  Иисус - мое вдохновение,
  В золотых лучах откровение,
@@ -30,4 +29,5 @@
  В Иисусе сила спасения,
  Над землей весенняя радуга,
  Иисус, над нами Твоя рука!</lyrics>
+<title>Иисус мое вдохновение ПВ1231</title>
 </song>

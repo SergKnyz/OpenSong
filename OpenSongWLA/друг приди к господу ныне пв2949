@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2949</hymn_number>
-<key>C</key>
-<title>Друг приди к Господу ныне ПВ2949</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>2949</hymn_number>
 <lyrics>[V1]
  Друг, приди к Господу ныне,
  хочет Он мир тебе дать
@@ -37,4 +36,5 @@
  встретив беду,
  хоть ненавидим врагами.
  Верным останься Христу.</lyrics>
+<title>Друг приди к Господу ныне ПВ2949</title>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>834</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Дом Хлеба</author>
 <key>B</key>
-<title>Я сокрыт в Тебе Бог</title>
-<author>Дом Хлеба</author>
+<hymn_number>834</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Hm   Gsus2           D      A/C#
@@ -57,4 +56,5 @@
 [B1]
 .  Hm   Gsus2           D      A/C#    Hm
    Я сокрыт в Тебе, Бог, вне Тебя меня нету</lyrics>
+<title>Я сокрыт в Тебе Бог</title>
 </song>

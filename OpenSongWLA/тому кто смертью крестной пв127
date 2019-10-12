@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Тому Кто смертью крестной ПВ127</title>
-<hymn_number>127</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Тому, Кто смертью крестной
  И кровию нас спас,
  Споем благодаренье!
@@ -36,4 +33,7 @@
  Его увидим мы,
  Вовеки не умолкнет
  Песнь сладостной хвалы.</lyrics>
+<title>Тому Кто смертью крестной ПВ127</title>
+<key>C</key>
+<hymn_number>127</hymn_number>
 </song>

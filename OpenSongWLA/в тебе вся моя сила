@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3205</hymn_number>
-<key>G</key>
-<title>В Тебе вся моя сила</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>В Тебе вся моя сила</title>
 <lyrics>[V1]
 .G Em
  Все, даже о чем мечтаю,
@@ -20,5 +18,7 @@
  Л__юбов__ью своей изменил меня Господь.
 .C  D G
  О__тдаю жизнь Тебе мою!</lyrics>
+<hymn_number>3205</hymn_number>
 <author>Новое поколение</author>
+<key>G</key>
 </song>

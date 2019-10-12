@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Дмитрий Светлый</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вступление:
 
 [V2]
@@ -41,8 +40,9 @@
  К жизни любовь в наследство оставила мать,
  Удача за то что не скис в награду,
  Для чего был рожден на свет узнать???</lyrics>
-<key>A</key>
 <title>Бродяга</title>
-<hymn_number>4057</hymn_number>
+<key>A</key>
+<author>Дмитрий Светлый</author>
 <aka>Обречена с рождения плоть, бессмертна твоя душа.</aka>
+<hymn_number>4057</hymn_number>
 </song>

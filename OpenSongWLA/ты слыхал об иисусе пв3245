@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<hymn_number>3245</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3245</hymn_number>
 <lyrics>[V1]
  Ты слыхал об Иисусе,
  как на землю Он пришёл,
@@ -46,5 +45,6 @@
  и ты будешь исцелён.
  Помощь для тебя готова,
  ведь сегодня тот же Он.</lyrics>
+<key>D</key>
 <title>Ты слыхал об Иисусе ПВ3245</title>
 </song>

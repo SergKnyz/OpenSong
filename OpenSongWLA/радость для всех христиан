@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Спасение церковь г. Вишневое</author>
-<hymn_number>554</hymn_number>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .   H       E                H      E
    Дух Святой - Утешитель! Дух Святой - Дух Свободы!
@@ -22,5 +19,8 @@
  С Духом Божьим идём, везде мы славим Царя Иисуса!
  Он наполняет сердца нам огнём!
  К Небесному Дому все вместе стремимся!</lyrics>
+<hymn_number>554</hymn_number>
+<author>Спасение церковь г. Вишневое</author>
+<key>B</key>
 <title>Радость для всех христиан</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Милана</author>
-<hymn_number>1420</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .        Cm       Bb   G#
  Через крест к душе живой,
@@ -48,5 +45,8 @@
  Пусть  хвала  течёт  из  сердца  моего,
  Пусть  хвала  течёт  из  сердца  моего,
  Прямо  к  престолу, к  Богу  Святому!</lyrics>
+<hymn_number>1420</hymn_number>
+<author>Милана</author>
+<key>C</key>
 <title>Через крест к душе живой</title>
 </song>

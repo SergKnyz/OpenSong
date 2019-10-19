@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Дом</title>
+<key>G</key>
+<author>Роман Касевич, Бетхел Мусиц</author>
+<hymn_number>1686</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .G
  Теперь лишь на любви
@@ -62,8 +66,4 @@
    Любимый Иисус
 .              Hm    G D
    Лишь Ты - моя любовь</lyrics>
-<title>Дом</title>
-<key>G</key>
-<author>Роман Касевич, Бетхел Мусиц</author>
-<hymn_number>1686</hymn_number>
 </song>

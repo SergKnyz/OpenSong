@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>В небесах в святых просторах хоры ангелов поют ПВ2977</title>
+<key>Db</key>
+<hymn_number>2977</hymn_number>
 <lyrics>[V1]
  В небесах, в святых просторах
  хоры ангелов поют;
@@ -29,6 +31,4 @@
  мы все глубже познаем,
  со спасенными мы вместе
  песни Господу поем.</lyrics>
-<hymn_number>2977</hymn_number>
-<key>Db</key>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>65</hymn_number>
-<author>Александр Грайцер</author>
-<title>Тайна</title>
 <lyrics>[V1]
  В каждом из людей
  Тайна есть одна.
@@ -60,4 +58,6 @@
  На руках носил
  И всегда тебя
  Любил, любил, любил.&quot;</lyrics>
+<title>Тайна</title>
+<author>Александр Грайцер</author>
 </song>

@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1217</hymn_number>
-<key>B</key>
-<author>Слово Жизни Music</author>
-<title>Надежда мира</title>
 <lyrics>[V1]
  1 куплет:
 .Hm                     G      D                  A
@@ -47,4 +44,7 @@
    Будем вместе мы сиять! Будем вместе мы сиять!
 .          D                    A
    Будем вместе мы сиять для Тебя!</lyrics>
+<key>B</key>
+<title>Надежда мира</title>
+<author>Слово Жизни Music</author>
 </song>

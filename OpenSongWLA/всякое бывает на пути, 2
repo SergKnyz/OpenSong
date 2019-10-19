@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2799</hymn_number>
-<aka>В жизни есть и трудные минуты</aka>
-<author>Sharikov Family Band</author>
-<key>E</key>
-<title>Всякое бывает на пути,</title>
 <lyrics>[V1]
  1 куплет:
 .Em              Am      Em
@@ -46,4 +42,8 @@
  И Господь наполнит миром душу,
 .Am        H        Em   H
  И напомнит небо впереди.</lyrics>
+<aka>В жизни есть и трудные минуты</aka>
+<title>Всякое бывает на пути,</title>
+<key>E</key>
+<author>Sharikov Family Band</author>
 </song>

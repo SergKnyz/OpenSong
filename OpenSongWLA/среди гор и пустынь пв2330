@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<hymn_number>2330</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2330</hymn_number>
 <lyrics>[V1]
  Среди гор и пустынь
  Узкий путь наш проходит.
@@ -39,5 +38,6 @@
  Нашу Родину чувством высоким,
  чтоб, достигнув ее,
  Всем нам встретиться в ней!</lyrics>
+<key>A</key>
 <title>Среди гор и пустынь ПВ2330</title>
 </song>

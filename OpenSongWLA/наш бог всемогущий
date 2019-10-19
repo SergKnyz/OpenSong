@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1970</hymn_number>
-<key>E</key>
-<author>Reallife band, Рицх Муллинс</author>
 <copyright>1988 БМГ Сонгс, Инц.</copyright>
-<title>Наш Бог Всемогущий</title>
 <lyrics>[V1]
  Куплет:
 .Em
@@ -35,4 +32,7 @@
    Наш Бог Всемогущий царствует во славе Своей.
 .        C            G            Am        Hm     C
    Наш Бог - дивный, сильный, любящий, Всемогущий Бог.</lyrics>
+<title>Наш Бог Всемогущий</title>
+<key>E</key>
+<author>Reallife band, Рицх Муллинс</author>
 </song>

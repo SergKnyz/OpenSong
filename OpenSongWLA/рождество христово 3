@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Тропинка</author>
-<key>G</key>
-<hymn_number>4130</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   G
  Укрыла Зима белоснежным
@@ -29,5 +26,8 @@
  Всем нам о рожденье Христа,
  На небе ночном пусть сияет
  Рождественская звезда.</lyrics>
+<hymn_number>4130</hymn_number>
+<author>Тропинка</author>
 <title>Рождество Христово</title>
+<key>G</key>
 </song>

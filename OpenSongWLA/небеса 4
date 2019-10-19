@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Кристина Райлян</author>
-<hymn_number>3799</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3799</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .   Hm
@@ -52,5 +50,7 @@
  Исчезнет вдруг
  Как будто не было в помине меня на жизненной картине,
  Замкнулся круг,  ЛИШЬ НЕБЕСА!</lyrics>
+<key>B</key>
 <title>Небеса</title>
+<author>Кристина Райлян</author>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3696</hymn_number>
-<key>C</key>
-<author>Евгений Косенков</author>
-<title>777</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Cm
  Вчера железо я ковал
@@ -43,4 +39,8 @@
  // Господь я так Тебя люблю
  И о любви теперь пою
  И жду, Господь, когда Ты вновь позвонишь мне 2р. //</lyrics>
+<hymn_number>3696</hymn_number>
+<author>Евгений Косенков</author>
+<title>777</title>
+<key>C</key>
 </song>

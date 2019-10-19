@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<hymn_number>80</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О Боже, Боже, дай мне силы
  За ближних душу полагать
  И в сердце вечно до могилы
@@ -39,5 +37,7 @@
  С терпеньем, с кротостью сносить.
  И помоги врагов наветы
  С терпеньем, с кротостью сносить.</lyrics>
+<hymn_number>80</hymn_number>
 <title>О Боже Боже дай мне силы ПВ80</title>
+<key>E</key>
 </song>

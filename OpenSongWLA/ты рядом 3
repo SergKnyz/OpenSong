@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Ты рядом</title>
+<author>Матфей Шариков</author>
+<hymn_number>4064</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .  Em                D
  На сердце тревога, мысли внутри
@@ -44,8 +48,4 @@
    И когда трудно меня доведёт
 .    Em       D    C
    Твоя рука, Господи</lyrics>
-<title>Ты рядом</title>
-<key>E</key>
-<author>Матфей Шариков</author>
-<hymn_number>4064</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>755</hymn_number>
-<key>G</key>
-<title>Ты был юношей Спаситель ПВ755</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ты был юношей, Спаситель,
  Радовал сердца,
  Ты ходил всегда в завете
@@ -36,4 +33,7 @@
  Слово жизни возвещать;
  Дай, чтоб каждый мира житель
  Мог Твой голос услыхать.</lyrics>
+<hymn_number>755</hymn_number>
+<key>G</key>
+<title>Ты был юношей Спаситель ПВ755</title>
 </song>

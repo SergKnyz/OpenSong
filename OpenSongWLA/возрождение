@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>То, что делал я, никому не нужно в одиночестве я словно грузну</aka>
-<hymn_number>1314</hymn_number>
-<key>C</key>
-<author>Imprintband</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
 <title>Возрождение</title>
+<key>C</key>
+<aka>То, что делал я, никому не нужно в одиночестве я словно грузну</aka>
 <lyrics>[V1]
  1 куплет:
 .       Cm
@@ -42,4 +41,5 @@
    О, как же велика цена
 .  Fm                      Cm
    Чтобы спасти, Иисус, меня</lyrics>
+<hymn_number>1314</hymn_number>
 </song>

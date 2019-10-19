@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>528</hymn_number>
-<author>Hillsong Ukraine</author>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <title>Пробуждение</title>
+<key>D</key>
 <lyrics>[V1]
  1 куплет:
 .         D                 A
@@ -51,4 +50,5 @@
    Словно солнце, что взойдёт проснись душа, проснись душа и пой
 .                 G                  Hm              D           A
    Ты один в нас жизнь вдохнёшь проснись душа, проснись душа и пой</lyrics>
+<hymn_number>528</hymn_number>
 </song>

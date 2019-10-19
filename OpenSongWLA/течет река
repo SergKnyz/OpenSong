@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3123</hymn_number>
-<key>A</key>
-<author>Маханаим</author>
-<title>Течет река</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    A              C#        F#m  E
  Господь! Даруй Ты мне слова такие,
@@ -36,4 +32,8 @@
  Не восприняв венец терновый мне дадут
  Молитву чистую, святую:
  Прости им, Отче, - пусть уста произнесут.</lyrics>
+<hymn_number>3123</hymn_number>
+<author>Маханаим</author>
+<key>A</key>
+<title>Течет река</title>
 </song>

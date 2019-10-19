@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Да Он воскрес</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1950</hymn_number>
 <lyrics>[C1]
    Припев:
 .         Dm              Gm
@@ -33,7 +33,7 @@
  О Спасителе всей земли.
  Он воскрес на третий день,
  Славьте Бога все уста!</lyrics>
-<hymn_number>1950</hymn_number>
+<title>Да Он воскрес</title>
 <key>D</key>
 <author>Валерия Горошко</author>
 </song>

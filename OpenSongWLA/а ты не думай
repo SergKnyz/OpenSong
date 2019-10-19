@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Неизвестный</author>
-<hymn_number>2045</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
+<key>E</key>
+<title>А ты не думай</title>
 <lyrics>[V1]
 .E                          C#m
  А ты не думай, что тебе тяжело,
@@ -27,5 +27,5 @@
  Помни: и обиды все прости.
  Помни, что другому тяжело.
  Подставь ему своё плечо.</lyrics>
-<title>А ты не думай</title>
+<hymn_number>2045</hymn_number>
 </song>

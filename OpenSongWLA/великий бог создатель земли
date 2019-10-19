@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Великий Бог создатель небес.</aka>
-<hymn_number>3125</hymn_number>
-<key>D</key>
-<author>Путь Христа церковь, г. Нюрнберг</author>
-<title>Великий Бог создатель земли.</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Dm       Gm     Dm    Gm    Dm   A     Dm
  Аллилуйя, Аллилуйя,   Аллилуйя,  Аллилуйя.
 
@@ -36,4 +31,9 @@
 [V5]
 .Dm        Gm    Dm    Gm   Dm   A     Dm
  Аллилуйя, Аллилуйя,   Аллилуйя,  Аллилуйя.</lyrics>
+<hymn_number>3125</hymn_number>
+<author>Путь Христа церковь, г. Нюрнберг</author>
+<title>Великий Бог создатель земли.</title>
+<key>D</key>
+<aka>Великий Бог создатель небес.</aka>
 </song>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Наши годы пролетают ПВ620</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>620</hymn_number>
 <lyrics>[V1]
  Наши годы пролетают
  Незаметной чередой;
@@ -28,6 +28,6 @@
  Смерть мне душу не страшит!
  Прекратятся все невзгоды,
  Свет небесный заблестит.</lyrics>
-<hymn_number>620</hymn_number>
+<title>Наши годы пролетают ПВ620</title>
 <key>E</key>
 </song>

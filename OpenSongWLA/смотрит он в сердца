@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Смотрит Он в сердца</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
+<title>Смотрит Он в сердца</title>
+<author>Корван</author>
+<hymn_number>1074</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .C#m            E
@@ -27,7 +30,4 @@
  Божью отвергаешь любовь?
  Подними глаза, сделай первый шаг!
  Бремя положи у креста!</lyrics>
-<hymn_number>1074</hymn_number>
-<author>Корван</author>
-<key>C#m</key>
 </song>

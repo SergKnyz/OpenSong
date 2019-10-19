@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<hymn_number>490</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>490</hymn_number>
 <lyrics>[V1]
  Вот, как малое дитя,
  Положен в пещере скал
@@ -35,5 +34,7 @@
  Мрак унылый наших дум;
  К яслям Божьим в Вифлеем
  Приводи наш гордый ум.</lyrics>
+<aka>Положен в пещере скал</aka>
+<key>C</key>
 <title>Вот как малое дитя ПВ490</title>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>767</hymn_number>
-<title>Я слышу музыку</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я слышу музыку</title>
 <lyrics>[V1]
  Я слышу музыку далёкую небес-
  Она слышна в гармонии творенья.
@@ -29,4 +28,5 @@
  Восходит солнце в синем море неги.
  И я пишу стихи создателю миров
  Из глубины души отныне и вовеки!</lyrics>
+<hymn_number>767</hymn_number>
 </song>

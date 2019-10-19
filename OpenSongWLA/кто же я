@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><copyright>2003 СУЕЦС Мусиц | Цлуб Зоо Мусиц</copyright>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев, Цастинг Цроунс, Марк Халл</author>
 <title>Кто же я</title>
+<key>B</key>
 <lyrics>[V1]
  1 куплет:
 .       H       H/A#           G#m
@@ -39,7 +40,6 @@
  Простив мои грехи, дарует мне любовь?
  Кто же я, чтобы Бог, смиривший шторм,
  Дарил мне Свой покой, когда вокруг лишь зло?</lyrics>
+<copyright>2003 СУЕЦС Мусиц | Цлуб Зоо Мусиц</copyright>
 <hymn_number>190</hymn_number>
-<key>B</key>
-<author>Алексей Каратаев, Цастинг Цроунс, Марк Халл</author>
 </song>

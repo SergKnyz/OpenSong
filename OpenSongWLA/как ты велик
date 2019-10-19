@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Валерий Короп</author>
+<key>D</key>
+<title>Как ты велик</title>
+<lyrics>[V1]
 .        D                  Hm
  Руки к небу подниму, своё сердце распахну
 .     Em                A
@@ -39,8 +42,5 @@
  О Аллилуйя,
 .       Em       A
  Ты достоин - Иисус.</lyrics>
-<title>Как ты велик</title>
-<author>Валерий Короп</author>
-<key>D</key>
 <hymn_number>2843</hymn_number>
 </song>

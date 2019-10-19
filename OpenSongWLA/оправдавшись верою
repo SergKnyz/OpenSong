@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1152</hymn_number>
-<author>Игорь Сидоров</author>
-<key>G</key>
-<title>Оправдавшись верою</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G          D      Am                  Em
  Победил Ты, победил на Голгофском кресте,
@@ -36,4 +32,8 @@
  Ты оправдал меня...
 .Am             G           C   D Esus E
  Ты оправдал меня... Навсегда...</lyrics>
+<hymn_number>1152</hymn_number>
+<author>Игорь Сидоров</author>
+<key>G</key>
+<title>Оправдавшись верою</title>
 </song>

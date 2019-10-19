@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>550</hymn_number>
-<key>G</key>
-<title>Стою у Иордана я ПВ550</title>
 <lyrics>[V1]
  Стою у Иордана я
  И вижу чрез струи
@@ -32,4 +30,6 @@
  Готов бежать отсель;
  Хоть страшен гул шумящих волн,
  Хочу достичь я цель.</lyrics>
+<title>Стою у Иордана я ПВ550</title>
+<key>G</key>
 </song>

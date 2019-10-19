@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Сыны грома</author>
-<hymn_number>1020</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .    D                  G   D
  Приди, время Ему поклониться.
@@ -24,5 +21,8 @@
    Но большая награда ждет на Небесах
 .   G                       A
    Тех, кто избрал Тебя сейчас!</lyrics>
+<hymn_number>1020</hymn_number>
+<author>Сыны грома</author>
+<key>D</key>
 <title>Приди время Ему поклониться</title>
 </song>

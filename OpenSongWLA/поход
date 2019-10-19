@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2431</hymn_number>
-<title>Поход</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  От топота копыт стенает лес,
  Отряд вооруженный в селах скачет.
  На их знаменах ярко красный крест,
@@ -41,4 +39,6 @@
    Пусть под знаком креста будет радость и свет,
    Чтобы грешника жизнь навсегда изменилась
    Иисуса держись, без Него правды нет.</lyrics>
+<hymn_number>2431</hymn_number>
+<title>Поход</title>
 </song>

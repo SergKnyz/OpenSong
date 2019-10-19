@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Кристалл</author>
-<key>B</key>
-<hymn_number>1005</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Hm     F#     Hm   A             D
  Ты сказал не бойся, Ты сказал иди
@@ -50,5 +47,8 @@
    За шагаю в вечность по воде любой
    Радостно и смело с верою живой
    За шагаю в вечность по воде любой</lyrics>
+<hymn_number>1005</hymn_number>
+<author>Кристалл</author>
+<key>B</key>
 <title>Ты сказал не бойся</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<hymn_number>5801</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Настанет время, и придет
  Лишь за спасенными Спаситель.
  Для тех, кто этой встречи ждет,
@@ -41,5 +39,7 @@
  Что Господом для нас назначен,
  Но мы ведь знаем - Он придет,
  Так будем же готовы к встрече.</lyrics>
+<hymn_number>5801</hymn_number>
+<key>Bb</key>
 <title>Настанет время и придет ПВ2708</title>
 </song>

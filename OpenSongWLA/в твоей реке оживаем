@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2856</hymn_number>
-<author>Jesus Culture, Йесус Цултуре</author>
-<key>Bb</key>
-<title>В Твоей реке оживаем</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Intro |.Bb. /// .|.Gm. /// .|.Dm. /// .|.F. /// .|  В реке Твоей оживаем
 .  F          Bb      Gm
  1.Здесь есть река где благодать течет
@@ -51,4 +47,8 @@
  Танцуем мы перед Тобой
 .     Dm7
  Великий и Святой</lyrics>
+<hymn_number>2856</hymn_number>
+<author>Jesus Culture, Йесус Цултуре</author>
+<key>Bb</key>
+<title>В Твоей реке оживаем</title>
 </song>

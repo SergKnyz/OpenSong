@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Gm</key>
-<aka>Божья армия идёт</aka>
-<hymn_number>34</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>34</hymn_number>
 <lyrics>[V1]
 . Gm       Eb
  Божья армия идёт,
@@ -26,6 +24,8 @@
    Эммануил! Эммануил!
 .     Eb F        Gm
    Эммануил - Господь!</lyrics>
-<title>Эммануил Воскресший и живой</title>
 <time_sig>2/4</time_sig>
+<aka>Божья армия идёт</aka>
+<key>Gm</key>
+<title>Эммануил Воскресший и живой</title>
 </song>

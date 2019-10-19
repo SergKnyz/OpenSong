@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Сергей Брикса</author>
-<hymn_number>2944</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Брикса</author>
+<key>D</key>
+<title>Прославляй</title>
 <lyrics>[V1]
  Куплет:
 .        D          F#m     E      A
@@ -22,5 +22,5 @@
    Славлю я лишь Тебя
 .  D  F#m  E   A
    И поют небеса.</lyrics>
-<title>Прославляй</title>
+<hymn_number>2944</hymn_number>
 </song>

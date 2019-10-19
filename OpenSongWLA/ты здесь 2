@@ -1,11 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3450</hymn_number>
-<key>E</key>
-<author>JG Youth Worship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>JG Youth Worship</author>
 <title>Ты здесь</title>
+<key>E</key>
 <lyrics>[V1]
- Intro:
-
-[V2]
  Куплет:
 .E        H/D#
  Иисус, Ты подарил мне Свою любовь,
@@ -31,7 +27,7 @@
 .         E              G#m   G#m/F#
    Всем сердцем моим я Тебя прославлю, Иисус
 
-[V3]
+[V2]
  Проигрыш:
 
 [B1]
@@ -64,9 +60,10 @@
    Мой Бог, все, что во мне,
    Поет Тебе, поет Тебе.
 
-[V4]
+[V3]
  Проигрыш:
 
-[V5]
+[V4]
  Кода:</lyrics>
+<hymn_number>3450</hymn_number>
 </song>

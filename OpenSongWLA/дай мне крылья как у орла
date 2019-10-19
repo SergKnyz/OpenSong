@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Ксения Кузнецова</author>
-<key>A</key>
-<hymn_number>650</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>650</hymn_number>
 <lyrics>[V1]
 .Am
  Я не хочу никуда бежать от Тебя
@@ -39,4 +37,6 @@
  Вознесу к Тебе руки
  Буду вечно петь Тебе мой псалом</lyrics>
 <title>Дай мне крылья как у орла</title>
+<key>A</key>
+<author>Ксения Кузнецова</author>
 </song>

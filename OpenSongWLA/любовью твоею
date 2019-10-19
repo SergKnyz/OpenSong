@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2862</hymn_number>
-<author>Nina Kovaleva</author>
-<key>C</key>
-<title>Любовью Твоею</title>
 <lyrics>[V1]
 .        Cm             A
  Мы предаем Христа ежедневно,
@@ -58,4 +55,7 @@
    Любовью Своею Ты создал меня,
 .  A          H     F#m  A     Cm
    Любовью Твоею живет вся земля! (Живет вся земля...)</lyrics>
+<key>C</key>
+<title>Любовью Твоею</title>
+<author>Nina Kovaleva</author>
 </song>

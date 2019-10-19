@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Святой обмен</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Святой обмен</title>
+<author>Кристина Арнаутова</author>
+<hymn_number>2522</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .      C              F
@@ -48,7 +51,4 @@
 
 [C3]
    Припев: модуляция + 2 - А</lyrics>
-<hymn_number>2522</hymn_number>
-<author>Кристина Арнаутова</author>
-<key>C</key>
 </song>

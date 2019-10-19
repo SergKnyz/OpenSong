@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Александр Грайцер</author>
-<hymn_number>3438</hymn_number>
-<aka>Владыка</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3438</hymn_number>
 <lyrics>[V1]
  Владыка
 
@@ -39,5 +37,7 @@
  Миром стремительно новым, верой, летящею вдаль,
  И умерев и воскреснув, стану твоею надеждой,
  Стану твоею любовью, стану тобой. Я - Царь!</lyrics>
+<aka>Владыка</aka>
 <title>Я разведу огонь и положу поленья</title>
+<author>Александр Грайцер</author>
 </song>

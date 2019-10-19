@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Вадим Ятковский</author>
-<key>Em</key>
-<hymn_number>62</hymn_number>
-<aka>Псалом 120</aka>
-<tempo>130</tempo>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  вступление:
 .Em-D-C7+ Em/H- Am Hm- Em
   
@@ -52,6 +47,11 @@
  Сотворившего небо и землю.
 .      Am      Hm     Em
  Сотворившего небо и землю.</lyrics>
+<hymn_number>62</hymn_number>
+<tempo>130</tempo>
+<author>Вадим Ятковский</author>
 <time_sig>4/4</time_sig>
+<aka>Псалом 120</aka>
+<key>Em</key>
 <title>Возвожу мои очи к горам</title>
 </song>

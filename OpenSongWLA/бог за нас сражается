@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2864</hymn_number>
-<key>A</key>
-<author>Дарлене Зсцхецх</author>
-<title>Бог за нас сражается</title>
 <lyrics>[V1]
 .              D                   Bm
  Бог за нас сражается, на нашей стороне
@@ -41,4 +38,7 @@
    Именем Иисуса все преодолеем
 .           F#m             A
    Мы будем побеждать, побеждать</lyrics>
+<key>A</key>
+<title>Бог за нас сражается</title>
+<author>Дарлене Зсцхецх</author>
 </song>

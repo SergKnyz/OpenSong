@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Всем Тавифу-Серну жаль;</aka>
-<hymn_number>1950</hymn_number>
-<title>Вот в Иоппии печаль ПВ1950</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вот в Иоппии печаль,
  Всем Тавифу-Серну жаль;
  Серна с верными жила,
@@ -54,4 +51,7 @@
  Воскрешенный Богом дух
  Грешных к Богу да зовет
  И к спасенью привлечет.</lyrics>
+<hymn_number>1950</hymn_number>
+<aka>Всем Тавифу-Серну жаль;</aka>
+<title>Вот в Иоппии печаль ПВ1950</title>
 </song>

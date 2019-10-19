@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<hymn_number>169</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .           G         Em
  Лишь об одном мечтаю я,
 .       C             Am          D
@@ -13,7 +11,7 @@
  До концов земли разнеслась.
 
 [C1]
-.          Em           B7
+.          Em           Eb
    Чтоб в один могучий голос
 .         G/D          A/C#
    Восклицали все племена земли.
@@ -37,5 +35,7 @@
  Да восстанем мы с хвалою,
 .          C          DD7
  Святые руки вознесём.</lyrics>
+<hymn_number>169</hymn_number>
+<key>G</key>
 <title>Лишь об одном мечтаю я ИИПВ169</title>
 </song>

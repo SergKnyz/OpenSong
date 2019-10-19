@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>913</hymn_number>
-<aka>Мы живём на земле среди зла и скорбей,</aka>
-<key>D</key>
-<author>Неизвестный</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <title>А небо всё слышит</title>
+<key>D</key>
+<aka>Мы живём на земле среди зла и скорбей,</aka>
 <lyrics>[V1]
  1 куплет:
 .     Dm         Gm         A       Dm
@@ -42,4 +41,5 @@
  Чтоб добро получать, нужно добрыми быть;
  Не смотри на людей, а учись у Христа,
  И пусть радость несёт всем твоя доброта.</lyrics>
+<hymn_number>913</hymn_number>
 </song>

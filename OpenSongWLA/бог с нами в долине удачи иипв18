@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бог с нами в долине удачи ИИПВ18</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Скажем вместе Слава Богу!</aka>
+<title>Бог с нами в долине удачи ИИПВ18</title>
+<key>Em</key>
 <lyrics>[V1]
 .       Em
  Бог с нами в долине удачи
@@ -31,6 +33,4 @@
  Любовью своей подтверждая,
  Что вера у нас не мертва!</lyrics>
 <hymn_number>18</hymn_number>
-<aka>Скажем вместе Слава Богу!</aka>
-<key>Em</key>
 </song>

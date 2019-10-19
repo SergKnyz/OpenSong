@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>SAVEIT</author>
-<hymn_number>2931</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2931</hymn_number>
 <lyrics>[C1]
    ПРИПЕВ:
 .  E  H    A      H
@@ -51,5 +49,7 @@
    Слава Всевышнему Богу
    Аллилуйя - Слава Ему
    Аллилуйя - Слава Ему</lyrics>
+<key>E</key>
 <title>Слава Всевышнему Богу</title>
+<author>SAVEIT</author>
 </song>

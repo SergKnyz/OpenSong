@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Slavic New Beginnings Church</author>
-<key>B</key>
-<hymn_number>495</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>495</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .   H                           E
@@ -36,5 +34,7 @@
    Стою, Тебе Бог склоняю сердце
 .    E      H    F#
    Всё во мне Твоё.</lyrics>
+<key>B</key>
 <title>Стою</title>
+<author>Slavic New Beginnings Church</author>
 </song>

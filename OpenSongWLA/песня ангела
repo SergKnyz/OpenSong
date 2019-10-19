@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>265</hymn_number>
-<key>D</key>
-<author>Эдем</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Эдем</author>
 <title>Песня Ангела</title>
+<key>D</key>
 <lyrics>[V1]
  1 куплет:
 .           Dm      A/C#            F         G
@@ -37,4 +36,5 @@
  Я теперь знаю точно: Ты рядом со мной
  Пусть все дети Твои ощутят сердцем вновь
  Что в Христе подарил Ты Свою нам любовь</lyrics>
+<hymn_number>265</hymn_number>
 </song>

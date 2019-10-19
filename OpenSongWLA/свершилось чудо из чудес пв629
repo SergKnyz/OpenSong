@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Свершилось чудо из чудес ПВ629</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
+<title>Свершилось чудо из чудес ПВ629</title>
+<hymn_number>629</hymn_number>
 <lyrics>[V1]
  Свершилось чудо из чудес:
  Нет Христа во гробе - Он воскрес.
@@ -26,6 +28,4 @@
    Победу над адом, над смертью Он одержал;
    Ликуй, народ: Христос воскрес,
    Он воскрес, Он воскрес!</lyrics>
-<hymn_number>629</hymn_number>
-<key>Eb</key>
 </song>

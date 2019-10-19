@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1334</hymn_number>
-<aka>Поспеши к Иисусу!</aka>
-<key>Eb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
 <title>Веришь слову Божью ты ПВ1334</title>
+<aka>Поспеши к Иисусу!</aka>
 <lyrics>[V1]
  Веришь слову Божью ты?
  Поспеши к Иисусу!
@@ -33,4 +32,5 @@
  Поспеши к Иисусу!
  Он тебя введет в покой!
  Поспеши к Иисусу!</lyrics>
+<hymn_number>1334</hymn_number>
 </song>

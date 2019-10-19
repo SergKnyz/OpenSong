@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<hymn_number>1164</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Небеса, небеса небес,
  Я стремлюсь туда, в край святых чудес,
  Тот лазурный край для души моей,
@@ -20,5 +18,7 @@
  Среди бурь земных сохрани меня.
  Чтоб, окончив путь, мне узреть Тебя,
  И воспеть хвалу в небесах.</lyrics>
+<hymn_number>1164</hymn_number>
+<key>E</key>
 <title>Небеса небеса небес ПВ1164</title>
 </song>

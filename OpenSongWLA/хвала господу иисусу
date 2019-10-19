@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2563</hymn_number>
-<author>Неизвестный</author>
-<key>D</key>
-<title>Хвала Господу Иисусу</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .D   A  G          A
  Хвала Господу Иисусу
@@ -26,4 +22,8 @@
    Прикоснись к нам и открой нам совершенство воли Своей
 .  D        Bb          F             G A
    И услышать голос неба Господи нам дай</lyrics>
+<hymn_number>2563</hymn_number>
+<author>Неизвестный</author>
+<title>Хвала Господу Иисусу</title>
+<key>D</key>
 </song>

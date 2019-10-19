@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2514</hymn_number>
-<aka>Иисус мой Царь и Бог</aka>
-<key>E</key>
-<author>Павел Геращенко</author>
-<title>Аллилуйя</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вступление:
 
 [V2]
@@ -54,4 +49,9 @@
    Возродившему меня
    К свету Истины, Истины Святой
    Иисус, Спаситель мой.</lyrics>
+<hymn_number>2514</hymn_number>
+<author>Павел Геращенко</author>
+<title>Аллилуйя</title>
+<key>E</key>
+<aka>Иисус мой Царь и Бог</aka>
 </song>

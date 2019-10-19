@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>335</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Есть у птиц небесных гнезда ПВ335</title>
 <key>D</key>
-<title>Есть у птиц небесных гнезда ПВ335</title>
 <lyrics>[V1]
  Есть у птиц небесных гнезда,
  Лисы в норах могут жить,
@@ -50,4 +49,5 @@
  Ты ль не хочешь дверь открыть,
  Чтоб в твоем жилище скромном
  Мог Он голову склонить!?</lyrics>
+<hymn_number>335</hymn_number>
 </song>

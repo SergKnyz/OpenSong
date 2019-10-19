@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>51</hymn_number>
-<key>A</key>
-<author>Алексей Каратаев</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев</author>
 <title>Кто из царей</title>
+<key>A</key>
 <lyrics>[V1]
  1 куплет:
 .  A
@@ -47,4 +46,5 @@
    Сына отдаст за меня, о-о-о-о, за тебя,
 .      Hm         E   Hm            E
    О-о-о-о, за меня, о-о-о-о, за тебя...</lyrics>
+<hymn_number>51</hymn_number>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>106</hymn_number>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <title>Жертвой Иисуса Христа ИИПВ106</title>
 <lyrics>[V1]
 . D              A
@@ -34,4 +33,5 @@
  На Небесах, На небесах,
 .G       D
  На небесах</lyrics>
+<hymn_number>106</hymn_number>
 </song>

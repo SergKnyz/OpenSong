@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1658</hymn_number>
-<author>Альфа</author>
-<key>E</key>
-<title>Прощальная</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .      Em
  Расставаясь, не будем печальны,
@@ -70,4 +66,8 @@
    И пускай горели звезды -
 .         Am        Em
    Ни сгорали никогда.</lyrics>
+<hymn_number>1658</hymn_number>
+<author>Альфа</author>
+<title>Прощальная</title>
+<key>E</key>
 </song>

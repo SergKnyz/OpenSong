@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Skeemans Worship</author>
-<hymn_number>1239</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1239</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am       C            Em         F
@@ -38,5 +36,7 @@
    Ты - Любовь
 .  Am      C Em
    Ты - Любовь</lyrics>
+<key>A</key>
 <title>Из глубины</title>
+<author>Skeemans Worship</author>
 </song>

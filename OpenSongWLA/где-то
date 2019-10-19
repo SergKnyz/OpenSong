@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1543</hymn_number>
-<key>A</key>
-<author>Сергей Брикса</author>
-<title>Где-то</title>
 <lyrics>[V1]
  1 куплет:
 .  Am    C       G                    Dm
@@ -26,4 +23,7 @@
  Кто-то дома. Кто-то вышел за порог.
 .  Am        C      G                  Dm
  Где-то... кто-то. Но один над нами Бог.</lyrics>
+<title>Где-то</title>
+<key>A</key>
+<author>Сергей Брикса</author>
 </song>

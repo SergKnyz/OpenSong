@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Где Дух Господен там свобода</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Галим Хусаинов</author>
+<title>Где Дух Господен там свобода</title>
+<key>D</key>
 <lyrics>[V1]
  Куплет:
 .Dm          Gm    Dm
@@ -28,6 +30,4 @@
 .  Gm        E      E7    A7
       Небеса и вся земля славят Господа-Царя!</lyrics>
 <hymn_number>694</hymn_number>
-<author>Галим Хусаинов</author>
-<key>D</key>
 </song>

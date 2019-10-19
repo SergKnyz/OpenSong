@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2014</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>ХВЕ молодёжь Лабинска</author>
 <aka>В небеса стремлюсь своей душою</aka>
-<author>ХВЕ молодёжь Лабинска</author>
 <key>D</key>
 <title>На земле живу одной мечтою-</title>
 <lyrics>[V1]
@@ -30,4 +29,5 @@
  Если и преткнусь, всё равно встану.
  К небесам приду, Бог мне поможет
  И меня до цели доведёт!</lyrics>
+<hymn_number>2014</hymn_number>
 </song>

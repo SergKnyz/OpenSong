@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1691</hymn_number>
-<author>Назаруки</author>
-<title>Слушай, земля</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Декламация:
  Верую - слышал берег, верую! - слышало утро.
  Росы, светясь перламутром, были свидетелями веры.
@@ -50,4 +47,7 @@
    Верую! сердца кричащего
    От радости их слёзы хлынули,
    Боже, как они счастливы /2р</lyrics>
+<hymn_number>1691</hymn_number>
+<author>Назаруки</author>
+<title>Слушай, земля</title>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>185</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Моя душа Иисусу поёт ИИПВ185</title>
 <key>C</key>
-<title>Моя душа Иисусу поёт ИИПВ185</title>
 <lyrics>[V1]
 .C.     G Am.  G   F   Dm   G   G7
  Моя душа Иисусу поёт этот гимн.
@@ -14,4 +13,5 @@
    Иисус - Спаситель. Иисус - Спаситель.
 .    F Dm  (G)      G G7 (C)
    Иисус - Спаситель мой.</lyrics>
+<hymn_number>185</hymn_number>
 </song>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Hillsong Ukraine</author>
-<hymn_number>6281</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<title>Спасение</title>
+<key>B</key>
 <lyrics>[V1]
 .H       G#m       F#sus4  E
  Правит Бог над вселенной вечно
@@ -44,5 +44,5 @@
  Спасение здесь, Спасение здесь - Бог живет во мне.
 .           H E                F#                G#m
  Спасение здесь, Ведь Ты Бог живой, Ты живешь во мне.</lyrics>
-<title>Спасение</title>
+<hymn_number>6281</hymn_number>
 </song>

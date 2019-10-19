@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1039</hymn_number>
-<key>A</key>
-<author>Алла Чепикова</author>
-<title>Мы что-то теряем</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Am  G  F
  Мы__ что-то теряем, Что-то находим, куда-то спешим.
 .Am  G  Am7 A
@@ -54,4 +50,8 @@
  И сердце лишь Тобой
  Н7 Е7 Am
  И сердце лишь Тобой стучит, стучит.</lyrics>
+<hymn_number>1039</hymn_number>
+<author>Алла Чепикова</author>
+<title>Мы что-то теряем</title>
+<key>A</key>
 </song>

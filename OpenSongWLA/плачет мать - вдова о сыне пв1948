@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>В малом городе Наине</aka>
-<hymn_number>1948</hymn_number>
-<title>Плачет мать - вдова о сыне ПВ1948</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Плачет мать - вдова о сыне ПВ1948</title>
+<aka>В малом городе Наине</aka>
 <lyrics>[V1]
  В малом городе Наине
  Плачет мать - вдова о сыне
@@ -36,4 +35,5 @@
  Льются звуки слов чудесных,
  Слышен голос доброты,
  Слушай - и воскреснешь ты.</lyrics>
+<hymn_number>1948</hymn_number>
 </song>

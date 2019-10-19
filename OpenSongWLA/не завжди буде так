@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Сион</author>
-<key>B</key>
-<hymn_number>1311</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вст
 
 [V2]
@@ -41,5 +38,8 @@
 
 [V5]
  Приспів</lyrics>
+<hymn_number>1311</hymn_number>
+<author>Сион</author>
+<key>B</key>
 <title>Не завжди буде так</title>
 </song>

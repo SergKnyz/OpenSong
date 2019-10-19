@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Благослови, душа моя, Господа</aka>
-<title>Вся внутренность Святое имя Его</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C      Em   Am          F  G
  Благослови, душа моя, Господа
 .C          G      Am    F    G
@@ -16,5 +14,7 @@
    Иисуса Господа
    Благослови, душа моя
    Иисуса Господа</lyrics>
+<aka>Благослови, душа моя, Господа</aka>
+<title>Вся внутренность Святое имя Его</title>
 <key>C</key>
 </song>

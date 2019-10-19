@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В поднебесье</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новое поколение</author>
+<key>Bb</key>
+<title>В поднебесье</title>
 <lyrics>[V1]
  Bb / A   Am     Dm
  В под --не - бесье   войну   ведем.
@@ -23,6 +25,4 @@
 .Gm         A
  Ада врата сокрушены!</lyrics>
 <hymn_number>2436</hymn_number>
-<author>Новое поколение</author>
-<key>Bb</key>
 </song>

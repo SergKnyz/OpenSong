@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Шкляев</author>
 <key>E</key>
-<hymn_number>401</hymn_number>
+<title>Здесь Дом отца в котором место есть для каждого</title>
 <aka>Каждый ищет место где от боли отдохнуть</aka>
 <lyrics>[V1]
 . E                         C#m
@@ -51,5 +51,5 @@
    Мы Богом отделены, Для нас задача проста:
 .       C#m                H
    &quot;Мы будем верой полны, Верой в Иисуса Христа.&quot;</lyrics>
-<title>Здесь Дом отца в котором место есть для каждого</title>
+<hymn_number>401</hymn_number>
 </song>

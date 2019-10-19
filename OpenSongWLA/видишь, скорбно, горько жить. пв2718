@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<aka>Взглянь Спаситель на рыданья</aka>
-<hymn_number>2718</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2718</hymn_number>
 <lyrics>[V1]
  Взглянь, Спаситель, на рыданья,
  Видишь, скорбно, горько жить.
@@ -24,5 +22,7 @@
  Помоги Тебя любить.
  Песней все смени рыданья,
  Для Тебя дай только жить.</lyrics>
+<aka>Взглянь Спаситель на рыданья</aka>
+<key>C</key>
 <title>Видишь, скорбно, горько жить. ПВ2718</title>
 </song>

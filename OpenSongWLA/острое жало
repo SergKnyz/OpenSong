@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>110</hymn_number>
-<author>Авана</author>
-<key>D</key>
-<title>Острое жало</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Dm
  Острое жало коснулось ладони,
@@ -75,4 +71,8 @@
    Кротко над миром звучало прощенье
 .  D#m
    И обнимала планету Любовь</lyrics>
+<hymn_number>110</hymn_number>
+<author>Авана</author>
+<key>D</key>
+<title>Острое жало</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2494</hymn_number>
-<title>Мой друг ушёл</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Мой друг ушёл, не попрощавшись,
  Не сообщил, не позвонил...
  А я спешил, но, не дождавшись,
@@ -35,4 +33,6 @@
  Там песни царские звучат,
  Там не считают люди годы,
  И не хотят назад.</lyrics>
+<hymn_number>2494</hymn_number>
+<title>Мой друг ушёл</title>
 </song>

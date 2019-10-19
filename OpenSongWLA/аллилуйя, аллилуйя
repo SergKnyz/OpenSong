@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Цхрис Томлин</author>
-<aka>Наш Спаситель был рождён, Христос.</aka>
-<hymn_number>5097</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5097</hymn_number>
 <lyrics>[V1]
  Аллилуйя, аллилуйя
  Наш Спаситель был рождён, Христос.
@@ -12,5 +10,7 @@
    Вся слава Богу и Царю
    Святая ночь, вовек веков
    Аллилуйя</lyrics>
+<aka>Наш Спаситель был рождён, Христос.</aka>
 <title>Аллилуйя, аллилуйя</title>
+<author>Цхрис Томлин</author>
 </song>

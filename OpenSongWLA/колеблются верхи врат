@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3702</hymn_number>
+<lyrics>[C1]
    Припев:
 .    Dm               G      C                 F
    Колеблются верхи врат, архангелы вторят: «свят»,
@@ -36,8 +37,7 @@
  Мы ждем в долине мглы увидеть светлый образ.
  Ты ранняя звезда, Ты Альфа и Омега,
  Ты чудный Вождь всегда,от века и до века!</lyrics>
+<key>D</key>
 <title>Колеблются верхи врат</title>
 <author>Владимир Шевченко</author>
-<key>D</key>
-<hymn_number>3702</hymn_number>
 </song>

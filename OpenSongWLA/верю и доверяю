@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>342</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Верю и доверяю</title>
 <aka>Знаю, Иисус меня любит всегда и я</aka>
-<title>Верю и доверяю</title>
 <lyrics>[V1]
  Знаю, Иисус меня любит всегда и я
  Верю, доверяя Его всем словам.
@@ -39,4 +38,5 @@
  Знай, не оставит тебя никогда и ты,
  Верь, Он ведёт к небесам.
  И об этом я пою.</lyrics>
+<hymn_number>342</hymn_number>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты в сердце моём</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Ты в сердце моём</title>
+<author>Алексей Каратаев</author>
+<hymn_number>5433</hymn_number>
 <lyrics>[V1]
  1 куплет:
 . G
@@ -44,7 +47,4 @@
    Когда среди огня трудностей иду,
 .   D    Hm         C
    Надежда на Тебя, со Христом я всё пройду!</lyrics>
-<hymn_number>5433</hymn_number>
-<author>Алексей Каратаев</author>
-<key>G</key>
 </song>

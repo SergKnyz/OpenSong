@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Южный крест</author>
-<hymn_number>1374</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Южный крест</author>
+<key>A</key>
+<title>Благодать</title>
 <aka>Хоть крест мой бывает тяжёлым,</aka>
 <lyrics>[V1]
  1 куплет:
@@ -30,5 +30,5 @@
  Пред лицом Его ходить.
  Меня Он купил Своей кровью
  И от зла меня хранит.</lyrics>
-<title>Благодать</title>
+<hymn_number>1374</hymn_number>
 </song>

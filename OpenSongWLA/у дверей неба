@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>У Дверей Неба</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Брикса</author>
+<title>У Дверей Неба</title>
+<key>E</key>
 <lyrics>[V1]
 .C#7sus C#7     C#7sus          C#7        H7sus
  Снова день ,как день,дождь стучит по мостовой
@@ -27,6 +29,4 @@
 .E  G#m    C#m   A
  У-у-у-у-у-у-у-у у дверей неба</lyrics>
 <hymn_number>819</hymn_number>
-<author>Сергей Брикса</author>
-<key>E</key>
 </song>

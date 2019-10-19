@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2717</hymn_number>
-<aka>Бабушка милая</aka>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Бабушка милая</aka>
 <title>Будет вечером у нас И тепло, и уют ПВ2717</title>
+<key>E</key>
 <lyrics>[V1]
  Будет вечером у нас
  И тепло, и уют.
@@ -25,4 +24,5 @@
  Варежки теплые,
  Руки нашей бабушки
  Очень добрые.</lyrics>
+<hymn_number>2717</hymn_number>
 </song>

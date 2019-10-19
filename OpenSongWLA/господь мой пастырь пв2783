@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Новое поколение (Рига)</author>
-<key>E</key>
-<aka>Я ни в чем не буду знать нужды</aka>
-<hymn_number>2783</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2783</hymn_number>
 <lyrics>[V1]
  Господь - мой Пастырь,
  Я ни в чем не буду знать нужды.
@@ -32,4 +29,7 @@
  И в доме Божьем навсегда
  Войду в небесный свет.</lyrics>
 <title>Господь мой Пастырь ПВ2783</title>
+<key>E</key>
+<aka>Я ни в чем не буду знать нужды</aka>
+<author>Новое поколение (Рига)</author>
 </song>

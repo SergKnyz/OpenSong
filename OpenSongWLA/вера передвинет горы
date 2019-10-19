@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3691</hymn_number>
-<aka>К награде я стремлюсь и не остановлюсь</aka>
-<key>E</key>
-<author>Неизвестный, Hillsong Ukraine</author>
-<title>вера передвинет горы</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вступление. Em|H|Am|H
  Куплет.
 .Em Em  Am7
@@ -33,4 +28,9 @@
    Все могу я во Христе.
 .  H
    Он во мне.</lyrics>
+<hymn_number>3691</hymn_number>
+<author>Неизвестный, Hillsong Ukraine</author>
+<aka>К награде я стремлюсь и не остановлюсь</aka>
+<key>E</key>
+<title>вера передвинет горы</title>
 </song>

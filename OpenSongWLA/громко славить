@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Филипп Реннер</author>
-<hymn_number>4494</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Филипп Реннер</author>
+<key>E</key>
+<title>Громко славить</title>
 <lyrics>[V1]
  1 куплет:
 .Em             G         C               Am
@@ -36,5 +36,5 @@
  Я хочу Ему воздать хвалу
  Буду прославлять Тебя сотрясая стены
  И провозглашать что Ты мой Бог</lyrics>
-<title>Громко славить</title>
+<hymn_number>4494</hymn_number>
 </song>

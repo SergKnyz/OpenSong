@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2091</hymn_number>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <title>Дай усталой главою склониться ПВ2091</title>
 <lyrics>[V1]
  Дай усталой главою склониться,
@@ -36,4 +35,5 @@
  Лучезарной Своей головой,
  Чтоб моей истомлённой душою
  Овладел вновь желанный покой.</lyrics>
+<hymn_number>2091</hymn_number>
 </song>

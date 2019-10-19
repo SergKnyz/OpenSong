@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Есть на свете благодать</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Есть на свете благодать</title>
+<author>Нарния</author>
+<hymn_number>5573</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .D                     Hm
@@ -42,7 +45,4 @@
    Он взял на Себя наши немощи,
 .    D      A        D
    Болезни и наши грехи!</lyrics>
-<hymn_number>5573</hymn_number>
-<key>D</key>
-<author>Нарния</author>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>644</hymn_number>
-<aka>Вождь наш верный Дух Святой</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Будь всегда Ты близок к нам! ПВ644</title>
 <key>G</key>
-<title>Будь всегда Ты близок к нам! ПВ644</title>
+<aka>Вождь наш верный Дух Святой</aka>
 <lyrics>[V1]
  Вождь наш верный, Дух Святой!
  Будь всегда Ты близок к нам!
@@ -31,4 +30,5 @@
  Чрез поток нас проведи,
  Молви: &quot;Путник, о приди!
  Поведу тебя домой!&quot;</lyrics>
+<hymn_number>644</hymn_number>
 </song>

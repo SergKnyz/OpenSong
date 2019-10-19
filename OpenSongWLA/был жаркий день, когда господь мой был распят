@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1575</hymn_number>
-<author>Инна Звягинцева</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Инна Звягинцева</author>
 <title>Был жаркий день, когда Господь мой был распят</title>
+<key>C</key>
 <lyrics>[V1]
  1 куплет:
 . Cm                        Bb
@@ -30,4 +29,5 @@
  Одного слова бы хватило, чтоб земля была пуста.
  Он мог бы тех, кто Его тогда ругал
  Одним лишь словом уничтожить, но из любви к ним Он сказал</lyrics>
+<hymn_number>1575</hymn_number>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Цветок Сиона</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ярослава Лебе-Левинецкая</author>
+<key>C</key>
+<title>Цветок Сиона</title>
 <lyrics>[V1]
  1 куплет:
  Цветок красоты неземной
@@ -22,6 +24,4 @@
  Рожденный из Сердца чтоб мы жили вечно
  В Сыне Его</lyrics>
 <hymn_number>3103</hymn_number>
-<key>C</key>
-<author>Ярослава Лебе-Левинецкая</author>
 </song>

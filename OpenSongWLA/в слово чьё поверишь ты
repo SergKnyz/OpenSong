@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>АХВЕГС</author>
-<key>Em</key>
-<aka>Его словом я спасён</aka>
-<hymn_number>44</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>44</hymn_number>
 <lyrics>[V1]
 .Em
  В слово чьё поверишь ты?
@@ -18,4 +15,7 @@
 .  Am             H7
    Он - источник моих сил.</lyrics>
 <title>В слово чьё поверишь ты</title>
+<key>Em</key>
+<aka>Его словом я спасён</aka>
+<author>АХВЕГС</author>
 </song>

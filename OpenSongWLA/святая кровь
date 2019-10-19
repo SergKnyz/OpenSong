@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Антон Погорелый</author>
+<title>Святая кровь</title>
+<key>C</key>
+<lyrics>[V1]
 .C    G           C
  Кровь Иисуса очистит все грехи
 .     F     G            C
@@ -23,8 +26,5 @@
  Кровь Иисуса лилась за каждого из нас
 .      Am        D          Em
  Кровь Господа омыла все грехи.</lyrics>
-<title>Святая кровь</title>
-<author>Антон Погорелый</author>
-<key>C</key>
 <hymn_number>2886</hymn_number>
 </song>

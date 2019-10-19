@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>В имени Иисуса сладость</aka>
-<hymn_number>2890</hymn_number>
-<key>Ab</key>
-<title>Всю Он боль снимает нам ПВ2890</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В имени Иисуса - сладость!
  Всю Он боль снимает нам
  и дарует мир и радость
@@ -31,4 +27,8 @@
  говоря о Нём другим,
  до тех пор, пока с святыми
  мы пред станем все пред Ним.</lyrics>
+<hymn_number>2890</hymn_number>
+<aka>В имени Иисуса сладость</aka>
+<key>Ab</key>
+<title>Всю Он боль снимает нам ПВ2890</title>
 </song>

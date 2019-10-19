@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Заботы и труд ПВ3050</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Заботы и труд ПВ3050</title>
 <lyrics>[V1]
  Заботы и труд,
  что сердце гнетут,
@@ -34,5 +35,4 @@
  - уйдём от забот,
  за верность получим награду.</lyrics>
 <hymn_number>3050</hymn_number>
-<key>A</key>
 </song>

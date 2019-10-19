@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
-<hymn_number>1328</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Сердце с любовию будет в хваленьи,
  В радости петь все богатство спасенья,
  Милости дар, милости дар, милости дар.
@@ -47,5 +45,7 @@
  Лик искупленных, оживших душою.
  Радостной песнью и славной хвалою
  Все огласит.</lyrics>
+<hymn_number>1328</hymn_number>
 <title>Сердце с любовию будет в хваленьи ПВ1328</title>
+<key>Eb</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>45</hymn_number>
-<aka>Вниз река с горы течёт</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Вниз река с горы течёт</aka>
 <key>G</key>
 <title>Свою прохладу повсюду несёт. ИИПВ45</title>
 <lyrics>[V1]
@@ -33,4 +32,5 @@
  ВГосподню святость там приходить.
  Смеясьбежим все вдоль по реке,
  Возносимславу Сыну в танце, хвале.</lyrics>
+<hymn_number>45</hymn_number>
 </song>

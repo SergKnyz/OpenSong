@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<hymn_number>712</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>712</hymn_number>
 <lyrics>[V1]
  Мы окончили ученье
  И домой пойдем,
@@ -23,5 +22,6 @@
  Чтоб опять прийти,
  И послушать наставленья
  Как себя вести.</lyrics>
+<key>E</key>
 <title>Мы окончили ученье ПВ712</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<hymn_number>4280</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Отверженный, оплеванный, избитый.
  Ронял Он кровь и слезы на пути.
  Чело Его терновником увито,
@@ -29,5 +27,7 @@
  Позорный крест и ржавчина гвоздей.
  О, если б мы вот так любили брата
  И жертвовали жизнью для людей!</lyrics>
+<hymn_number>4280</hymn_number>
+<key>G</key>
 <title>Отверженный оплеванный избитый ПВ1169</title>
 </song>

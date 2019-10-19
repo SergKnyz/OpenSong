@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Вера моя</aka>
-<hymn_number>976</hymn_number>
-<author>Роман Касевич</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Роман Касевич</author>
 <key>E</key>
 <title>Простерта рука, завершен мой путь.</title>
+<aka>Вера моя</aka>
 <lyrics>[V1]
  1 куплет:
 .E            F#       G#m         H
@@ -42,4 +41,5 @@
    Ты вся моя жизнь, мои все мечты и вновь оживут
 .       H         E      F#          G#m  H
    В Тебе, мой ответ! И вера моя в Тебе!__</lyrics>
+<hymn_number>976</hymn_number>
 </song>

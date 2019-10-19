@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог наш благ</aka>
-<title>Поем и славим</title>
-<author>Грахам Кендрицк</author>
-<key>Dm</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Грахам Кендрицк</author>
 <lyrics>[C1]
 .  Dm  C   Dm
    Бог наш благ!
@@ -29,4 +26,7 @@
  И я ликую, в любви пред Ним,
 .Eb                A
  Отдаюсь Ему, всей душой!</lyrics>
+<aka>Бог наш благ</aka>
+<title>Поем и славим</title>
+<key>Dm</key>
 </song>

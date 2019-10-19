@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>721</hymn_number>
-<aka>Я знаю, Бог творит что нужно</aka>
-<author>Илья Цыганков</author>
-<key>A</key>
-<title>Бог не ошибается</title>
 <lyrics>[V1]
  1 куплет:
 .   Am              E
@@ -46,4 +42,8 @@
  Ко благу завтра мне послужит
  Что Им сегодня допускается
  Ко благу завтра мне послужит</lyrics>
+<key>A</key>
+<title>Бог не ошибается</title>
+<aka>Я знаю, Бог творит что нужно</aka>
+<author>Илья Цыганков</author>
 </song>

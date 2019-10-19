@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<author>Пётр Бальжик</author>
-<hymn_number>1061</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .             Fm                 Bbm Bbm6
  Прославляю Тебя, Адонай, Царь Небесный,
@@ -33,5 +30,8 @@
  Поклоняюсь я низко, Спаситель, Тебе.
  За то, что на вечность надежду имею:
  Поклоняюсь я низко, Спаситель, Тебе.</lyrics>
+<hymn_number>1061</hymn_number>
+<author>Пётр Бальжик</author>
 <title>Прославляю Тебя Адонай</title>
+<key>F</key>
 </song>

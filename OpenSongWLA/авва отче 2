@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>473</hymn_number>
-<aka>Петь у Твоих ног я бы вечность мог</aka>
-<author>Слово Жизни Music</author>
-<key>Bb</key>
-<title>Авва Отче</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Bb            D#  Bb            D#
  Петь у Твоих ног я бы вечность мог
@@ -42,4 +37,9 @@
    Покрытый благодатью я здесь через Твой крест
 .      F
    Господь, Ты любовь моя навек</lyrics>
+<hymn_number>473</hymn_number>
+<author>Слово Жизни Music</author>
+<aka>Петь у Твоих ног я бы вечность мог</aka>
+<title>Авва Отче</title>
+<key>Bb</key>
 </song>

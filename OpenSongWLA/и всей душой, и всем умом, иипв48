@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<hymn_number>48</hymn_number>
-<aka>Возлюби ты Бога сердцем всем</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>48</hymn_number>
 <lyrics>[V1]
 . G                        Em
  Возлюби ты Бога сердцем всем
@@ -26,4 +24,6 @@
 [V2]
  Shoobeeshoo bop, yay, yay, yay!</lyrics>
 <title>И всей душой, и всем умом, ИИПВ48</title>
+<key>G</key>
+<aka>Возлюби ты Бога сердцем всем</aka>
 </song>

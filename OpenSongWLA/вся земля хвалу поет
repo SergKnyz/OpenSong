@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вся земля хвалу поет</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Церковь &quot;Сила Веры&quot; (г. Киев)</author>
+<title>Вся земля хвалу поет</title>
+<key>D</key>
 <time_sig>4/4</time_sig>
 <lyrics>[V1]
  1 куплет:
@@ -30,6 +32,4 @@
  И все народы преклонят колени, и воспоют хвалу Тебе!</lyrics>
 <tempo>74</tempo>
 <hymn_number>852</hymn_number>
-<author>Церковь &quot;Сила Веры&quot; (г. Киев)</author>
-<key>D</key>
 </song>

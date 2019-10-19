@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>834</hymn_number>
-<author>Кристина Осельская</author>
-<key>D</key>
-<title>Ты шел на крест</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .     Dm           Gm            A                    Dm
  На Голгофу шел Ты медленно, сгибаясь под тяжестью креста.
@@ -44,4 +40,8 @@
  Капли крови Твоей не затоптали ноги идущих
  О Голгофа Ты прошла через сердце мое
  Дай познать мне что значит этот крест</lyrics>
+<hymn_number>834</hymn_number>
+<author>Кристина Осельская</author>
+<title>Ты шел на крест</title>
+<key>D</key>
 </song>

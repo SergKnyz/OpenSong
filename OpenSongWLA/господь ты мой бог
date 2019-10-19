@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Господь Ты мой Бог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Павел Геращенко</author>
+<key>D</key>
+<title>Господь Ты мой Бог</title>
 <lyrics>[V1]
  Вступление:
 
@@ -37,6 +39,4 @@
 .            A             Em
    И руки во имя Твоё вознесём</lyrics>
 <hymn_number>2473</hymn_number>
-<key>D</key>
-<author>Павел Геращенко</author>
 </song>

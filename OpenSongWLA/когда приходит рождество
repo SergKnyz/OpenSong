@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Когда приходит рождество</title>
+<key>Fm</key>
+<lyrics>[V1]
 .Cm7                       F
  Когда приходит рождество, когда кругом огни мерцают
 .Fm7/Bb       Eb Fm Gm
@@ -42,7 +44,5 @@
  Иисус родился чтобы нас спасти
  Ведь этот сказочный мир, что нам с тобой подарил
  Вокруг одни чудеса и закрывая глаза ты скажи</lyrics>
-<title>Когда приходит рождество</title>
-<key>Fm</key>
 <hymn_number>1516</hymn_number>
 </song>

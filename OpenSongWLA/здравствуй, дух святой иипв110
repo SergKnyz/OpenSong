@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>110</hymn_number>
-<key>C</key>
-<title>Здравствуй, Дух Святой ИИПВ110</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .   C         F       C G
  Здравствуй, Дух Святой!
 .   C         F       C C7
@@ -16,4 +13,7 @@
  Уповаем на Тебя мы.
 .      Dm      G.         C
  О, Святой Дух, сойди на нас.</lyrics>
+<hymn_number>110</hymn_number>
+<key>C</key>
+<title>Здравствуй, Дух Святой ИИПВ110</title>
 </song>

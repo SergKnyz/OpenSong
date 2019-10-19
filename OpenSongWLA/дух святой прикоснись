@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>314</hymn_number>
-<author>Краеугольный камень</author>
-<key>E</key>
-<title>Дух Святой прикоснись</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Em                 C              D
  Дух Святой, прикоснись ко мне своим теплом.
@@ -42,4 +38,8 @@
  Дух Святой, открывай значение Твоих слов,
  Поднимай нас на крыльях Божьих к небесам.
  О-о, Дух Святой, как Ты нужен нам.</lyrics>
+<hymn_number>314</hymn_number>
+<author>Краеугольный камень</author>
+<title>Дух Святой прикоснись</title>
+<key>E</key>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>49</hymn_number>
-<author>Алексей Каратаев</author>
-<key>B</key>
-<title>Прославленный час</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .H               E
  В день, когда слава наполнила Небо,
@@ -60,4 +56,8 @@
    Чудесный день всё творение узнает
 .  E
    Что Ты Спаситель, Воскрес</lyrics>
+<hymn_number>49</hymn_number>
+<author>Алексей Каратаев</author>
+<title>Прославленный час</title>
+<key>B</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Нарния</author>
-<hymn_number>2348</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .      Hm
  Не унывай, душа моя
@@ -36,5 +33,8 @@
  И возвещать дела Господни
  Я не умру, но буду жить
  И возвещать дела Господни</lyrics>
+<hymn_number>2348</hymn_number>
+<author>Нарния</author>
 <title>Под кровом Всевышнего</title>
+<key>B</key>
 </song>

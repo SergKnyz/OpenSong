@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>98</hymn_number>
-<author>Авана</author>
-<key>B</key>
-<title>Два сердца</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .            Hm                       Em
  Любовь восходит словно солнце над холодною землёй,
@@ -30,4 +26,8 @@
  Вы друг другу уступайте и не ссорьтесь никогда
  Пусть в уютном вашем доме, мир живёт и доброта
  Пусть семью вашу украсит жизнь для Господа Христа</lyrics>
+<hymn_number>98</hymn_number>
+<author>Авана</author>
+<key>B</key>
+<title>Два сердца</title>
 </song>

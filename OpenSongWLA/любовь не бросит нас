@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2750</hymn_number>
-<key>C</key>
-<author>Tim-J, Хиллсонг Ыоунг &amp; Фрее</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Tim-J, Хиллсонг Ыоунг &amp; Фрее</author>
 <title>Любовь Не Бросит Нас</title>
+<key>C</key>
 <lyrics>[V1]
  1 КУПЛЕТ:
  В поисках был я (Но) рядом любовь была
@@ -31,4 +30,5 @@
  Оставишь всё, придешь ко мне
  Небо раскрасил милостью Ты Своей
  Чтоб я увидел путь к Тебе</lyrics>
+<hymn_number>2750</hymn_number>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3719</hymn_number>
-<title>Слышу звон вечерней колокольни</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Слышу звон вечерней колокольни</title>
 <lyrics>[V1]
  Слышу звон вечерней колокольни,
  Запах ели , мерцание свечей.
@@ -17,4 +16,5 @@
  Возвращаюсь в сонный Вифлеем .
  Пастухам и бедным , в мир помочь
  Рождённый - Спасителем ко всем.</lyrics>
+<hymn_number>3719</hymn_number>
 </song>

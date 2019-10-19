@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Просто сосуды</author>
-<key>B</key>
-<hymn_number>1779</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1779</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Hm         A                   G      Em
@@ -33,5 +31,7 @@
  Никто не должен никому, уплачено по счету.
  И Тот Кто создал тебя, от Кого ты ушел,
  Оставил жизнь на кресте, за тобою пришел.</lyrics>
+<key>B</key>
 <title>Этот день для тебя</title>
+<author>Просто сосуды</author>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Лейтесь слезы сокрушенья ПВ440</title>
+<key>E</key>
+<hymn_number>440</hymn_number>
+<lyrics>[V1]
  Лейтесь, слезы сокрушенья,
  Сердце, плачь в тоске своей!
  Божий Сын рукой творенья
@@ -47,7 +50,4 @@
  Соблюдать святой завет
  И в душе Твое страданье
  Навсегда запечатлеть.</lyrics>
-<title>Лейтесь слезы сокрушенья ПВ440</title>
-<key>E</key>
-<hymn_number>440</hymn_number>
 </song>

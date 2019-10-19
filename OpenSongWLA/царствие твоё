@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Царствие Твоё</title>
+<key>A</key>
+<author>Новая Земля церковь г. Минск</author>
+<hymn_number>3910</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .A     E         H         C#m
@@ -41,7 +44,4 @@
    Творец Мироздания и Правитель всего,
 .      H
    Умалил Себя чтоб жизнь нам дать!</lyrics>
-<hymn_number>3910</hymn_number>
-<author>Новая Земля церковь г. Минск</author>
-<key>A</key>
 </song>

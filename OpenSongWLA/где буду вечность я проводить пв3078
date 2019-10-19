@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3078</hymn_number>
-<key>F</key>
-<title>Где буду вечность я проводить ПВ3078</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Где буду вечность я проводить?
  Где буду вечность я проводить?
  - В месте, где ужас и страх всегда,
@@ -39,4 +36,7 @@
  где каждый смотрит,
  как на врага,
  на вечные века?</lyrics>
+<hymn_number>3078</hymn_number>
+<title>Где буду вечность я проводить ПВ3078</title>
+<key>F</key>
 </song>

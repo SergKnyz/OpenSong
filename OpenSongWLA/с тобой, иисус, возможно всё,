@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Генерацио́н 12</author>
-<aka>Ты меня познал, за Собой позвал</aka>
-<hymn_number>3869</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ты меня познал, за Собой позвал
  Я Тобой живу, Одного Тебя люблю
  Буду ожидать, когда Ты придёшь
@@ -23,5 +20,8 @@
 [B1]
    С Тобой, Иисус, возможно всё,
    С Твоим огнем, мы весь путь пройдём.</lyrics>
+<hymn_number>3869</hymn_number>
+<author>Генерацио́н 12</author>
 <title>С Тобой, Иисус, возможно всё,</title>
+<aka>Ты меня познал, за Собой позвал</aka>
 </song>

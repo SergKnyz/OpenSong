@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Господь мой Назорей</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Артём Янский</author>
+<key>D</key>
+<title>Господь мой Назорей</title>
 <lyrics>[V1]
  1 куплет:
 .     Dm                     Gm
@@ -39,6 +41,4 @@
 .      Gm               A
    Господь господствующих мой Отец.</lyrics>
 <hymn_number>719</hymn_number>
-<author>Артём Янский</author>
-<key>D</key>
 </song>

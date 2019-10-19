@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>И ещё я верю</title>
-<time_sig>2/4</time_sig>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . D   G      A7
  Верю я в Иисуса,
 . D          G           A7
@@ -39,7 +37,9 @@
    В Нём есть сила исцелить,
 .        H              E  C#m F#m
    Благодать, чтоб простить.</lyrics>
-<aka>Верю я в Иисуса</aka>
 <hymn_number>55</hymn_number>
+<time_sig>2/4</time_sig>
+<aka>Верю я в Иисуса</aka>
+<title>И ещё я верю</title>
 <key>D</key>
 </song>

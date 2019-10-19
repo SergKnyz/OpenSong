@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бог живой, Огонь палящий</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D                  G
  Бог живой, Огонь палящий,
 . G   D/F# Em A          D
@@ -15,4 +13,6 @@
  Чтоб сиял я ярче чем серебро
 .G     D/F#Em A D
  Пред Тобою.</lyrics>
+<title>Бог живой, Огонь палящий</title>
+<key>D</key>
 </song>

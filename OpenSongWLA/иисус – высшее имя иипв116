@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус – высшее имя ИИПВ116</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Иисус – высшее имя ИИПВ116</title>
+<hymn_number>116</hymn_number>
 <lyrics>[V1]
 .D       Bm     D
  Иисус - высшее имя,
@@ -8,6 +10,4 @@
  Еммануил - Бог есть с нами,
 .Bm   Em    A7      D
  Искупитель, слово жизни.</lyrics>
-<hymn_number>116</hymn_number>
-<key>D</key>
 </song>

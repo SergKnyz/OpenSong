@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Skeemans Worship</author>
+<title>В Твоих руках</title>
+<key>C#m</key>
+<lyrics>[V1]
  1 Куплет:
 .C#m              A       H   G#m
  Словом сильным Ты из земли меня создал
@@ -26,8 +29,5 @@
  Я был глухим, но Ты нашел, что мне сказать
  Сквозь весь мой грех Ты лишь смог меня обнять
  Твою любовь не отнять</lyrics>
-<title>В Твоих руках</title>
-<key>C#m</key>
-<author>Skeemans Worship</author>
 <hymn_number>16</hymn_number>
 </song>

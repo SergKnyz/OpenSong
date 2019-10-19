@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Dm</key>
-<aka>Бывают в жизни трудные минуты</aka>
-<hymn_number>26</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Бывают в жизни трудные минуты</aka>
+<title>Надежда - светлый луч во тьме ночной ИИПВ26</title>
+<key>Dm</key>
 <lyrics>[V1]
 .   Dm            Gm       Dm
  Бывают в жизни трудные минуты,
@@ -34,5 +34,5 @@
  Инаше бремя нам не по плечу.
  Номы несём в сердцах своих надежду,
  Какна ветру горящую свечу.</lyrics>
-<title>Надежда - светлый луч во тьме ночной ИИПВ26</title>
+<hymn_number>26</hymn_number>
 </song>

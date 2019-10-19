@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Твое Царство</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Краеугольный камень</author>
+<title>Твое Царство</title>
+<key>C#m</key>
 <lyrics>[V1]
  1 куплет:
 .C#m                       F#m   H                  E
@@ -34,6 +36,4 @@
  Все будет так, как хочешь Ты царство любви Твоей наполнит эту землю
  Царство свободы, добра и красоты всё будет так, как хочешь Ты</lyrics>
 <hymn_number>1193</hymn_number>
-<key>C#m</key>
-<author>Краеугольный камень</author>
 </song>

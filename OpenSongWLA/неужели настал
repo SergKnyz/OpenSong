@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>108</hymn_number>
-<key>A</key>
-<author>Авана</author>
-<title>Неужели настал</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am          Dm   E               Am
  Неужели настал   день который я так ждала,
@@ -67,4 +63,8 @@
    Любить так сильно, как люблю тебя сейчас
    Любить так сильно, как люблю тебя сейчас
    Люблю сейчас, Я люблю тебя сейчас.</lyrics>
+<hymn_number>108</hymn_number>
+<author>Авана</author>
+<title>Неужели настал</title>
+<key>A</key>
 </song>

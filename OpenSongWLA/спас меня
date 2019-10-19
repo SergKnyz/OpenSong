@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4176</hymn_number>
-<author>Слово Жизни Москва</author>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Москва</author>
 <title>Спас меня</title>
+<key>Bb</key>
 <lyrics>[V1]
  1 куплет:
 .           Bb        F
@@ -56,4 +55,5 @@
    Иисус победу совершил воскрес, мир искупил
 .  F        Bb
    Мы спасены!</lyrics>
+<hymn_number>4176</hymn_number>
 </song>

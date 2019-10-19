@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1900</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бог сказал пред всей вселенной ПВ1900</title>
 <lyrics>[V1]
  Бог сказал пред всей вселенной.
  Что Он слышит веры зов
@@ -22,5 +22,5 @@
  И опять к Нему приди,
  И ответы на моленья
  Зазвучат в твоей груди.</lyrics>
-<title>Бог сказал пред всей вселенной ПВ1900</title>
+<hymn_number>1900</hymn_number>
 </song>

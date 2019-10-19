@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Вечно петь Тебе</aka>
-<hymn_number>1128</hymn_number>
-<author>Филипп Реннер</author>
-<key>E</key>
-<title>Великий Бог приди ко мне я жду Тебя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1128</hymn_number>
 <lyrics>[V1]
  Куплет:
 .Em       Hm             C         Am Hm
@@ -24,4 +20,8 @@
    В Твои объятья я стремлюсь, с Тобой одним я не боюсь
 .         Em                 Hm
    Я буду вечно петь Тебе Иисус</lyrics>
+<key>E</key>
+<title>Великий Бог приди ко мне я жду Тебя</title>
+<aka>Вечно петь Тебе</aka>
+<author>Филипп Реннер</author>
 </song>

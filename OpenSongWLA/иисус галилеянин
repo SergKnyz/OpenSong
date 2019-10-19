@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Авен Езер</author>
-<hymn_number>3451</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3451</hymn_number>
 <lyrics>[V1]
  1  куплет:
 .      Hm              Em
@@ -36,5 +34,7 @@
  Тебе мир греховный нанесет.
  Подойди под Божий взгляд небесный,
  Что от всех болезней и грехов спасёт!</lyrics>
+<key>B</key>
 <title>Иисус Галилеянин</title>
+<author>Авен Езер</author>
 </song>

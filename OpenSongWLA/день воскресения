@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3214</hymn_number>
-<author>Мелодия</author>
-<key>Em</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Мелодия</author>
 <title>День Воскресения</title>
+<key>Em</key>
 <lyrics>[V1]
  1 куплет:
 .D#m                      H
@@ -55,4 +54,5 @@
    Это день воскресенья, победивший сомненья.
 .    C              Am       Em     H    Em
    День надежды живой, воскрес Спаситель мой.</lyrics>
+<hymn_number>3214</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1315</hymn_number>
-<title>Песни песней</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Есть под небом единственная та
  И прекрасней нет.
  Бог меня навеки с нею сочетал
@@ -35,4 +33,6 @@
 [C4]
    Их года стереть не в силах
    Ты навек меня пленила.</lyrics>
+<hymn_number>1315</hymn_number>
+<title>Песни песней</title>
 </song>

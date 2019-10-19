@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Филипп Реннер</author>
-<hymn_number>615</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .     H
  Мне так не хватает Тебя, Господь так не хватает Тебя
@@ -32,5 +29,8 @@
    О, о-о-о, о-о-о, я весь Твой!!!
 .  G#m   F#      E           F#
    О, о-о-о, о-о-о, я весь Твой!!!</lyrics>
+<hymn_number>615</hymn_number>
+<author>Филипп Реннер</author>
 <title>Мне так не хватает Тебя</title>
+<key>B</key>
 </song>

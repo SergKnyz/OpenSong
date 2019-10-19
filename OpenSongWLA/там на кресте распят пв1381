@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Там на кресте распят ПВ1381</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Взгляни на Голгофу</aka>
+<key>C</key>
+<title>Там на кресте распят ПВ1381</title>
+<hymn_number>1381</hymn_number>
 <lyrics>[V1]
  Взгляни на Голгофу!
  Взгляни на Голгофу!
@@ -31,7 +34,4 @@
  Его святая кровь.
  Его святая кровь.
  Его святая кровь.</lyrics>
-<hymn_number>1381</hymn_number>
-<aka>Взгляни на Голгофу</aka>
-<key>C</key>
 </song>

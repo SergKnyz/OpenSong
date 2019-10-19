@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1558</hymn_number>
-<author>Виталий Ефремочкин</author>
-<key>G</key>
-<title>Отец наш небесный</title>
 <lyrics>[V1]
  Куплет:
 .  G                    C              D
@@ -28,4 +25,7 @@
    Твоё есть Царство Твоя есть Сила Твоя есть
 .           Hm
    Слава во веки Аминь</lyrics>
+<title>Отец наш небесный</title>
+<key>G</key>
+<author>Виталий Ефремочкин</author>
 </song>

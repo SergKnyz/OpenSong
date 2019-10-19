@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>861</hymn_number>
-<key>C</key>
-<author>Ольга Вельгус</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Вельгус</author>
 <title>Сколько раз Мне тебя прощать</title>
+<key>C</key>
 <lyrics>[V1]
 .        Cm
  Сколько раз мне тебя прощать
@@ -139,4 +138,5 @@
  Сколько раз мне тебя прощать
 .      Em            A7
  О, ответь мне дитя Мое,</lyrics>
+<hymn_number>861</hymn_number>
 </song>

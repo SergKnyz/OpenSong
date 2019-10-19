@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Валерий Короп</author>
-<key>D</key>
-<hymn_number>1980</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Dm                    A7      Dm
  Кто во Христе, тот новое творенье
@@ -23,5 +20,8 @@
 .  Dm                     A7        Dm
    Танцуй, танцуй пред Господом, танцуй;
    Танцуй, танцуй пред Господом, танцуй.</lyrics>
+<hymn_number>1980</hymn_number>
+<author>Валерий Короп</author>
+<key>D</key>
 <title>Танцуй пред Господом</title>
 </song>

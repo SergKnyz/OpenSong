@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2916</hymn_number>
-<key>G</key>
-<title>Пришёл к реке я Иордан ПВ2916</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Пришёл к реке я Иордан,
  идя в священный Ханаан,
  куда Господь меня позвал
@@ -31,4 +28,7 @@
  мне даровал Спаситель мой;
  грех первородный побеждён
  и весь я Богу посвящён.</lyrics>
+<hymn_number>2916</hymn_number>
+<key>G</key>
+<title>Пришёл к реке я Иордан ПВ2916</title>
 </song>

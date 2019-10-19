@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2160</hymn_number>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
 <title>Как солнце едино над нами ПВ2160</title>
 <lyrics>[V1]
  Как солнце едино над нами,
@@ -24,4 +23,5 @@
  Кто руку подал бы в беде,
  Имею Христа дорогого.
  Со мной Он всегда и везде.</lyrics>
+<hymn_number>2160</hymn_number>
 </song>

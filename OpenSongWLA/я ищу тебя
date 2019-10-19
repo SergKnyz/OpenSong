@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2079</hymn_number>
-<author>Reallife band</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Reallife band</author>
 <key>D</key>
 <title>Я ищу Тебя</title>
 <lyrics>[V1]
@@ -15,4 +14,5 @@
  Твоя любовь столь велика
  Что не могу представить я
  И мое сердце пред Тобой сокрушается</lyrics>
+<hymn_number>2079</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<hymn_number>2279</hymn_number>
-<aka>В горнем ущелье укройся</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В горнем ущелье укройся,
  Ты, изнуренный трудом.
  Кровью Христовой омойся,
@@ -22,5 +19,8 @@
  Плач прекратит и стенанья,
  Все слезы с очей Сам отрет.
  Все слезы с очей Сам отрет.</lyrics>
+<hymn_number>2279</hymn_number>
+<aka>В горнем ущелье укройся</aka>
+<key>D</key>
 <title>Ты изнуренный трудом ПВ342</title>
 </song>

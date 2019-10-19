@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<key>D</key>
-<hymn_number>2914</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    Dm7    Am7    Dm7 Am7
  Мы к Тебе    и - дём__
@@ -31,5 +28,8 @@
    С Божьей благодатью
 .  Hb      C7sus  C   Dm7  Am7 Dm A7
    Мы идём под знаменем Небес.</lyrics>
+<hymn_number>2914</hymn_number>
+<author>Hillsong Ukraine</author>
 <title>Мы к Тебе идём</title>
+<key>D</key>
 </song>

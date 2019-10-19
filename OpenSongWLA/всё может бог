@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1432</hymn_number>
-<author>Hillsong Ukraine</author>
-<key>B</key>
-<title>Всё Может Бог</title>
 <lyrics>[V1]
  1 куплет:
 .       H             F#
@@ -41,4 +38,7 @@
    Ведь за нас Бог нас всегда Он ждет
 .           G#m       F#           E
    Он не подведет нас Он не подведет нас</lyrics>
+<title>Всё Может Бог</title>
+<key>B</key>
+<author>Hillsong Ukraine</author>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я за Христом иду без страха я живу ПВ3118</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Я за Христом иду без страха я живу ПВ3118</title>
+<hymn_number>3118</hymn_number>
 <lyrics>[V1]
  Я за Христом иду, без страха я живу,
  хоть враг преследует меня;
@@ -28,6 +30,4 @@
  что к вечной радости ведет.
  Кто умер за меня, того прославлю
  я там, где хор ангелов поет.</lyrics>
-<hymn_number>3118</hymn_number>
-<key>A</key>
 </song>

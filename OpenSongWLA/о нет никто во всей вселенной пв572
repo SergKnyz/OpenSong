@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О нет никто во всей вселенной ПВ572</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>О нет никто во всей вселенной ПВ572</title>
+<hymn_number>572</hymn_number>
 <lyrics>[V1]
  О, нет, никто во всей вселенной
  Свободы верных не лишит,
@@ -28,6 +30,4 @@
  Мы совесть чистой сохраним,
  Мы тайной счастья овладеем
  И ею мир обогатим!</lyrics>
-<hymn_number>572</hymn_number>
-<key>E</key>
 </song>

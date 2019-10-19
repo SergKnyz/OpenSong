@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1107</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бывали в жизни трудные минуты ПВ1107</title>
 <key>G</key>
-<title>Бывали в жизни трудные минуты ПВ1107</title>
 <lyrics>[V1]
  Бывали в жизни трудные минуты,
  И горе посещало нас не раз.
@@ -24,4 +23,5 @@
  И наше бремя нам не по плечу.
  Но мы несём в сердцах своих надежду.
  Как на ветру горящую свечу.</lyrics>
+<hymn_number>1107</hymn_number>
 </song>

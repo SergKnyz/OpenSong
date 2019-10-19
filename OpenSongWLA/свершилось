@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>575</hymn_number>
-<key>C</key>
-<author>Спасение церковь г. Вишневое</author>
-<title>Свершилось</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Cm              Ab        G
  Обезображен, измучен Он был...
@@ -36,4 +32,8 @@
    Мой Бог воскрес! И я с Ним воскресну!
 .       Fm           G          Cm
    Всю Вечность с Творцом проведу!</lyrics>
+<hymn_number>575</hymn_number>
+<author>Спасение церковь г. Вишневое</author>
+<title>Свершилось</title>
+<key>C</key>
 </song>

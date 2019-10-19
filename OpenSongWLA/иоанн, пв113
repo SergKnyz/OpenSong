@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Видел небо в день воскресный</aka>
-<hymn_number>113</hymn_number>
-<key>C</key>
-<title>Иоанн, ПВ113</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Видел небо в день воскресный
  Иоанн,
  Лился глас к нему небесный,
@@ -48,4 +44,8 @@
  В красоте,
  Любит смертных, как и прежде,
  В нищете.</lyrics>
+<hymn_number>113</hymn_number>
+<aka>Видел небо в день воскресный</aka>
+<key>C</key>
+<title>Иоанн, ПВ113</title>
 </song>

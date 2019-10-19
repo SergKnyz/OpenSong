@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Когда на сердце мне бывает грустно,</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Вузенька стежка</author>
+<key>Bb</key>
+<title>Когда на сердце мне бывает грустно,</title>
 <lyrics>[V1]
  1 куплет:
 .       Bbm
@@ -41,6 +43,4 @@
  На небеса, где день не угасает
  Возьми меня, возьми меня, возьми меня.</lyrics>
 <hymn_number>1342</hymn_number>
-<key>Bb</key>
-<author>Вузенька стежка</author>
 </song>

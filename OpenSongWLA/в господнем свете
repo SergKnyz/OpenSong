@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
-<author>Арина</author>
-<hymn_number>40</hymn_number>
-<tempo>70</tempo>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Арина</author>
+<time_sig>2/4</time_sig>
+<key>Em</key>
+<title>В Господнем Свете</title>
 <lyrics>[V1]
 .              Em             Em
  В Господнем свете, в Его присутствии
@@ -41,6 +41,6 @@
  Господне имя поют мои уста,
 .   C       D    Em
  И дух мой сокрушен...</lyrics>
-<time_sig>2/4</time_sig>
-<title>В Господнем Свете</title>
+<tempo>70</tempo>
+<hymn_number>40</hymn_number>
 </song>

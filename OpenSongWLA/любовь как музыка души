@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>В лучах любви</aka>
-<hymn_number>5293</hymn_number>
-<title>Любовь как музыка души</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5293</hymn_number>
 <lyrics>[V1]
  Любовь .... как музыка души
  Сошла с небес, мне подарив прощение
@@ -26,4 +24,6 @@
  Стирает уходящей ночи тени
  Стирает Бог следы былой вины
  И я склоняю в тишине колени.</lyrics>
+<aka>В лучах любви</aka>
+<title>Любовь как музыка души</title>
 </song>

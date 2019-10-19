@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2686</hymn_number>
-<author>Алексей Захаренко</author>
-<key>A</key>
-<title>Милость Твоя лучше чем жизнь</title>
 <lyrics>[V1]
  Милость Твоя лучше чем жизнь ,
  Господь, Ты нужен мне .
@@ -20,4 +17,7 @@
  Кп.
 .Am|C|C|Dm
  Пр.</lyrics>
+<title>Милость Твоя лучше чем жизнь</title>
+<key>A</key>
+<author>Алексей Захаренко</author>
 </song>

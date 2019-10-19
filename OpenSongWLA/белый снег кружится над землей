@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Белый снег кружится над землей</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Рождество приходит к нам с тобой</aka>
+<key>F</key>
+<title>Белый снег кружится над землей</title>
+<author>Белые Крылья</author>
+<hymn_number>1210</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .        Fm      G            Cm
@@ -33,8 +37,4 @@
  Но Рождество нам вычеркнуть нельзя
  Новый свет сияющей звезды
  Мы видим я и ты две тысячи уж лет.</lyrics>
-<aka>Рождество приходит к нам с тобой</aka>
-<hymn_number>1210</hymn_number>
-<author>Белые Крылья</author>
-<key>F</key>
 </song>

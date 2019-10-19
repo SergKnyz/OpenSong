@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>120</hymn_number>
-<key>F#</key>
-<author>Ксения Кузнецова</author>
-<title>Ты мой Герой</title>
 <lyrics>[V1]
  Куплет:
 .F#m                    A
@@ -26,4 +23,7 @@
    Иисус - Ты мой Победитель!
 .  D  E             F#m
    Иисус - Ты мой Герой!</lyrics>
+<key>F#</key>
+<title>Ты мой Герой</title>
+<author>Ксения Кузнецова</author>
 </song>

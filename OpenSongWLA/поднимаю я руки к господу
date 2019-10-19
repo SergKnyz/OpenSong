@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>386</hymn_number>
-<aka>Бог мой единый</aka>
-<author>Вадим Ятковский</author>
-<key>E</key>
-<title>Поднимаю я руки к Господу</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .      Em          Am
  Поднимаю я руки к Господу
@@ -38,4 +33,9 @@
    И Тебе Одному я служу
    Буду воспевать, буду прославлять
    Твое имя я благословлю!</lyrics>
+<hymn_number>386</hymn_number>
+<author>Вадим Ятковский</author>
+<aka>Бог мой единый</aka>
+<key>E</key>
+<title>Поднимаю я руки к Господу</title>
 </song>

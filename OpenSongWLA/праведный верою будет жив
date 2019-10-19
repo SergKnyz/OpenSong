@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Живое Слово г. Киев</author>
-<hymn_number>2535</hymn_number>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .    Em        C     G      D
    Праведный верою будет жив,
@@ -49,5 +46,8 @@
  Верой мы славим Великого Бога,
 .C                       H7
  Он воздаёт всем, кто верит в Него.</lyrics>
+<hymn_number>2535</hymn_number>
+<author>Живое Слово г. Киев</author>
+<key>E</key>
 <title>Праведный верою будет жив</title>
 </song>

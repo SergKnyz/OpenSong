@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>303</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Славьте Господа ИИПВ303</title>
 <key>C</key>
-<title>Славьте Господа ИИПВ303</title>
 <lyrics>[V1]
 .  C      G      Am          F       C
  Славьте Господа, ибо вовек милость Его.
@@ -10,4 +9,5 @@
  Славьте Господа, ибо вовек милость Его.
 .F    C      F      G    C
  Аллилуйя, славьте Господа.</lyrics>
+<hymn_number>303</hymn_number>
 </song>

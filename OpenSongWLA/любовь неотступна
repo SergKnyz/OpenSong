@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2826</hymn_number>
-<author>Hillsong United, Хиллсонг Унитед</author>
-<key>D</key>
-<title>Любовь неотступна</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  КУПЛЕТ 1:
  Есть новый старт в Твоём спасении
  Когда сердца решают верить
@@ -32,4 +28,8 @@
    До конца сражаясь, Бог Ты жизнь отдал за все сердца
    Сквозь преграду тьмы прорвавшись цепи разорвав Ты всех нас спас
    До конца сражаясь, Бог Ты жизнь отдал</lyrics>
+<hymn_number>2826</hymn_number>
+<author>Hillsong United, Хиллсонг Унитед</author>
+<title>Любовь неотступна</title>
+<key>D</key>
 </song>

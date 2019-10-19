@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>338</hymn_number>
-<key>A</key>
-<author>Краеугольный камень</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Краеугольный камень</author>
 <title>Глубина</title>
+<key>A</key>
 <lyrics>[V1]
  1 куплет:
 .Am                        A7                Dm
@@ -41,4 +40,5 @@
    Из глубины живая вода, вода Твоей любви как река
 .                       F                        E
    Пусть льется, пробуждая от сна, сердца наполняя хвалой.</lyrics>
+<hymn_number>338</hymn_number>
 </song>

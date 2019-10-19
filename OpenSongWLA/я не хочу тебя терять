@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5406</hymn_number>
-<author>Денис Попурей</author>
-<key>B</key>
-<title>Я не хочу Тебя терять</title>
 <lyrics>[V1]
  1 куплет:
 .D#m               H  C#             Bb
@@ -64,4 +61,7 @@
    Я всё равно Тебя люблю! И каждый день Отца молю.
 .              D                    H
    Знаю, как трудно одному, я не отдам Тебя никому.</lyrics>
+<title>Я не хочу Тебя терять</title>
+<key>B</key>
+<author>Денис Попурей</author>
 </song>

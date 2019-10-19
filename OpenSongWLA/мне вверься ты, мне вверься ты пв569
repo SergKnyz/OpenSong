@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<aka>Вот голос небесный звучит с высоты</aka>
-<hymn_number>569</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>569</hymn_number>
 <lyrics>[V1]
  Вот голос небесный звучит с высоты;
  &quot;Мне вверься ты, Мне вверься ты!
@@ -24,5 +22,7 @@
  Страх принося с мукой забот,
  При свете чудесном Господних лучей
  В мире не будет ночей.</lyrics>
+<key>Bb</key>
 <title>&quot;Мне вверься ты, Мне вверься ты! ПВ569</title>
+<aka>Вот голос небесный звучит с высоты</aka>
 </song>

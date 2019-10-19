@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>354</hymn_number>
-<aka>И за ними два пути.</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>И за ними два пути.</aka>
 <key>D</key>
 <title>Вот ворота пред тобою ПВ354</title>
 <lyrics>[V1]
@@ -31,4 +30,5 @@
  И за ними два пути.
  Друг мой, робкою душою
  Избери, каким идти!</lyrics>
+<hymn_number>354</hymn_number>
 </song>

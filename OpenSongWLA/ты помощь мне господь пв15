@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>15</hymn_number>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
 <title>Ты помощь мне Господь ПВ15</title>
 <lyrics>[V1]
  Ты - помощь мне, Господь,
@@ -36,4 +35,5 @@
  Мой Царь, мой Бог,
  Чтоб силой я Твоей
  Все превозмог.</lyrics>
+<hymn_number>15</hymn_number>
 </song>

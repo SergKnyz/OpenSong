@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
-<author>Неизвестный</author>
-<hymn_number>3938</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3938</hymn_number>
 <lyrics>[V1]
 .Cm
  Вся земля под ногами гудит
@@ -27,5 +25,7 @@
  В ранах Иисуса ответ
  Открыта спасения дверь
  Свет пробужденья.</lyrics>
+<key>Ab</key>
 <title>земля под ногами горит</title>
+<author>Неизвестный</author>
 </song>

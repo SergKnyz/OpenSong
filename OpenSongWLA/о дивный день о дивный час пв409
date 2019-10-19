@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О дивный день О дивный час ПВ409</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>О дивный день О дивный час ПВ409</title>
+<hymn_number>409</hymn_number>
 <lyrics>[V1]
  О дивный день! О дивный час,
  Когда Спаситель в первый раз
@@ -36,6 +38,4 @@
  Поверил я в любовь Христа
  И был омыт крови струей,
  Стекавшей некогда с креста.</lyrics>
-<hymn_number>409</hymn_number>
-<key>G</key>
 </song>

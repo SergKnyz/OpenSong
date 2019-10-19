@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Не грусти</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Nikita Isakov</author>
+<key>E</key>
+<title>Не грусти</title>
 <lyrics>[V1]
  КУПЛЕТ:
 .E                G#m            A
@@ -31,6 +33,4 @@
  Нужно мечтать и побеждать,
  Сердцем гореть, радостно петь.</lyrics>
 <hymn_number>286</hymn_number>
-<author>Nikita Isakov</author>
-<key>E</key>
 </song>

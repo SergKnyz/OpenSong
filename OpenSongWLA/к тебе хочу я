@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1042</hymn_number>
-<key>C#m</key>
-<author>NG Worship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>NG Worship</author>
 <title>К Тебе хочу я</title>
+<key>C#m</key>
 <lyrics>[V1]
  1 куплет:
 .           C#m   A            E      H
@@ -31,4 +30,5 @@
    Не могу жить без Тебя я
 .      C#m7            A
    Не могу жить без Тебя я</lyrics>
+<hymn_number>1042</hymn_number>
 </song>

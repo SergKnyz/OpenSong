@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<hymn_number>250</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О, товарищи, смотрите,
  С неба дан сигнал
  Новые полки глядите,
@@ -41,5 +39,7 @@
    Вот уж Я иду!&quot;
    Вы на небо отвечайте:
    &quot;Не сдали врагу!&quot;</lyrics>
+<hymn_number>250</hymn_number>
 <title>О товарищи смотрите ПВ250</title>
+<key>D</key>
 </song>

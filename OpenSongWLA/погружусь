@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<key>D</key>
-<hymn_number>99</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>99</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .D                  D/F#
@@ -47,4 +45,6 @@
 .            Hm                   G
    Прошу мне силы дай Тебя всей жизнью знать</lyrics>
 <title>Погружусь</title>
+<key>D</key>
+<author>Hillsong Ukraine</author>
 </song>

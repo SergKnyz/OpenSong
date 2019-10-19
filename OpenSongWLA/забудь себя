@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Забудь себя</title>
+<key>C</key>
+<author>Радость</author>
+<hymn_number>1251</hymn_number>
+<lyrics>[C1]
    Припев:
 .           C Em/H       Am   G
    Забудь себя хотя б на миг,
@@ -29,8 +33,4 @@
  Чтобы не быть нам осужденными
  Мы не будем осуждать друг друга
  Неужели это трудно?</lyrics>
-<title>Забудь себя</title>
-<key>C</key>
-<author>Радость</author>
-<hymn_number>1251</hymn_number>
 </song>

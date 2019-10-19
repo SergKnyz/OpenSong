@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Пробуди любовь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>Пробуди любовь</title>
+<author>4U Band</author>
+<hymn_number>1932</hymn_number>
 <lyrics>[V1]
  Куплет:
 .D#       Bb              F           Gm
@@ -29,7 +32,4 @@
    Тобою живу я, Великий Бог любви.
 .         D#         Bb      Gm            F
    Горю желаньем все больше отдать Тебе себя!</lyrics>
-<hymn_number>1932</hymn_number>
-<key>F</key>
-<author>4U Band</author>
 </song>

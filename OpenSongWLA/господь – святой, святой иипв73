@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<hymn_number>73</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Господь – Святой, Святой ИИПВ73</title>
+<key>E</key>
 <lyrics>[C1]
 .    E     F#m/E   C#m/E F#m/E
    Господь - Святой,  Святой             (×4)
@@ -22,5 +22,5 @@
 .     E          F#m/E     G#m/E
    Вся сила, вся слава, вся честь
    Тебе,мой Господь.</lyrics>
-<title>Господь – Святой, Святой ИИПВ73</title>
+<hymn_number>73</hymn_number>
 </song>

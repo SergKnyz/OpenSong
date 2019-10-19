@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Дай мне видеть величие Твое</title>
-<time_sig>4/4</time_sig>
+<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
+<key>F</key>
+<title>Дай мне видеть величие Твое</title>
 <lyrics>[V1]
 . F                        C
  Дай мне видеть величие Твоё,
@@ -30,5 +31,4 @@
 .  B                      B/C  C  B/D C/E F
    Один, Господь, кому я поклоняюсь.</lyrics>
 <hymn_number>96</hymn_number>
-<key>F</key>
 </song>

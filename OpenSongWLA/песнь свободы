@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1557</hymn_number>
-<key>F</key>
-<author>Новое Поколение Мелитополь</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новое Поколение Мелитополь</author>
 <title>Песнь Свободы</title>
+<key>F</key>
 <lyrics>[V1]
  1 куплет:
 .     F                   C                     G
@@ -35,4 +34,5 @@
  3 куплет:
  Все силы ада трепещут и расступается тьма,
  Я знаю, Дух Святой приходит там, где льется хвала.</lyrics>
+<hymn_number>1557</hymn_number>
 </song>

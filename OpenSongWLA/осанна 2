@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Скажет слабый</aka>
-<hymn_number>2494</hymn_number>
-<key>C</key>
-<author>Hillsong Ukraine, Хиллсонг, Реубен Морган</author>
-<title>Осанна</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C   G   C
  Скажет слабый: Я силён
 .   F      Am
@@ -30,4 +25,9 @@
  Найду я жизнь в руках Твоих.
  Буду петь, что во Христе
  К новой жизни я воскрес.</lyrics>
+<hymn_number>2494</hymn_number>
+<author>Hillsong Ukraine, Хиллсонг, Реубен Морган</author>
+<aka>Скажет слабый</aka>
+<title>Осанна</title>
+<key>C</key>
 </song>

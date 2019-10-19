@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>О мой Спаситель, дай чтобы я</aka>
-<hymn_number>2761</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ближе к Себе о Спаситель влеки ПВ2761</title>
 <key>C</key>
-<title>Ближе к Себе о Спаситель влеки ПВ2761</title>
+<aka>О мой Спаситель, дай чтобы я</aka>
 <lyrics>[V1]
 .Bb                F        Bb
  Ближе к Себе, о Спаситель, влеки,
@@ -33,4 +32,5 @@
  Духом Святым Ты меня крести,
  Чтоб искушения яд побеждать
  Жизнью, делами Тебя прославлять.</lyrics>
+<hymn_number>2761</hymn_number>
 </song>

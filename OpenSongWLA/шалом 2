@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1034</hymn_number>
-<author>Маханаим</author>
-<key>A</key>
-<title>Шалом</title>
 <lyrics>[V1]
  1 куплет:
 .       Am               Dm
@@ -54,4 +51,7 @@
  От зари и до зари се, Я с вами во все дни - шалом!
 .     Dm                    F             G     A
  От зари и до зари се, Я с вами во все дни - шалом!</lyrics>
+<key>A</key>
+<title>Шалом</title>
+<author>Маханаим</author>
 </song>

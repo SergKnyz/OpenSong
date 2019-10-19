@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Истина в Иисусе церковь г. Таллинн</author>
-<key>E</key>
-<hymn_number>2413</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2413</hymn_number>
 <lyrics>[V1]
  Куплет:
 .    E                    H
@@ -30,4 +28,6 @@
 .           C#m             A
    Мы превозносим Тебя,  Иисус.</lyrics>
 <title>Доверяю Тебе</title>
+<key>E</key>
+<author>Истина в Иисусе церковь г. Таллинн</author>
 </song>

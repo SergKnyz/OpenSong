@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<hymn_number>20</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . G      C   D    G    C   D
  Бог, объедини, нас объедини.
 .       C         D        G       Em
@@ -13,5 +11,7 @@
  Знаем мы, что Твой Сын погиб за нас.
 . C       D       C G
  Бог, спасибо Тебе.</lyrics>
+<hymn_number>20</hymn_number>
+<key>G</key>
 <title>Бог, объедини нас объедини. ИИПВ20</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Hillsong Ukraine</author>
-<hymn_number>729</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>729</hymn_number>
 <lyrics>[V1]
  Куплет 1:
 .     D
@@ -52,5 +50,7 @@
    Ведь знаю я, что со мной Ты здесь
 .          G        Hm     G    D  A D
    Ведь знаю я, со мной Твоя любовь</lyrics>
+<key>D</key>
 <title>Последствия</title>
+<author>Hillsong Ukraine</author>
 </song>

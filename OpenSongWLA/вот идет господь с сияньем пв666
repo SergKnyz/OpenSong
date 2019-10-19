@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>666</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>И с победным торжеством;</aka>
 <key>G</key>
 <title>Вот идет Господь с сияньем ПВ666</title>
 <lyrics>[V1]
@@ -30,4 +30,5 @@
  Все хвалу Христу поют;
  Вдохновением спокойным
  Реки радости текут.</lyrics>
+<hymn_number>666</hymn_number>
 </song>

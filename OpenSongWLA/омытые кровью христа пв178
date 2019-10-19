@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<aka>Воспряньте воспойте ликуйте</aka>
-<hymn_number>3576</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Воспряньте, воспойте, ликуйте,
  Омытые кровью Христа!
  Вы новую песню воспойте
@@ -30,5 +27,8 @@
  Хвалебную песню Тому,
  Кто нас искупил Своей кровью,
  О, слава навеки Ему!</lyrics>
+<hymn_number>3576</hymn_number>
 <title>Омытые кровью Христа ПВ178</title>
+<key>Bb</key>
+<aka>Воспряньте воспойте ликуйте</aka>
 </song>

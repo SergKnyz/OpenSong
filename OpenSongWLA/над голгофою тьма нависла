@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Егор и Наталия Лансере</author>
-<key>A</key>
 <aka>Агнец Пасхальный</aka>
-<hymn_number>2698</hymn_number>
+<title>Над Голгофою тьма нависла</title>
+<key>A</key>
 <lyrics>[V1]
  1 куплет:
 .Am             Dm       Am                Dm
@@ -60,5 +60,5 @@
    Он наш Агнец Пасхальный, заклан за нас, заклан за нас.
    D                             A                                    E                             A
    Претерпел Он страданья, Кровью нас спас, Кровью нас спас!</lyrics>
-<title>Над Голгофою тьма нависла</title>
+<hymn_number>2698</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Anelle</author>
-<hymn_number>4831</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4831</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Cm              Ab
@@ -42,5 +40,7 @@
 
 [V3]
  Проигрыш:</lyrics>
+<key>C</key>
 <title>За грешных нас</title>
+<author>Anelle</author>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>JC Movement</author>
-<key>B</key>
-<hymn_number>3510</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3510</hymn_number>
 <lyrics>[C1]
    Припев:
 .  Hm              G
@@ -38,4 +36,6 @@
 .  A
    Готово сердце мое славить Тебя.</lyrics>
 <title>Готово сердце моё</title>
+<key>B</key>
+<author>JC Movement</author>
 </song>

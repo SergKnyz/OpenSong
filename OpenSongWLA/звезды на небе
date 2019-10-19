@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Звезды на небе</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Андрей Максимов</author>
+<title>Звезды на небе</title>
+<key>D</key>
 <lyrics>[V1]
  Dm                         G7        C         Am
  Звезды на небе сияют ярким огнем,
@@ -27,6 +29,4 @@
  О, Боже, я счастлив купаться в силе Твоей.
  Все очень приятно душе уставшей моей.</lyrics>
 <hymn_number>3382</hymn_number>
-<key>D</key>
-<author>Андрей Максимов</author>
 </song>

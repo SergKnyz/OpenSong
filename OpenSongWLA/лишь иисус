@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Матфей Шариков</author>
-<key>F</key>
-<hymn_number>5252</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .      Fm                       Eb
  Только Ты мой Спаситель видишь сердце моё
@@ -34,5 +31,8 @@
  И любовь изольётся из него для людей
  С благодарностью в сердце буду славить Тебя
  Что любовью и светом Ты наполнил меня</lyrics>
+<hymn_number>5252</hymn_number>
+<author>Матфей Шариков</author>
+<key>F</key>
 <title>Лишь Иисус</title>
 </song>

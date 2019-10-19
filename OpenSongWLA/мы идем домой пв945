@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Мы идем домой ПВ945</title>
+<key>D</key>
+<hymn_number>945</hymn_number>
 <lyrics>[V1]
  Мы идем домой,
  Пастырь добрый мой.
@@ -22,6 +24,4 @@
  Твердо стой, мой друг,
  Не страшись врага,
  Мы для мира все здесь умрем.</lyrics>
-<hymn_number>945</hymn_number>
-<key>D</key>
 </song>

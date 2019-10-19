@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>505</hymn_number>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <title>Они собираются все домой ПВ505</title>
 <lyrics>[V1]
  Они собираются все домой!
@@ -36,4 +35,5 @@
  Но знаем прибегнуть теперь к Кому.
  Чрез реку прошел Ты, Господь, в полночь
  И можешь идущим рукой помочь.</lyrics>
+<hymn_number>505</hymn_number>
 </song>

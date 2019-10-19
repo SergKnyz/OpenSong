@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>84</hymn_number>
-<key>G</key>
-<title>Господь, Ты мой свет ИИПВ84</title>
 <lyrics>[V1]
 .    G
  Господь, Ты мой свет,
@@ -24,4 +22,6 @@
  Десницей правды Ты сразил врагов,
 .C                    D
  Победу дал мне и спасенье.</lyrics>
+<title>Господь, Ты мой свет ИИПВ84</title>
+<key>G</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Hillsong Ukraine</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Dm7   G7  Dm7      G7
  Бог Верный, что обещал - исполнит.
 .Dm7    G7     Bb        C2
@@ -27,5 +25,7 @@
  Бог Неизменный, Он - Вечный и Живой.
  В Нём - святость, величие и сила.
  Он подарил нам в сердце Дух Святой.</lyrics>
+<author>Hillsong Ukraine</author>
+<key>C</key>
 <title>Бог Верный</title>
 </song>

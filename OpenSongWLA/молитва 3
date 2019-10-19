@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Илья Цыганков</author>
+<title>Молитва</title>
+<key>C</key>
+<lyrics>[V1]
  1 куплет:
 .Cm                      D#/Bb
  Когда трудно бывает порой и сжимает мне сердце тревога
@@ -37,8 +40,5 @@
    Сохрани мою вечную душу для чертогов небесных Твоих
 .          Dm              F/C       Bb              A
    Чтоб заветов Твоих не нарушил и имел утешение в них</lyrics>
-<title>Молитва</title>
-<author>Илья Цыганков</author>
-<key>C</key>
 <hymn_number>958</hymn_number>
 </song>

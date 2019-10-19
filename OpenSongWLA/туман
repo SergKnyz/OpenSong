@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1713</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <key>E</key>
-<author>Неизвестный</author>
 <title>Туман</title>
 <lyrics>[V1]
  1 куплет:
@@ -80,4 +79,5 @@
    Ну когда же ты поймешь,
    Ну когда же ты поймешь
    Для чего ты здесь живешь.</lyrics>
+<hymn_number>1713</hymn_number>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бесконечный Бог</title>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
 .  Em          D
    Бесконечный Бог!
 .  C             B
@@ -61,6 +60,7 @@
    Всепрощающий!
    Вечнолюбящий!</lyrics>
 <hymn_number>2038</hymn_number>
-<key>E</key>
 <author>Нарния</author>
+<key>E</key>
+<title>Бесконечный Бог</title>
 </song>

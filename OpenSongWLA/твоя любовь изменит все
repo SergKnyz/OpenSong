@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<key>F#</key>
-<hymn_number>299</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>299</hymn_number>
 <lyrics>[V1]
  Запев:
 .       F#m Hm        E  D        F#m Hm      E D
@@ -49,4 +47,6 @@
 .   Hm         D         F#m
    Теперь живём мы для Тебя всегда</lyrics>
 <title>Твоя Любовь Изменит Все</title>
+<key>F#</key>
+<author>Hillsong Ukraine</author>
 </song>

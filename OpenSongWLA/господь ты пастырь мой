@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6204</hymn_number>
-<author>Новое поколение (Рига)</author>
-<key>Dm</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новое поколение (Рига)</author>
 <title>Господь Ты Пастырь мой</title>
+<key>Dm</key>
 <lyrics>[V1]
 .Dm            Gm
  Господь, Ты - Пастырь мой.
@@ -21,4 +20,5 @@
    Где бы, я ни шел, не убоюсь я зла!
 .       A           Asus
    Твой  жезл, и Твой посох - успокоят меня!</lyrics>
+<hymn_number>6204</hymn_number>
 </song>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<hymn_number>110</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Знаешь ли ты сколько ясных ПВ110</title>
+<key>F</key>
 <lyrics>[V1]
  Знаешь ли ты, сколько ясных
  Звезд сияет в небесах?
@@ -35,5 +35,5 @@
    И, где грешник погибает,
    Бог к нему в любви спешит.
    Бог к нему в любви спешит.</lyrics>
-<title>Знаешь ли ты сколько ясных ПВ110</title>
+<hymn_number>110</hymn_number>
 </song>

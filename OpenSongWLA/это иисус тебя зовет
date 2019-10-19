@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Это Иисус тебя зовет</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Маханаим</author>
+<title>Это Иисус тебя зовет</title>
+<key>E</key>
 <lyrics>[V1]
  1 куплет:
 .  Em               F#                    Hm       A       G
@@ -28,6 +30,4 @@
  Он твой Отец, Он знает все, и о тебе позаботится.
  Выбери свет, сделай свой шаг, торопись.</lyrics>
 <hymn_number>925</hymn_number>
-<key>E</key>
-<author>Маханаим</author>
 </song>

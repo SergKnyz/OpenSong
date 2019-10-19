@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>337</hymn_number>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <title>У меня есть дорогой сосуд ИИПВ337</title>
 <lyrics>[C1]
 .  D   A      Bm  F#m    G
@@ -32,4 +31,5 @@
  ПопрошуЕго,
  Чтобхранил меня в любви Он
  ЦарстваСвоего.</lyrics>
+<hymn_number>337</hymn_number>
 </song>

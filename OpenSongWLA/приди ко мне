@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Приди ко мне</title>
+<key>C</key>
+<author>Ольга Вельгус</author>
+<hymn_number>742</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .          Cm   D              Gm
@@ -37,7 +40,4 @@
  Приди ко мне, когда слеза невольно
  Блеснет на грустных и безрадостных глазах
  Пусть весь в слезах приди ко мне - Бог говорит тебе.</lyrics>
-<hymn_number>742</hymn_number>
-<author>Ольга Вельгус</author>
-<key>C</key>
 </song>

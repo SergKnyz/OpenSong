@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Господь я бедное дитя ПВ60</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Господь я бедное дитя ПВ60</title>
 <lyrics>[V1]
  Господь, я бедное дитя,
  Я слаб, где сил мне взять?
@@ -47,5 +48,4 @@
  Тогда нить дней моих прерви
  И дух возьми с Собой.</lyrics>
 <hymn_number>60</hymn_number>
-<key>G</key>
 </song>

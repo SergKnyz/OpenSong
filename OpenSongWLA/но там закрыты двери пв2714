@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>В больших домах тепло и свет</aka>
-<hymn_number>2714</hymn_number>
-<key>G</key>
-<title>Но там закрыты двери ПВ2714</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В больших домах тепло и свет,
  Но там закрыты двери
  Там Иисусу места нет
@@ -31,4 +27,8 @@
  Я буду ждать и верить,
  Тебе в душе моей всегда
  Открыты настежь двери.</lyrics>
+<hymn_number>2714</hymn_number>
+<aka>В больших домах тепло и свет</aka>
+<title>Но там закрыты двери ПВ2714</title>
+<key>G</key>
 </song>

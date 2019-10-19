@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4079</hymn_number>
-<author>Филипп Реннер</author>
-<key>G</key>
-<title>Хочу быть с Тобой</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .G                      C
  В Твоем присутствии стою я,
 .       G         C
@@ -28,4 +24,8 @@
    Я хочу быть с Тобой
 .       D  C        G
    Я хочу быть с Тобой</lyrics>
+<hymn_number>4079</hymn_number>
+<author>Филипп Реннер</author>
+<title>Хочу быть с Тобой</title>
+<key>G</key>
 </song>

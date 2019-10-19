@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>351</hymn_number>
-<author>Слово Жизни Music</author>
-<key>B</key>
-<title>Матфея 6-13</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   H               D#m         E
  В комнату войдя я дверь затворю
@@ -48,4 +44,8 @@
    Ибо Твоё есть Царство и сила
 .  G#m          E
    Слава вовеки.</lyrics>
+<hymn_number>351</hymn_number>
+<author>Слово Жизни Music</author>
+<title>Матфея 6-13</title>
+<key>B</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>SokolovBrothers</author>
-<hymn_number>3985</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3985</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am               F              C               Em
@@ -29,5 +27,7 @@
  Спасибо что сокрыл меня в себе поверить дал в чудеса
  Ты своей силой пришел и наполнил разбил порочный круг.
  Духом святым Ты изменил всё вокруг.</lyrics>
+<key>A</key>
 <title>Океан любви</title>
+<author>SokolovBrothers</author>
 </song>

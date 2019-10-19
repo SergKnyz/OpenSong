@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1722</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .      C                     F        C
  В присутствие Твое я прихожу и знаю я,
@@ -23,9 +24,8 @@
  2 куплет:
  Так много тебе хочется сказать, но беден я
  Отдам я, Иисус, Тебе себя - вот жизнь моя!</lyrics>
-<title>Богу слава</title>
-<key>C</key>
-<author>Корван</author>
-<hymn_number>1722</hymn_number>
 <aka>В присутствие Твое я прихожу и знаю я,</aka>
+<key>C</key>
+<title>Богу слава</title>
+<author>Корван</author>
 </song>

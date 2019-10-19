@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<hymn_number>3029</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Мы приветствуем тебя,
  ночь, что нам дала Христа,
  что младенцем был рождён
@@ -29,5 +27,7 @@
  что на землю бедную
  с трона царского сошёл,
  к нам Спасителем пришёл!</lyrics>
+<hymn_number>3029</hymn_number>
+<key>C</key>
 <title>Мы приветствуем тебя ПВ3029</title>
 </song>

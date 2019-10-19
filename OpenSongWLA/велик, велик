@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2513</hymn_number>
-<aka>Только Ты Бог и Царь</aka>
-<author>Павел Геращенко</author>
-<key>G</key>
-<title>Велик, Велик</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вступление:
 
 [V2]
@@ -53,4 +48,9 @@
    Велик, Велик
    Только Ты Бог и Царь
    Только в Тебе покой для меня</lyrics>
+<hymn_number>2513</hymn_number>
+<author>Павел Геращенко</author>
+<key>G</key>
+<title>Велик, Велик</title>
+<aka>Только Ты Бог и Царь</aka>
 </song>

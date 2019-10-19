@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Аллилуйя</aka>
+<title>Тот Кто на небе Тебя ищу</title>
+<key>A</key>
+<author>Виталий Ефремочкин</author>
+<hymn_number>143</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .Am                     F      Em
  Тот, Кто на небе, Тебя ищу Тебя, Иисус мой
@@ -37,9 +42,4 @@
    Я провозглашу и буду я петь
    Что чудесен Ты прекрасен Ты
    Ты достоин всей хвалы</lyrics>
-<title>Тот Кто на небе Тебя ищу</title>
-<key>A</key>
-<author>Виталий Ефремочкин</author>
-<hymn_number>143</hymn_number>
-<aka>Аллилуйя</aka>
 </song>

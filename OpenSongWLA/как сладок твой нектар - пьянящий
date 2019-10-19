@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Посольство Божье церковь г.Симферополь</author>
-<key>B</key>
-<hymn_number>344</hymn_number>
-<aka>Аромат любви</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .             Hm
  Как сладок Твой нектар - пьянящий
@@ -23,5 +19,9 @@
    Я хочу любить, я хочу творить ради Тебя
 .      Em                                F#
    Моё сердце горит, потому что любит Тебя.</lyrics>
+<hymn_number>344</hymn_number>
+<author>Посольство Божье церковь г.Симферополь</author>
+<key>B</key>
 <title>Как сладок Твой нектар - пьянящий</title>
+<aka>Аромат любви</aka>
 </song>

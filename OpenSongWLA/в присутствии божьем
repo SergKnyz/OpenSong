@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В присутствии Божьем</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Перекрёстов</author>
+<title>В присутствии Божьем</title>
+<key>G</key>
 <lyrics>[V1]
 .G            D
  	От сияния славы просветлели глаза,
@@ -27,6 +29,4 @@
  DС#С                 D              G
  Славлю Тебя, Господь, в Духе святом.</lyrics>
 <hymn_number>4214</hymn_number>
-<key>G</key>
-<author>Сергей Перекрёстов</author>
 </song>

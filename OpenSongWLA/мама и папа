@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мама и папа</title>
+<hymn_number>2048</hymn_number>
+<lyrics>[V1]
  Мама и папа без вас тяжело
  Холодно жить в этой вьюге звенящей
  Лето опять безвозвратно ушло
@@ -35,6 +37,4 @@
    В этой жизни земной
    Пусть тяжело знаю одно
    Вы же рядом со мной, со мной.</lyrics>
-<title>Мама и папа</title>
-<hymn_number>2048</hymn_number>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я Тебя вопрошаю Боже «Не гибну ли я?»-открой.</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новый завет</author>
+<key>F#</key>
+<title>Я Тебя вопрошаю Боже «Не гибну ли я?»-открой.</title>
+<aka>Вопрошаю</aka>
 <lyrics>[V1]
  1 куплет:
 .   F#m           Hm       C#              F#m
@@ -32,7 +35,4 @@
  Я с небом сольюсь в молитве дух смело вступает в бой
  Побеждая в неравной битве ведь снова Иисус со мной.</lyrics>
 <hymn_number>1199</hymn_number>
-<aka>Вопрошаю</aka>
-<author>Новый завет</author>
-<key>F#</key>
 </song>

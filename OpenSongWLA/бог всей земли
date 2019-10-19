@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<key>D</key>
 <aka>Не найти мне нигде Такую любовь,</aka>
-<hymn_number>297</hymn_number>
+<title>Бог всей земли</title>
+<key>D</key>
 <lyrics>[V1]
  1 куплет:
 .Dm     F         G   A
@@ -56,5 +56,5 @@
    Проявляй через меня
 .  Bb          G
    О, Бог, любовь Свою к людям</lyrics>
-<title>Бог всей земли</title>
+<hymn_number>297</hymn_number>
 </song>

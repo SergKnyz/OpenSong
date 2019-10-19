@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1974</hymn_number>
-<key>D</key>
-<author>Reallife band</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Reallife band</author>
 <title>Зимний снег</title>
+<key>D</key>
 <lyrics>[V1]
  1 куплет:
 .Dm               G             C
@@ -71,4 +70,5 @@
    Ты пришёл  с небес в ночи
 .          G    C
    Землю всю укрыл.</lyrics>
+<hymn_number>1974</hymn_number>
 </song>

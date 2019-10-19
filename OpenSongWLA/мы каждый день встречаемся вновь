@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
-<hymn_number>6435</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6435</hymn_number>
 <lyrics>[V1]
 .           Em                                   Am
  Мы каждый день встречаемся вновь с прекрасным словом, словом «Любовь»
@@ -25,5 +24,6 @@
  Ее дарует вечный Бог, Творец миров.
  Она несется и парит и каждый может получить,
  Без денег злата серебра, любовь Христа.</lyrics>
+<key>Em</key>
 <title>Мы каждый день встречаемся вновь</title>
 </song>

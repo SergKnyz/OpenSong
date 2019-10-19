@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2775</hymn_number>
-<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
-<key>E</key>
-<title>Я хвалюсь Христом</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em C G  D
  Благод__арен я Иисусу
 .Em  C Dsus  D
@@ -47,4 +43,8 @@
  что мо__жет жизнь мне дать
 .C D G
  о ничто лишь кровь иисуса</lyrics>
+<hymn_number>2775</hymn_number>
+<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
+<key>E</key>
+<title>Я хвалюсь Христом</title>
 </song>

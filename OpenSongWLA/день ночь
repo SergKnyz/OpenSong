@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>День ночь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
+<title>День ночь</title>
+<key>B</key>
 <lyrics>[V1]
  1 куплет:
 .Hm    D     G
@@ -32,6 +34,4 @@
 .Hm           D            G
  Все ушли, остался только Ты, мой Бог</lyrics>
 <hymn_number>360</hymn_number>
-<key>B</key>
-<author>Imprintband</author>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6367</hymn_number>
-<author>Олеся Мовчан</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Олеся Мовчан</author>
 <title>Ты подарил мне небо</title>
+<key>C</key>
 <lyrics>[V1]
  1 куплет:
 .                Cm               G#
@@ -30,4 +29,5 @@
  И за руку с Тобою иду я по пути, что Ты открыл.
  Есть радость и надежда спасенье мне навечно подарил
  И больше нет сомненья, что в небо путь свободный мне открыт.</lyrics>
+<hymn_number>6367</hymn_number>
 </song>

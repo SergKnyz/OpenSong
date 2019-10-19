@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<hymn_number>338</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . E                A
  Утром, выходя из дома,
 . B7
@@ -31,5 +29,7 @@
  Душуотдадим.
  Вместес Господом любимым
  Смертьмы победим.</lyrics>
+<hymn_number>338</hymn_number>
+<key>E</key>
 <title>Утром, выходя из дома ИИПВ338</title>
 </song>

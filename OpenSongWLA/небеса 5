@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1562</hymn_number>
-<key>B</key>
-<author>Subcultura</author>
-<title>Небеса</title>
 <lyrics>[V1]
  1 куплет:
 .H                     F#
@@ -48,4 +45,7 @@
  Я буду там, там, там, там, там, там.
 .      G#m                          E
  Я буду там, там, там, вечно буду там.</lyrics>
+<title>Небеса</title>
+<key>B</key>
+<author>Subcultura</author>
 </song>

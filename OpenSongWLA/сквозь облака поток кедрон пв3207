@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>Db</key>
+<title>Сквозь облака поток Кедрон ПВ3207</title>
+<lyrics>[V1]
  Сквозь облака поток Кедрон
  сияньем лунным освещён.
  В ночной тиши, в больших скорбях
@@ -39,7 +41,5 @@
 [C1]
    Твоя, лишь будет воля, Бог,
    Твоя лишь будет воля, Бог!</lyrics>
-<title>Сквозь облака поток Кедрон ПВ3207</title>
-<key>Db</key>
 <hymn_number>3207</hymn_number>
 </song>

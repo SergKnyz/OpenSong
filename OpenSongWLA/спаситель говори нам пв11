@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>11</hymn_number>
-<key>Eb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
 <title>Спаситель говори нам ПВ11</title>
 <lyrics>[V1]
  Спаситель, говори нам
@@ -40,4 +39,5 @@
  Как жить всегда с Тобой,
  Творить Твою лишь волю
  И в Твой войти покой.</lyrics>
+<hymn_number>11</hymn_number>
 </song>

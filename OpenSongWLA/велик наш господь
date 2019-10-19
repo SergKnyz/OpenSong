@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
-<title>Велик наш Господь</title>
-<tempo>140</tempo>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .   F          B   B C
  Велик наш Господь!
 .   F          B   B C
@@ -41,5 +38,8 @@
 .  D          G
  Славит Господа!</lyrics>
 <hymn_number>50</hymn_number>
+<tempo>140</tempo>
+<time_sig>4/4</time_sig>
 <key>F</key>
+<title>Велик наш Господь</title>
 </song>

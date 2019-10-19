@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2380</hymn_number>
-<author>Светлана Малова</author>
-<key>D</key>
-<title>Обида</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 . Dm
  Обида пулею шальной поранила меня
@@ -57,4 +53,8 @@
  В который раз уже Отец удивлена Тобой
  В который раз Твоей любви не вижу я конца
  В который раз в Твоей крови исцелены сердца</lyrics>
+<hymn_number>2380</hymn_number>
+<author>Светлана Малова</author>
+<title>Обида</title>
+<key>D</key>
 </song>

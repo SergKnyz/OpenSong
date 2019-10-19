@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
-<key>E</key>
-<hymn_number>3235</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Em              C
  Небо красивое, небо родное
@@ -36,5 +33,8 @@
  Не замечая неба нигде,
  А небо красивое, небо родное,
  Будет оно на веки такое.</lyrics>
+<hymn_number>3235</hymn_number>
+<author>Неизвестный</author>
+<key>E</key>
 <title>Небо красивое небо родное</title>
 </song>

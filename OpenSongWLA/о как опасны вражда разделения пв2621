@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2621</hymn_number>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <title>О как опасны вражда разделения ПВ2621</title>
 <lyrics>[V1]
  О, как опасны вражда разделения,
@@ -30,4 +29,5 @@
  Всем нам грозит темнота.
  Только смирение, только терпение
  - Заповедь нам от Христа.</lyrics>
+<hymn_number>2621</hymn_number>
 </song>

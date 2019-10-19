@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5666</hymn_number>
-<author>Iota worship</author>
-<key>C</key>
-<title>Свет во тьме</title>
 <lyrics>[V1]
  Куплет 1:
 .Am    G       C
@@ -35,4 +32,7 @@
  Страх на веру поменял.
  Мне не быть уже другим.
  Всё это Ты- мой Господин.</lyrics>
+<title>Свет во тьме</title>
+<key>C</key>
+<author>Iota worship</author>
 </song>

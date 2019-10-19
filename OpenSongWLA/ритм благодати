@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ритм Благодати</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<key>A</key>
+<title>Ритм Благодати</title>
 <lyrics>[V1]
  1 куплет:
 .    Am      F        C
@@ -54,6 +56,4 @@
 .     Am      F
    Велик Бог Наш.</lyrics>
 <hymn_number>671</hymn_number>
-<author>Hillsong Ukraine</author>
-<key>A</key>
 </song>

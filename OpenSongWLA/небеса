@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Небеса</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
+<key>E</key>
+<title>Небеса</title>
 <lyrics>[V1]
  1 куплет:
 .E        F#m                  A          H
@@ -35,6 +37,4 @@
 .  F#m          A   C#m            H
    Ведь с нами Ты идём мы к небесам.</lyrics>
 <hymn_number>424</hymn_number>
-<author>Слово Жизни Music</author>
-<key>E</key>
 </song>

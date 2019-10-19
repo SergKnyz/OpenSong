@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1603</hymn_number>
-<aka>Есть благая весть для тебя, Он возлюбил так сильно</aka>
-<key>D</key>
-<author>Ольга Марина</author>
-<title>Будем танцевать</title>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .             Dm             C
    Будем танцевать в Его свободе
@@ -33,4 +28,9 @@
  Я в Его руках.
  Он отдавший жизнь, жизнь за тех кто верит
  В Нем свободны мы.</lyrics>
+<hymn_number>1603</hymn_number>
+<author>Ольга Марина</author>
+<aka>Есть благая весть для тебя, Он возлюбил так сильно</aka>
+<key>D</key>
+<title>Будем танцевать</title>
 </song>

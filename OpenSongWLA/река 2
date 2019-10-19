@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2386</hymn_number>
-<key>F#</key>
-<author>Planetshakers, Планетсхакерс</author>
-<title>Река</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .| F#m | E  | A |  D |
  Что бы ни__ прои__зошло,
@@ -39,4 +35,8 @@
 .  |  A/C# D | F#m E |
    М__не все равно что все смотрят, ныряю я в Тебя
    Ничто не остановит, прославлю я Тебя</lyrics>
+<hymn_number>2386</hymn_number>
+<author>Planetshakers, Планетсхакерс</author>
+<key>F#</key>
+<title>Река</title>
 </song>

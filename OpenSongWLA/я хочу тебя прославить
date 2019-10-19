@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5910</hymn_number>
-<key>D</key>
-<author>Евгений и Елена Вотчель</author>
-<title>Я хочу Тебя прославить</title>
 <lyrics>[V1]
  1 куплет:
 .     D           G             D
@@ -37,4 +34,7 @@
  Спас меня мой Бог от смерти
  Веселитесь горы степи и леса
  Наш Господь живёт во веки.</lyrics>
+<title>Я хочу Тебя прославить</title>
+<key>D</key>
+<author>Евгений и Елена Вотчель</author>
 </song>

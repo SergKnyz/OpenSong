@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я стучу в небеса</title>
+<key>A</key>
+<author>Лена Исаева (Ковалева)</author>
+<hymn_number>388</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .                 Am            Em
  Много разных вопросов себе задаю,
@@ -30,8 +34,4 @@
  Но поможет Всемогущий Бог тебе.
  И хоть много вопросов себе задаешь,
  На коленях в тишине ты все поймешь</lyrics>
-<title>Я стучу в небеса</title>
-<author>Лена Исаева (Ковалева)</author>
-<key>A</key>
-<hymn_number>388</hymn_number>
 </song>

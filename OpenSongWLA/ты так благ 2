@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Пусть Царь в сердце моём</aka>
-<hymn_number>1805</hymn_number>
-<key>Bb</key>
-<author>Бетхел Мусиц</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Бетхел Мусиц</author>
 <title>Ты так благ</title>
+<key>Bb</key>
+<aka>Пусть Царь в сердце моём</aka>
 <lyrics>[V1]
 .    Bb         Eb             Bb
  Пусть Царь в сердце моём, будет для меня скалой!
@@ -32,4 +31,5 @@
     Я знаю никогда ты не подведёшь меня
 .  Gm             F
     Я знаю никогда ты не подведёшь меня</lyrics>
+<hymn_number>1805</hymn_number>
 </song>

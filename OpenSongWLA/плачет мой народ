@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Плачет Мой Народ</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3118</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Cm            G  C            Fm
@@ -61,7 +61,7 @@
    Где ты потерял веру и надежду
 .  Dm                E       Am
    Возвратись к подножию креста</lyrics>
-<hymn_number>3118</hymn_number>
-<author>Simon Khorolskiy</author>
 <key>C</key>
+<title>Плачет Мой Народ</title>
+<author>Simon Khorolskiy</author>
 </song>

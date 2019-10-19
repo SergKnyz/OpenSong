@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3167</hymn_number>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <title>Спасенье выше всех даров ПВ3167</title>
 <lyrics>[V1]
  Спасенье выше всех даров,
@@ -36,4 +35,5 @@
  теперь так счастлив я!
  Тебя мой триединый Бог,
  за это славлю я!</lyrics>
+<hymn_number>3167</hymn_number>
 </song>

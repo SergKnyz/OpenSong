@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>198</hymn_number>
-<key>D</key>
-<title>Сам Твое дитя веди ПВ198</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Сам Твое дитя веди,
  Будь мне светом на пути.
  Мой Спаситель и мой Бог,
@@ -24,4 +21,7 @@
  Не оставишь никогда,
  В град небесный приведешь,
  Там все слезы Сам отрешь.</lyrics>
+<hymn_number>198</hymn_number>
+<key>D</key>
+<title>Сам Твое дитя веди ПВ198</title>
 </song>

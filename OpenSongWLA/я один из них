@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3699</hymn_number>
-<author>Виктор Рыжков</author>
-<title>Я один из них</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я один из тех, кого Ты заметил,
  Я один из тех, кого Ты не прошёл,
  Я один из тех, кто зимой и летом
@@ -27,4 +24,7 @@
  Я один из тех, кто любит Тебя.
  Я один из тех, кто с Тобой будет вместе
  В Царстве Небесном вовеки веков.</lyrics>
+<hymn_number>3699</hymn_number>
+<author>Виктор Рыжков</author>
+<title>Я один из них</title>
 </song>

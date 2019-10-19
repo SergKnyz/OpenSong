@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3175</hymn_number>
-<key>G</key>
-<title>Я Тебе Господь в служеньи ПВ3175</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я Тебе, Господь, в служеньи
  верно следовать хочу
  и в минуты искушенья
@@ -30,4 +27,7 @@
  нас никто не разлучит,
  благодати мне довольно,
  даже если враг грозит.</lyrics>
+<hymn_number>3175</hymn_number>
+<title>Я Тебе Господь в служеньи ПВ3175</title>
+<key>G</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2324</hymn_number>
-<key>Dm</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Dm</key>
 <title>Благодари Христа благодари Своим трудом, молитвами и пеньем</title>
 <lyrics>[V1]
 .Dm
@@ -36,4 +35,5 @@
  Благодари Его благодари
  И над большой землёю пусть горит
  Твоя хвала как жертвенное пламя</lyrics>
+<hymn_number>2324</hymn_number>
 </song>

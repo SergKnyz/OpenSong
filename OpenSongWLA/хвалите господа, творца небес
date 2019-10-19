@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3978</hymn_number>
-<author>Назаруки</author>
-<title>Хвалите Господа, Творца небес</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1. Хвалите Господа, Творца небес,
  Пред множеством Его святых чудес.
  Хвалите Его, Ангелы Его,
@@ -25,4 +22,7 @@
  В Нём путь для всех, в Нём истины стезя.
  Его хвалите, весь земной народ,
  Пусть каждый песнь хвалы Творцу поёт!</lyrics>
+<hymn_number>3978</hymn_number>
+<author>Назаруки</author>
+<title>Хвалите Господа, Творца небес</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<hymn_number>372</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  До сих пор ты шел дорогой,
  Что к погибели вела,
  И не раз душой убогой
@@ -53,5 +51,7 @@
  И начни Ему служить;
  И, забыв души тревогу,
  Будешь новой жизнью жить.</lyrics>
+<hymn_number>372</hymn_number>
+<key>A</key>
 <title>До сих пор ты шел дорогой ПВ372</title>
 </song>

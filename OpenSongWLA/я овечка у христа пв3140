@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3140</hymn_number>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
 <title>Я овечка у Христа ПВ3140</title>
 <lyrics>[V1]
  Я - овечка у Христа!
@@ -24,4 +23,5 @@
  после странствований жизни,
  в ту страну, где вечный свет:
  счастья больше в мире нет!</lyrics>
+<hymn_number>3140</hymn_number>
 </song>

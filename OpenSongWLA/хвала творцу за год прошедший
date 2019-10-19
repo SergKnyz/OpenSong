@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Александр П. и Димитрий Ж.</author>
-<hymn_number>3403</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3403</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .           Cm           Fm
@@ -37,4 +35,6 @@
  Господь спасти тебя желает,
  О поспеши к Нему прийти.</lyrics>
 <title>Хвала Творцу за год прошедший</title>
+<key>C</key>
+<author>Александр П. и Димитрий Ж.</author>
 </song>

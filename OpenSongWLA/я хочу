@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1714</hymn_number>
-<key>C#m</key>
-<author>Корван</author>
-<title>Я хочу</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .C#m  H         A
  Я хочу быть похожим на Тебя
@@ -33,4 +29,8 @@
    Куда уходит первая любовь?
 .  G#m                      A
    Хочу я жаждать сильно вновь</lyrics>
+<hymn_number>1714</hymn_number>
+<author>Корван</author>
+<title>Я хочу</title>
+<key>C#m</key>
 </song>

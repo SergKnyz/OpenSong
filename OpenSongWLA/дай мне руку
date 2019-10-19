@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1317</hymn_number>
-<title>Дай мне руку</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Дай мне руку</title>
 <lyrics>[V1]
  Все, чем живу, все, что вижу,
  Все мои мысли и мечты.
@@ -27,4 +26,5 @@
    У порога смотрит вдаль Он.
    Знай, что Он не предаст тебя,
    Он все тебе прощает.</lyrics>
+<hymn_number>1317</hymn_number>
 </song>

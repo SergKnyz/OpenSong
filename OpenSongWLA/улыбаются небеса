@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Улыбаются небеса</title>
+<key>C</key>
+<author>SokolovBrothers</author>
+<hymn_number>4148</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Cm                        Gm            F            Gm
@@ -34,7 +37,4 @@
  Ты защита и жизнь моя что имею - отдам для Тебя
  На устах моих Имя Твоё для Тебя поёт сердце моё
  Я дышу и живу лишь Тобой мы с Тобой ценой дорогой</lyrics>
-<hymn_number>4148</hymn_number>
-<key>C</key>
-<author>SokolovBrothers</author>
 </song>

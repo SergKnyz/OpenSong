@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Другая Реальность</author>
+<key>G</key>
+<title>Что скажешь ты?</title>
+<lyrics>[V1]
  блюз Gm
 .Gm D E
       Что скажешь ты,
@@ -24,8 +27,5 @@
 
 [V4]
  Что скажешь ты?</lyrics>
-<title>Что скажешь ты?</title>
-<key>G</key>
-<author>Другая Реальность</author>
 <hymn_number>1899</hymn_number>
 </song>

@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>921</hymn_number>
-<author>R-Voice</author>
-<key>E</key>
-<title>Хочу я быть у ног Твоих</title>
 <lyrics>[V1]
  Куплет:
 .E      H/D# C#m        A
@@ -19,4 +16,7 @@
    Твоя любовь так глубока  больше чем я могу вместить
 .  C#m                  A
    Я расстворяюсь в Тебе меня Ты захватил</lyrics>
+<title>Хочу я быть у ног Твоих</title>
+<key>E</key>
+<author>R-Voice</author>
 </song>

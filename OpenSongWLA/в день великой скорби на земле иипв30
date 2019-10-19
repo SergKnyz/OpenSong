@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<aka>Не забудет Бог мой обо мне.</aka>
-<hymn_number>30</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Не забудет Бог мой обо мне.</aka>
+<title>В день великой скорби на земле ИИПВ30</title>
+<key>G</key>
 <lyrics>[V1]
 .      Em                   Bm Am B
  В день великой скорби на земле
@@ -34,5 +34,5 @@
  Почему Господь так любит нас.
  И на кресте Он в страшных муках нас простил,
  Чтоб мы жили вместе с Ним вовек.</lyrics>
-<title>В день великой скорби на земле ИИПВ30</title>
+<hymn_number>30</hymn_number>
 </song>

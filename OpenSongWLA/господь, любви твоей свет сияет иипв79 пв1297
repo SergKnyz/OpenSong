@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Грахам Кендрицк</author>
-<hymn_number>79</hymn_number>
-<aka>Сияй Иисус, сияй</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><copyright>1987 Маке Уаы Мусиц</copyright>
 <lyrics>[V1]
 .    A        D          A    E
  Господь, любви Твоей свет сияет,
@@ -45,6 +42,9 @@
  От славы Твоей меняемся в славу.
  Одним Тобой сиять мы желаем.
  Сияйнадо мной, сияй надо мной!</lyrics>
-<copyright>1987 Маке Уаы Мусиц</copyright>
+<hymn_number>79</hymn_number>
+<author>Грахам Кендрицк</author>
 <title>Господь, любви Твоей свет сияет ИИПВ79 ПВ1297</title>
+<key>A</key>
+<aka>Сияй Иисус, сияй</aka>
 </song>

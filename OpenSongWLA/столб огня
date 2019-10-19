@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3839</hymn_number>
-<key>A</key>
-<author>Simon Khorolskiy</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Simon Khorolskiy</author>
 <title>Столб огня</title>
+<key>A</key>
 <lyrics>[V1]
  1 куплет:
 .           Am            F        Dm            E
@@ -30,4 +29,5 @@
  Сердце силой наполняет Духом нас соединяет
  Нас ведет одна дорога истина и жизнь от Бога
  Мы рожденный в пустыне прославляем Его имя!  Имя!</lyrics>
+<hymn_number>3839</hymn_number>
 </song>

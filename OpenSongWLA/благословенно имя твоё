@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Am</key>
-<aka>Великий Ты на небесах святых.</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Великий Ты на небесах святых.</aka>
+<title>Благословенно имя Твоё</title>
+<key>Am</key>
 <hymn_number>4278</hymn_number>
 <lyrics>[V1]
 .Am                       Dm
@@ -32,5 +33,4 @@
  Ты нам даёшь спасение Своё
  Тебе, Господь, хвала во всякий жизни час
  Да славится вовек имя Твоё.</lyrics>
-<title>Благословенно имя Твоё</title>
 </song>

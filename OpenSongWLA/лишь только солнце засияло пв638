@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<hymn_number>638</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Лишь только солнце засияло,
  Христос Спаситель наш воскрес
  И воскресения начало
@@ -17,5 +15,7 @@
  Залог священный Он дарит!
  Прими же песнь хвалы сердечной,
  Господь, мой Бог, мой свет и щит!</lyrics>
+<hymn_number>638</hymn_number>
 <title>Лишь только солнце засияло ПВ638</title>
+<key>A</key>
 </song>

@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>377</hymn_number>
-<aka>Ветер дует сильно, водам не утопить меня.</aka>
-<author>Ольга Марина</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Марина</author>
 <key>C#m</key>
 <title>Ветер дует сильно, но я держусь в Твоих руках.</title>
+<aka>Ветер дует сильно, водам не утопить меня.</aka>
 <lyrics>[V1]
 .C#m                        F#m
  Ветер дует сильно, водам не утопить меня.
@@ -26,4 +25,5 @@
  Радость наполняет все внутри, наполняет все внутри!
 .     C#m                   A       H
  Радость наполняет все внутри, льется из сердца моего!</lyrics>
+<hymn_number>377</hymn_number>
 </song>

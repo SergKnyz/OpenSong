@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3724</hymn_number>
-<key>A</key>
-<author>Божье прикосновение</author>
-<title>Рожден для тебя</title>
 <lyrics>[V1]
  1 куплет:
 .A              H            E
@@ -47,4 +44,7 @@
 
 [V3]
  Проигрыш:</lyrics>
+<key>A</key>
+<title>Рожден для тебя</title>
+<author>Божье прикосновение</author>
 </song>

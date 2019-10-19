@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Если кто восстанет на Твою любовь</aka>
-<hymn_number>1675</hymn_number>
-<author>Alaniaworshipband, Йесус Цултуре</author>
-<key>D</key>
-<title>Бесконечная любовь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1675</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Dm                  F
@@ -42,4 +38,8 @@
    Ни высь, не глубь, ни смерть, ни страх
 .     F                   C
    Меня не разлучат с Тобой.</lyrics>
+<aka>Если кто восстанет на Твою любовь</aka>
+<title>Бесконечная любовь</title>
+<key>D</key>
+<author>Alaniaworshipband, Йесус Цултуре</author>
 </song>

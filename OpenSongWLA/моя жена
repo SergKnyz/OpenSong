@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2011</hymn_number>
-<author>Григорий Угнич</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Григорий Угнич</author>
 <title>Моя жена</title>
+<key>C</key>
 <lyrics>[V1]
 .C                 D     Em
  Господь! Я благодарю Тебя,
@@ -30,4 +29,5 @@
  Всегда терпелива, скромна и умна
 .C                 D        Em
  Ты для любви мне навечно дана</lyrics>
+<hymn_number>2011</hymn_number>
 </song>

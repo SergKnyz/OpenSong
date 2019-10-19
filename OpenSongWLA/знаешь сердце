@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>199</hymn_number>
-<key>C</key>
-<author>Skeemans Worship</author>
-<title>Знаешь сердце</title>
 <lyrics>[V1]
 .       C               Em
  Мой великий Бог буду славить я
@@ -32,4 +29,7 @@
    Жаждет Тебя
    Наполнить Своей любовью
    Воля Твоя</lyrics>
+<title>Знаешь сердце</title>
+<key>C</key>
+<author>Skeemans Worship</author>
 </song>

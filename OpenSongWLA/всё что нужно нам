@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>935</hymn_number>
-<author>Hillsong Ukraine</author>
-<key>G#m</key>
-<title>Всё что нужно нам</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   G#m                E
  Ты знал наш каждый шаг и каждый миг наш
@@ -51,4 +47,8 @@
    Знаем мы - новая жизнь в нас мы Твои сейчас и вовеки
 .  G#m                             E
    Есть у нас цель лишь одна с Тобою быть - всё что нужно нам</lyrics>
+<hymn_number>935</hymn_number>
+<author>Hillsong Ukraine</author>
+<key>G#m</key>
+<title>Всё что нужно нам</title>
 </song>

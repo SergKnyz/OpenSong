@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Время</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Adam-Smile</author>
+<key>F#</key>
+<title>Время</title>
 <lyrics>[V1]
  Куплет 1
  Ты видел как сверкает
@@ -21,6 +23,4 @@
  Ну а мы пойдём гулять
  Встречая летний дождь</lyrics>
 <hymn_number>3351</hymn_number>
-<author>Adam-Smile</author>
-<key>F#</key>
 </song>

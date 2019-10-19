@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Всё, что мне надо</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
+<title>Всё, что мне надо</title>
+<key>C#m</key>
 <lyrics>[V1]
  Куплет:
 .C#m        H             A
@@ -32,6 +34,4 @@
 .  C#m          G#m (H)
    Ты всё во всём___</lyrics>
 <hymn_number>3661</hymn_number>
-<key>C#m</key>
-<author>Виталий Ефремочкин</author>
 </song>

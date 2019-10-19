@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<hymn_number>74</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .    D                 Bm
  Господь - твой Бог среди тебя
 .   G         A
@@ -17,5 +15,7 @@
  Да правит Он среди тебя
 .    G      A      D
  Вовеки и веки. Аминь.</lyrics>
+<hymn_number>74</hymn_number>
+<key>D</key>
 <title>Господь – твой Бог ИИПВ74</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Хиллсонг, Брооке Фрасер</author>
-<aka>Осанна</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .E
  Я вижу, как Царь славы
 .   C#m
@@ -42,5 +39,8 @@
 .         A
    я к Вечности.</lyrics>
 <copyright>2006 Хиллсонг Публисхинг</copyright>
+<author>Хиллсонг, Брооке Фрасер</author>
+<aka>Осанна</aka>
+<key>E</key>
 <title>Я вижу, как Царь славы</title>
 </song>

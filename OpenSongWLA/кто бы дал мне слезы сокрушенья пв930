@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Кто бы дал мне слезы сокрушенья ПВ930</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Кто бы дал мне слезы сокрушенья ПВ930</title>
+<hymn_number>930</hymn_number>
 <lyrics>[V1]
  Кто бы дал мне слезы сокрушенья,
  Плакал бы я день и ночь.
@@ -34,6 +36,4 @@
  Чтобы был услышан
  я, Чтобы я не плакал за дверями,
  Где слеза уж больше не нужна.</lyrics>
-<hymn_number>930</hymn_number>
-<key>G</key>
 </song>

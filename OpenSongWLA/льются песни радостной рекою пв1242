@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1242</hymn_number>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <title>Льются песни радостной рекою ПВ1242</title>
 <lyrics>[V1]
  Льются песни радостной рекою
@@ -27,4 +26,5 @@
  Мы хотим, чтоб видели друзья
  И в будущем сказали:
  &quot;У ...... и у ...... Хорошая, при мерная семья&quot;.</lyrics>
+<hymn_number>1242</hymn_number>
 </song>

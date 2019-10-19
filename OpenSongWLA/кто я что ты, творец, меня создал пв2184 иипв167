@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2184</hymn_number>
-<key>Em</key>
-<title>Кто я? Что Ты, Творец, меня создал ПВ2184 ИИПВ167</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . Em                            Am
  Кто я? Что Ты, Творец, меня создал,
 .    D                 G
@@ -38,4 +35,7 @@
  Мне матери дороже и нежней.
  Кто боль наносит сердцу моему,
  Касается зениц Твоих очей.</lyrics>
+<hymn_number>2184</hymn_number>
+<key>Em</key>
+<title>Кто я? Что Ты, Творец, меня создал ПВ2184 ИИПВ167</title>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4699</hymn_number>
-<key>G</key>
-<author>Берники</author>
-<title>Розы</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .        G
  Вы в одну сошлись дорогу,
@@ -37,4 +33,8 @@
  Где так много злых дорог,
  Вы не делайте кумира,
  Чтоб жил в сердце только Бог.</lyrics>
+<hymn_number>4699</hymn_number>
+<author>Берники</author>
+<title>Розы</title>
+<key>G</key>
 </song>

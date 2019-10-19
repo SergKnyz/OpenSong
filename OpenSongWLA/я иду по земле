@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я иду по земле</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Авен Езер</author>
+<key>Ab</key>
+<title>Я иду по земле</title>
 <lyrics>[V1]
  1 куплет:
 .Abm                 C#m
@@ -56,6 +58,4 @@
 .             E     Eb
  О услышь укрепи я молю.</lyrics>
 <hymn_number>1978</hymn_number>
-<key>Ab</key>
-<author>Авен Езер</author>
 </song>

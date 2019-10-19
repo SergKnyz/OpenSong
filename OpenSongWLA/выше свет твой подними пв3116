@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
-<hymn_number>3116</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Выше свет твой подними,
  чтоб заблудшим он сиял:
  может быть найдут они
@@ -29,5 +27,7 @@
  чтоб путь грешным указать,
  как им от суда уйти
  через Божью благодать.</lyrics>
+<hymn_number>3116</hymn_number>
+<key>Ab</key>
 <title>Выше свет твой подними ПВ3116</title>
 </song>

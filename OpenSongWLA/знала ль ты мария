@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Знала ль ты Мария</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Rever, Кутлесс, Будды Греене, Марк Лоуры</author>
+<key>C</key>
+<title>Знала ль ты Мария</title>
 <lyrics>[V1]
 .                Cm         Bb        G#         G7
  Знала ль ты, Мария, что твоё Дитя однажды по воде пойдет?
@@ -59,6 +61,4 @@
 .             Cm G7 Cm Gm Cm
  Знала ль ты, Мария?</lyrics>
 <hymn_number>3479</hymn_number>
-<author>Rever, Кутлесс, Будды Греене, Марк Лоуры</author>
-<key>C</key>
 </song>

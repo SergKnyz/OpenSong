@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1300</hymn_number>
-<author>Наталья Шулик</author>
-<key>B</key>
-<title>Это мой Бог</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  intro:
 
 [V2]
@@ -43,4 +39,8 @@
 
 [V4]
  End:</lyrics>
+<hymn_number>1300</hymn_number>
+<author>Наталья Шулик</author>
+<key>B</key>
+<title>Это мой Бог</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<author>Reallife band</author>
-<hymn_number>1961</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1961</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .    G
@@ -63,5 +61,7 @@
    Ты нас созидаешь, призвал ко спасенью,
 .              F#m                 E
    Мы славим Тебя, восхваляя за всё.</lyrics>
+<key>G</key>
 <title>Мы - Церковь Твоя</title>
+<author>Reallife band</author>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я хожу во свете</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Я хожу во свете</title>
+<author>Holy Generation</author>
+<hymn_number>361</hymn_number>
 <lyrics>[V1]
 .Dmaj7      Dmaj7/E       Hm
  Я хожу во свете, которым Бог мне светит.
@@ -18,7 +21,4 @@
  И пусть весь мир проходит, а я волю Твою исполню.
 .Dmaj7    Hm          F#m
  Дороже всех Ты для меня.</lyrics>
-<hymn_number>361</hymn_number>
-<author>Holy Generation</author>
-<key>D</key>
 </song>

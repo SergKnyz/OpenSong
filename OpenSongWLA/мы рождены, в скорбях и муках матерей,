@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Быстрей чем дождь проходит жизнь,</aka>
-<hymn_number>4203</hymn_number>
-<author>Copper Serpent</author>
-<title>Мы рождены,    В скорбях и муках матерей,</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4203</hymn_number>
 <lyrics>[B1]
    Куплет1:
    Мы рождены,
@@ -26,4 +23,7 @@
    Как капли быстрого дождя,
    С небес спускаются сюда,
    И жизнь летит так безутешно.</lyrics>
+<title>Мы рождены,    В скорбях и муках матерей,</title>
+<aka>Быстрей чем дождь проходит жизнь,</aka>
+<author>Copper Serpent</author>
 </song>

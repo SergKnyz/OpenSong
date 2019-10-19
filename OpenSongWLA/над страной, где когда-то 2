@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3373</hymn_number>
-<aka>Вифлеем</aka>
-<author>Андрей Максимов</author>
-<title>Над страной, где когда-то</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Над страной, где когда-то
 
 [V2]
@@ -46,4 +42,8 @@
  Он лишь Младенцем был тогда, а стал Спасителем.
  Он землю напоил источником добра
  И нам обьятия открыл, Свои обители.</lyrics>
+<hymn_number>3373</hymn_number>
+<author>Андрей Максимов</author>
+<aka>Вифлеем</aka>
+<title>Над страной, где когда-то</title>
 </song>

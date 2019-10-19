@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Слова</title>
+<key>B</key>
+<author>Ольга Вельгус</author>
+<hymn_number>893</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .        Em                  A
  Словно травы, шелестят слова...
@@ -55,8 +59,4 @@
  Словом можно раны исцелить.
  Тяжкий груз недобрых слов на плечи
  Берегитесь ближнему взвалить.</lyrics>
-<title>Слова</title>
-<author>Ольга Вельгус</author>
-<key>B</key>
-<hymn_number>893</hymn_number>
 </song>

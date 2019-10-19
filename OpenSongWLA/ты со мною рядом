@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты со мною рядом</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Wolsar worship</author>
+<key>F</key>
+<title>Ты со мною рядом</title>
 <lyrics>[V1]
  Куплет:
 .F           G             C          Am
@@ -37,6 +39,4 @@
 .C               Am
  Буду стоять в победе я</lyrics>
 <hymn_number>3829</hymn_number>
-<key>F</key>
-<author>Wolsar worship</author>
 </song>

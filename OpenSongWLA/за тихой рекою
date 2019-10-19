@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5042</hymn_number>
-<title>За тихой рекою</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>За тихой рекою</title>
 <lyrics>[V1]
  За тихой рекою, берёзовой рощей
  Распустится первый весенний цветок
@@ -27,4 +26,5 @@
  Христовой любовью исполнится грусть
  И в это мгновение душа прикоснётся
  К великому Богу по имени Иисус.</lyrics>
+<hymn_number>5042</hymn_number>
 </song>

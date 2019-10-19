@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2220</hymn_number>
-<author>Subcultura</author>
-<title>Гори! Свети!</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
  Ярче солнца
  Огонь, что светит у меня внутри.
@@ -62,4 +59,7 @@
 
 [V5]
  Пусть увидит вся земля того, кто внутри тебя.</lyrics>
+<hymn_number>2220</hymn_number>
+<author>Subcultura</author>
+<title>Гори! Свети!</title>
 </song>

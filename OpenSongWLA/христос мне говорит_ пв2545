@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<hymn_number>2545</hymn_number>
-<aka>Возьми свой крест иди за Мной</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2545</hymn_number>
 <lyrics>[V1]
  &quot;Возьми свой крест, иди за Мной!&quot;
  Христос мне говорит:
@@ -30,5 +28,7 @@
  - Христу я отдаю;
  Он - мой Спаситель,
  мой Господь, спасает дух и плоть.</lyrics>
+<key>F</key>
 <title>Христос мне говорит: ПВ2545</title>
+<aka>Возьми свой крест иди за Мной</aka>
 </song>

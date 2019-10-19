@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Zanoza</author>
-<key>A</key>
-<hymn_number>1139</hymn_number>
-<aka>Вопрос</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am                       F  G                 Em
  Так хочется спросить у Бога куда ведет моя дорога
@@ -32,5 +28,9 @@
  Вину свою мы прячем в сердце неумело...
  Хотелось мне спросить у Бога когда закончится дорога
  И я спросил, а Он рукой меня коснулся...</lyrics>
+<hymn_number>1139</hymn_number>
+<author>Zanoza</author>
 <title>Так хочется спросить у Бога куда ведет моя дорога</title>
+<key>A</key>
+<aka>Вопрос</aka>
 </song>

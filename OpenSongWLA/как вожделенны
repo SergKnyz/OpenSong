@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3505</hymn_number>
-<key>D</key>
-<author>Ладони</author>
-<title>Как вожделенны</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D                 Hm
  Как вожделенны жилища Твои,
 .G        A    D
@@ -61,4 +57,8 @@
 [V7]
 .G          A            D
  О  -  у  -  о  -  у  -  о . . .</lyrics>
+<hymn_number>3505</hymn_number>
+<author>Ладони</author>
+<key>D</key>
+<title>Как вожделенны</title>
 </song>

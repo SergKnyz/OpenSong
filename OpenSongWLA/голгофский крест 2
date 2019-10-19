@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>669</hymn_number>
-<key>B</key>
-<author>Анжелика Вишня</author>
-<title>Голгофский крест</title>
 <lyrics>[C1]
    Припев:
 
@@ -56,4 +53,7 @@
 
 [C3]
    Припев:</lyrics>
+<title>Голгофский крест</title>
+<key>B</key>
+<author>Анжелика Вишня</author>
 </song>

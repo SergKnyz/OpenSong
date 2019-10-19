@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3115</hymn_number>
-<key>B</key>
-<author>Путь Христа церковь, г. Нюрнберг</author>
-<title>Бог есть любовь Бог есть спасение.</title>
 <lyrics>[C1]
    Припев:
 .  Hm                G
@@ -36,4 +33,7 @@
 .           F#             Hm
    И  это слово Иисуса Христа.                              .
    Припев: ...</lyrics>
+<key>B</key>
+<title>Бог есть любовь Бог есть спасение.</title>
+<author>Путь Христа церковь, г. Нюрнберг</author>
 </song>

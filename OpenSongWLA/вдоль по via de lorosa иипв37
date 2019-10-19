@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Вдоль по Via de Lorosa ИИПВ37</title>
+<key>Em</key>
+<lyrics>[V1]
 .          Em       Bm
  Вдоль по Via de Lorosa
 .      C      B7
@@ -48,7 +50,5 @@
  Он прошёл этот путь
 .   Em      E7
  Через Иерусалим.</lyrics>
-<title>Вдоль по Via de Lorosa ИИПВ37</title>
-<key>Em</key>
 <hymn_number>37</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Planetshakers, Планетсхакерс</author>
-<key>F#</key>
-<hymn_number>3274</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3274</hymn_number>
 <lyrics>[V1]
  Intro:
 
@@ -53,5 +51,7 @@
    Мне не важно, что скажут я в Нем тону,
 .  A/C#  D           F#m  E
    Не угасить мою страсть Бог, я Тебя хвалю!</lyrics>
+<key>F#</key>
 <title>Река</title>
+<author>Planetshakers, Планетсхакерс</author>
 </song>

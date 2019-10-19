@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>666</hymn_number>
-<author>Милана</author>
-<key>G</key>
-<title>Коснись меня</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .G
  Когда рука Твоя на мне
 .D F# Em
@@ -53,4 +49,8 @@
  Твой свет в душе моей горит,
  Теперь Тебе принадлежит
  Вся жизнь моя...</lyrics>
+<hymn_number>666</hymn_number>
+<author>Милана</author>
+<key>G</key>
+<title>Коснись меня</title>
 </song>

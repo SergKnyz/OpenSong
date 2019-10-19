@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<hymn_number>2259</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>О люди мы идем все к вечности ПВ2259</title>
+<key>G</key>
 <lyrics>[V1]
  О люди, мы идем все к вечности
  И, чтоб путь не был одинок,
@@ -23,5 +23,5 @@
  Такая будет, как у них.
  Чтоб даже смерть непоправимая
  Пришла бы сразу на двоих.</lyrics>
-<title>О люди мы идем все к вечности ПВ2259</title>
+<hymn_number>2259</hymn_number>
 </song>

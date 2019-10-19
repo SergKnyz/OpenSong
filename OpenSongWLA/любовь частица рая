@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4216</hymn_number>
-<key>G#m</key>
-<author>Неизвестный</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <title>Любовь частица рая</title>
+<key>G#m</key>
 <lyrics>[V1]
  1 куплет:
 .G#m                         C#m
@@ -30,4 +29,5 @@
  И горько слезы затуманят взор -
  Спешите вы стереть слезу несчастья;
  Господь вам поможет - стремитесь к Нему!</lyrics>
+<hymn_number>4216</hymn_number>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>467</hymn_number>
-<key>D</key>
-<title>Благодарю Тебя Господь За пищу данную Тобой ПВ467</title>
 <lyrics>[V1]
 .   Dm(F)     A(C)    Dm(F)
  // Благодарю Тебя, Господь, //
@@ -24,4 +22,6 @@
    // Тебе и Слава честь и хвала //
 .     Dm(C)   F(A) C(Dm)   A Dm
    // Во веки вечные. //  Аминь.</lyrics>
+<key>D</key>
+<title>Благодарю Тебя Господь За пищу данную Тобой ПВ467</title>
 </song>

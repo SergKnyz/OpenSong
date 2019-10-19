@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2801</hymn_number>
-<author>Ольга Марина</author>
-<key>Bb</key>
-<title>Дух живого Бога</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вступление (Itro)
 
 [V2]
@@ -47,4 +43,8 @@
  Мы ищем   (Мы ищем)
 .C# G#
  Присутствия Твоего и Славы</lyrics>
+<hymn_number>2801</hymn_number>
+<author>Ольга Марина</author>
+<title>Дух живого Бога</title>
+<key>Bb</key>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1176</hymn_number>
-<author>ХДН</author>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>ХДН</author>
 <title>О, душа</title>
+<key>B</key>
 <lyrics>[V1]
  1 куплет:
 .H
@@ -28,4 +27,5 @@
  Прославляй, открывай свои уста!
  Пой со мной, пой со мной
  О, Иисус живой!</lyrics>
+<hymn_number>1176</hymn_number>
 </song>

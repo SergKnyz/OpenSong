@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В печали и скорби идёшь ты ПВ2060</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>В печали и скорби идёшь ты ПВ2060</title>
 <lyrics>[V1]
  В печали и скорби идёшь ты
  Долиной тернистой земной,
@@ -29,5 +30,4 @@
  Направь к небесам все стремленья,
  Служи Христу до конца.</lyrics>
 <hymn_number>2060</hymn_number>
-<key>A</key>
 </song>

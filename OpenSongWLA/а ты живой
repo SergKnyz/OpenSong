@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Инна Звягинцева</author>
-<key>Fm</key>
-<aka>Как многие хотели, чтоб не было Тебя,</aka>
-<hymn_number>1565</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1565</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .      Fm                 C#
@@ -31,4 +28,7 @@
  Придумать всё пытались какой угодно бред,
  Ведь страшно верить в Бога, за грех давать ответ.</lyrics>
 <title>А Ты живой</title>
+<key>Fm</key>
+<aka>Как многие хотели, чтоб не было Тебя,</aka>
+<author>Инна Звягинцева</author>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>685</hymn_number>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <title>Итак расстанемся с тобой ПВ685</title>
 <lyrics>[V1]
  Итак, расстанемся с тобой
@@ -18,4 +17,5 @@
  Не суждено Его судьбой,
  Все встретимся в краю родном,
  Когда войдем в Отцовский дом.</lyrics>
+<hymn_number>685</hymn_number>
 </song>

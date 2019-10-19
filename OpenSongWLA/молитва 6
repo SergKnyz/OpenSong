@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Молитва</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em             D
  Я вновь стою перед Алтарём
 .           C                   H
@@ -38,5 +37,6 @@
  Пусть наполнится земля светлой волей Твоей</lyrics>
 <hymn_number>405</hymn_number>
 <author>Imprintband</author>
+<title>Молитва</title>
 <key>E</key>
 </song>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Я мечтаю о Царстве Твоём</aka>
-<hymn_number>11</hymn_number>
-<author>Краеугольный камень</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Краеугольный камень</author>
+<aka>Я мечтаю о Царстве Твоём</aka>
+<time_sig>4/4</time_sig>
 <key>F</key>
 <title>Благодарю Тебя Господь</title>
-<time_sig>4/4</time_sig>
 <lyrics>[V1]
 .F                   C
  Благодарю Тебя, Господь,
@@ -27,5 +26,6 @@
    О радости вечной в глазах,
 .     F         C            B
    О жизни в Твоих садах нетленных.</lyrics>
+<hymn_number>11</hymn_number>
 <tempo>104</tempo>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Назаровы</author>
-<hymn_number>920</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>920</hymn_number>
 <lyrics>[V1]
  Вст
 
@@ -60,5 +58,7 @@
  Приспів
 .G      C
   Долю Дав</lyrics>
+<key>C</key>
 <title>Помолюся тихо</title>
+<author>Назаровы</author>
 </song>

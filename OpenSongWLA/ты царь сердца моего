@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3016</hymn_number>
-<author>Алексей Захаренко</author>
-<key>C</key>
-<title>Ты Царь сердца моего</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C
  Ты Царь сердца моего
 .   F            C
@@ -31,4 +27,8 @@
  С Тобой не буду никогда
 .    F               C
  Не буду никогда внизу</lyrics>
+<hymn_number>3016</hymn_number>
+<author>Алексей Захаренко</author>
+<key>C</key>
+<title>Ты Царь сердца моего</title>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>117</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>К Тебе несется песнь моя ПВ117</title>
 <key>F</key>
-<title>К Тебе несется песнь моя ПВ117</title>
 <lyrics>[V1]
  К Тебе несется песнь моя,
  О Боже, ей внемли!
@@ -48,4 +47,5 @@
  Даешь в отраду нам
  И обещаешь в небесах
  Покой Своим детям.</lyrics>
+<hymn_number>117</hymn_number>
 </song>

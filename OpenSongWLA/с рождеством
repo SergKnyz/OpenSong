@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
+<title>С рождеством</title>
+<key>E</key>
+<lyrics>[V1]
 .Intro: E A E A  E A              E             A
   Как прекрас______ен этот день и в нем моя мечта,
 .E                 A         E               A
@@ -43,7 +46,4 @@
    Пусть любовь течет в сердца,
 .         Am      D        E
    И наполнит нас славою Отца</lyrics>
-<title>С рождеством</title>
-<key>E</key>
-<author>Imprintband</author>
 </song>

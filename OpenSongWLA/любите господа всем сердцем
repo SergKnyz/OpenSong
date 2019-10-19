@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Путь Христа церковь, г. Нюрнберг</author>
-<hymn_number>3123</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Путь Христа церковь, г. Нюрнберг</author>
+<key>D</key>
+<title>Любите Господа всем сердцем</title>
 <lyrics>[V1]
  1.
 .       Dm(Em)       A(H7)           Dm(Em)
@@ -22,5 +22,5 @@
    Любите Иисуса всей крепостью своей.
 .     A(H7)          Dm(Em)
    Любите, любите людей.</lyrics>
-<title>Любите Господа всем сердцем</title>
+<hymn_number>3123</hymn_number>
 </song>

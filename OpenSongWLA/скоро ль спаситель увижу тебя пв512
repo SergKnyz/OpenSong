@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6126</hymn_number>
-<key>D</key>
-<title>Скоро ль Спаситель увижу Тебя ПВ512</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Скоро ль, Спаситель, увижу Тебя
  В славе небес?
  Скоро ль примешь меня Ты, любя,
@@ -40,4 +37,7 @@
  Вечно прославлю Христа благодать;
  Буду хвалить я любви полноту;
  Слава Христу!</lyrics>
+<hymn_number>6126</hymn_number>
+<key>D</key>
+<title>Скоро ль Спаситель увижу Тебя ПВ512</title>
 </song>

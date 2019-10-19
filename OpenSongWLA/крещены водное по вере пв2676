@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Крещены водное по вере ПВ2676</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Крещены водное по вере ПВ2676</title>
+<hymn_number>2676</hymn_number>
 <lyrics>[V1]
  Крещены водное по вере
  Во имя Троицы святой,
@@ -22,6 +24,4 @@
  К святыням: хлебу и вину,
  Дай вспомнить Твой Голгофский подвиг
  И осознать вину свою.</lyrics>
-<hymn_number>2676</hymn_number>
-<key>A</key>
 </song>

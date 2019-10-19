@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Роман Фрисман</author>
-<hymn_number>2356</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2356</hymn_number>
 <lyrics>[V1]
  1 куплет:
  Я встретил Господа Христа здесь на земле
@@ -57,4 +55,6 @@
    И вместо боли Он подарит тебе мир
    Ты ощутишь в своей душе любви  прилив</lyrics>
 <title>Прилив любви</title>
+<key>A</key>
+<author>Роман Фрисман</author>
 </song>

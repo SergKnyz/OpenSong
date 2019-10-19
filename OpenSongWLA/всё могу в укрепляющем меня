@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1133</hymn_number>
-<title>Всё могу в Укрепляющем меня</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Всё могу в Укрепляющем меня</title>
 <lyrics>[C1]
    Ведь я всё могу в укрепляющем
    Меня Иисусе Христе!
@@ -17,4 +16,5 @@
 [V3]
  Взирая на голгофский крест, иду бодрей по жизни я.
  Пусть слабый скажет: «Я силён», ведь немощи остались там.</lyrics>
+<hymn_number>1133</hymn_number>
 </song>

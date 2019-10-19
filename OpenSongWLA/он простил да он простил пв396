@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<hymn_number>396</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Он простил! Да, Он простил
  Согрешение Петра,
  В смертный грех Он не вменил
@@ -29,5 +27,7 @@
  Как от запада восток
  Грех души Он удалил
  И в покров небес облек.</lyrics>
+<hymn_number>396</hymn_number>
+<key>F#</key>
 <title>Он простил Да Он простил ПВ396</title>
 </song>

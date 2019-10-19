@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>475</hymn_number>
-<key>G</key>
-<author>Слово Жизни Music</author>
-<title>Гимн</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Gm F/A  Bb     Cm  Gm    F
  Аллилуйя, Ты победу одержал!
 .Gm F/A  Bb      Cm    Gm        F
@@ -17,4 +13,8 @@
  В славе величия__
 .             Cm     Gm  F
  Ты - наш воскресший Царь</lyrics>
+<hymn_number>475</hymn_number>
+<author>Слово Жизни Music</author>
+<key>G</key>
+<title>Гимн</title>
 </song>

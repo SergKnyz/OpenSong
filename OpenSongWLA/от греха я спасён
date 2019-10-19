@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>От греха я спасён</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .       A                     D
  От греха я спасён, в Божий мир водворён,
@@ -31,6 +30,7 @@
  Жажду вечно хвалить, Иисусу служить,
  В Сына Божия верую я.</lyrics>
 <hymn_number>1941</hymn_number>
-<key>A</key>
 <author>Песнь возрождения 2800</author>
+<key>A</key>
+<title>От греха я спасён</title>
 </song>

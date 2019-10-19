@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3354</hymn_number>
-<author>Дарина Кочанжи</author>
-<key>G</key>
-<title>Я возлюбил тебя</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Gm                  Cm/D#
  Знай, не забыты слова, что ты Мне говорил,
@@ -48,4 +44,8 @@
    Ты береги её и спасение -
 .         C       Dm      E
    Этот свет, что мир озарил.</lyrics>
+<hymn_number>3354</hymn_number>
+<author>Дарина Кочанжи</author>
+<title>Я возлюбил тебя</title>
+<key>G</key>
 </song>

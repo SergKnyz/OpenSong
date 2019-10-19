@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1352</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>К неземной стране ПВ195</title>
 <key>D</key>
-<title>К неземной стране ПВ195</title>
 <lyrics>[V1]
  К неземной стране
  Путь указан мне;
@@ -54,4 +53,5 @@
  И хоть вихрь шумит,
  Но меня влечет
  Что-то все вперед.</lyrics>
+<hymn_number>1352</hymn_number>
 </song>

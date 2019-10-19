@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>957</hymn_number>
-<key>C</key>
-<title>Не уходи Иисус не уходи ПВ957</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Не уходи, Иисус, не уходи,
  Мне страшно без Тебя в земном пути,
  Как ночью одному в глуши лесной.
@@ -30,4 +27,7 @@
  С Тобой, Господь, А если я усну,
  Как Лазаря в пещере, разбуди,
  От смерти в жизнь меня переведи.</lyrics>
+<hymn_number>957</hymn_number>
+<title>Не уходи Иисус не уходи ПВ957</title>
+<key>C</key>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Из глубины</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Moscow Worship Band</author>
+<key>D</key>
+<title>Из глубины</title>
 <lyrics>[V1]
  1 куплет:
 .D       Hm  Em       G
@@ -35,6 +37,4 @@
  Светом явись и прикоснись ко мне,
  Дух оживи во мне, Бог мой.</lyrics>
 <hymn_number>1467</hymn_number>
-<key>D</key>
-<author>Moscow Worship Band</author>
 </song>

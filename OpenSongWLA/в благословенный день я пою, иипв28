@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<aka>Я пою с любовью Господу.</aka>
-<hymn_number>28</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>28</hymn_number>
 <lyrics>[V1]
 .         D        Bm  Em  A7
  В благословенный день я пою,
@@ -16,5 +14,7 @@
  Люблю Господа, люблю Господа.
 .G  A7  Bm  G   D  A7   D
  Я люб__лю, люблю Господа.</lyrics>
+<aka>Я пою с любовью Господу.</aka>
 <title>В благословенный день я пою, ИИПВ28</title>
+<key>D</key>
 </song>

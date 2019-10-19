@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Артём Янский</author>
+<title>Мелодия любви</title>
 <key>A</key>
-<hymn_number>870</hymn_number>
 <lyrics>[C1]
    Припев:
 .        Am                        Dm
@@ -41,5 +41,5 @@
  Друг другу вы чудесные слова,
  Духовно христианские общенья,
  Пусть среди вас Христос будет глава.</lyrics>
-<title>Мелодия любви</title>
+<hymn_number>870</hymn_number>
 </song>

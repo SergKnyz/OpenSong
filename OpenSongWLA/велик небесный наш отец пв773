@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>773</hymn_number>
-<aka>Творит Он чудеса.</aka>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <title>Велик небесный наш Отец ПВ773</title>
+<aka>Творит Он чудеса.</aka>
 <lyrics>[V1]
  Велик небесный наш Отец:
  Творит Он чудеса.
@@ -25,4 +24,5 @@
  Ему хвала звучит:
  И в пенье птичек, и в цветах,
  И в вечных небесах.</lyrics>
+<hymn_number>773</hymn_number>
 </song>

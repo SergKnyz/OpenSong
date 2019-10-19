@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1512</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Синай</author>
 <key>C</key>
-<author>Синай</author>
 <title>Последнее время</title>
 <lyrics>[V1]
  1 куплет:
@@ -37,4 +36,5 @@
  К Небесной Отчизне людей поверни,
  К Источнику жизни направь их стремленье
  И Образ, утраченный ими, верни!</lyrics>
+<hymn_number>1512</hymn_number>
 </song>

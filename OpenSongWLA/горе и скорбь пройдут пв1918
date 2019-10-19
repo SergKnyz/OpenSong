@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1918</hymn_number>
-<title>Горе и скорбь пройдут ПВ1918</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Горе и скорбь пройдут,
  Нас радости в небе ждут;
  Страданье земное проходит
@@ -31,4 +29,6 @@
  Мы склонились пред Тобой;
  К Тебе ныне мы приходим.
  Приближаемся к Тебе.</lyrics>
+<hymn_number>1918</hymn_number>
+<title>Горе и скорбь пройдут ПВ1918</title>
 </song>

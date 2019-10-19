@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Пой, песню хвалы Иисусу</aka>
-<title>Пой!</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .E                  A  E
  Пой, песню хвалы Иисусу!
 .H                 F#m  A
@@ -21,6 +19,8 @@
    Но, а тех, кто любит Тебя сейчас,
 .    A           H
    награда славы ждёт!  //</lyrics>
-<key>E</key>
 <author>Бриан Доерксен</author>
+<title>Пой!</title>
+<key>E</key>
+<aka>Пой, песню хвалы Иисусу</aka>
 </song>

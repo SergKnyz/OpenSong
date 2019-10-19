@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1737</hymn_number>
-<author>Вечность</author>
-<key>C#m</key>
-<title>Голгофа</title>
 <lyrics>[V1]
  1 куплет:
 .       C#m       F#m      C#m
@@ -64,4 +61,7 @@
 [V5]
 .Dm     Gm            A          Dm
  Голгофа... Голгофа... Голгофа...</lyrics>
+<key>C#m</key>
+<title>Голгофа</title>
+<author>Вечность</author>
 </song>

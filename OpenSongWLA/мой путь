@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>SAVEIT</author>
+<key>F</key>
+<title>Мой Путь</title>
+<lyrics>[V1]
  1 КУПЛЕТ:
 .F     C     Dm       Bb
  Иисус ты радость Иисус ты жизнь
@@ -29,8 +32,5 @@
  Иисус ты помощь в мире скорбей.
  Наша опора, радость и свет.
  Бог мой великий превыше всех.</lyrics>
-<title>Мой Путь</title>
-<key>F</key>
-<author>SAVEIT</author>
 <hymn_number>3238</hymn_number>
 </song>

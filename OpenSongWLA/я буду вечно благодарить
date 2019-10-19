@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Денис Никитин</author>
-<hymn_number>2261</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Денис Никитин</author>
+<key>A</key>
+<title>Я буду вечно благодарить</title>
 <lyrics>[V1]
  1 куплет:
 .A                 E
@@ -36,5 +36,5 @@
  Что бы я и ты жили вновь.
  Нас так полюбил  что жизнью заплатил
  Что бы я и ты жили вновь.</lyrics>
-<title>Я буду вечно благодарить</title>
+<hymn_number>2261</hymn_number>
 </song>

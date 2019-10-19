@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
-<author>Hillsong United, Хиллсонг Унитед</author>
-<hymn_number>689</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>689</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .        C#m                      E
@@ -45,4 +43,6 @@
 .E             E/F#  H
  Вся в Тебе надежда__</lyrics>
 <title>Якорь</title>
+<key>C#m</key>
+<author>Hillsong United, Хиллсонг Унитед</author>
 </song>

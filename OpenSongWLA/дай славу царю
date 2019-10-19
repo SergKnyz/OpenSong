@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3557</hymn_number>
-<author>Elevation Worship, Елеватион Уорсхип</author>
-<title>Дай славу Царю</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
  Мы созданы, чтоб возносить непрестанную хвалу.
  Если будем молчать - камни закричат, воздавая честь Ему.
@@ -19,4 +16,7 @@
    Он восседает на облаке славы
    Все небеса ночью и днём
    Твердят о том, что Ему нет равных.</lyrics>
+<hymn_number>3557</hymn_number>
+<author>Elevation Worship, Елеватион Уорсхип</author>
+<title>Дай славу Царю</title>
 </song>

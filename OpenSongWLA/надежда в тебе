@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>469</hymn_number>
-<author>Слово Жизни Music</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
 <title>Надежда в Тебе</title>
+<key>C</key>
 <lyrics>[V1]
  1 куплет:
 .      C         F              C F
@@ -30,4 +29,5 @@
  И в Тебе Одном я спасенье нашел
  Даруй мне идти всегда за Тобой
  Когда мой дух сокрушен, Твое слово со мной</lyrics>
+<hymn_number>469</hymn_number>
 </song>

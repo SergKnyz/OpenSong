@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>713</hymn_number>
-<key>A</key>
-<author>Авен Езер</author>
-<title>Благодарю Тебя я, Господь из Назарета</title>
 <lyrics>[V1]
  1 куплет:
 .   Hm                 Em7
@@ -44,4 +41,7 @@
  Я знаю, что найду Твои следы
  Лишь там, где людям тяжко, лишь там, где ищут света,
  Где боль людей безмерной глубины.</lyrics>
+<key>A</key>
+<title>Благодарю Тебя я, Господь из Назарета</title>
+<author>Авен Езер</author>
 </song>

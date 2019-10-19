@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Спасибо</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сион Молдова</author>
+<title>Спасибо</title>
+<key>F#</key>
 <lyrics>[V1]
  1 куплет:
 .  D#m
@@ -50,6 +52,4 @@
 .        D#m                  F#           G#        D#m
    Когда сил нет идти, на Иисуса ты посмотри, посмотри.</lyrics>
 <hymn_number>1237</hymn_number>
-<author>Сион Молдова</author>
-<key>F#</key>
 </song>

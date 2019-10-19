@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<hymn_number>379</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>379</hymn_number>
 <lyrics>[V1]
  Устроен колодезь в пустыне сухой,
  Наполнен он светлой кристальной водой.
@@ -29,5 +28,6 @@
  Очнися, не спорь о начале его;
  Ты жаждешь и пей из колодца того,
  И ввек на земле не возжаждут уста.</lyrics>
+<key>C</key>
 <title>Устроен колодезь в пустыне сухой ПВ379</title>
 </song>

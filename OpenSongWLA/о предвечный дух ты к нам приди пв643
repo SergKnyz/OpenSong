@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
-<hymn_number>643</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О Предвечный Дух, Ты к нам приди,
  Силой нас и огнем крести.
  Удали от нас весь корень зла,
@@ -23,5 +21,7 @@
  Чтоб со злом выйти смело в бой;
  Благодать Твою пошли в сердца,
  Отражать врага.</lyrics>
+<hymn_number>643</hymn_number>
+<key>Ab</key>
 <title>О Предвечный Дух Ты к нам приди ПВ643</title>
 </song>

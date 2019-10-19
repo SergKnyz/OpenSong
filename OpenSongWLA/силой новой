@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5498</hymn_number>
-<author>Алексей Каратаев, Йесус Цултуре</author>
-<key>C</key>
-<title>Силой новой</title>
 <lyrics>[V1]
  Intro:
 
@@ -55,4 +52,7 @@
    Вся Земля, без Тебя - пуста!
 .              Cm                    A#
    Лишь Голос Твой, Бог, оживил сердца!</lyrics>
+<key>C</key>
+<title>Силой новой</title>
+<author>Алексей Каратаев, Йесус Цултуре</author>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>740</hymn_number>
-<title>Над землёй спустился вечер</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Над землёй спустился вечер</title>
 <lyrics>[V1]
  Над землёй спустился вечер
  В небе звёзды зажигая
@@ -32,4 +31,5 @@
  С Ним пришло спасенье людям
  В это Рождество Христово
  В это Рождество Христово!</lyrics>
+<hymn_number>740</hymn_number>
 </song>

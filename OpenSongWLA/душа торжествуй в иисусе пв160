@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>160</hymn_number>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <title>Душа торжествуй в Иисусе ПВ160</title>
 <lyrics>[V1]
  Душа, торжествуй в Иисусе,
@@ -36,4 +35,5 @@
    Всегда быть в общении с Ним,
    Богатством Его наслаждаясь
    И радуясь Им лишь одним.</lyrics>
+<hymn_number>160</hymn_number>
 </song>

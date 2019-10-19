@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<author>Jesus Culture, Йесус Цултуре</author>
-<hymn_number>3151</hymn_number>
-<aka>Вечно будем петь Тебе</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Bb       F       C Dm7
  Ты звал нас из темноты.
@@ -47,5 +43,9 @@
    Вознесём, вознесём!
 .  F              Dm7      Bb2
    Мы будем петь Тебе, Бог!</lyrics>
+<hymn_number>3151</hymn_number>
+<author>Jesus Culture, Йесус Цултуре</author>
+<aka>Вечно будем петь Тебе</aka>
+<key>F</key>
 <title>Ты звал нас из темноты.</title>
 </song>

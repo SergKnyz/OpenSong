@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Закрыв глаза</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Закрыв глаза</title>
+<author>Татьяна Прохор</author>
+<hymn_number>397</hymn_number>
 <lyrics>[V1]
 .Hm     F#m7           G
  1. Закрыв глаза, сложив ладони
@@ -64,7 +67,4 @@
  И капли той святой крови
 .          Gm              A
  Спасенье в мир нам принесли.</lyrics>
-<hymn_number>397</hymn_number>
-<author>Татьяна Прохор</author>
-<key>B</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2564</hymn_number>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
 <title>Никто не видел слез Христа пречистых ПВ2564</title>
 <lyrics>[V1]
  Никто не видел слез Христа пречистых,
@@ -24,4 +23,5 @@
  Под бременем и тяжестью креста,
  В одном найти мы утешенье сможем
  - В пречистых и святых слезах Христа.</lyrics>
+<hymn_number>2564</hymn_number>
 </song>

@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2813</hymn_number>
-<key>G#m</key>
-<author>Виталий Ефремочкин</author>
-<title>Сияй во мне Иисус</title>
 <lyrics>[C1]
    Припев:
 .  G#m  F#    E   C#m7
@@ -51,4 +48,7 @@
 .  G#m  C#    E F#
    O-o-o ... эта песня для Тебя
    O-o-o ... Тебе звучит хвала</lyrics>
+<key>G#m</key>
+<title>Сияй во мне Иисус</title>
+<author>Виталий Ефремочкин</author>
 </song>

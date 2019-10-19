@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5423</hymn_number>
-<title>Ночь настает, ветер поет</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ночь настает, ветер поет,
  Падает дождь в мраке ночном.
  Светит звезда над Вифлеемом,
@@ -23,4 +21,6 @@
 [C2]
    Что за Дитя в хлеву чужом Мария охраняет,
    Что Ангелы поют о Нем, а пастухи внимают?</lyrics>
+<hymn_number>5423</hymn_number>
+<title>Ночь настает, ветер поет</title>
 </song>

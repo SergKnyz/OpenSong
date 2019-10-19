@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<hymn_number>1211</hymn_number>
-<aka>Брат мой усталый о чем ты горюешь</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1211</hymn_number>
 <lyrics>[V1]
  Брат мой усталый, о чем ты горюешь?
  Сердце твое окружает печаль.
@@ -25,4 +23,6 @@
  Богу доверься, живи для Иисуса,
  В сердце твоем не погаснет заря.</lyrics>
 <title>Сердце твое окружает печаль ПВ1211</title>
+<key>E</key>
+<aka>Брат мой усталый о чем ты горюешь</aka>
 </song>

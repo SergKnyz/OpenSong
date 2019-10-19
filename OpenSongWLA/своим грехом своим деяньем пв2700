@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<hymn_number>2700</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Своим грехом, своим деяньем
  Я смерть навеки заслужил;
  Но, сострадательный к страданьям,
@@ -35,5 +33,7 @@
  И дай любви Твоей дары,
  Прими меня в Твои чертоги
  На праздник славы и любви!</lyrics>
+<hymn_number>2700</hymn_number>
+<key>G</key>
 <title>Своим грехом своим деяньем ПВ2700</title>
 </song>

@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бог прощает грехи</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Он есть истина и путь, и жизнь,</aka>
+<title>Бог прощает грехи</title>
+<key>E</key>
+<author>Сергей Перекрёстов</author>
+<hymn_number>3031</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Em           D
@@ -31,8 +35,4 @@
  Он услышит твой крик,
 .Em         D
  Не погибнешь ты.</lyrics>
-<aka>Он есть истина и путь, и жизнь,</aka>
-<hymn_number>3031</hymn_number>
-<author>Сергей Перекрёстов</author>
-<key>E</key>
 </song>

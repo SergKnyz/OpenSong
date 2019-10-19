@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты моя крепость</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Ты моя крепость</title>
+<author>Ольга Марина</author>
+<hymn_number>3169</hymn_number>
 <lyrics>[V1]
 .D                   Em
  Кто восседает над кругом земли?
@@ -24,7 +27,4 @@
  Ты моя крепость, сила и слава вовеки, вовеки!
 .D                 Em             C        D
  Ты моя крепость, сила и слава вовеки, вовеки!</lyrics>
-<hymn_number>3169</hymn_number>
-<author>Ольга Марина</author>
-<key>D</key>
 </song>

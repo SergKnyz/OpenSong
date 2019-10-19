@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5585</hymn_number>
-<author>Supernatural Worship, Елеватион Уорсхип</author>
-<key>C</key>
-<title>Я к Иисусу воззову</title>
 <lyrics>[V1]
  1 куплет:
 .C
@@ -47,4 +44,7 @@
    Твоё Имя превыше всех в мире
 .  C/E           F       C/G    G
    Вся власть и сила в имени Твоем!</lyrics>
+<title>Я к Иисусу воззову</title>
+<key>C</key>
+<author>Supernatural Worship, Елеватион Уорсхип</author>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<hymn_number>131</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О Иисус, достоин Ты
  Славы, чести на земле,
  Славу, честь от нас принять всегда,
@@ -29,5 +27,7 @@
  И, простив грехи вполне,
  Ты хранишь нас всякий час,
  Ты хранишь нас всякий час в Себе.</lyrics>
+<hymn_number>131</hymn_number>
+<key>G</key>
 <title>О Иисус достоин Ты ПВ131</title>
 </song>

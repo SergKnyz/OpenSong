@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1029</hymn_number>
+<lyrics>[V1]
 .  C        G       F      C
  Святый, Святый Ты, Господь,
 .   F         C      Dm    G
@@ -23,9 +24,8 @@
    Вселенная поёт:
 .       F          G     F G  C
    Аллилуйя, наш Царь и Бог!__</lyrics>
-<title>Святый, Святый Ты, Господь,</title>
 <key>C</key>
-<author>Hillsong Ukraine</author>
+<title>Святый, Святый Ты, Господь,</title>
 <aka>Восклицают Небеса</aka>
-<hymn_number>1029</hymn_number>
+<author>Hillsong Ukraine</author>
 </song>

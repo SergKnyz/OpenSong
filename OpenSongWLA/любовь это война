@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Любовь это война</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong United, Хиллсонг Унитед</author>
+<key>A</key>
+<title>Любовь это война</title>
 <lyrics>[V1]
  Куплет:
  В Своей милости и правде
@@ -53,6 +55,4 @@
    На третий день воскрес
    Теперь стоять могу я твердо</lyrics>
 <hymn_number>2731</hymn_number>
-<key>A</key>
-<author>Hillsong United, Хиллсонг Унитед</author>
 </song>

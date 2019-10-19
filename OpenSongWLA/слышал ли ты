@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Слышал ли ты</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Слышал ли ты</title>
+<author>Сергей Брикса</author>
+<hymn_number>1344</hymn_number>
 <lyrics>[V1]
  1 куплет:
 . Hm        A  G        D/F#   Em       D     F#
@@ -25,7 +28,4 @@
  2 куплет:
  Слышал хоть раз в утренний час тихий рассказ лесов и рек?
  Мог ли тогда голос Творца слышать внутри себя?</lyrics>
-<hymn_number>1344</hymn_number>
-<key>B</key>
-<author>Сергей Брикса</author>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>560</hymn_number>
-<key>C</key>
-<author>Спасение церковь г. Вишневое</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Спасение церковь г. Вишневое</author>
 <title>Ты мой Бог</title>
+<key>C</key>
 <lyrics>[V1]
  1 куплет:
 .                 Cm                  G
@@ -57,4 +56,5 @@
    У Твоей груди успокоюсь я,
 .      Am      H       Em
    Успокоится сердце моё.</lyrics>
+<hymn_number>560</hymn_number>
 </song>

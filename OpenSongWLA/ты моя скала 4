@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1070</hymn_number>
-<key>C</key>
-<author>Авигея</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Авигея</author>
 <title>Ты моя скала</title>
+<key>C</key>
 <lyrics>[V1]
  1 куплет:
 .    Cm          Bb        G#  G7
@@ -55,4 +54,5 @@
 [V8]
  //:В Тебе жизнь сокрыта вся нет мне счастья без Тебя
  Ты надежда моя , Ты моя скала ://</lyrics>
+<hymn_number>1070</hymn_number>
 </song>

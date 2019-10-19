@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2551</hymn_number>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <title>В скорбный час я взываю к Тебе ПВ2551</title>
 <lyrics>[V1]
  В скорбный час я взываю к Тебе
@@ -23,4 +22,5 @@
  Ты один лишь Помощник во всем,
  Не оставишь меня никогда,
  В обещаны Ты верен Своем.</lyrics>
+<hymn_number>2551</hymn_number>
 </song>

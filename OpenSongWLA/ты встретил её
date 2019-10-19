@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты встретил её</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новые Лица</author>
+<title>Ты встретил её</title>
+<key>F</key>
 <lyrics>[V1]
  1 куплет:
 .Bb           C            Am              Bb
@@ -35,6 +37,4 @@
  Что б жизнь расцвела, в твоём сердце весна, настала пора чудесная
  Волненье в сердцах и восторг на устах, и радость в глазах</lyrics>
 <hymn_number>430</hymn_number>
-<key>F</key>
-<author>Новые Лица</author>
 </song>

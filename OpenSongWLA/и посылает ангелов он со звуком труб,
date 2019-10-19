@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3116</hymn_number>
-<aka>Вот грядёт во славе, наш Господь Иисус</aka>
-<key>E</key>
-<author>Путь Христа церковь, г. Нюрнберг</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Путь Христа церковь, г. Нюрнберг</author>
 <title>И посылает  ангелов   Он со звуком труб,</title>
+<key>E</key>
+<aka>Вот грядёт во славе, наш Господь Иисус</aka>
 <lyrics>[V1]
  1.
 .        Em      G   H7              Em
@@ -34,4 +33,5 @@
     Поклонитесь Господу.   Ведь мы народ  Его.
 .Em           Am       H7             Em(на2-E)
     Собирает нас Господь   под Своё крыло.</lyrics>
+<hymn_number>3116</hymn_number>
 </song>

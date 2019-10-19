@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1453</hymn_number>
-<key>F#</key>
-<author>Joyyouth Worship</author>
-<title>От ранней зари (acoustic)</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .F#m           A        E            C#m
  От ранней зари Тебя ищу встречи я жду с Тобой
@@ -35,4 +31,8 @@
  Жаждет Тебя душа моя сердце горит огнем
  Мой лучший Друг, моя Любовь Бог мой единственный
  Петь о Тебе не хватит слов Господь таинственный!</lyrics>
+<hymn_number>1453</hymn_number>
+<author>Joyyouth Worship</author>
+<key>F#</key>
+<title>От ранней зари (acoustic)</title>
 </song>

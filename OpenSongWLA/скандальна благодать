@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>103</hymn_number>
-<author>Hillsong Ukraine</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <title>Скандальна благодать</title>
+<key>C</key>
 <lyrics>[V1]
  1 куплет:
 .      C
@@ -59,4 +58,5 @@
    Любовь Себя отдала
 .         F
    Чтобы жизнь мне дать</lyrics>
+<hymn_number>103</hymn_number>
 </song>

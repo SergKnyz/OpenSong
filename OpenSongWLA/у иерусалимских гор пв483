@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>483</hymn_number>
-<key>E</key>
-<title>У Иерусалимских гор ПВ483</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  У Иерусалимских гор
  Пел Иисусу детский хор.
  И теперь детей уста
@@ -24,4 +21,7 @@
  Стройте дружно голоса,
  Чтоб неслась среди житья
  Песнь &quot;осанны&quot; в небеса.</lyrics>
+<hymn_number>483</hymn_number>
+<key>E</key>
+<title>У Иерусалимских гор ПВ483</title>
 </song>

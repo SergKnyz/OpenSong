@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2354</hymn_number>
-<key>A</key>
-<author>Константин Косячков</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Константин Косячков</author>
 <title>Положи меня как печать</title>
+<key>A</key>
 <lyrics>[V1]
  1 куплет:
 .   Am               C      D
@@ -26,4 +25,5 @@
    Стрелы её, стрелы огненные
 .    F          G      Am
    Вся она - пламень...</lyrics>
+<hymn_number>2354</hymn_number>
 </song>

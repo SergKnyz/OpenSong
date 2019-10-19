@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>54</hymn_number>
-<author>Алексей Каратаев</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев</author>
 <key>D</key>
 <title>Запад-Восток</title>
 <lyrics>[V1]
@@ -50,4 +49,5 @@
    Открою сердце для Тебя такой как есть.
 .            F#m    E
    Я такой как есть.</lyrics>
+<hymn_number>54</hymn_number>
 </song>

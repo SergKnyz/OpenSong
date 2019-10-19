@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты Верный</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Вадим Ятковский</author>
+<title>Ты Верный</title>
+<key>A</key>
 <lyrics>[V1]
 .A  D E A
  И__исус Христос мой Спаситель и Бог
@@ -45,6 +47,4 @@
  Пусть ярче солнца огонь Твой горит
  Через меня, всем вокруг говорит, всегда</lyrics>
 <hymn_number>1176</hymn_number>
-<author>Вадим Ятковский</author>
-<key>A</key>
 </song>

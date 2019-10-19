@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3105</hymn_number>
-<key>F#</key>
-<author>Ярослава Лебе-Левинецкая</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ярослава Лебе-Левинецкая</author>
 <title>Меня Ты возлюбил</title>
+<key>F#</key>
 <lyrics>[V1]
  1 куплет:
  Я родился в сердце Твоем
@@ -26,4 +25,5 @@
  Я хочу быть славой Твоей
  Я хочу жизнь отдать для тебя
  Я хочу возвратиться к Тебе навсегда</lyrics>
+<hymn_number>3105</hymn_number>
 </song>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Hillsong Ukraine</author>
-<hymn_number>4169</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<key>D</key>
+<title>Лучший Друг</title>
 <lyrics>[V1]
  1 куплет:
 .D                          A
@@ -45,5 +45,5 @@
    Ничто не изменит это. Ничто не изменит это.
 .  D          Hm7      A             G2
    Ничто не изменит это. Ничто не изменит это.</lyrics>
-<title>Лучший Друг</title>
+<hymn_number>4169</hymn_number>
 </song>

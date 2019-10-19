@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5254</hymn_number>
-<author>Александр Соколов</author>
-<key>Ab</key>
-<title>Я победитель</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Intro: Eb, Fm, Db, Ab
 .Eb         Fm       Db                Ab Eb
  Эй, доброе утро, грядёт начало нового дня
@@ -39,4 +35,8 @@
    прежде создания этого мира
    И я буду славить Его потому что в нем мне спасение
    и возможность быть победителем</lyrics>
+<hymn_number>5254</hymn_number>
+<author>Александр Соколов</author>
+<key>Ab</key>
+<title>Я победитель</title>
 </song>

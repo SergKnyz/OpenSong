@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4619</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Путь Христа церковь, г. Нюрнберг</author>
 <key>D</key>
-<author>Путь Христа церковь, г. Нюрнберг</author>
 <title>Господи, Господи</title>
 <lyrics>[C1]
    Припев:
@@ -40,4 +39,5 @@
  Господи, Господи, Господи, Спаситель и наш лучший друг
 .C                Am             H7                  Em
   Господи, Господи, Господи, Ты добрый наш пастырь, Иисус</lyrics>
+<hymn_number>4619</hymn_number>
 </song>

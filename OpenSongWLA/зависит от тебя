@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Брикса</author>
-<key>B</key>
-<hymn_number>855</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>855</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .  C#m              E      G#m
@@ -40,5 +38,7 @@
  Мы сами выбираем как нам жить
  Господь тебе свободу предлагает
  Беги к Нему, Он хочет все простить.</lyrics>
+<key>B</key>
 <title>Зависит от тебя</title>
+<author>Сергей Брикса</author>
 </song>

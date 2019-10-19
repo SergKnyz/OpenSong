@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>О, Господи, моя душа ИИПВ212</title>
+<key>G</key>
+<lyrics>[V1]
 .G.      Am         D
  О, Господи, моя душа
 .            G         Em
@@ -17,7 +19,5 @@
  Мелодия, мелодия, Господу - мелодия.
 .   AmD.   GEm.   Am   D.          G
  Иисус, Иисус, Иисус, Ты - песнь моя.</lyrics>
-<title>О, Господи, моя душа ИИПВ212</title>
-<key>G</key>
 <hymn_number>212</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Imprintband</author>
-<hymn_number>2466</hymn_number>
-<aka>Благодарю</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2466</hymn_number>
 <lyrics>[V1]
  Куплет:
 .Dm  C Gm
@@ -40,5 +37,8 @@
    Бридж:
 .  Dm      C   Gm
    Благоларю,     благодарю.</lyrics>
+<key>D</key>
 <title>Создатель Автор и Творец</title>
+<aka>Благодарю</aka>
+<author>Imprintband</author>
 </song>

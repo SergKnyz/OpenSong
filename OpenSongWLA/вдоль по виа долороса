@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>на Голгофу по пути</aka>
-<hymn_number>464</hymn_number>
-<key>E</key>
-<author>Пирс</author>
-<title>Вдоль по Виа Долороса</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>464</hymn_number>
 <lyrics>[V1]
 .Em          D          C
  Вдоль по Виа Долороса, на Голгофу по пути
@@ -54,4 +50,8 @@
  Но Он выбрал ту дорогу, чтоб открыть нам небеса,
 . Em               D        C  H  Em
  Шёл Христос по Долороса за меня и за тебя</lyrics>
+<aka>на Голгофу по пути</aka>
+<title>Вдоль по Виа Долороса</title>
+<key>E</key>
+<author>Пирс</author>
 </song>

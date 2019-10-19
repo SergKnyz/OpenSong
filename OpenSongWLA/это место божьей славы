@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2234</hymn_number>
-<author>Галим Хусаинов</author>
-<key>B</key>
-<title>Это место Божьей славы</title>
 <lyrics>[V1]
 .G    A   Hm
  Это место Божьей славы
@@ -47,4 +44,7 @@
  Все возможно
 .A           Hm
  всем, кто верит в Любовь!</lyrics>
+<key>B</key>
+<title>Это место Божьей славы</title>
+<author>Галим Хусаинов</author>
 </song>

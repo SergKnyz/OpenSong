@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>937</hymn_number>
-<key>A</key>
-<author>Hillsong Ukraine</author>
-<title>Прославлю я Тебя</title>
 <lyrics>[V1]
 .A D/A     E/A  A E/G#
  Иисус,       Иисус
@@ -24,4 +21,7 @@
    Все возгласят хвалу Тебе сейчас и на века
 .  F#m  D          A E/G# G2 D/F#
    Прославлю я Тебя.</lyrics>
+<title>Прославлю я Тебя</title>
+<key>A</key>
+<author>Hillsong Ukraine</author>
 </song>

@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3693</hymn_number>
-<author>Пирс</author>
-<key>D</key>
-<title>Доверся мне</title>
 <lyrics>[V1]
  Куплет:
 
@@ -10,4 +7,7 @@
 
 [C1]
    Припев:</lyrics>
+<key>D</key>
+<title>Доверся мне</title>
+<author>Пирс</author>
 </song>

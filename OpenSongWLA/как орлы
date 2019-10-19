@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>832</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .Dm                 A/C#
  Голову под крыло - это не для орлов.
@@ -44,8 +45,7 @@
    Тихо там, в небе огромном, а над землею - громы.
    Господи Отче мой, я - над грозой, живой.
    Голову под крыло - это не для орлов.</lyrics>
+<key>D</key>
 <title>Как орлы</title>
 <author>Дмитрий Бирюков</author>
-<key>D</key>
-<hymn_number>832</hymn_number>
 </song>

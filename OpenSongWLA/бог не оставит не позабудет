@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Кто, мне скажите, не был одиноким,</aka>
-<hymn_number>277</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Эдем</author>
 <key>G</key>
-<author>Эдем</author>
 <title>Бог не оставит не позабудет</title>
+<aka>Кто, мне скажите, не был одиноким,</aka>
 <lyrics>[V1]
  1 куплет:
 .G/H          C           D   Em
@@ -53,4 +52,5 @@
    Упавших много, но «Аллилуйя!»:
 .          A#  F  Gm
    У Бога нету сирот.</lyrics>
+<hymn_number>277</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
-<title>Я говорю Иисус Твоя любовь во мне</title>
-<tempo>86</tempo>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Am           Dm          G                C
  Возношу свои руки к небу, прославляю Творца вселенной,
@@ -29,8 +26,11 @@
    В Тебе одном я нахожу покой, хочу я слышать нежный голос Твой.
 .    Am      E             Am
    Иисус, Иисус, будь со мной.</lyrics>
+<tempo>86</tempo>
 <hymn_number>1551</hymn_number>
-<aka>Возношу свои руки к небу прославляю Творца вселенной</aka>
 <author>Краеугольный камень</author>
 <key>A</key>
+<title>Я говорю Иисус Твоя любовь во мне</title>
+<time_sig>4/4</time_sig>
+<aka>Возношу свои руки к небу прославляю Творца вселенной</aka>
 </song>

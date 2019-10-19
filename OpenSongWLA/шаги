@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Жизнь</author>
-<hymn_number>416</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>416</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am                       F
@@ -39,5 +37,7 @@
  Как птицы летят в дальнюю даль.
  А помнишь, в детстве, все когда-то хотели,
  Летать высоко, высоко-высоко.</lyrics>
+<key>A</key>
 <title>Шаги</title>
+<author>Жизнь</author>
 </song>

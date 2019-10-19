@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Даниэль Энрике, A-SIDE</author>
-<hymn_number>4129</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Hm          A
  Иду к Тебе такой как есть
@@ -41,5 +38,8 @@
  Но сердцем не прожил и снова забывал
  И весел мир а Ты страдал
  За все мои грехи с позором умирал</lyrics>
+<hymn_number>4129</hymn_number>
+<author>Даниэль Энрике, A-SIDE</author>
 <title>Прости</title>
+<key>B</key>
 </song>

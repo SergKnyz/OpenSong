@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>150</hymn_number>
-<key>G</key>
-<title>Сердцем воспряну петь не престану ПВ150</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Сердцем воспряну, петь не престану
  Славу Тому, Кто нас искупил.
  Цепи порвал Он, Дух Свой нам дал Он,
@@ -30,4 +27,7 @@
  Скоро и я навек буду с Ним,
  Песню хваленья, песню спасенья
  Вечно там буду петь.</lyrics>
+<hymn_number>150</hymn_number>
+<key>G</key>
+<title>Сердцем воспряну петь не престану ПВ150</title>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Новое твори</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Анна Поночевная</author>
+<title>Новое твори</title>
+<key>D</key>
 <lyrics>[V1]
  1 куплет:
 .   Dm      Am          Dm     Am
@@ -58,6 +60,4 @@
 .   G         D  Em
    Господи Иисусе гряди.</lyrics>
 <hymn_number>4223</hymn_number>
-<author>Анна Поночевная</author>
-<key>D</key>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2433</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Белый снег ты окутал ПВ2433</title>
 <key>G</key>
-<title>Белый снег ты окутал ПВ2433</title>
 <lyrics>[V1]
 .Em             D           Am
  Белый снег, ты окутал Всю землю кругом,
@@ -34,4 +33,5 @@
  Помоги Ты мне в Новом году,
  // Дай пройти этот путь Так, как Ты завещал,
  Не сойти с Твоего мне пути. //</lyrics>
+<hymn_number>2433</hymn_number>
 </song>

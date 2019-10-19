@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Спасение церковь г. Вишневое</author>
-<key>F</key>
-<hymn_number>1229</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1229</hymn_number>
 <lyrics>[V1]
  intro:
 
@@ -46,5 +44,7 @@
    За всё придётся отвеча-а-ать!
 .        Fm
    Куда идёшь Ты...</lyrics>
+<key>F</key>
 <title>Ну что ты медлишь</title>
+<author>Спасение церковь г. Вишневое</author>
 </song>

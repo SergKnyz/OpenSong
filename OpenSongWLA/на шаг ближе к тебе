@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>412</hymn_number>
-<author>Филипп Реннер</author>
-<key>E</key>
-<title>На шаг ближе к Тебе</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .E          F#m
  Стою я здесь вся жизнь моя в Тебе
@@ -40,4 +36,8 @@
    Иисус, Иисус, Ты первая любовь
 .  E      H/D#    C#m   E/H   A
    Иисус, Иисус, Ты первая любовь</lyrics>
+<hymn_number>412</hymn_number>
+<author>Филипп Реннер</author>
+<key>E</key>
+<title>На шаг ближе к Тебе</title>
 </song>

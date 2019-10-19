@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Сергей Брикса</author>
-<hymn_number>1537</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1537</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Hm  F#      G        Em
@@ -46,4 +44,6 @@
 .                 E                Em
    Единственный шанс, один только шанс.</lyrics>
 <title>Прости меня</title>
+<key>B</key>
+<author>Сергей Брикса</author>
 </song>

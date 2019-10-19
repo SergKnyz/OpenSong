@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В Имени Иисуса</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>JG Youth Worship</author>
+<title>В Имени Иисуса</title>
+<key>F#</key>
+<aka>От раннего утра жажду я</aka>
 <lyrics>[V1]
  127 bpm
 
@@ -92,7 +95,4 @@
 .  D
    Так жаждем видеть Тебя, Бог!</lyrics>
 <hymn_number>2691</hymn_number>
-<aka>От раннего утра жажду я</aka>
-<author>JG Youth Worship</author>
-<key>F#</key>
 </song>

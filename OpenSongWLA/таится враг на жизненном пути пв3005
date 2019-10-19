@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3005</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Таится враг на жизненном пути ПВ3005</title>
 <key>A</key>
-<title>Таится враг на жизненном пути ПВ3005</title>
 <lyrics>[V1]
  Таится враг на жизненном пути,
  желая вред мне принести,
@@ -35,4 +34,5 @@
  с Ним я непобедим
  и непоколебим
  с войском всем Его святым.</lyrics>
+<hymn_number>3005</hymn_number>
 </song>

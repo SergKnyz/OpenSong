@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Денис Никитин</author>
-<key>B</key>
-<hymn_number>2979</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2979</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Hm     G       D           A/C#
@@ -43,5 +41,7 @@
  И она сохранит сердце только для него,
  Один раз, навсегда, открывая целый мир
  От сердца к сердцу!</lyrics>
+<key>B</key>
 <title>Истории Любви</title>
+<author>Денис Никитин</author>
 </song>

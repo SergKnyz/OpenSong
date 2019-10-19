@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3866</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
 <key>E</key>
-<author>Виталий Ефремочкин</author>
 <title>Рядом быть</title>
 <lyrics>[V1]
  1 куплет:
@@ -15,4 +14,5 @@
  И в объятиях Твоих утешаюсь я.
  Ты даришь жизнь, даёшь судьбу нам,
  И лишь одно в замен Ты просишь: «Рядом быть»!</lyrics>
+<hymn_number>3866</hymn_number>
 </song>

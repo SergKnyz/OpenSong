@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<key>F</key>
-<hymn_number>2396</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2396</hymn_number>
 <lyrics>[V1]
  МОЙ СПАСИТЕЛЬ (What A Saviour)
  Слова и музыка: Joel Houston, Chris Davenport
@@ -75,5 +73,7 @@
  И пока дышу
 .                     C
  Я буду славить лишь Тебя</lyrics>
+<key>F</key>
 <title>Мой Спаситель</title>
+<author>Hillsong Ukraine</author>
 </song>

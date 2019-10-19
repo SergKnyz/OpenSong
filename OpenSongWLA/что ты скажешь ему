@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Пирс</author>
-<key>D</key>
-<hymn_number>485</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    Bb             C                              Dm       Am     Bb
  Что ты скажешь Ему, когда Он тебя встретит, за порогом земной суеты?
@@ -40,5 +37,8 @@
    Что в смятенье Ему твоё сердце ответит,
 .     F               Am        Dm
    В миг когда перед Ним будешь ты?</lyrics>
+<hymn_number>485</hymn_number>
+<author>Пирс</author>
 <title>Что ты скажешь Ему</title>
+<key>D</key>
 </song>

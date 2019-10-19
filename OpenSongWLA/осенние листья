@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Осенние листья</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Осенние листья</title>
+<author>Инна Звягинцева</author>
+<hymn_number>308</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .        Em    D               C D
@@ -35,7 +38,4 @@
  Их ласковый шелест звучит над землёй.
  Уйдем навсегда мы - возврата нам нет.
  Весною другие укроют свет.</lyrics>
-<hymn_number>308</hymn_number>
-<key>E</key>
-<author>Инна Звягинцева</author>
 </song>

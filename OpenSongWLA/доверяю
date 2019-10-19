@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Nikita Isakov</author>
-<hymn_number>4041</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .  F#m     H                F#m    H
  Суета, куда-то бежал в никуда? Чего же я ждал?
@@ -37,5 +34,8 @@
    Что бы не делал ты, где б ни искал мечты -
 .                D            A            E
    Знай, только Бог заполнит место пустоты.</lyrics>
+<hymn_number>4041</hymn_number>
+<author>Nikita Isakov</author>
 <title>Доверяю</title>
+<key>A</key>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>все желания души</aka>
-<hymn_number>3209</hymn_number>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
 <title>Брат мой к Богу возноси ПВ3209</title>
+<aka>все желания души</aka>
 <lyrics>[V1]
  Брат мой, к Богу возноси
  все желания души:
@@ -46,4 +45,5 @@
  ибо Он наш меч и щит.
  Помощь тем, кто уповает,
  Он окажет.</lyrics>
+<hymn_number>3209</hymn_number>
 </song>

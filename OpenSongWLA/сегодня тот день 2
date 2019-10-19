@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Slavic New Beginnings Church</author>
-<key>D</key>
-<hymn_number>41</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .           D    Hm    A   G         D   Hm A G
  Оставив заботы все,    забуду все прошлое,
@@ -44,5 +41,8 @@
    И пойду, как поведёшь Ты я верю Твоим словам
 .               D  Hm A G
    Сегодня тот день!__</lyrics>
+<hymn_number>41</hymn_number>
+<author>Slavic New Beginnings Church</author>
+<key>D</key>
 <title>Сегодня тот день</title>
 </song>

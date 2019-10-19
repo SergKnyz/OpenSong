@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Владимир Скобочкин</author>
-<aka>Будь на страже</aka>
-<hymn_number>2435</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em      C D  C    Em  D    C D
  1. Загляни внутрь своей души,
 .Em     C  D  C    Em D      C     D
@@ -25,5 +21,9 @@
  Помни, друг, не все первые в Царствие войдут:
  С трепетом береги, что Бог для тебя хранил,
  С Богом прибывай в общении, чтоб дух твой не остыл.</lyrics>
+<hymn_number>2435</hymn_number>
+<author>Владимир Скобочкин</author>
+<key>E</key>
 <title>Загляни внутрь своей души,</title>
+<aka>Будь на страже</aka>
 </song>

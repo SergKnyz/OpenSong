@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<aka>Быстрыми полетными часами</aka>
-<hymn_number>808</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Быстрыми полетными часами</aka>
+<key>A</key>
+<title>Юность быстрокрылая летит ПВ808</title>
 <lyrics>[V1]
  Быстрыми, полетными часами
  Юность быстрокрылая летит,
@@ -30,5 +30,5 @@
  Небо - нашей жизни всей мечта,
  За святые подвиги награда,
  Счастья неземного красота.</lyrics>
-<title>Юность быстрокрылая летит ПВ808</title>
+<hymn_number>808</hymn_number>
 </song>

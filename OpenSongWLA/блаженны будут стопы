@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
-<title>Блаженны будут стопы</title>
-<tempo>80</tempo>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Блаженны будут стопы</title>
+<key>C</key>
+<time_sig>4/4</time_sig>
 <lyrics>[V1]
 .          C      D7        C/G   G Em
  Блаженны будут стопы благовестников
@@ -33,5 +33,5 @@
 .          D  E        A
    Правит Бог! Правит Бог!</lyrics>
 <hymn_number>19</hymn_number>
-<key>C</key>
+<tempo>80</tempo>
 </song>

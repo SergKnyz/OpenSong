@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О молитва</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    Am         Dm             Am     E    Am
  О молитва, о молитва! В жизни Богом ты дана.
@@ -33,5 +32,6 @@
  Я в молитве радость получал.</lyrics>
 <hymn_number>1998</hymn_number>
 <author>Сергей Брикса</author>
+<title>О молитва</title>
 <key>A</key>
 </song>

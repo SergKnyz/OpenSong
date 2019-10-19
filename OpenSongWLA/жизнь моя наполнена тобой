@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>SokolovBrothers</author>
-<key>D</key>
-<hymn_number>6136</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6136</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .D          E      F#m   A
@@ -40,5 +38,7 @@
    Тонуть хочу в Тебе, держать за руку лишь Тебя
 .  F#m                     D   A
    Живи мой Бог во мне открыт я.</lyrics>
+<key>D</key>
 <title>Жизнь моя наполнена Тобой</title>
+<author>SokolovBrothers</author>
 </song>

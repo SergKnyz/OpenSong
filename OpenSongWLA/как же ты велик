@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1392</hymn_number>
-<author>Вместе к совершенству</author>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Вместе к совершенству</author>
 <title>Как же Ты велик</title>
+<key>F</key>
 <lyrics>[V1]
  1 куплет:
 .Fm    C#        G# D#
@@ -37,4 +36,5 @@
  Распят был любовь Свою явил.
  Он завет сейчас тебя
  Завет Он доверь Ему себя</lyrics>
+<hymn_number>1392</hymn_number>
 </song>

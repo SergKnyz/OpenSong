@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>324</hymn_number>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
 <title>Пастырь добрый ищет ПВ324</title>
 <lyrics>[V1]
  Пастырь добрый ищет
@@ -24,4 +23,5 @@
  Всех Отец зовет:
  Сын был мертв, потерян -
  Найден и живет.</lyrics>
+<hymn_number>324</hymn_number>
 </song>

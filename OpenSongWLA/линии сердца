@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Новый Иерусалим</author>
-<key>G</key>
-<hymn_number>382</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Gm         Bb
  Нас узнают не по лицам,
@@ -43,5 +40,8 @@
    Пред припев:
    С высоты не слышно нот -
    Небо нас с тобой поймёт.</lyrics>
+<hymn_number>382</hymn_number>
+<author>Новый Иерусалим</author>
+<key>G</key>
 <title>Линии сердца</title>
 </song>

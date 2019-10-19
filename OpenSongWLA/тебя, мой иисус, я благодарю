@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3122</hymn_number>
-<author>Путь Христа церковь, г. Нюрнберг</author>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Путь Христа церковь, г. Нюрнберг</author>
 <title>Тебя, Мой Иисус, я благодарю</title>
+<key>D</key>
 <lyrics>[V1]
  1.
 .  Dm(Em)            Gm(Am)
@@ -23,4 +22,5 @@
  Путь новый открыл, Завет Новый дал
 .    A(H7)                 Dm(Em)
  И другом Своим меня Ты назвал.</lyrics>
+<hymn_number>3122</hymn_number>
 </song>

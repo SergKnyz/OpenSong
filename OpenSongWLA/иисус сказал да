@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
-<key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
+<title>Иисус сказал да</title>
+<author>Виталий Ефремочкин</author>
 <hymn_number>4128</hymn_number>
 <lyrics>[V1]
 .C#
@@ -48,5 +49,4 @@
    Когда Иисус за нас, кто будет против нас?
 .            F#  C#             G#   C#
    Иисус сказал да, никто не скажет нет!</lyrics>
-<title>Иисус сказал да</title>
 </song>

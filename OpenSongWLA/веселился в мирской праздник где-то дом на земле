@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Владимир Скобочкин</author>
-<hymn_number>2432</hymn_number>
-<aka>Возмездие</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2432</hymn_number>
 <lyrics>[V1]
 .Em          C              D                   Em
  Веселился в мирской праздник где-то дом на земле
@@ -39,5 +36,8 @@
  Друзья мои, зачем друзья, губить себя?
  Молю, примите вы Христа, отчищайте ваши сердца.
  Ведь не за горами, воздаяние Христа.</lyrics>
+<aka>Возмездие</aka>
+<key>E</key>
 <title>Веселился в мирской праздник где-то дом на земле</title>
+<author>Владимир Скобочкин</author>
 </song>

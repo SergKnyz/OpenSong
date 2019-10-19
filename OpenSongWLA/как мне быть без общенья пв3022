@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3022</hymn_number>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <title>Как мне быть без общенья ПВ3022</title>
 <lyrics>[V1]
  Как мне быть без общенья
@@ -29,4 +28,5 @@
  дарит мне свет Писанья,
  и чрез Христа страданья
  свободен и счастлив я!</lyrics>
+<hymn_number>3022</hymn_number>
 </song>

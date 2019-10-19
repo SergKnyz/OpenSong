@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Лучшие дни нашей жизни ПВ725</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
+<title>Лучшие дни нашей жизни ПВ725</title>
+<hymn_number>725</hymn_number>
 <lyrics>[V1]
  Лучшие дни нашей жизни,
  Свежие силы весны молодой
@@ -31,6 +33,4 @@
    Смерть за Христа не страшна!
    С радостным пеньем хваленья
    Мы одолеем врага!</lyrics>
-<hymn_number>725</hymn_number>
-<key>Bb</key>
 </song>

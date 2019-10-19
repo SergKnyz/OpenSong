@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<author>Александр Бейко</author>
-<hymn_number>1028</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .  Fm      Cm         Bbm       C
  Душа искала чистоты, душа искала,
@@ -40,5 +37,8 @@
 [V4]
  Слова - Наталия Лупан
  Музыка - Аурел Лупан</lyrics>
+<hymn_number>1028</hymn_number>
+<author>Александр Бейко</author>
 <title>Душа искала чистоты</title>
+<key>F</key>
 </song>

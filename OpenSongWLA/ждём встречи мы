@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ждём встречи мы</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Святая земля</aka>
+<key>Eb</key>
+<title>Ждём встречи мы</title>
+<author>Пассион</author>
+<hymn_number>105</hymn_number>
 <lyrics>[V1]
 .Eb/Ab Bb Cm7 Ebmaj7/G
   
@@ -42,8 +46,4 @@
    Страх исчез, Любовь здесь
 .   Cm7      Eb/G
    Мой Царь, изменил Ты всё Иисус.</lyrics>
-<aka>Святая земля</aka>
-<hymn_number>105</hymn_number>
-<key>Eb</key>
-<author>Пассион</author>
 </song>

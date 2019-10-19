@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2760</hymn_number>
-<title>Чудный художник</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Чудный художник</title>
 <lyrics>[V1]
  Голубое в пене море гладит берег золотой
  Стаи чаек на просторе соревнуются с волной
@@ -19,4 +18,5 @@
 [V4]
  Ах какое это чудо море чайки солнце лес
  Никогда не позабуду восхвалять Творца небес</lyrics>
+<hymn_number>2760</hymn_number>
 </song>

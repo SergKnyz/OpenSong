@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Nikita Isakov</author>
-<hymn_number>4036</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4036</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .D
@@ -41,5 +39,7 @@
  Мы не знаем на завтра новостей.
  Делай, действуй, хватить долго ждать!
  Но не забывай других прощать.</lyrics>
+<key>D</key>
 <title>Дарить любовь</title>
+<author>Nikita Isakov</author>
 </song>

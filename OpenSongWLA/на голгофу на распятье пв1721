@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>На Голгофу на распятье ПВ1721</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сусанна Шарикова</author>
+<title>На Голгофу на распятье ПВ1721</title>
+<key>A</key>
 <lyrics>[V1]
  Куплет 1:
 .Am              C  Dm
@@ -35,6 +37,4 @@
  Слышно там, как люд стенает:
  «Нами Бог ведь был казнён!»</lyrics>
 <hymn_number>1721</hymn_number>
-<author>Сусанна Шарикова</author>
-<key>A</key>
 </song>

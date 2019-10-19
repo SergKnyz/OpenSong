@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2974</hymn_number>
-<author>Матфей Шариков</author>
-<key>F#</key>
-<title>Прости</title>
 <lyrics>[V1]
  1 куплет:
 .  F#m             C#m
@@ -45,4 +42,7 @@
  Спешу придти к Тебе, о мой Спаситель!
 .    D                          C#
  О, дай мне силы, чтоб не опоздать.</lyrics>
+<key>F#</key>
+<title>Прости</title>
+<author>Матфей Шариков</author>
 </song>

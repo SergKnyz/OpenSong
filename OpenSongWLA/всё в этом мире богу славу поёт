@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Снежинка</author>
-<key>Ab</key>
-<hymn_number>1065</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вст
 
 [V2]
@@ -62,5 +59,8 @@
 
 [V9]
  Припев</lyrics>
+<hymn_number>1065</hymn_number>
+<author>Снежинка</author>
+<key>Ab</key>
 <title>Всё в этом мире Богу славу поёт</title>
 </song>

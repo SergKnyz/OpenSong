@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Как росток</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Спасение церковь г. Вишневое</author>
+<title>Как росток</title>
+<key>Ab</key>
 <lyrics>[V1]
  1 куплет:
 .        Ab       Eb       Ab  Eb/G Fm
@@ -32,6 +34,4 @@
  И к великим, сильным Он причтён Главой,
  Праведник, Раб Мой, оправдает всех.</lyrics>
 <hymn_number>1195</hymn_number>
-<key>Ab</key>
-<author>Спасение церковь г. Вишневое</author>
 </song>

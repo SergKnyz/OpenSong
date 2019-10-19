@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Русавуки</author>
-<hymn_number>3829</hymn_number>
-<aka>Без Тебя я прошел версты</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1. Без Тебя я прошел версты,
  Догоняя свои грезы,
  Но каждый шаг был туманом объятый...
@@ -27,5 +24,8 @@
  С Тобой сумел я радость обрести.
  Отныне я живу душою улыбаясь
  И этот рай хочу другим нести.</lyrics>
+<hymn_number>3829</hymn_number>
+<author>Русавуки</author>
 <title>Вёрсты</title>
+<aka>Без Тебя я прошел версты</aka>
 </song>

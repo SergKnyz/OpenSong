@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Время оно как река</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Кристалл</author>
+<key>A</key>
+<title>Время оно как река</title>
 <lyrics>[V1]
  1 куплет:
 .  A      E       F#m      D  A         C#m       F#m D
@@ -27,6 +29,4 @@
  Как хочется скорее узнать, когда мне идти по воде,
  Как хочется в небо взлететь, если б мог бы, улетел бы к Тебе.</lyrics>
 <hymn_number>1001</hymn_number>
-<key>A</key>
-<author>Кристалл</author>
 </song>

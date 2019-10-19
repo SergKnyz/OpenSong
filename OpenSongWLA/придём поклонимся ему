@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1556</hymn_number>
-<author>Виталий Ефремочкин</author>
-<key>C</key>
-<title>Придём поклонимся Ему</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Cm             Bb/D Eb           Bb/D Cm
  Придём, поклонимся Ему Слава нашему Царю!
@@ -23,4 +19,8 @@
    Мост:
 .  Bb/D Ab/C  Bb  Cm7  C#  F  Bb Eb
    Аллилуйя, Алл__илуйя, Алл__илуйя Наш Бог велик!!!</lyrics>
+<hymn_number>1556</hymn_number>
+<author>Виталий Ефремочкин</author>
+<key>C</key>
+<title>Придём поклонимся Ему</title>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4141</hymn_number>
-<key>B</key>
-<author>Русавуки</author>
-<title>Ты никогда не предашь меня</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .H Em A D Hm Em G F# Hm
  1 куплет:
 .Hm                      Em
@@ -61,4 +57,8 @@
    Рядом Иисус со мной,
 .  G#              G       Cm
    Потому что Ты любишь меня.</lyrics>
+<hymn_number>4141</hymn_number>
+<author>Русавуки</author>
+<title>Ты никогда не предашь меня</title>
+<key>B</key>
 </song>

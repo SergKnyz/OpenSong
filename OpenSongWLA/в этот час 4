@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог мой Иисус Тебе молюсь</aka>
-<hymn_number>3155</hymn_number>
-<key>F#</key>
-<author>Роман Фрисман</author>
-<title>В этот час</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .F#m               E    D
  Бог мой Иисус, Тебе молюсь,
 .C#7
@@ -40,4 +35,9 @@
  Ты Святой!
  Славою покрылась вся земля,
  И вся вселенная, и небеса !!</lyrics>
+<hymn_number>3155</hymn_number>
+<author>Роман Фрисман</author>
+<key>F#</key>
+<title>В этот час</title>
+<aka>Бог мой Иисус Тебе молюсь</aka>
 </song>

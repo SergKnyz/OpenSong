@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1993</hymn_number>
-<author>Worship 24-7</author>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Worship 24-7</author>
 <title>Да Бог</title>
+<key>G</key>
 <lyrics>[V1]
  Куплет: (Вариант 1)
  Меняю печали   меняю свой стыд
@@ -22,4 +21,5 @@
 [V3]
  Иисус живой Иисус живой
  Навеки со мной</lyrics>
+<hymn_number>1993</hymn_number>
 </song>

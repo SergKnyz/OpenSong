@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Господу хвалу поем</title>
+<key>D</key>
+<aka>Аллилуйя</aka>
+<author>Маханаим, Харьковская Церковь Христа</author>
+<hymn_number>3599</hymn_number>
 <lyrics>[C1]
    Припев:
 .  Dm       Bb     F        C
@@ -31,8 +35,4 @@
  4 куплет:
  Он избрал нас, и сейчас Сам сражается за нас,
  В славе Сын Его грядет, к небесам нас вознесет.</lyrics>
-<aka>Аллилуйя</aka>
-<hymn_number>3599</hymn_number>
-<author>Маханаим, Харьковская Церковь Христа</author>
-<key>D</key>
 </song>

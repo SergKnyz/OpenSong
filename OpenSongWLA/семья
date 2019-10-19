@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Семья</title>
+<author>Авана</author>
+<hymn_number>8</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .    C                    G              Am
  По маленьким дорожкам, маленькие ножки оставляют след.
@@ -35,8 +39,4 @@
  Свет любви и счастья материнской ласки, добрый взгляд отца.
  Никогда, ничем мы не оплатим,за любовь родителей своих.
  Пусть вам Бог воздаст, и Сам благословит.</lyrics>
-<title>Семья</title>
-<key>C</key>
-<author>Авана</author>
-<hymn_number>8</hymn_number>
 </song>

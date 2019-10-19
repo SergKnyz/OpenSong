@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Спасение церковь Брест</author>
-<key>C</key>
-<hymn_number>4096</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Cm           Fm        Bb          Eb
  Мирно спящий город не ведал и не знал
@@ -45,5 +42,8 @@
    Концовка:
    Совершенно точно сегодня знаю я
    В той безмолвной ночью взошла любви заря.</lyrics>
+<hymn_number>4096</hymn_number>
+<author>Спасение церковь Брест</author>
+<key>C</key>
 <title>Он рождён</title>
 </song>

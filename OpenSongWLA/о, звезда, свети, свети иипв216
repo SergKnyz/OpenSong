@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
-<hymn_number>216</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .       Em     B7     Em
  О, звезда, свети, свети,
 .               B7      Em
@@ -31,5 +29,7 @@
  Мыколени преклоним
  Господу,Царю Иисусу
  Славувоздадим.</lyrics>
+<hymn_number>216</hymn_number>
+<key>Em</key>
 <title>О, звезда, свети, свети ИИПВ216</title>
 </song>

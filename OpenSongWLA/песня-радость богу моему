@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Аня Монах</author>
-<key>A</key>
-<hymn_number>3000</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3000</hymn_number>
 <lyrics>[V1]
  Буду танцевать
  Перед Тобой,
@@ -11,4 +9,6 @@
  Буду я веселиться,
  Славить и превозносить!</lyrics>
 <title>Песня-радость Богу моему</title>
+<key>A</key>
+<author>Аня Монах</author>
 </song>

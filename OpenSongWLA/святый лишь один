@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1883</hymn_number>
-<author>Elevation Worship</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Elevation Worship</author>
 <title>Святый лишь Один</title>
+<key>A</key>
 <lyrics>[V1]
  Перевод - Давид Кругляк
 
@@ -36,4 +35,5 @@
    И мы, возносим хвалу
    Все громче хвала
    Тебе лишь хвала</lyrics>
+<hymn_number>1883</hymn_number>
 </song>

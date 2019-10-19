@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
-<key>D</key>
-<hymn_number>55</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .           Bb   C    F
  Возложу заботы на Тебя
@@ -38,5 +35,8 @@
    Иисус - мой Искупитель Ты спас меня, мой Бог
 .       Gm         Bb       Dm           C
    Искупитель, Спаситель, покой мой и Целитель</lyrics>
+<hymn_number>55</hymn_number>
+<author>Слово Жизни Music</author>
+<key>D</key>
 <title>Искупитель</title>
 </song>

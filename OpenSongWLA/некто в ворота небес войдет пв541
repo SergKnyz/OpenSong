@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<hymn_number>541</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Некто в ворота небес войдет;
  Близок час! Близок час!
  Некто познает рай, что там ждет.
@@ -43,5 +41,7 @@
    Раньше пришедших из стран скорбей,
    Вечно счастливых в душе своей.
    А вы? А я? А вы? А я?</lyrics>
+<hymn_number>541</hymn_number>
+<key>F</key>
 <title>Некто в ворота небес войдет ПВ541</title>
 </song>

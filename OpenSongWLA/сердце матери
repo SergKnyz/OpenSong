@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>918</hymn_number>
-<key>C</key>
-<author>Наталья Литвиненко</author>
-<title>Сердце матери</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .       Cm
  Дни и ночи, дни и ночи напролёт
@@ -51,4 +47,8 @@
  Но спасти желает всех до одного
  Пусть молитвы материнские текут
  О, как ценен перед Богом этот труд</lyrics>
+<hymn_number>918</hymn_number>
+<author>Наталья Литвиненко</author>
+<key>C</key>
+<title>Сердце матери</title>
 </song>

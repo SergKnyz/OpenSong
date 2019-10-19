@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2283</hymn_number>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <title>Под бичом кровавого удара ПВ2283</title>
 <lyrics>[V1]
  Под бичом кровавого удара,
@@ -24,4 +23,5 @@
  Тяжкий крест Он на Голгофу нес.
  И на нем он умер там, страдая,
  Для того, чтоб грешник был спасен.</lyrics>
+<hymn_number>2283</hymn_number>
 </song>

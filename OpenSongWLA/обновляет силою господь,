@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Вечности Отец</aka>
-<hymn_number>33</hymn_number>
-<author>Slavic New Beginnings Church</author>
-<key>D</key>
-<title>Обновляет силою Господь,</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .D
  Обновляет силою Господь,
@@ -42,4 +37,9 @@
  Обновляет силою Господь,
 . G
  Сердцем кто своим уповает на Него.</lyrics>
+<hymn_number>33</hymn_number>
+<author>Slavic New Beginnings Church</author>
+<title>Обновляет силою Господь,</title>
+<key>D</key>
+<aka>Вечности Отец</aka>
 </song>

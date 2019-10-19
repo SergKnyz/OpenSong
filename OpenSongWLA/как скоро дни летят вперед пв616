@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>616</hymn_number>
-<key>E</key>
-<title>Как скоро дни летят вперед ПВ616</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Как скоро дни летят вперед
  Неслышной чередой!
  Вот день один к концу идет,
@@ -36,4 +33,7 @@
  Расстаться мне с землей,
  Ты вспомни между слуг Твоих
  Спасенного Тобой.</lyrics>
+<hymn_number>616</hymn_number>
+<key>E</key>
+<title>Как скоро дни летят вперед ПВ616</title>
 </song>

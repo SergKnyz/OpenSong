@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Ярослава Лебе-Левинецкая</author>
-<hymn_number>3106</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3106</hymn_number>
 <lyrics>[V1]
  Куплет:
  Кровью Христа я омыта от греха
@@ -22,5 +20,7 @@
    Я прикасаюсь к Твоей славе
    И силой наполняешь, любовью исцеляешь
    Дыханьем оживляешь вновь</lyrics>
+<key>C</key>
 <title>Теперь открыты небеса</title>
+<author>Ярослава Лебе-Левинецкая</author>
 </song>

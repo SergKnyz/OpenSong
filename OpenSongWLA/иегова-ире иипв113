@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>113</hymn_number>
-<key>Em</key>
-<title>Иегова-Ире ИИПВ113</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em.       Am.
  Иегова-Ире всё приготовит,
 .   C        B7    Em
@@ -22,4 +19,7 @@
  Иегова-Ире заботится обо мне,
 .  C       B7     Em
  Иегова-Ире заботится.</lyrics>
+<hymn_number>113</hymn_number>
+<key>Em</key>
+<title>Иегова-Ире ИИПВ113</title>
 </song>

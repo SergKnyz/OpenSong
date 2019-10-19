@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
+<aka>Воспойте хвалу Царю царей - Любовь Его вовеки</aka>
+<title>Вовеки Бог нам верен</title>
+<key>G</key>
+<author>Цхрис Томлин</author>
+<hymn_number>70</hymn_number>
+<tempo>130</tempo>
+<lyrics>[V1]
 .    E
  Воспойте хвалу Царю царей - Любовь Его вовеки
 .A                              E
@@ -33,11 +40,4 @@
    Любовь Его вовеки,
 .      H      A      H      A
    Воспой хвалу! Воспой хвалу!</lyrics>
-<tempo>130</tempo>
-<title>Вовеки Бог нам верен</title>
-<time_sig>4/4</time_sig>
-<author>Цхрис Томлин</author>
-<key>G</key>
-<aka>Воспойте хвалу Царю царей - Любовь Его вовеки</aka>
-<hymn_number>70</hymn_number>
 </song>

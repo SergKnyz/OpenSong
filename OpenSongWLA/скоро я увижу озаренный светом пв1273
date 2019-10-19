@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1273</hymn_number>
-<key>F</key>
-<author>В. Гусаковой</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>В. Гусаковой</author>
 <title>Скоро я увижу озаренный светом ПВ1273</title>
+<key>F</key>
 <lyrics>[V1]
 .           C    F        C    Am
  Скоро я увижу озаренный светом,
@@ -41,4 +40,5 @@
  Но я знаю, что я скоро отдохну.
  После всех скитаний, скорби и изгнаний,
  Сам Господь отрёт последнюю слезу.</lyrics>
+<hymn_number>1273</hymn_number>
 </song>

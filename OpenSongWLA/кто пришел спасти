@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Возносим Тебя</aka>
-<hymn_number>458</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
 <key>C#m</key>
-<author>Слово Жизни Music</author>
 <title>Кто пришел спасти?</title>
+<aka>Возносим Тебя</aka>
 <lyrics>[V1]
  1 куплет:
 .C#m     A       E
@@ -47,4 +46,5 @@
    И Ты - Царь! Ты правишь, Бог!
 .       C#m  A     H
    Ты - Царь, мой Царь!</lyrics>
+<hymn_number>458</hymn_number>
 </song>

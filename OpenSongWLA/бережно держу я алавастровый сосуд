@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бережно держу я алавастровый сосуд</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
+<title>Бережно держу я алавастровый сосуд</title>
+<key>G</key>
 <lyrics>[V1]
  1 куплет:
 . G          Hm       C          D
@@ -34,6 +36,4 @@
  Все, что есть в моем сердце, Христос я отдам,
  Пусть возносит душа для Тебя фимиам!</lyrics>
 <hymn_number>1784</hymn_number>
-<key>G</key>
-<author>Неизвестный</author>
 </song>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3456</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Дорога в небо</title>
 <lyrics>[V1]
  Мы с вами столько вёрст уже прошли
  Пусть мало было в них тепла и неги
@@ -22,5 +22,5 @@
  Не дай запачкать белые одежды
  Осталось может несколько минут
  Идти дорогой в небо.</lyrics>
-<title>Дорога в небо</title>
+<hymn_number>3456</hymn_number>
 </song>

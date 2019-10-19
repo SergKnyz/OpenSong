@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<aka>В муках на кресте страдая</aka>
-<hymn_number>3115</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В муках на кресте страдая,
  умер Божий Сын за нас;
  пролил ась там кровь святая:
@@ -30,5 +27,8 @@
  верь в святую кровь Христа:
  Он в награду даст спасенье
  и омоет дочиста.</lyrics>
+<hymn_number>3115</hymn_number>
+<key>C</key>
 <title>умер Божий Сын за нас ПВ3115</title>
+<aka>В муках на кресте страдая</aka>
 </song>

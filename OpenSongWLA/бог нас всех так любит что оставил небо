@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<author>Песнь возрождения 2800</author>
-<hymn_number>1502</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1502</hymn_number>
 <lyrics>[V1]
  Но Бог Свою любовь к нам доказывает тем, что
  Христос умер за нас, когда мы были еще грешниками.
@@ -44,5 +42,7 @@
 
 [C3]
    ПРИПЕВ:</lyrics>
+<key>B</key>
 <title>Бог нас всех так любит что оставил небо</title>
+<author>Песнь возрождения 2800</author>
 </song>

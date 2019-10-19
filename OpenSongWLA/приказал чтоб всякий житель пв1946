@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Вавилона повелитель</aka>
-<hymn_number>1946</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вавилона повелитель
  Приказал, чтоб всякий житель,
  Покоряясь его сану
@@ -79,5 +77,7 @@
  Отвратит людские кары,
  В узах смерти не оставит,
  Но возвысит и прославит.</lyrics>
+<hymn_number>1946</hymn_number>
+<aka>Вавилона повелитель</aka>
 <title>Приказал чтоб всякий житель ПВ1946</title>
 </song>

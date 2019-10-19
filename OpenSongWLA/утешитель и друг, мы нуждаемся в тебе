@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Hillsong Worship</author>
-<hymn_number>3305</hymn_number>
-<aka>Дух Святой излейся</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3305</hymn_number>
 <lyrics>[V1]
 .Bb/C           F Eb/F   Eb/Bb Bb
  Дух Святой, излейся, излейся.
@@ -43,5 +40,8 @@
  Того, что Господь приготовил для нас.
  Так открой небеса, Бог, открой широко
  На церковь Свою, на каждую плоть.</lyrics>
+<aka>Дух Святой излейся</aka>
 <title>Утешитель и Друг, мы нуждаемся в Тебе.</title>
+<key>C</key>
+<author>Hillsong Worship</author>
 </song>

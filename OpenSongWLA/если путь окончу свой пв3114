@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<hymn_number>3114</hymn_number>
-<aka>Возвратится ль дух мой к Богу</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3114</hymn_number>
 <lyrics>[V1]
  Возвратится ль дух мой к Богу,
  если путь окончу свой?
@@ -30,5 +28,7 @@
  если ангелы меня позовут
  в страну блаженства,
  где жить вечно буду я?</lyrics>
+<aka>Возвратится ль дух мой к Богу</aka>
+<key>F</key>
 <title>если путь окончу свой ПВ3114</title>
 </song>

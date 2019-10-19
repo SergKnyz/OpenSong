@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<hymn_number>2603</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Тяжко, тяжко Агнец Божий на кресте страдал.
  Кротко, кротко чашу горечи Он испивал.
 
@@ -15,5 +13,7 @@
 [V4]
  Слышно, слышно слово: &quot;Совершилось!&quot;, - молвил Он.
  Аминь, аминь! Грешник гибнувший теперь спасен!</lyrics>
+<hymn_number>2603</hymn_number>
+<key>D</key>
 <title>Тяжко тяжко Агнец Божий на кресте страдал ПВ2603</title>
 </song>

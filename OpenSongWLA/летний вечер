@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5002</hymn_number>
-<title>Летний вечер</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Летний вечер</title>
 <lyrics>[V1]
  Летний вечер, тусклые звёзды,
  Еле видны на безоблачном небе...
@@ -21,4 +20,5 @@
  В этом вся жизнь, но зажигаются свечи,
  И приходит вновь летний вечер...
  Летний вечер... (2 р.)</lyrics>
+<hymn_number>5002</hymn_number>
 </song>

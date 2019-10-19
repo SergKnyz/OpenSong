@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Левит</author>
-<key>F#</key>
-<hymn_number>1482</hymn_number>
-<aka>Благословляем Именем Создателя,</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .     A#m                    D#m
  Пусть будет Бог отныне и до старости
@@ -37,5 +33,9 @@
  Ведь милует до тысячи родов
  Тех праведных Спаситель, кто наследует
  Ту праведность от дедов и отцов.</lyrics>
+<hymn_number>1482</hymn_number>
+<author>Левит</author>
+<aka>Благословляем Именем Создателя,</aka>
+<key>F#</key>
 <title>Пусть будет Бог отныне и до старости</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Виталий Ефремочкин, Планетсхакерс</author>
-<hymn_number>2912</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Cm    Ab      Fm       Bb
  Цепи все разорвав и отвергнув всякий страх
@@ -54,5 +51,8 @@
    Славлю! Твой дух живет во мне.
 .      Ab            Bb       Cm
    Я славлю! Твоё величие во мне!</lyrics>
+<hymn_number>2912</hymn_number>
+<author>Виталий Ефремочкин, Планетсхакерс</author>
 <title>Я пророчество</title>
+<key>C</key>
 </song>

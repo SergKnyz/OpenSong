@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Словно львы</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>347</hymn_number>
 <lyrics>[V1]
 . F#                D#m
  Ты нашёл, Боже, меня
@@ -38,8 +38,8 @@
    Ждём, Иисус, Тебя
 .   D#m              C#
    Твоя любовь среди нас</lyrics>
-<hymn_number>347</hymn_number>
+<key>F#</key>
+<title>Словно львы</title>
 <capo>2</capo>
 <author>Слово Жизни Music</author>
-<key>F#</key>
 </song>

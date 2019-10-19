@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2632</hymn_number>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <title>На землю спускаются тени ПВ2632</title>
 <lyrics>[V1]
  На землю спускаются тени,
@@ -24,4 +23,5 @@
  Всё мирно уснуло в тиши.
  Пред Богом склоняю колени
  В объятьях ночной тишины.</lyrics>
+<hymn_number>2632</hymn_number>
 </song>

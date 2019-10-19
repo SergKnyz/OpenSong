@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>804</hymn_number>
-<key>C</key>
-<title>Дай нам силы чтоб смирялись верно мы ПВ804</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Дай нам силы, чтоб смирялись верно мы
  Духом, телом и душою всей.
  Дай, чтоб были в этой жизни мудрыми
@@ -30,4 +27,7 @@
  Помоги всем людям говорить,
  Что спасенье Ты для всех принес,
  Царь Христос.</lyrics>
+<hymn_number>804</hymn_number>
+<title>Дай нам силы чтоб смирялись верно мы ПВ804</title>
+<key>C</key>
 </song>

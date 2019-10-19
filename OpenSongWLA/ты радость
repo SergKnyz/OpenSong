@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1454</hymn_number>
-<author>Joyyouth Worship</author>
-<key>G</key>
-<title>Ты радость</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .G       Hm   A           Em
  Влеки меня,  я так хочу вновь бежать за Тобой
@@ -35,4 +31,8 @@
    Бридж:
 .  G            Hm            A        Em
    Влеки меня Бог , принадлежу Тебе, влеки меня Бог</lyrics>
+<hymn_number>1454</hymn_number>
+<author>Joyyouth Worship</author>
+<title>Ты радость</title>
+<key>G</key>
 </song>

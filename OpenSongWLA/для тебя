@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
-<key>E</key>
-<hymn_number>279</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  Em               G
  Для Тебя я живу, для Тебя я пою,
 .  Am       C          D
@@ -26,5 +23,8 @@
  Буду прославлять Тебя всегда.
 .Am          G/H            C D
  Буду прославлять Тебя всегда.</lyrics>
+<hymn_number>279</hymn_number>
+<author>Виталий Ефремочкин</author>
 <title>Для Тебя</title>
+<key>E</key>
 </song>

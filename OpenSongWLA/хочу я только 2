@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>763</hymn_number>
-<author>Ольга Марина</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Марина</author>
 <key>G</key>
 <title>Хочу я только</title>
 <lyrics>[V1]
@@ -22,4 +21,5 @@
    Мост:
 .      Em                 Hm                A
    Обрати взор ко мне, освети сердце мне и дай мне видеть.</lyrics>
+<hymn_number>763</hymn_number>
 </song>

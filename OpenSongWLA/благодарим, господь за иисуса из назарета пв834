@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<hymn_number>834</hymn_number>
-<aka>Благодарим Господь</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>834</hymn_number>
 <lyrics>[V1]
 .Cm
  Благодарим, Господь
@@ -33,5 +31,7 @@
  Благодарим, Господь
  // За дар жизни в Вечной Отчизне
  И что туда Ты нас ведешь. //</lyrics>
+<key>D</key>
 <title>Благодарим, Господь  За Иисуса из Назарета ПВ834</title>
+<aka>Благодарим Господь</aka>
 </song>

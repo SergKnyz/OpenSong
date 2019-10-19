@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<author>Иисуса Христа церковь г. Хабаровск</author>
-<hymn_number>908</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Иисуса Христа церковь г. Хабаровск</author>
+<title>Дух Святой приди</title>
+<key>F</key>
 <lyrics>[V1]
  1 куплет:
 .Fm  D#  C#
@@ -47,5 +47,5 @@
    Дух Святой освяти нас
 .   Fm       G#
    Дух Святой освяти нас</lyrics>
-<title>Дух Святой приди</title>
+<hymn_number>908</hymn_number>
 </song>

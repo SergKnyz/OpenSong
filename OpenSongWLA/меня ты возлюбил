@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>RealIvanna</author>
-<key>G</key>
-<hymn_number>220</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>220</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .        Gm
@@ -43,4 +41,6 @@
 .                 Eb F  Gm
    Меня Ты возлюбил!! Возлюбил!</lyrics>
 <title>Меня Ты возлюбил</title>
+<key>G</key>
+<author>RealIvanna</author>
 </song>

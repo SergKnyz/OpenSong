@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>587</hymn_number>
-<aka>В двух шагах от проклятья...</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В двух шагах от спасенья...
  В двух шагах от проклятья...
  В двух шагах от забвенья...
@@ -29,5 +27,7 @@
    Путь к небесам
    Или на век,
    Холод и снег Земли!</lyrics>
+<hymn_number>587</hymn_number>
 <title>В двух шагах от спасенья...</title>
+<aka>В двух шагах от проклятья...</aka>
 </song>

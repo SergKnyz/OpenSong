@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Путь Христа церковь, г. Нюрнберг</author>
-<hymn_number>3114</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Путь Христа церковь, г. Нюрнберг</author>
+<key>D</key>
+<title>А мне благо а мне благо,приближаться к Богу моему</title>
 <lyrics>[C1]
 .  Dm
    Припев:
@@ -34,5 +34,5 @@
 .      Gm            Dm  A         Dm
    И Тебе лишь посвящаю жизнь я свою
    Припев: ...</lyrics>
-<title>А мне благо а мне благо,приближаться к Богу моему</title>
+<hymn_number>3114</hymn_number>
 </song>

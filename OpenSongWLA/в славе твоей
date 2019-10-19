@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2013</hymn_number>
-<key>F#</key>
-<author>Павел Плахотин</author>
-<title>В Славе Твоей</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .          F#m           D
  В славе Твоей , как Моисей ,
@@ -55,4 +51,8 @@
    Кровь Твоя - высокая цена
 .  Hm                               C#
    Я прославляю Тебя , Всемогущего Бога!</lyrics>
+<hymn_number>2013</hymn_number>
+<author>Павел Плахотин</author>
+<title>В Славе Твоей</title>
+<key>F#</key>
 </song>

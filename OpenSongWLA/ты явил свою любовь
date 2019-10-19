@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Новое Поколение Мелитополь</author>
-<key>F</key>
-<hymn_number>4542</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4542</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Fm
@@ -55,4 +53,6 @@
  Громко пел небесный хор
  А я прыгал выше всяких гор</lyrics>
 <title>Ты явил Свою любовь</title>
+<key>F</key>
+<author>Новое Поколение Мелитополь</author>
 </song>

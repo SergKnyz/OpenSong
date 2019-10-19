@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1000</hymn_number>
-<key>E</key>
-<title>Протяни ко мне святые руки ПВ1000</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Dm         Gm           A
  Протяни ко мне святые руки
 .B       C           F
@@ -22,4 +19,7 @@
  Неразлучным быть всегда с Тобой,
  Чтоб любви Твоей святой дыханье
  Наполняло грудь и разум мой.</lyrics>
+<hymn_number>1000</hymn_number>
+<title>Протяни ко мне святые руки ПВ1000</title>
+<key>E</key>
 </song>

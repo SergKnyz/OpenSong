@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Океан Любви</author>
-<hymn_number>1960</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .         Am       C                 F
  Все покрывает всему она верит, не мыслит зла,
@@ -40,5 +37,8 @@
  В руках пронзённых моё искупление, Твоя любовь.
  В Твоих глазах вновь я вижу прощение, всех грехов.
  В руках пронзённых моё искупление, Твоя любовь.</lyrics>
+<hymn_number>1960</hymn_number>
+<author>Океан Любви</author>
+<key>A</key>
 <title>Все покрывает</title>
 </song>

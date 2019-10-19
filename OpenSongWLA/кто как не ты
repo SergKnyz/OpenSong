@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Imprintband</author>
-<hymn_number>512</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .  C                    Em
  Кто Ты? Так часто задавал вопрос
@@ -29,5 +26,8 @@
  Твоё величие, милость и любовь ко мне
  Лишь только Ты один мог изменить меня
  Я так счастлив, что зависим от Тебя, мой Бог.</lyrics>
+<hymn_number>512</hymn_number>
+<author>Imprintband</author>
+<key>C</key>
 <title>Кто как не Ты</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<hymn_number>548</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  По равнине океана
  Мы домой, друзья, плывем;
  Там за облаком тумана
@@ -47,5 +45,7 @@
  Мы споем: конец скорбям!
  В город мы войдем прекрасный,
  Петь мы вечно будем там.</lyrics>
+<hymn_number>548</hymn_number>
+<key>D</key>
 <title>По равнине океана ПВ548</title>
 </song>

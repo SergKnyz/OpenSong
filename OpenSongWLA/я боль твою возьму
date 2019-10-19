@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>551</hymn_number>
-<author>Сергей Брикса</author>
-<key>A</key>
-<title>Я боль твою возьму</title>
 <lyrics>[V1]
  1 куплет:
 .         Am       G              F   A
@@ -30,4 +27,7 @@
  Я на кресте висел за то чтоб ты прозрел увидя удел
  Я боль твою возьму и скоро Я умру
  Насмешки Я терплю и жизнь Свою даю за то что люблю</lyrics>
+<key>A</key>
+<title>Я боль твою возьму</title>
+<author>Сергей Брикса</author>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>880</hymn_number>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <title>Господь дай ветер мне попутный ПВ880</title>
 <lyrics>[V1]
  Господь, дай ветер мне попутный,
@@ -36,4 +35,5 @@
  Хочу я ветра мощь встречать (встречать),
  Чтоб силой Бога непреклонно
  Свой путь победою венчать (венчать).</lyrics>
+<hymn_number>880</hymn_number>
 </song>

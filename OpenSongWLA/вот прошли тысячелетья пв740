@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<hymn_number>740</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Над землей, над миром этим</aka>
+<title>Вот прошли тысячелетья ПВ740</title>
+<key>E</key>
 <lyrics>[V1]
  Вот прошли тысячелетья...
  Над землей, над миром этим
@@ -30,5 +31,5 @@
  Жизни вечный дар, вещая,
  Бог не завтра обещает,
  Но сегодня предлагает для души.</lyrics>
-<title>Вот прошли тысячелетья ПВ740</title>
+<hymn_number>740</hymn_number>
 </song>

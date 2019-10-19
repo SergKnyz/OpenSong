@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Неизвестный</author>
-<hymn_number>2275</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
+<title>Подними меня на высоту</title>
+<key>A</key>
 <lyrics>[C1]
    Припев:
 .  Am               D
@@ -26,5 +26,5 @@
  Только бы я верил и Господа любил.
  И любил бы братьев, что вокруг стоят
  Ведь все мы здесь одна семья</lyrics>
-<title>Подними меня на высоту</title>
+<hymn_number>2275</hymn_number>
 </song>

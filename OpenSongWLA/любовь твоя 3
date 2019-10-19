@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2216</hymn_number>
-<key>C</key>
-<author>Меняющие реальность</author>
-<title>Любовь Твоя</title>
 <lyrics>[V1]
  Любовь Твоя
 .(Меняющие реальность)
@@ -49,4 +46,7 @@
  Я хочу познать как любовь расточать
 .G                       D
  Желаю жизнью я своей Тебя удивлять</lyrics>
+<key>C</key>
+<title>Любовь Твоя</title>
+<author>Меняющие реальность</author>
 </song>

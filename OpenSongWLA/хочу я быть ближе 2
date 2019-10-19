@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>326</hymn_number>
-<author>Алексей Каратаев, Йаред Андерсон</author>
-<key>D</key>
-<title>Хочу я быть ближе</title>
 <lyrics>[V1]
  Куплет:
 .D             Em7    A
@@ -34,4 +31,7 @@
    Кто вознесен над всеми, Кто умер но воскрес
 .  A                                   Hm        G         D   A
    Кто сможет устоять перед Его величием, величием, величием...</lyrics>
+<key>D</key>
+<title>Хочу я быть ближе</title>
+<author>Алексей Каратаев, Йаред Андерсон</author>
 </song>

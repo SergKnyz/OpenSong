@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2264</hymn_number>
-<title>Он шел согбенный под крестом ПВ2264</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Он шел согбенный под крестом ПВ2264</title>
 <lyrics>[V1]
  Он шел согбенный под крестом,
  Святой, в невинность облеченный,
@@ -25,4 +24,5 @@
  Невинной Кровью орошались,
  А римских воинов бичи
  В Него безжалостно впивались.</lyrics>
+<hymn_number>2264</hymn_number>
 </song>

@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2475</hymn_number>
-<key>Bb</key>
-<author>Сіон</author>
-<title>Прославлен будь Господь</title>
 <lyrics>[V1]
  Куплет:
 .Bbm        Db         Ebm           F
@@ -26,4 +23,7 @@
 
 [B1]
    Бридж:</lyrics>
+<key>Bb</key>
+<title>Прославлен будь Господь</title>
+<author>Сіон</author>
 </song>

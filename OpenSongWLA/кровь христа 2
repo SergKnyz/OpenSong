@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Supernatural Worship</author>
 <key>G#m</key>
-<hymn_number>3387</hymn_number>
+<title>Кровь Христа</title>
 <lyrics>[V1]
  Куплет:
 .G#m            E
@@ -27,5 +27,5 @@
    Бридж:
 .      C#m          H        G#m              F#
    Христос мой, Ты -Агнец, Твоя Кровь нас спасла!</lyrics>
-<title>Кровь Христа</title>
+<hymn_number>3387</hymn_number>
 </song>

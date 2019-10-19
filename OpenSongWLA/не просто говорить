@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>415</hymn_number>
-<author>Филипп Реннер</author>
-<key>F#</key>
-<title>Не просто говорить</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .F#m      E       F#m E
  Дай мне сердце Твоё
 .F#m      E       F#m E
@@ -15,4 +11,8 @@
  Не просто говорить, не просто петь слова
 .                   F#m
  Не просто ждать, я жажду сердцем!</lyrics>
+<hymn_number>415</hymn_number>
+<author>Филипп Реннер</author>
+<key>F#</key>
+<title>Не просто говорить</title>
 </song>

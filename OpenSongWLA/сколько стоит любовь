@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Просто сосуды</author>
-<key>A</key>
-<hymn_number>259</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am     C     G  Am     C     G
  Что такое любовь? Какова же её цена?
@@ -36,5 +33,8 @@
    Велика ее цена.
    Когда мы отдаем свою жизнь,
    Чтобы кто-то другой мог жить.</lyrics>
+<hymn_number>259</hymn_number>
+<author>Просто сосуды</author>
 <title>Сколько стоит любовь</title>
+<key>A</key>
 </song>

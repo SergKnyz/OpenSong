@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>43</hymn_number>
-<key>D</key>
-<title>Молись в день радужного счастья ПВ43</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Молись в день радужного счастья,
  Пред трудным подвигом молись!
  Молись, когда грозит несчастье,
@@ -24,4 +21,7 @@
  Коль победил себя - молись!
  Молись в печальное мгновенье,
  Чтоб Бог простил тебя - молись!</lyrics>
+<hymn_number>43</hymn_number>
+<key>D</key>
+<title>Молись в день радужного счастья ПВ43</title>
 </song>

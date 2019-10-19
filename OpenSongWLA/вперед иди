@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1561</hymn_number>
-<author>Subcultura</author>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Subcultura</author>
 <title>Вперед иди</title>
+<key>G</key>
 <lyrics>[V1]
  1 куплет:
 .     G                                C
@@ -60,4 +59,5 @@
  3 куплет:
  Это было бы слишком просто, если б не было так тяжело,
  Но это стоит того, победа стоит того...</lyrics>
+<hymn_number>1561</hymn_number>
 </song>

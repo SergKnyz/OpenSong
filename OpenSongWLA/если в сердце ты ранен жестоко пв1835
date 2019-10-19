@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1835</hymn_number>
-<title>Если в сердце ты ранен жестоко ПВ1835</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Если в сердце ты ранен жестоко ПВ1835</title>
 <lyrics>[V1]
  Если в сердце ты ранен жестоко,
  Если слезы струятся ручьем,
@@ -17,4 +16,5 @@
  Расскажи, как ты ранен в борьбе,
  И укажет тебе Он дорогу,
  И покой ты получишь душе.</lyrics>
+<hymn_number>1835</hymn_number>
 </song>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Matt Redman, Матт анд Бетх Редман, Матт Редман</author>
-<hymn_number>2805</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Matt Redman, Матт анд Бетх Редман, Матт Редман</author>
+<key>A</key>
+<title>Не бросишь меня</title>
 <lyrics>[V1]
  Куплет 1:
 .          A
@@ -62,5 +62,5 @@
 .(повтор бридж)
  (повтор припев 2р.)</lyrics>
 <copyright>2005 Тханкыоу Мусиц</copyright>
-<title>Не бросишь меня</title>
+<hymn_number>2805</hymn_number>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>608</hymn_number>
-<title>Звезды поют</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Звезды поют</title>
 <lyrics>[V1]
  Нам с тобою в этот вечер
  Звёздный танец дарит Небо!
@@ -27,4 +26,5 @@
  О Любви, что дарит Вечность,
  Красоту, восторг и радость!
  О спасенье в Иисусе Христе!</lyrics>
+<hymn_number>608</hymn_number>
 </song>

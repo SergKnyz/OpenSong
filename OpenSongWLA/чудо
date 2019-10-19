@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3348</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Bethel Music, Бетхел Мусиц</author>
 <key>G</key>
-<author>Bethel Music, Бетхел Мусиц</author>
 <title>Чудо</title>
 <lyrics>[V1]
 .G
@@ -105,4 +104,5 @@
 [V11]
  Внимание!
  Этот перевод ещё не закончен и может в любое время быть изменен автором.</lyrics>
+<hymn_number>3348</hymn_number>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2054</hymn_number>
-<author>Егор и Наталия Лансере</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Егор и Наталия Лансере</author>
 <title>Да будет Свет</title>
 <lyrics>[V1]
  Да будет Свет - Let there be light
@@ -50,4 +49,5 @@
  | G C G | G C G | D Em | C G C D ||
  *| G | C | Am | C D | G | C | Am | C D G ||
  **| A | D | Hm | D E | A | D | Hm | D E A ||</lyrics>
+<hymn_number>2054</hymn_number>
 </song>

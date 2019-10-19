@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Jesus Culture</author>
-<key>A</key>
-<hymn_number>2955</hymn_number>
-<aka>Верю я в Тебя (Бог творящий чудеса)</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  БОГ ТВОРЯЩИЙ ЧУДЕСА.
 
 [V2]
@@ -46,5 +42,9 @@
    Ты мертвым возвращаешь жизнь.
 .  C/E            Am
    Бог творящий чудеса.</lyrics>
+<hymn_number>2955</hymn_number>
+<author>Jesus Culture</author>
+<key>A</key>
 <title>Вернувший зрение слепым.</title>
+<aka>Верю я в Тебя (Бог творящий чудеса)</aka>
 </song>

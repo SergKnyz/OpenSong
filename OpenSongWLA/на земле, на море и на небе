@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>На земле, на море и на небе</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1.
 .       C      G  Dm     C
  На земле, на море и на небе
@@ -28,6 +27,7 @@
 .   F         C      G               C
  За Господа Иисуса крепче сестра держись!</lyrics>
 <hymn_number>3128</hymn_number>
-<key>C</key>
 <author>Путь Христа церковь, г. Нюрнберг</author>
+<key>C</key>
+<title>На земле, на море и на небе</title>
 </song>

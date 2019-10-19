@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Am</key>
-<hymn_number>86</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
+<key>Am</key>
+<title>Глас Господа услышан</title>
 <lyrics>[V1]
 .      Am
  Глас Господа услышан будет в миру
@@ -32,6 +33,5 @@
 .                  Am
  И песню запоет немой.</lyrics>
 <tempo>120</tempo>
-<title>Глас Господа услышан</title>
-<time_sig>4/4</time_sig>
+<hymn_number>86</hymn_number>
 </song>

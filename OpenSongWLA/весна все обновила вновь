@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Весна все обновила вновь</title>
-<time_sig>4/4</time_sig>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  вступление:
 .G C D C-D-G
   
@@ -35,8 +33,10 @@
 .           D                         G         D
  О том, что Иисус воскрес в великой благости небес!</lyrics>
 <tempo>84</tempo>
-<aka>Христос воскрес</aka>
 <hymn_number>56</hymn_number>
-<key>G</key>
 <author>Анна и Андрей Лукашины</author>
+<time_sig>4/4</time_sig>
+<aka>Христос воскрес</aka>
+<key>G</key>
+<title>Весна все обновила вновь</title>
 </song>

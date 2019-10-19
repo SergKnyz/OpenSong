@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Парусник</aka>
-<title>Я как белый парусник</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Жанат Кусаинова</author>
 <lyrics>[V1]
  //  Я как белый парусник,
  в океане Отцовской любви,
@@ -17,5 +16,6 @@
 [B1]
    //  Иисус Ты истина и Путь!
    Иисус Ты жизнь моя!  //</lyrics>
-<author>Жанат Кусаинова</author>
+<aka>Парусник</aka>
+<title>Я как белый парусник</title>
 </song>

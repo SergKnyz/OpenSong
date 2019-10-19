@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4</hymn_number>
+<tempo>150</tempo>
+<lyrics>[V1]
 .     A
  Аллилуйя!
 .E7/G#
@@ -31,11 +33,9 @@
    Аллилуйя!
 .  E7         A (F#m)
    Иисус - живой!</lyrics>
-<tempo>150</tempo>
-<title>Аллилуйя Иисус живой</title>
 <time_sig>4/4</time_sig>
-<author>Рон Кенолы</author>
-<key>A</key>
 <aka>Смерть побеждена  силой жизни Господа</aka>
-<hymn_number>4</hymn_number>
+<title>Аллилуйя Иисус живой</title>
+<key>A</key>
+<author>Рон Кенолы</author>
 </song>

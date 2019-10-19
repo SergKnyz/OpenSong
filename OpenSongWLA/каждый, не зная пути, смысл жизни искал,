@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
+<title>Каждый, не зная пути, смысл жизни искал,</title>
+<aka>В нас есть свет</aka>
+<author>NDay</author>
+<hymn_number>1271</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .C#m          A    F#m         H
  Каждый, не зная пути, смысл жизни искал,
@@ -30,9 +35,4 @@
  Неважно, что говорят, но я знаю одно -
 .C#m       F#m       A       H
  В сердце бьется надежды родник.</lyrics>
-<title>Каждый, не зная пути, смысл жизни искал,</title>
-<author>NDay</author>
-<key>C#m</key>
-<aka>В нас есть свет</aka>
-<hymn_number>1271</hymn_number>
 </song>

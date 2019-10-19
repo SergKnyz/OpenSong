@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Стою, подняв взгляд и руки</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .G
  Стоял Ты пред всем творением,
 .C
@@ -47,4 +45,6 @@
     Стою, к Тебе, Бог, склоняю сердце,
 .  C     G         D
    Всё во мне - Твоё!</lyrics>
+<key>G</key>
+<title>Стою, подняв взгляд и руки</title>
 </song>

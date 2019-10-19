@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мы идем тропою узкой ПВ730</title>
+<key>C</key>
+<hymn_number>730</hymn_number>
+<lyrics>[V1]
  Мы идем тропою узкой,
  Труден и тернист наш путь,
  Но всегда Спаситель с нами,
@@ -21,7 +24,4 @@
  Только с Ним пройдем свой путь.
  Скоро Он введет нас в дом Свой,
  Это, друг мой, не забудь.</lyrics>
-<title>Мы идем тропою узкой ПВ730</title>
-<key>C</key>
-<hymn_number>730</hymn_number>
 </song>

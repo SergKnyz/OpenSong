@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3328</hymn_number>
-<key>E</key>
-<author>Николай Брандуков</author>
-<title>Он остался в живых</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1  куплет:
 .Em
  Он остался в живых.
@@ -93,4 +89,8 @@
  Ведь осталось служить.
 .Em
  Мой Отец всего лишь недели.</lyrics>
+<hymn_number>3328</hymn_number>
+<author>Николай Брандуков</author>
+<title>Он остался в живых</title>
+<key>E</key>
 </song>

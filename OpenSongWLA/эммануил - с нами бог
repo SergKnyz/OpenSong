@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Эммануил - с нами Бог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Эммануил - с нами Бог</title>
+<author>NewBreath</author>
+<hymn_number>1977</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .        H               G#
@@ -45,7 +48,4 @@
    Ничего ценнее нет, чем Твой голгофский крест
 .              E                H
    Всю жизнь мою кладу у ног Твоих</lyrics>
-<hymn_number>1977</hymn_number>
-<author>NewBreath</author>
-<key>B</key>
 </song>

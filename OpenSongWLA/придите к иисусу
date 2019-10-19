@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Придите к Иисусу</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Благодать церква г. Минск</author>
+<key>E</key>
+<title>Придите к Иисусу</title>
 <lyrics>[V1]
  1 куплет:
 .Em         Hm      C       G      C            D       G H
@@ -39,6 +41,4 @@
 .           G               D                     G
    Ты наша жизнь, истинный путь, Ты любишь нас всех.</lyrics>
 <hymn_number>544</hymn_number>
-<author>Благодать церква г. Минск</author>
-<key>E</key>
 </song>

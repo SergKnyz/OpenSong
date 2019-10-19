@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2566</hymn_number>
-<author>Слово Жизни Music</author>
-<key>B</key>
-<title>С ангелами в небе</title>
 <lyrics>[V1]
  Куплет:
 .Hm                     D
@@ -64,4 +61,7 @@
  Имя выше всех имен, имя выше всех имен,
 .                Hm                   D
  Имя выше всех имен, имя выше всех имен,</lyrics>
+<title>С ангелами в небе</title>
+<key>B</key>
+<author>Слово Жизни Music</author>
 </song>

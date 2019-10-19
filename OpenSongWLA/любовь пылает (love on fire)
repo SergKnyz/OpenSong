@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hope Music</author>
-<key>B</key>
-<hymn_number>3137</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3137</hymn_number>
 <lyrics>[V1]
  Love on Fire
  [Куплет 1]
@@ -49,4 +47,6 @@
  Рано утром в танце буду славить
  Даже ночью громко воспою!</lyrics>
 <title>Любовь пылает (Love On Fire)</title>
+<key>B</key>
+<author>Hope Music</author>
 </song>

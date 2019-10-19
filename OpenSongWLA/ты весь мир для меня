@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<author>4U Band, Бетхел Мусиц</author>
-<hymn_number>2769</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .G               D        G/E
  Голос Твой, как шум многих вод
  Земля дрожит пред Тобой
@@ -63,5 +60,8 @@
  Знаю я, знаю я
  Живу для Тебя                      G - D - G/E
  И Ты весь мир, мой мир</lyrics>
+<hymn_number>2769</hymn_number>
+<author>4U Band, Бетхел Мусиц</author>
 <title>Ты весь мир для меня</title>
+<key>G</key>
 </song>

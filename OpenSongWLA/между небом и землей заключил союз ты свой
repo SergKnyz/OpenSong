@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ближе к Тебе</aka>
-<title>Между небом и землей заключил союз Ты Свой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Между небом и землей заключил союз Ты Свой</title>
+<key>Am</key>
+<aka>Ближе к Тебе</aka>
 <lyrics>[V1]
 .Am                                    A2/C
  Между небом и землей заключил союз Ты Свой
@@ -32,5 +33,4 @@
 .Am/F                                          E4E7
  Чтоб дальнейший путь по жизни я прошёл с Тобой</lyrics>
 <author>Александр Соколов</author>
-<key>Am</key>
 </song>

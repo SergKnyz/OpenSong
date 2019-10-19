@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1270</hymn_number>
-<aka>Скажу прощай я всем ограничениям</aka>
-<title>Безграничный Бог</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Скажу прощай я всем ограничениям
  Открою дверь Создателю Вселенной
 
@@ -24,4 +21,7 @@
 [C2]
    Бог, Ты великий, Ты всемогущий
    Бог самый сильный - это Ты</lyrics>
+<hymn_number>1270</hymn_number>
+<aka>Скажу прощай я всем ограничениям</aka>
+<title>Безграничный Бог</title>
 </song>

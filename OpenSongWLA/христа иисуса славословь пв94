@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<hymn_number>94</hymn_number>
-<aka>Возрадуйся душа моя</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Возрадуйся, душа моя,
  Христа Иисуса славословь!
  Хвалы лишь ждет Он от меня,
@@ -18,5 +15,8 @@
  И осаждает сердце  вновь;
  Меня Он к небу доведет:
  О, как сильна Его любовь!</lyrics>
+<hymn_number>94</hymn_number>
+<aka>Возрадуйся душа моя</aka>
+<key>A</key>
 <title>Христа Иисуса славословь ПВ94</title>
 </song>

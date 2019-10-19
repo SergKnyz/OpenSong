@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>205</hymn_number>
-<key>G</key>
-<title>Я не свой Христом спасенный ПВ205</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я не свой! Христом спасенный,
  Я Ему принадлежу,
  Им навек приобретенный
@@ -30,4 +27,7 @@
  Сам меня Своим назвал,
  В царстве вечности счастливой
  Дать удел мне обещал.</lyrics>
+<hymn_number>205</hymn_number>
+<title>Я не свой Христом спасенный ПВ205</title>
+<key>G</key>
 </song>

@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>794</hymn_number>
-<aka>Богу помолись</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Альфа</author>
 <key>E</key>
-<author>Альфа</author>
 <title>Осени время приходит, с деревьев летят лепестки.</title>
+<aka>Богу помолись</aka>
 <lyrics>[V1]
 .E/G#                      C#m                  H
  Осени время приходит, с деревьев летят лепестки.
@@ -54,4 +53,5 @@
  Чтоб эту боль в сердце своем не чувствовать.
  К земным наслажденьям прибегать,
  Спиртное выпивать, табак употреблять, пропадать.</lyrics>
+<hymn_number>794</hymn_number>
 </song>

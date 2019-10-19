@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>171</hymn_number>
-<aka>Бреду один я по пути</aka>
-<key>A</key>
-<author>Алексей Каратаев</author>
-<title>Аллилуйя</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    A       F#m          A          F#m
  Бреду один я по пути мечтая в мире Свет найти
@@ -36,4 +31,9 @@
  Любой глагол горит огнём,
  Когда я слышу святость в Нём,
  Кричу к Нему всем сердцем - Аллилуйя.</lyrics>
+<hymn_number>171</hymn_number>
+<author>Алексей Каратаев</author>
+<aka>Бреду один я по пути</aka>
+<key>A</key>
+<title>Аллилуйя</title>
 </song>

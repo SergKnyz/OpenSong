@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Искуи Абалян</author>
-<hymn_number>5210</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  За облаками сны между нами,
  За горизонтом свет бирюзовый
 
@@ -18,5 +16,7 @@
    Ветры умчались, только остались
    Брызги света, блики рассвета,
    Блики рассвета...</lyrics>
+<hymn_number>5210</hymn_number>
+<author>Искуи Абалян</author>
 <title>За облаками</title>
 </song>

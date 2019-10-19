@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Что есть я перед Богом?</aka>
-<hymn_number>2742</hymn_number>
-<key>E</key>
-<author>Владимир Скобочкин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Владимир Скобочкин</author>
+<aka>Что есть я перед Богом?</aka>
 <title>Божья милость</title>
+<key>E</key>
 <lyrics>[V1]
 .Em                 G
  1. Что есть я перед Богом?
@@ -36,4 +35,5 @@
  О, как пред Ним я мал,
  А Он меня знал вечно,
  С любовью создавал.</lyrics>
+<hymn_number>2742</hymn_number>
 </song>

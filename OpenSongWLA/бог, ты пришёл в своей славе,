@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Новый Завет NTWorship</author>
-<aka>Бог вечности</aka>
-<hymn_number>3999</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3999</hymn_number>
 <lyrics>[V1]
  Куплет:
 .Em                       C
@@ -32,5 +29,8 @@
    Мой Господь, мой Бог,
 .  Hm            Em
    Ты излей благодать</lyrics>
+<aka>Бог вечности</aka>
+<key>E</key>
 <title>Бог, Ты пришёл в Своей славе,</title>
+<author>Новый Завет NTWorship</author>
 </song>

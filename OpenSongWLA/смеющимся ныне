@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3053</hymn_number>
-<author>Александр Евстифеев</author>
-<key>B</key>
-<title>Смеющимся ныне</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Hm                            Em
  Никто не смеётся над Богом в больнице...
@@ -79,4 +75,8 @@
  Никто не смеётся над Ним на войне,
  Там вера в сердцах начинает искриться,
  И чаще молитвы звучат в тишине.</lyrics>
+<hymn_number>3053</hymn_number>
+<author>Александр Евстифеев</author>
+<title>Смеющимся ныне</title>
+<key>B</key>
 </song>

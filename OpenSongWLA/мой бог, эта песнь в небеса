@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Владимир Скобочкин</author>
+<title>Мой Бог, эта песнь в Небеса</title>
+<key>D</key>
+<aka>Воспой!</aka>
+<lyrics>[V1]
 .Dm            B           C
  1. Мой Бог, эта песнь в Небеса.
  Ее мотив для Тебя, пой душа!
@@ -31,9 +35,5 @@
 
 [V3]
  Припев.</lyrics>
-<title>Мой Бог, эта песнь в Небеса</title>
-<key>D</key>
-<author>Владимир Скобочкин</author>
-<aka>Воспой!</aka>
 <hymn_number>4123</hymn_number>
 </song>

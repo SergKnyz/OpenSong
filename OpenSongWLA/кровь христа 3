@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Кровь Христа</title>
+<key>G</key>
+<author>Денис Никитин</author>
+<hymn_number>637</hymn_number>
 <lyrics>[V1]
  Куплет:
 .G           D         C
@@ -28,7 +31,4 @@
    Кровь Христа,Того, кто умер за меня,
 .            Am   D     G
    Кровь Христа, меня омыла</lyrics>
-<hymn_number>637</hymn_number>
-<key>G</key>
-<author>Денис Никитин</author>
 </song>

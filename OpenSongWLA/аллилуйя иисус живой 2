@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя! Иисус живой!</title>
+<key>A</key>
+<author>Ron Kenoly, Рон Кенолы</author>
+<hymn_number>2046</hymn_number>
 <lyrics>[V1]
 .A         E
  Аллилуйя, Иисус живой
@@ -21,7 +24,4 @@
 [V3]
 .     A   D  E   A
  Аллилуйя Иисус живой</lyrics>
-<hymn_number>2046</hymn_number>
-<key>A</key>
-<author>Ron Kenoly, Рон Кенолы</author>
 </song>

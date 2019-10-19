@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Учитель</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Они</author>
+<title>Учитель</title>
+<key>F#</key>
 <lyrics>[V1]
  1 куплет:
 .  F#m              E
@@ -52,6 +54,4 @@
 .    D                Hm    D      C#    F#m
    Злом на зло не отвечайте и берегите любовь!</lyrics>
 <hymn_number>228</hymn_number>
-<author>Они</author>
-<key>F#</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5560</hymn_number>
-<title>Как я хочу на Небо</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Как я хочу на Небо</title>
 <lyrics>[V1]
  Как я хочу на Небо, как я хочу домой.
  Крылья расправить мне бы, в дом устремиться Твой.
@@ -26,4 +25,5 @@
 
 [V5]
  Автор: Елена Махинина</lyrics>
+<hymn_number>5560</hymn_number>
 </song>

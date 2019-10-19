@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Павел Геращенко</author>
-<key>E</key>
-<hymn_number>2499</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2499</hymn_number>
 <lyrics>[V1]
  Вступление:
 
@@ -53,5 +51,7 @@
    Твердыня моя и мой Избавитель
    Мой Бог - скала моя
    В Нём я ищу прибежище моё</lyrics>
+<key>E</key>
 <title>Мой Бог - скала моя</title>
+<author>Павел Геращенко</author>
 </song>

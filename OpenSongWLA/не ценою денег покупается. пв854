@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<hymn_number>854</hymn_number>
-<aka>В нашей жизни самое прекрасное</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>854</hymn_number>
 <lyrics>[V1]
  В нашей жизни самое прекрасное
  Не ценою денег покупается.
@@ -42,5 +40,7 @@
  И пойми, что, как свет солнца ясного.
  Не ценою денег покупается
  В нашей жизни самое прекрасное.</lyrics>
+<aka>В нашей жизни самое прекрасное</aka>
 <title>Не ценою денег покупается. ПВ854</title>
+<key>G</key>
 </song>

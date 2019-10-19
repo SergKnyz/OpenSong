@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1904</hymn_number>
-<title>Дни уходят</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Дни уходят</title>
 <lyrics>[V1]
  Дни уходят, уходят года
  Словно с гор стекает вода.
@@ -27,4 +26,5 @@
  Тают дни, словно снег на руках
  И на дело святое зовут
  Совершать Богом данный нам труд.</lyrics>
+<hymn_number>1904</hymn_number>
 </song>

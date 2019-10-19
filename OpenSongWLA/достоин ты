@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<author>Марина Фролова</author>
-<hymn_number>2145</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2145</hymn_number>
 <lyrics>[V1]
  1 куплет:
  Великий Бог, воистину Великий!
@@ -36,5 +34,7 @@
  Каждое творение поет Тебе, Бог мой!
  Звучат по всей планете, звучат слова любви,
  Звучат и не умолкнут, мой Бог, достоин Ты</lyrics>
+<key>G</key>
 <title>Достоин Ты</title>
+<author>Марина Фролова</author>
 </song>

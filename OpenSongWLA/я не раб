@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я не раб</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Bethel Music, Бетхел Мусиц</author>
+<title>Я не раб</title>
+<key>E</key>
 <lyrics>[V1]
  1 куплет:
 .E                                  A     H         E
@@ -38,6 +40,4 @@
 .  C#m            H           E    G#m    A H    E
           Ты искупил меня. Стою, пою: Я Божие дитя.</lyrics>
 <hymn_number>3627</hymn_number>
-<author>Bethel Music, Бетхел Мусиц</author>
-<key>E</key>
 </song>

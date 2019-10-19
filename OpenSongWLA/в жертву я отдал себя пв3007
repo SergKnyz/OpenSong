@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>чтобы жить лишь для Тебя</aka>
-<hymn_number>3007</hymn_number>
-<key>Bb</key>
-<title>В жертву я отдал себя ПВ3007</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В жертву я отдал себя,
  чтобы жить лишь для Тебя.
  Ты, Господь, меня веди:
@@ -25,4 +21,8 @@
  всё же я идти хочу узким,
  праведным путём к родине,
  в Отцовский дом.</lyrics>
+<hymn_number>3007</hymn_number>
+<key>Bb</key>
+<title>В жертву я отдал себя ПВ3007</title>
+<aka>чтобы жить лишь для Тебя</aka>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<hymn_number>2840</hymn_number>
-<aka>Взяв все грехи мира на Себя</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2840</hymn_number>
 <lyrics>[V1]
  Взяв все грехи мира на Себя,
  Иисус за нас страдал.
@@ -30,5 +28,7 @@
  как Он, - я верю сим словам;
  в небо нечистое не войдет
  - свято место там.</lyrics>
+<aka>Взяв все грехи мира на Себя</aka>
+<key>F</key>
 <title>Иисус за нас страдал ПВ2840</title>
 </song>

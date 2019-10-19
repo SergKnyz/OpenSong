@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5552</hymn_number>
-<aka>И радуется вся земля.</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>И радуется вся земля.</aka>
+<title>Весна пришла, ликует природа</title>
+<hymn_number>5552</hymn_number>
 <lyrics>[V1]
  Весна пришла, ликует природа
  И радуется вся земля.
@@ -27,5 +28,4 @@
 [C3]
    // Цветы расцветают и слышится пенье,
    А сердце хвалой наполняет! //</lyrics>
-<title>Весна пришла, ликует природа</title>
 </song>

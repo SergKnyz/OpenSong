@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3214</hymn_number>
-<author>Игорь Иванов</author>
-<key>G</key>
-<title>Ранами Его мы исцелились</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ранами Его мы исцелились
 
 [V2]
@@ -26,4 +22,8 @@
 [V3]
 .      Cm                C
  Он вознес на крест грехи всех нас.</lyrics>
+<hymn_number>3214</hymn_number>
+<author>Игорь Иванов</author>
+<key>G</key>
+<title>Ранами Его мы исцелились</title>
 </song>

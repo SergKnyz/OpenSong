@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Пирс</author>
+<title>За густой пеленой наших будничных дел,</title>
+<key>G</key>
+<aka>Вечный свет</aka>
+<lyrics>[V1]
  1 куплет:
 .G                D
  За густой пеленой наших будничных дел,
@@ -26,9 +30,5 @@
  Сквозь тугое сплетенье житейских невзгод;
  Мы услышать должны дивной музыки звук,
  Этот голос любви, покоряющей слух.</lyrics>
-<title>За густой пеленой наших будничных дел,</title>
-<author>Пирс</author>
-<key>G</key>
 <hymn_number>491</hymn_number>
-<aka>Вечный свет</aka>
 </song>

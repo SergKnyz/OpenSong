@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2018</hymn_number>
-<author>Павел Плахотин</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Павел Плахотин</author>
 <title>Давайте придем к Господу</title>
+<key>C</key>
 <lyrics>[V1]
  1 куплет:
 .C            F         C/E    Am       F            C G
@@ -44,4 +43,5 @@
    Только быть с Тобой, только быть с Тобой
 .           C          G         Am          F
    Но лишь быть с Тобой, но лишь быть с Тобой...</lyrics>
+<hymn_number>2018</hymn_number>
 </song>

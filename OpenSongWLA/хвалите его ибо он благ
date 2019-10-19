@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3080</hymn_number>
-<author>Алексей Захаренко</author>
-<key>A</key>
-<title>Хвалите Его ибо Он благ</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Am   C  Dm       Am
  Хвалите Его, ибо Он благ
 .     C          G      Am
@@ -11,4 +7,8 @@
 [V2]
 .     C          G      Am
  Ибо милость Господня вовек</lyrics>
+<hymn_number>3080</hymn_number>
+<author>Алексей Захаренко</author>
+<key>A</key>
+<title>Хвалите Его ибо Он благ</title>
 </song>

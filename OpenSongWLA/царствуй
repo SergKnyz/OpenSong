@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5944</hymn_number>
-<author>SokolovBrothers</author>
-<key>Eb</key>
-<title>Царствуй</title>
 <lyrics>[V1]
  Куплет:
 .Eb  Gm
@@ -32,4 +29,7 @@
    Царствуй Бог мой, царствуй Бог мой
 .  Bb                 F          D
    Царствуй Бог мой, царствуй ...</lyrics>
+<key>Eb</key>
+<title>Царствуй</title>
+<author>SokolovBrothers</author>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бедный я грешник несчастный ПВ2642</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Бедный я грешник несчастный ПВ2642</title>
+<aka>Боже Тебя я молю</aka>
 <lyrics>[V1]
  Боже, Тебя я молю,
  Бедный я грешник несчастный,
@@ -29,6 +31,4 @@
  Порок и прокляты и тяжесть греха
  С меня навсегда Ты снимаешь...</lyrics>
 <hymn_number>2642</hymn_number>
-<aka>Боже Тебя я молю</aka>
-<key>A</key>
 </song>

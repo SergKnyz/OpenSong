@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>NDay</author>
-<hymn_number>3173</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3173</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .      Am              G             C             F
@@ -23,5 +21,7 @@
  2 куплет:
  О, друг ты мой, послушай, я тоже жил не знав Христа,
  Не знал куда, зачем идти и что же будет впереди?</lyrics>
+<key>A</key>
 <title>Небеса ждут меня</title>
+<author>NDay</author>
 </song>

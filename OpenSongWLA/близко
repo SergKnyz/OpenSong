@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Imprintband</author>
-<aka>Так близко ко мне никто ещё не был, как Ты</aka>
-<hymn_number>440</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>440</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .   Cm
@@ -53,5 +50,8 @@
    Ты избавил меня от уз
 .       Fm                       Bb
    Я люблю всем сердцем Тебя, Иисус!</lyrics>
+<key>C</key>
 <title>Близко</title>
+<aka>Так близко ко мне никто ещё не был, как Ты</aka>
+<author>Imprintband</author>
 </song>

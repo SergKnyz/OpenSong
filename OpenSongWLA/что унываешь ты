@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>327</hymn_number>
-<author>Слово Жизни Music</author>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
 <title>Что унываешь Ты</title>
+<key>E</key>
 <lyrics>[C1]
    Припев:
 .          E
@@ -42,4 +41,5 @@
  Богу крепкому Богу сильному Богу мудрому и Великому
 .       A            H             C#m         H/D#
  Богу крепкому Богу сильному Богу мудрому и Великому</lyrics>
+<hymn_number>327</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1525</hymn_number>
-<title>В этом сила креста</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вижу я рассвет, пасмурного дня.
  Вот на голгофу Бог идет.
  Грешниками Он мучим и казнён,
@@ -35,4 +33,6 @@
    Принял смерть за меня
    О любовь! О цена!
    Стою прощенный у креста</lyrics>
+<hymn_number>1525</hymn_number>
+<title>В этом сила креста</title>
 </song>

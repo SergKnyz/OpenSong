@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>358</hymn_number>
-<author>Слово Жизни Music</author>
-<key>E</key>
-<title>Создал небо</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .E         H/D#
  Создал небо, создал звезды
 .C#m            A
@@ -11,4 +7,8 @@
  Славит небо, славят звезды
 .C#m            A
  Славят все, Тебя Господь лишь одного</lyrics>
+<hymn_number>358</hymn_number>
+<author>Слово Жизни Music</author>
+<key>E</key>
+<title>Создал небо</title>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1205</hymn_number>
-<author>Slavic New Beginnings Church, Кари Йобе, Бетхел Мусиц</author>
-<key>C#m</key>
-<title>Вовеки прославлен Он</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G#               D#                     Fm
  Все звёзды в небесах и солнце скрыла тьма,
@@ -55,4 +51,8 @@
    Слава, Аллилуйя
 .            G#
    Агнцу Божьему</lyrics>
+<hymn_number>1205</hymn_number>
+<author>Slavic New Beginnings Church, Кари Йобе, Бетхел Мусиц</author>
+<title>Вовеки прославлен Он</title>
+<key>C#m</key>
 </song>

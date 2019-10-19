@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<aka>В древнее время Давид сидел и пел</aka>
-<hymn_number>2030</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2030</hymn_number>
 <lyrics>[V1]
  В древнее время Давид сидел и пел (3 р.).
  Имея арфу в своей руке.
@@ -37,4 +35,6 @@
  Торжественно мы будем петь
  За то, что Он нас избавил.</lyrics>
 <title>Имея арфу в своей руке ПВ2030</title>
+<key>D</key>
+<aka>В древнее время Давид сидел и пел</aka>
 </song>

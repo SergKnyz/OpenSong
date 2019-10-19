@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Неизвестный</author>
-<hymn_number>727</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
+<key>C</key>
+<title>К сиянью вечному чрез мглу скорбей</title>
 <lyrics>[V1]
 .Dm                       A
  1 . К сиянью вечному, чрез мглу скорбей,
@@ -40,5 +40,5 @@
  Иди ж не падая и не скользя.
  Войти за Ним туда, где больше нет скорбей,
  Тебе позволено! Другим - нельзя.</lyrics>
-<title>К сиянью вечному чрез мглу скорбей</title>
+<hymn_number>727</hymn_number>
 </song>

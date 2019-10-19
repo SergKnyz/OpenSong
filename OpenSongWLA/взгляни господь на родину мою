@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Взгляни Господь на Родину мою</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Дорога Життя</author>
+<aka>Народ устал без света, откровения</aka>
+<key>A</key>
+<title>Взгляни Господь на Родину мою</title>
 <lyrics>[V1]
  1 куплет:
 .     Am             G       F
@@ -68,8 +71,5 @@
 
 [B1]
    Концовка:</lyrics>
-<aka>Народ устал без света, откровения</aka>
 <hymn_number>2592</hymn_number>
-<key>A</key>
-<author>Дорога Життя</author>
 </song>

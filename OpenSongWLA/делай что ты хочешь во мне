@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Виталий Ефремочкин</author>
-<hymn_number>752</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
+<title>Делай что Ты хочешь во мне</title>
+<key>D</key>
 <lyrics>[C1]
    Припев:
 .                Dm
@@ -18,5 +18,5 @@
  Вот сердце моё, измени,
 .      Bb       Gm             Am
  Подними, подними на высоты Свои</lyrics>
-<title>Делай что Ты хочешь во мне</title>
+<hymn_number>752</hymn_number>
 </song>

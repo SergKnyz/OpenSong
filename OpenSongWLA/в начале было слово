@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>И Слово было Бог.</aka>
-<hymn_number>1415</hymn_number>
-<title>В начале было Слово</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>В начале было Слово</title>
+<aka>И Слово было Бог.</aka>
 <lyrics>[V1]
  В начале было Слово
  И Слово было Бог.
@@ -32,4 +31,5 @@
    Моя жизнь у Твоих ног,
    Мое сердце жаждет лишь Тебя,
    Иисус Христос - мой Бог!</lyrics>
+<hymn_number>1415</hymn_number>
 </song>

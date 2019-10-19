@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Брикса</author>
+<key>C</key>
+<title>Никто не знает</title>
+<lyrics>[V1]
  1 куплет:
 .Cm                Fm
  Бог, Он придумал этот мир
@@ -26,8 +29,5 @@
  Сына своего послал для прощения, искупления
  Свет в этом мире воссиял,
  Над злом победу одержал,тьму неверия прогнал.</lyrics>
-<title>Никто не знает</title>
-<author>Сергей Брикса</author>
-<key>C</key>
 <hymn_number>1338</hymn_number>
 </song>

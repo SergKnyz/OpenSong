@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<hymn_number>255</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Здесь мы слышим голос Бога:
  &quot;Зерен много, хлеб один,
  Одна чаша, капель много,
@@ -49,5 +47,7 @@
  &quot;Ведь и с ними - мы одно:
  Кровь Твоя, кровь искупленья,
  Съединила нас давно!&quot;</lyrics>
+<hymn_number>255</hymn_number>
+<key>G</key>
 <title>Здесь мы слышим голос Бога ПВ255</title>
 </song>

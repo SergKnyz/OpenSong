@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1345</hymn_number>
-<author>Вадим Ятковский</author>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Вадим Ятковский</author>
 <title>С Днем Рождения</title>
+<key>F</key>
 <lyrics>[V1]
  1 куплет:
 .            F         C           Dm D7
@@ -47,4 +46,5 @@
    Пусть сбываются мечты в этот день родился ты!
 .          Bb           F               C   F C Dm Bb
    Будь благословенен  ты , С днем рождения!</lyrics>
+<hymn_number>1345</hymn_number>
 </song>

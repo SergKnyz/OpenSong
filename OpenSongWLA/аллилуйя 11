@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1045</hymn_number>
 <lyrics>[V1]
  Куплет 1:
 . C   G   C
@@ -60,7 +60,7 @@
 .F       D7  G
     Услышь молитву мою!</lyrics>
 <aka>Господи Боже наш как величественно имя Твоё, Когда взираю я на небеса</aka>
-<hymn_number>1045</hymn_number>
-<author>Вадим Ятковский</author>
+<title>Аллилуйя</title>
 <key>C</key>
+<author>Вадим Ятковский</author>
 </song>

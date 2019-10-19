@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Денис Никитин</author>
-<key>C</key>
-<hymn_number>611</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>611</hymn_number>
 <lyrics>[C1]
    Припев:
 .        C                D                  G    D/F# Em
@@ -51,5 +49,7 @@
    Коснись меня Своей любовью и очисти кровью,
 .  C          D             Em
    Коснись меня Своей любовью</lyrics>
+<key>C</key>
 <title>Коснись меня</title>
+<author>Денис Никитин</author>
 </song>

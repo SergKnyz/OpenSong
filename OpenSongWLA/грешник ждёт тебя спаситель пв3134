@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<hymn_number>3134</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Грешник, ждёт тебя Спаситель,
  знает боли Он твои.
  Он один твой Утешитель,
@@ -35,5 +33,7 @@
  ныне Он зовёт тебя.
  Даст Он белую одежду
  ярче солнечного дня.</lyrics>
+<hymn_number>3134</hymn_number>
 <title>Грешник ждёт тебя Спаситель ПВ3134</title>
+<key>C</key>
 </song>

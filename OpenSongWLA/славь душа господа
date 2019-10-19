@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>10 тысяч причин</aka>
-<hymn_number>57</hymn_number>
-<key>C</key>
-<author>Слово Жизни Music, Матт Редман, Йонас Мырин, Йесус Цултуре</author>
-<title>Славь душа Господа</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>57</hymn_number>
 <lyrics>[C1]
    Припев:
 .            C        G    D/F#    Em
@@ -38,4 +34,8 @@
  На закате дней, когда время придёт,
  Душа моя Тебя да будет славить
  Больше, чем даже 10 тысяч лет.</lyrics>
+<aka>10 тысяч причин</aka>
+<key>C</key>
+<title>Славь душа Господа</title>
+<author>Слово Жизни Music, Йесус Цултуре, Йонас Мырин, Матт Редман</author>
 </song>

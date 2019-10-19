@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3242</hymn_number>
-<title>Небеса и моря</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Небеса и моря</title>
 <lyrics>[V1]
  Небеса и моря прославляют Тебя,
  Проповедуют силу Твою и славу.
@@ -12,4 +11,5 @@
 
 [C2]
    Превознесен!</lyrics>
+<hymn_number>3242</hymn_number>
 </song>

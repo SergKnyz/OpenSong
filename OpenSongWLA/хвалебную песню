@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Хвалебную песню</title>
+<author>Неизвестный</author>
+<hymn_number>1101</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .   Cm      D       Gm      D#     F        Bb
  Хвалебную песню слагаю Создателю чудных миров.
@@ -26,8 +30,4 @@
  Снимает уныния ношу, и мир, и надежду даёт.
  В минуту последнюю, знаю, когда жизнь земная пройдёт,
  Причалю к родному я краю, Он горькие слёзы отрёт.</lyrics>
-<title>Хвалебную песню</title>
-<author>Неизвестный</author>
-<key>C</key>
-<hymn_number>1101</hymn_number>
 </song>

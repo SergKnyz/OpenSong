@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Алла Чепикова</author>
-<key>D</key>
-<hymn_number>481</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Dm  Am
  1 .Господь Пастырь мой, Он даёт покой,
 .Gm Dm/A A
@@ -33,5 +30,8 @@
  Где смертные тени идут за мной,
  Твой жезл, посох Твой поведут меня
  Ты - крепость жизни моя.</lyrics>
+<hymn_number>481</hymn_number>
+<author>Алла Чепикова</author>
+<key>D</key>
 <title>Господь Пастырь мой</title>
 </song>

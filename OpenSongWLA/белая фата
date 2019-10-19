@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>620</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <aka>Детства дни навеки улетели</aka>
 <key>G</key>
-<author>Неизвестный</author>
 <title>Белая фата</title>
 <lyrics>[V1]
  1 куплет:
@@ -42,4 +41,5 @@
  Ожидай пришествия Христа
  Словно солнца луч зарею ясной
  Пусть вся ваша жизнь будет чиста</lyrics>
+<hymn_number>620</hymn_number>
 </song>

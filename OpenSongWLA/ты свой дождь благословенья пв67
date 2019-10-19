@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<hymn_number>67</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ты Свой дождь благословенья
  Даром шлешь сынам земли.
  Дождь тот - душам утешенье;
@@ -41,5 +39,7 @@
  Жизнь излив, благословляя,
  О Господь, благослови и меня!
  О Господь, благослови и меня!</lyrics>
+<hymn_number>67</hymn_number>
+<key>G</key>
 <title>Ты Свой дождь благословенья ПВ67</title>
 </song>

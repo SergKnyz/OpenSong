@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>567</hymn_number>
-<key>A</key>
-<author>Нахес</author>
-<title>Не боюсь</title>
 <lyrics>[V1]
 .Am  Dm      Am Dm
  Не боюсь я никого,
@@ -19,4 +16,7 @@
  Не боюсь я никого,
 .Dm        C    F B   F
  Так, как Бога одного.</lyrics>
+<key>A</key>
+<title>Не боюсь</title>
+<author>Нахес</author>
 </song>

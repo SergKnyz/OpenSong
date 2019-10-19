@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3281</hymn_number>
-<key>D</key>
-<author>Planetshakers, Планетсхакерс</author>
-<title>Я, восхищенный</title>
 <lyrics>[V1]
  1 куплет:
 .D             D/F#  G
@@ -51,4 +48,7 @@
    Мы ждем, поклоняясь мы жаждем с хвалой
 .            Hm         Asus
    Ворвись в мое сердце присутствием вновь</lyrics>
+<key>D</key>
+<title>Я, восхищенный</title>
+<author>Planetshakers, Планетсхакерс</author>
 </song>

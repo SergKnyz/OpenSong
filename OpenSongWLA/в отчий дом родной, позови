@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Вознеси меня выше гор</aka>
-<hymn_number>1324</hymn_number>
-<title>В Отчий дом родной, позови.</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1324</hymn_number>
 <lyrics>[V1]
  Вознеси меня выше гор
  В Отчий дом родной, позови.
@@ -33,4 +31,6 @@
    Хочу идти и звать других к спасенью,
    И мне светить, Иисус зарёю воскресенья.
    Вознеси!</lyrics>
+<title>В Отчий дом родной, позови.</title>
+<aka>Вознеси меня выше гор</aka>
 </song>

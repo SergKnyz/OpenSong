@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Кто</title>
+<key>G</key>
+<author>Новый Иерусалим</author>
+<hymn_number>381</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .G       G/H   C     G/H G  G/H C G/H
  Кто играет струнами дождей?
@@ -51,8 +55,4 @@
    Припев:
    Я ответ не дописал.
    Да ты и так всё знаешь сам.</lyrics>
-<title>Кто</title>
-<author>Новый Иерусалим</author>
-<key>G</key>
-<hymn_number>381</hymn_number>
 </song>

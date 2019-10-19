@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>175</hymn_number>
-<key>A</key>
-<author>Дарина Кочанжи</author>
-<title>Не теряй надежду</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .   Am          E       Am
  Когда тебя закружит суета,
@@ -37,4 +33,8 @@
  Что на земле и ненависть и зло
  Но как на небе солнце всем сияет,
  Так людям ты дари своё тепло.</lyrics>
+<hymn_number>175</hymn_number>
+<author>Дарина Кочанжи</author>
+<key>A</key>
+<title>Не теряй надежду</title>
 </song>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я улетаю</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1989</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am                        G
@@ -27,7 +27,7 @@
  Я пойду, побегу, полечу за Тобой,
  Прокричу я громко: «Прощай земля!
  Меня манит в небо, в родные края!»</lyrics>
-<hymn_number>1989</hymn_number>
-<author>Павел Плахотин</author>
+<title>Я улетаю</title>
 <key>A</key>
+<author>Павел Плахотин</author>
 </song>

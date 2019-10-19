@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В тихий вечер склоняю ПВ870</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>В тихий вечер склоняю ПВ870</title>
+<hymn_number>3380</hymn_number>
 <lyrics>[V1]
  В тихий вечер склоняю
  Я колени в тиши
@@ -34,6 +36,4 @@
  Чтоб горели сердца,
  По дороге к Отчизне
  С нами будь до конца&quot;.</lyrics>
-<hymn_number>3380</hymn_number>
-<key>E</key>
 </song>

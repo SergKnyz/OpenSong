@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Филипп Реннер</author>
-<hymn_number>613</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>613</hymn_number>
 <lyrics>[V1]
 .A           D A                E
  Ты нашел меня Бог, все грехи омыл
@@ -14,5 +12,7 @@
  Иисус - Ты единственный путь, верный и святой
 .A            D           A            E     A
  Иисус - Ты единственный путь, верный и святой</lyrics>
+<key>A</key>
 <title>Ты нашел меня</title>
+<author>Филипп Реннер</author>
 </song>

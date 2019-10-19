@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Жизнь это поле</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Вельгус</author>
+<title>Жизнь это поле</title>
+<key>A</key>
 <lyrics>[V1]
  1 куплет:
 .     Am                   G
@@ -47,6 +49,4 @@
    Но только запомни, плоды будут позже,
    Всё на весы Бог когда-то положит.</lyrics>
 <hymn_number>199</hymn_number>
-<author>Ольга Вельгус</author>
-<key>A</key>
 </song>

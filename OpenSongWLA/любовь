@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>489</hymn_number>
-<key>E</key>
-<author>Пирс</author>
-<title>Любовь</title>
 <lyrics>[V1]
  1 куплет:
 .     Em         D       A
@@ -49,4 +46,7 @@
  Как суть падений взлётов и трудов,
  Лежит любовь как камень преткновений,
  Как суть падений взлётов и трудов,</lyrics>
+<title>Любовь</title>
+<key>E</key>
+<author>Пирс</author>
 </song>

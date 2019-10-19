@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2597</hymn_number>
-<key>G</key>
-<title>Если путь твой темен мрачен ПВ2597</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Если путь твой темен, мрачен
  И нависли облака,
  Бурь не бойся, над тобою
@@ -48,4 +45,7 @@
    - Обещал Спаситель нам,
    Уповай, надейся твердо,
    Верь Его святым словам.</lyrics>
+<hymn_number>2597</hymn_number>
+<key>G</key>
+<title>Если путь твой темен мрачен ПВ2597</title>
 </song>

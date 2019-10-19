@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>377</hymn_number>
-<author>Слово Жизни Music</author>
-<key>B</key>
-<title>Лишь в Тебе упованье моё</title>
 <lyrics>[V1]
 .Hm       A/C#   D      G
  Лишь в Тебе упованье моё,
@@ -25,4 +22,7 @@
  Идти, идти... За Тобой, За Тобой...
 .  Hm    F#m         G         A
  Идти, идти... За Тобой, За Тобой...</lyrics>
+<key>B</key>
+<title>Лишь в Тебе упованье моё</title>
+<author>Слово Жизни Music</author>
 </song>

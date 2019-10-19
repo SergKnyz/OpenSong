@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Татьяна Игнатюк</author>
-<key>C</key>
-<hymn_number>1335</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .C
  День - какое чудо день,
@@ -32,5 +29,8 @@
  Он все это создал, Он
  Рассыпал звезды всюду
  Видим Божьи чудеса</lyrics>
+<hymn_number>1335</hymn_number>
+<author>Татьяна Игнатюк</author>
 <title>День - какое чудо</title>
+<key>C</key>
 </song>

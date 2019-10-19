@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<author>Владимир Скобочкин</author>
-<hymn_number>3743</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3743</hymn_number>
 <lyrics>[V1]
 .C         D        G
  1. Ранами Твоими я исцелен
@@ -31,4 +29,6 @@
  И с Тобой в свободе жить,
  С Тобою жить и жить!</lyrics>
 <title>Птицей</title>
+<key>C</key>
+<author>Владимир Скобочкин</author>
 </song>

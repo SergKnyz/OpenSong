@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Стены Разрушь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<title>Стены Разрушь</title>
+<key>A</key>
 <lyrics>[V1]
  Куплет 1:
 . Am
@@ -61,6 +63,4 @@
 .        F
    И надежду, что в Тебе - увидят все</lyrics>
 <hymn_number>928</hymn_number>
-<author>Hillsong Ukraine</author>
-<key>A</key>
 </song>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Константин Самородов</author>
-<hymn_number>581</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Константин Самородов</author>
+<title>Крылья Любви</title>
+<key>D</key>
 <lyrics>[V1]
  Куплет:
 .      Dm       G      A     Dm         G     A
@@ -22,5 +22,5 @@
    Ты всегда со мной и залог любви святой
 .  Dm         G      A
    Мне навсегда подарил</lyrics>
-<title>Крылья Любви</title>
+<hymn_number>581</hymn_number>
 </song>

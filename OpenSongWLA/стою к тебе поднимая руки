@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>984</hymn_number>
-<key>D</key>
-<author>Виталий Ефремочкин, Слово Жизни Music</author>
-<title>Стою к Тебе поднимая руки</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D  A       E       F#m
  Стою, к Тебе поднимая руки
 .D     A      E
@@ -11,4 +7,8 @@
  Душа и сердце к Тебе стремится
 .  D      A         E
  Вся моя жизнь в Тебе</lyrics>
+<hymn_number>984</hymn_number>
+<author>Виталий Ефремочкин, Слово Жизни Music</author>
+<title>Стою к Тебе поднимая руки</title>
+<key>D</key>
 </song>

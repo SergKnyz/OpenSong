@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
+<key>D</key>
+<title>Ночь настает, ветер поет</title>
+<lyrics>[V1]
  1 куплет:
 .Dm          Gm
  Ночь настает, ветер поет,
@@ -36,8 +39,5 @@
    Что за Дитя в хлеву чужом Мария охраняет,
 .    Dm         C            Bb   A    Dm
    Что Ангелы поют о Нем, а пастухи внимают?</lyrics>
-<title>Ночь настает, ветер поет</title>
-<author>Неизвестный</author>
-<key>D</key>
 <hymn_number>5158</hymn_number>
 </song>

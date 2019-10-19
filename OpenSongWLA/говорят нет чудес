@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2009</hymn_number>
-<title>Говорят нет чудес</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Говорят, что в мире нет чудес,
  Посмотри, как мир устроен мудро,
  Звезды блещут в глубине небес,
@@ -35,4 +33,6 @@
    Самое желанное мгновение,
    Бог придет, чтоб взять детей Своих,
    От Земли для вечного спасения.</lyrics>
+<hymn_number>2009</hymn_number>
+<title>Говорят нет чудес</title>
 </song>

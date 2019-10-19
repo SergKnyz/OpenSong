@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>За приятный солнца свет ПВ756</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>За приятный солнца свет ПВ756</title>
+<hymn_number>756</hymn_number>
 <lyrics>[V1]
  За приятный солнца свет,
  Чистый воздух, дар с небес,
@@ -41,6 +43,4 @@
  За Господень дом святой,
  Где мы сходимся семьей, -
  Господу хвала! Господу хвала!</lyrics>
-<hymn_number>756</hymn_number>
-<key>C</key>
 </song>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>NG Worship</author>
-<key>G</key>
 <aka>В Нем Свобода</aka>
-<hymn_number>67</hymn_number>
+<title>Услышим звук небес, не сдержать хвалы,</title>
+<key>G</key>
 <lyrics>[V1]
  1 Куплет:
 .G                  C
@@ -48,5 +48,5 @@
    Мы прославим жизнью всей
 .  Em     C           G D
    И сердца свои склоним</lyrics>
-<title>Услышим звук небес, не сдержать хвалы,</title>
+<hymn_number>67</hymn_number>
 </song>

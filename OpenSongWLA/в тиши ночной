@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В тиши ночной</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Русавук</author>
+<title>В тиши ночной</title>
+<key>F#</key>
 <lyrics>[V1]
  1 куплет:
 .  A#m                         C#
@@ -35,6 +37,4 @@
  Я дорожу такой взаимной встречей,
  Я рада слушать то, что скажешь Ты.</lyrics>
 <hymn_number>4013</hymn_number>
-<author>Виталий Русавук</author>
-<key>F#</key>
 </song>

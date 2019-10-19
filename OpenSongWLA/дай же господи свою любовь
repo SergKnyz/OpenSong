@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1769</hymn_number>
-<key>D</key>
-<author>Маханаим</author>
-<title>Дай же Господи свою любовь</title>
 <lyrics>[V1]
 .Dm                                  F
  Дал человеку Вселенной Создатель любовь,
@@ -38,4 +35,7 @@
     Ты смертию Своей        меня купил
 .Gm A                Dm D7
     Любимый мой Христос.</lyrics>
+<title>Дай же Господи свою любовь</title>
+<key>D</key>
+<author>Маханаим</author>
 </song>

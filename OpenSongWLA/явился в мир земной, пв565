@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ведь я не сам собою</aka>
-<hymn_number>565</hymn_number>
-<key>D</key>
-<title>Явился в мир земной, ПВ565</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>565</hymn_number>
 <lyrics>[V1]
  Ведь я не сам собою
  Явился в мир земной,
@@ -37,4 +34,7 @@
  Когда придет твой час:
  Ему воздай хваленье,
  Он Бог и любит нас.</lyrics>
+<aka>Ведь я не сам собою</aka>
+<key>D</key>
+<title>Явился в мир земной, ПВ565</title>
 </song>

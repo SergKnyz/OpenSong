@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<hymn_number>799</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Хорошо, когда вместе в общенье
  Мы сольемся единой хвалой;
  Хорошо, когда скорби в терпенье
@@ -35,5 +33,7 @@
  Не покинет Он нас никогда!
  По тернистым житейским дорогам
  Хорошо с Иисусом всегда!</lyrics>
+<hymn_number>799</hymn_number>
 <title>Хорошо когда вместе в общенье ПВ799</title>
+<key>A</key>
 </song>

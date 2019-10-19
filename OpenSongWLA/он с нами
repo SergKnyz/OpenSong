@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1003</hymn_number>
-<author>Кристалл</author>
-<key>E</key>
-<title>Он с нами</title>
 <lyrics>[V1]
  1 куплет:
 .     Em                       Hm
@@ -30,4 +27,7 @@
  Торжественно реет над нами вобрав в Себя образ Христов.
  Когда мы людей утешаем, вникая в дела и слова,
  Любовью своей подтверждаем, что вера у нас не мертва!</lyrics>
+<key>E</key>
+<title>Он с нами</title>
+<author>Кристалл</author>
 </song>

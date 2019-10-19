@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Олег Буркацкий</author>
-<hymn_number>1651</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  вст.
 
 [V2]
@@ -49,5 +46,8 @@
 [V8]
  Ты меня, мой Бог, через сто дорог
  Все равно опять найдешь.</lyrics>
+<hymn_number>1651</hymn_number>
+<author>Олег Буркацкий</author>
+<key>E</key>
 <title>Сто дорог</title>
 </song>

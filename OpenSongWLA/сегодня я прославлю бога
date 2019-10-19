@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2933</hymn_number>
-<author>Oleh Hrinkov</author>
-<key>E</key>
-<title>Сегодня я прославлю Бога</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет: х2
 .Em                   C
  Вчерашний день уже прошел
@@ -44,4 +40,8 @@
    Ооу- ооу  - ооу - ооу
    Исполняя Твою волю
    Мы Исполним Твою волю Отец</lyrics>
+<hymn_number>2933</hymn_number>
+<author>Oleh Hrinkov</author>
+<title>Сегодня я прославлю Бога</title>
+<key>E</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Павел Геращенко</author>
-<key>G</key>
-<hymn_number>2474</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2474</hymn_number>
 <lyrics>[V1]
  Вступление:
 .Gm   Bb  F  C
@@ -93,5 +91,7 @@
 [V10]
  Вечно, вечно, вечно во-у
  Вечно, вечно во-о-у</lyrics>
+<key>G</key>
 <title>Буду восхвалять Тебя, мой Царь и Бог</title>
+<author>Павел Геращенко</author>
 </song>

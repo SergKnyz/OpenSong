@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Левит</author>
-<key>Ebm</key>
-<hymn_number>1620</hymn_number>
 <aka>Біблія</aka>
+<key>Ebm</key>
+<title>Тебе прославляємо, Спасе чудовий</title>
 <lyrics>[V1]
 .Abm                      Dbm
  Тебе прославляємо, Спасе чудовий
@@ -33,5 +33,5 @@
  І божої правди засяє зоря
  На кожній сторінці біблійній завіє
  Спасителя образ любові й добра.</lyrics>
-<title>Тебе прославляємо, Спасе чудовий</title>
+<hymn_number>1620</hymn_number>
 </song>

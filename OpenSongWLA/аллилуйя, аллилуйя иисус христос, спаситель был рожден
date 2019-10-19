@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3968</hymn_number>
-<author>Цхрис Томлин</author>
-<key>D</key>
-<title>Аллилуйя, аллилуйя Иисус Христос, Спаситель Был рожден</title>
 <lyrics>[V1]
  Куплет: (2р.)
 .D  G D F#  Bm
@@ -37,4 +34,7 @@
 [V3]
  Нам Иисус Христос рожден,
  Аллилуйя!</lyrics>
+<title>Аллилуйя, аллилуйя Иисус Христос, Спаситель Был рожден</title>
+<key>D</key>
+<author>Цхрис Томлин</author>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3101</hymn_number>
-<author>Ярослава Лебе-Левинецкая</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ярослава Лебе-Левинецкая</author>
 <key>F</key>
 <title>Поклоняюсь</title>
 <lyrics>[V1]
@@ -23,4 +22,5 @@
  2 куплет:
  Поклоняюсь, поклоняюсь я Тебе о Царь Величия
  Возношу я Твое Имя выше звезд Иисус Спаситель</lyrics>
+<hymn_number>3101</hymn_number>
 </song>

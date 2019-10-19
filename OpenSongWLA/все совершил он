@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>76</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Все совершил Он</title>
 <key>Dm</key>
-<title>Все совершил Он</title>
 <time_sig>4/4</time_sig>
 <lyrics>[V1]
 .          Dm                Gm
@@ -25,5 +24,6 @@
    Иисус Господь! Иисус Господь!
 .  A7     Dm
    Аллилуйя!</lyrics>
+<hymn_number>76</hymn_number>
 <tempo>120</tempo>
 </song>

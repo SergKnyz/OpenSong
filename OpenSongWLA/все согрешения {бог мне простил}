@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог простил</aka>
-<hymn_number>1701</hymn_number>
-<key>C</key>
-<title>Все согрешения {Бог мне простил}</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1701</hymn_number>
 <lyrics>[V1]
 .C                 C(G)
  Все согрешения // Бог мне простил //
@@ -19,4 +16,7 @@
  Славу спасителю // мы воспоём //
  Славу спасителю мы воспоём
  Через Иисуса Христа.</lyrics>
+<aka>Бог простил</aka>
+<key>C</key>
+<title>Все согрешения {Бог мне простил}</title>
 </song>

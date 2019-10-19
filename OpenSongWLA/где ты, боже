@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2148</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Краеугольный камень</author>
 <key>E</key>
-<author>Краеугольный камень</author>
 <title>Где Ты, Боже</title>
 <lyrics>[V1]
  (Сл. и муз. Мачина С.)
@@ -29,4 +28,5 @@
  То взываем, то засыпаем вновь...
  Бог мой, сколько - знать бы только
  Мы распинаем Твою любовь?</lyrics>
+<hymn_number>2148</hymn_number>
 </song>

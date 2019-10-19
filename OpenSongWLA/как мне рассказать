@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1021</hymn_number>
-<key>G</key>
-<author>Imprintband</author>
-<title>Как мне рассказать</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 . G          Hm/F#          F             E
  Как мне рассказать о благодарности к Тебе?
@@ -48,4 +44,8 @@
    Ты - жизнь моя, все мысли и желания мои
 .               G
    Лишь для Тебя</lyrics>
+<hymn_number>1021</hymn_number>
+<author>Imprintband</author>
+<title>Как мне рассказать</title>
+<key>G</key>
 </song>

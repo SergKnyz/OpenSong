@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1433</hymn_number>
-<title>Господь услышит голос твой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Господь услышит голос твой</title>
 <lyrics>[V1]
  Жизнь наша словно паутина
  Запутана не разобрать
@@ -27,4 +26,5 @@
  Ушедших дней строка
  Она проносится так лихо
  Как в дымке тают облака.</lyrics>
+<hymn_number>1433</hymn_number>
 </song>

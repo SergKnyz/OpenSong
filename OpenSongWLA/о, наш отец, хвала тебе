@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О, наш Отец, хвала Тебе!</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>О, наш Отец, хвала Тебе!</title>
+<author>Марина Левина</author>
+<hymn_number>2240</hymn_number>
 <lyrics>[V1]
 .C                    Am
  О, наш Отец, хвала Тебе!
@@ -12,7 +15,4 @@
 [V3]
  О, наш Отец, хвала Тебе!
  За мир и радость во Христе! (2р)</lyrics>
-<hymn_number>2240</hymn_number>
-<author>Марина Левина</author>
-<key>C</key>
 </song>

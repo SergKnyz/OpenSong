@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1012</hymn_number>
-<author>Imprintband</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
 <key>A</key>
 <title>Он знает тебя</title>
 <lyrics>[V1]
@@ -35,4 +34,5 @@
  Каждый из нас жизнь тебе посвятил
  Любовью своей ты нас всех взял в удел
  И больше жизни своей нас возлюбил</lyrics>
+<hymn_number>1012</hymn_number>
 </song>

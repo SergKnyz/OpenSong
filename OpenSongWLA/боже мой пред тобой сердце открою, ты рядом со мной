@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Голгофа церква м.Київ</author>
+<title>Боже мой пред Тобой сердце открою, Ты рядом со мной.</title>
 <key>E</key>
-<hymn_number>1278</hymn_number>
 <lyrics>[V1]
  Куплет:
 .       E           H C#m                 A
@@ -30,5 +30,5 @@
 
 [V3]
  Проигрыш:</lyrics>
-<title>Боже мой пред Тобой сердце открою, Ты рядом со мной.</title>
+<hymn_number>1278</hymn_number>
 </song>

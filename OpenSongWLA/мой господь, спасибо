@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мой Господь, спасибо</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Хиллсонг</author>
+<aka>Агнец в небесах</aka>
+<key>G</key>
+<title>Мой Господь, спасибо</title>
 <lyrics>[V1]
  Intro: Em9 G2 : Em9 G2
 .G2                C G/H
@@ -42,7 +45,4 @@
 .                 Am7 - G/H - D
    Достоин честь принять</lyrics>
 <hymn_number>1057</hymn_number>
-<aka>Агнец в небесах</aka>
-<key>G</key>
-<author>Хиллсонг</author>
 </song>

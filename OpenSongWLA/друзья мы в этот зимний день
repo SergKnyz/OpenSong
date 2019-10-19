@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Друзья мы в этот зимний день</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
+<title>Друзья мы в этот зимний день</title>
+<key>G#m</key>
 <lyrics>[C1]
    Припев:
 .             G#m           C#
@@ -35,6 +37,4 @@
  Возьмём любовь, добро с собой
  Они нам в жизни так нужны</lyrics>
 <hymn_number>1478</hymn_number>
-<author>Неизвестный</author>
-<key>G#m</key>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты твёрже алмаза</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Песнь возрождения 2800</author>
+<key>B</key>
+<title>Ты твёрже алмаза</title>
 <lyrics>[V1]
  1 куплет:
 .    Hm       Em      F#       Hm
@@ -35,6 +37,4 @@
  С молитвой они одолеют угрозы,
  Бог силу им даст победить.</lyrics>
 <hymn_number>1743</hymn_number>
-<author>Песнь возрождения 2800</author>
-<key>B</key>
 </song>

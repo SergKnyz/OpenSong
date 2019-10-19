@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>566</hymn_number>
-<key>G</key>
-<author>Достичь небес</author>
-<title>Кто ответит</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Gm   Eb/G    Cm/G    D/F#   Gm/F  C/E     Eb      Dsus D
  Кто ответит на все вопросы, кто униженным будет защита?
@@ -30,4 +26,8 @@
  Мир спасая, Его любовью дарят небо на раздорожьи.
  Бедным и больным руки их и сердца держатся на них усталая земля
  Господом храни каждые души путем Его...</lyrics>
+<hymn_number>566</hymn_number>
+<author>Достичь небес</author>
+<title>Кто ответит</title>
+<key>G</key>
 </song>

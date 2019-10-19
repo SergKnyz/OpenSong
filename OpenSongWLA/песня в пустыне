@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Песня в пустыне</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<title>Песня в пустыне</title>
+<key>B</key>
 <lyrics>[V1]
  1 куплет:
 .Hm          A        G   D
@@ -51,6 +53,4 @@
  Знаю, что Бог наполняет, чтоб вновь.
  Мы сеяли семя своё.</lyrics>
 <hymn_number>968</hymn_number>
-<author>Hillsong Ukraine</author>
-<key>B</key>
 </song>

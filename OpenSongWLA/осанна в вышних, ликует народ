@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Путь Христа церковь, г. Нюрнберг</author>
-<hymn_number>2978</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Путь Христа церковь, г. Нюрнберг</author>
+<title>Осанна в вышних, ликует народ</title>
+<key>D</key>
 <lyrics>[V1]
 .D                   A     D
  Осанна в вышних, ликует народ.
@@ -38,5 +38,5 @@
 [V6]
 .D      A         D  D        A       D
  Аллилуйя! Аллилуйя! Аллилуйя! Аллилуйя!</lyrics>
-<title>Осанна в вышних, ликует народ</title>
+<hymn_number>2978</hymn_number>
 </song>

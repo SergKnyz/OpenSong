@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1175</hymn_number>
-<aka>Благодарю за Дух Святой</aka>
-<author>Вадим Ятковский</author>
-<key>G</key>
-<title>За залог любви</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  4/4 70bpm
 
 [V2]
@@ -45,4 +40,9 @@
    ...Зажги, зажги огонь любви...
 .   G
    Зажги.</lyrics>
+<hymn_number>1175</hymn_number>
+<author>Вадим Ятковский</author>
+<title>За залог любви</title>
+<key>G</key>
+<aka>Благодарю за Дух Святой</aka>
 </song>

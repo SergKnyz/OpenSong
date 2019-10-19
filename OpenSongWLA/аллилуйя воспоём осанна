@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя воспоём осанна!</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
+<title>Аллилуйя воспоём осанна!</title>
 <lyrics>[V1]
 .C#m                                      E
  О, Иисус наш,- Свет, Сын Божий, к нам на землю Ты сошёл,
@@ -31,5 +32,4 @@
  И однажды в день великий, Ты придёшь с небес, Владыка,
  Чтобы взять своих домой, будем в вечности с Тобой.</lyrics>
 <hymn_number>4018</hymn_number>
-<key>C#m</key>
 </song>

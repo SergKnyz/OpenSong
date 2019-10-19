@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Для нас с тобой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>275</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .            H      C#m/A#   D#     G#m
@@ -71,7 +71,7 @@
  Претерпев все муки, на Голгофу взошёл.
  Миру зла, где царит порок отдал всё, что Он мог
  Себя подарил нам Сам Бог!</lyrics>
-<hymn_number>275</hymn_number>
+<title>Для нас с тобой</title>
 <key>B</key>
 <author>Эдем</author>
 </song>

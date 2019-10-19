@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Kim Walker-Smith, Ким Уалкер-Смитх</author>
-<key>A</key>
-<hymn_number>3139</hymn_number>
-<aka>Бегу я к престолу</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Проигрыш:
 
 [V2]
@@ -91,5 +87,9 @@
    Величье Твое,
 .  F#m                            E
    О, Святый! Святый! Святый мой Бог!</lyrics>
+<hymn_number>3139</hymn_number>
+<author>Kim Walker-Smith, Ким Уалкер-Смитх</author>
 <title>Предел мечты - Ты, Бог,</title>
+<key>A</key>
+<aka>Бегу я к престолу</aka>
 </song>

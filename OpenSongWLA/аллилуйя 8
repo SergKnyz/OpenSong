@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
+<title>Аллилуйя</title>
+<key>A</key>
+<aka>Тот Кто на небе Тебя ищу</aka>
 <lyrics>[V1]
  1 куплет:
 .Am                     F      Em
@@ -39,7 +42,4 @@
    Что чудесен Ты прекрасен Ты
    Ты достоин всей хвалы</lyrics>
 <hymn_number>143</hymn_number>
-<aka>Тот Кто на небе Тебя ищу</aka>
-<key>A</key>
-<author>Виталий Ефремочкин</author>
 </song>

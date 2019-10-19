@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>280</hymn_number>
-<key>E</key>
-<title>Своё я сердце сокрушу ИИПВ280</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .    E           B7  C#m7  A    F#m7
  Своё я сердце сокрушу у ног Иисуса,
 .      E           B7    C#m   A     B
@@ -16,4 +13,7 @@
  	Я взываю: «Святый, Святый».
 .Bsus4  E  Esus4 E
  Агнец__ Свят.</lyrics>
+<hymn_number>280</hymn_number>
+<title>Своё я сердце сокрушу ИИПВ280</title>
+<key>E</key>
 </song>

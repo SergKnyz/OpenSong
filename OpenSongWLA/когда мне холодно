@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Когда мне холодно</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Вельгус</author>
+<key>D</key>
+<title>Когда мне холодно</title>
 <lyrics>[V1]
  1 куплет:
 .          Dm          C             Bb Gm
@@ -64,6 +66,4 @@
 .          Bbm       Cm           Fm  D# C# D# F
  Мольбу сердечную услышь, Тебе молюсь.</lyrics>
 <hymn_number>4262</hymn_number>
-<key>D</key>
-<author>Ольга Вельгус</author>
 </song>

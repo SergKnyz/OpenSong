@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2510</hymn_number>
-<author>Hillsong Worship</author>
-<key>D</key>
-<title>Твоё Имя прекрасное</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Перевод ц. Сила Перемен, Финляндия
 .D
  Мир сотворивший через Слово
@@ -77,4 +73,8 @@
  Как могущественно оно, Кто может против быть?
 .                Hm    A    G
  Как могущественно оно, имя Иисуса</lyrics>
+<hymn_number>2510</hymn_number>
+<author>Hillsong Worship</author>
+<title>Твоё Имя прекрасное</title>
+<key>D</key>
 </song>

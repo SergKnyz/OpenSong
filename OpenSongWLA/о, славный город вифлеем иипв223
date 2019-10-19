@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О, славный город Вифлеем ИИПВ223</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>223</hymn_number>
 <lyrics>[V1]
 .     G           Am
  О, славный город Вифлеем,
@@ -36,6 +36,6 @@
  Тыгрехи мои простил.
  Скорейприди и будь со мной,
  ГосподьЕммануил!</lyrics>
-<hymn_number>223</hymn_number>
+<title>О, славный город Вифлеем ИИПВ223</title>
 <key>G</key>
 </song>

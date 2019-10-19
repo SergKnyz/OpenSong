@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3156</hymn_number>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <title>Кто у двери сердца здесь стоит ПВ3156</title>
 <lyrics>[V1]
  Кто у двери сердца здесь стоит?
@@ -38,4 +37,5 @@
  ты моли Христа:
  «Сделай мягким Ты, Господь, меня
  - я впустил Тебя!»</lyrics>
+<hymn_number>3156</hymn_number>
 </song>

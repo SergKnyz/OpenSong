@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>761</hymn_number>
-<author>Ольга Марина</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Марина</author>
 <key>A</key>
 <title>Яви нам милость</title>
 <lyrics>[V1]
@@ -32,4 +31,5 @@
    Ты - Бог, что пред Тобою человек
 .      Bb                            E
    Но милость Свою, Ты превознёс превыше Небес.</lyrics>
+<hymn_number>761</hymn_number>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1964</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Subcultura</author>
 <aka>Бегу к Тебе</aka>
 <key>G</key>
-<author>Subcultura</author>
 <title>Бог, наполни вновь любовью Своей</title>
 <lyrics>[V1]
  1 куплет:
@@ -46,4 +45,5 @@
    С Тобою быть хочу, с Тобою быть хочу,
 .  Em             G
    О, мой Иисус, Ты мне так нужен.</lyrics>
+<hymn_number>1964</hymn_number>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4094</hymn_number>
-<author>Anna Balan-Hodgkins</author>
-<key>E</key>
-<title>Ты и я</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .  Hm          F#      Hm
  В жизни нам грустно бывает
@@ -48,4 +44,8 @@
    &quot;Я никогда не оставлю Я не покину тебя
 .   Em/C#           F#       Em    F#m   Hm
    Тебе не будет страшно и грустно никогда&quot;</lyrics>
+<hymn_number>4094</hymn_number>
+<author>Anna Balan-Hodgkins</author>
+<key>E</key>
+<title>Ты и я</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1148</hymn_number>
-<key>D</key>
-<title>Когда я в житейских волнах утопаю ПВ1148</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Когда я в житейских волнах утопаю,
  И вера слабеет моя,
  К Тебе я в молитве своей простираюсь,
@@ -24,4 +21,7 @@
  Хоть вера так слаба в груди...
  И Ты дашь мне силы идти до могилы,
  Не падая духом в пути.</lyrics>
+<hymn_number>1148</hymn_number>
+<key>D</key>
+<title>Когда я в житейских волнах утопаю ПВ1148</title>
 </song>

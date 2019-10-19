@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
-<hymn_number>356</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  К тебе зовет Спаситель Сам:
  &quot;Стою у двери и стучу;
  В твоем Я сердце жить хочу:
@@ -29,5 +27,7 @@
  Вождя в земной своей борьбе,
  И умолять он будет сам:
  &quot;Не оставляй мой тесный храм!&quot;</lyrics>
+<hymn_number>356</hymn_number>
 <title>К тебе зовет Спаситель Сам ПВ356</title>
+<key>Eb</key>
 </song>

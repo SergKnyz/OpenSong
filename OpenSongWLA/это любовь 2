@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Это любовь</title>
+<key>B</key>
+<author>Imprintband</author>
+<hymn_number>4205</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .Hm                    D   A
  Твой Дух как ветер среди диких скал
@@ -41,8 +45,4 @@
 [V3]
 .         Hm   D - A        Hm  D - A
  Господь Иисус,   Господь Иисус.</lyrics>
-<title>Это любовь</title>
-<key>B</key>
-<author>Imprintband</author>
-<hymn_number>4205</hymn_number>
 </song>

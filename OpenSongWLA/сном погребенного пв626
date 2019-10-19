@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Сном погребенного ПВ626</title>
+<key>C</key>
+<lyrics>[V1]
  Сном погребенного
  Спал мой Спаситель;
  Дня предреченного
@@ -23,7 +25,5 @@
  Жертвой своею,
  Плен расторгается
  Кровью Христа.</lyrics>
-<title>Сном погребенного ПВ626</title>
-<key>C</key>
 <hymn_number>626</hymn_number>
 </song>

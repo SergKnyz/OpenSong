@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1943</hymn_number>
-<author>4-given</author>
-<key>F#</key>
-<title>Иисус воскрес</title>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    1 припев:
 .   F#              H     C#        F#
    Передаем вам с неба горячий привет!
@@ -88,4 +84,8 @@
    Скоро Он придет на облаках,
 .        D#                  C               D  G
    Чтоб Церковь вознести в обители Свои на небесах. На небесах.</lyrics>
+<hymn_number>1943</hymn_number>
+<author>4-given</author>
+<title>Иисус воскрес</title>
+<key>F#</key>
 </song>

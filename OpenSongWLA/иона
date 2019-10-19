@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Юлия Авструб</author>
-<hymn_number>744</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Юлия Авструб</author>
+<title>Иона</title>
+<key>D</key>
 <lyrics>[V1]
 .Dm            Bb                  C
  Почему Ты молчишь? Почему Ты безмолвен, мой Боже?
@@ -32,5 +32,5 @@
  Я увижу, что Ты, только Ты мне помог все пройти.
  И те истины, что мне открылись в Господнем молчанье,
  будут очень важны на моем пути.</lyrics>
-<title>Иона</title>
+<hymn_number>744</hymn_number>
 </song>

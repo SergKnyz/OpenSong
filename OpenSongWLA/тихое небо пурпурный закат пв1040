@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<hymn_number>1040</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Тихое небо, пурпурный закат.
  Хочется словом ударить в набат.
  Мир заторможен, и люди, как лед, -
@@ -35,5 +33,7 @@
  Медленно тает последний набат... Нет!
  Не уйдет этот мир от судьбы.
  Слышатся звуки последней трубы.</lyrics>
+<hymn_number>1040</hymn_number>
 <title>Тихое небо пурпурный закат ПВ1040</title>
+<key>B</key>
 </song>

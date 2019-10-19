@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Рыдают Небеса, померкла звезд краса</title>
+<aka>Вовеки</aka>
+<author>4U Band</author>
+<hymn_number>20</hymn_number>
+<lyrics>[V1]
  1 Куплет:
 .A         E                 F#m
  Рыдают Небеса, померкла звезд краса
@@ -54,9 +59,4 @@
    Слава, Аллилуйя
 .          A
    Иисус живой</lyrics>
-<title>Рыдают Небеса, померкла звезд краса</title>
-<author>4U Band</author>
-<key>A</key>
-<hymn_number>20</hymn_number>
-<aka>Вовеки</aka>
 </song>

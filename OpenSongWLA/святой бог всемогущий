@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Святой Бог всемогущий</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Святой Бог всемогущий</title>
+<author>Виталий Ефремочкин</author>
+<hymn_number>753</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .             G     D    A       Hm
@@ -44,7 +47,4 @@
    Кому подобен Ты? Всемогущий Бог
 .  G        D      A              Hm     G  Hm A
    Превознесённый будь, превыше всех Иисус__</lyrics>
-<hymn_number>753</hymn_number>
-<author>Виталий Ефремочкин</author>
-<key>B</key>
 </song>

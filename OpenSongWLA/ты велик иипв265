@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты велик ИИПВ265</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>265</hymn_number>
 <lyrics>[V1]
 .    C                   Am
  // Прихожу к Тебе я с хвалою,
@@ -21,8 +21,8 @@
  // Ты один достоин всей хвалы
  Мы возносим к Тебе руки,
  прославляем Твое имя  //</lyrics>
-<hymn_number>265</hymn_number>
+<title>Ты велик ИИПВ265</title>
+<key>C</key>
 <aka>Прихожу к Тебе</aka>
 <author>Ева-Лена Хеллмарк</author>
-<key>C</key>
 </song>

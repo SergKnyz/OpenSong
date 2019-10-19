@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1024</hymn_number>
-<key>E</key>
-<author>Imprintband</author>
-<title>Все не так</title>
 <lyrics>[V1]
  1 куплет:
 . Em     G     D           A
@@ -30,4 +27,7 @@
  Всё не так это лишь слова
  Дал мне шанс использую его
  Жизнь во тьме - это не моё</lyrics>
+<key>E</key>
+<title>Все не так</title>
+<author>Imprintband</author>
 </song>

@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3133</hymn_number>
-<aka>Возьми меня за руку,</aka>
-<author>Hope Music</author>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hope Music</author>
 <title>Вновь рождён (Born again)</title>
+<key>B</key>
+<aka>Возьми меня за руку,</aka>
 <lyrics>[V1]
  Куплет 1:
 .D#m
@@ -39,4 +38,5 @@
  На первом месте будь всегда.
  Дай мне Тебя слышать,
  Твоим словам внимаю я.</lyrics>
+<hymn_number>3133</hymn_number>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>208</hymn_number>
-<title>Вы готовы слышен призыв ПВ208</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Вы готовы слышен призыв ПВ208</title>
 <lyrics>[V1]
  &quot;Вы готовы, - слышен призыв, -
  И на крест пойти со Мной?&quot;
@@ -41,4 +40,5 @@
  Говорит к нам и теперь.
  Пусть решительные скажут:
  &quot;Да, Господь, Ты нам пример!&quot;</lyrics>
+<hymn_number>208</hymn_number>
 </song>

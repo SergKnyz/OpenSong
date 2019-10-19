@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3079</hymn_number>
-<key>Ab</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
 <title>Спаситель умер за меня ПВ3079</title>
 <lyrics>[V1]
  Спаситель умер за меня
@@ -30,4 +29,5 @@
  и сердца дверь открой,
  свою ты жизнь Христу отдай,
  ведь путь короток твой.</lyrics>
+<hymn_number>3079</hymn_number>
 </song>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Безграничная любовь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>524</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .        Em      C    G       D
@@ -36,8 +36,8 @@
 [V4]
  О-о-о, о-о-о, Иисус выше всех имен
  О-о-о, о-о-о, Достоин славы только Он</lyrics>
-<hymn_number>524</hymn_number>
+<key>E</key>
+<title>Безграничная любовь</title>
 <aka>Ты Мой Царь Ты мой Бог Всемогущий</aka>
 <author>Skeemans Worship</author>
-<key>E</key>
 </song>

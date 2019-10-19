@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>339</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Хвала Тебе, наш Бог ИИПВ339</title>
 <key>G</key>
-<title>Хвала Тебе, наш Бог ИИПВ339</title>
 <lyrics>[V1]
 .Am.              D
  Хвала Тебе, наш Бог.
@@ -16,4 +15,5 @@
  Мы славим Тебя, ибо Ты достоин.
 .     G       C   D         G
  Мы славим Тебя, ибо Ты достоин.</lyrics>
+<hymn_number>339</hymn_number>
 </song>

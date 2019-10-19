@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Перекрёстов</author>
-<key>E</key>
-<hymn_number>3253</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3253</hymn_number>
 <lyrics>[V1]
 .Em                    C               Am
  Если в сердце печаль радости места не дает,
@@ -34,4 +32,6 @@
 [V4]
  Припев</lyrics>
 <title>ОН УМЕР ЗА ТЕБЯ</title>
+<key>E</key>
+<author>Сергей Перекрёстов</author>
 </song>

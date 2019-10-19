@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2466</hymn_number>
-<key>F</key>
-<title>Две березы утром ранним ПВ2466</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Две березы утром ранним
  Смотрят в солнечную высь,
  Обнялись они корнями
@@ -36,4 +33,7 @@
  Над весеннюю землей
  Все стараются от ветра
  Моло-дых прикрыть собой.</lyrics>
+<hymn_number>2466</hymn_number>
+<title>Две березы утром ранним ПВ2466</title>
+<key>F</key>
 </song>

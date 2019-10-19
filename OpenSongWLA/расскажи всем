@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3068</hymn_number>
-<author>Hillsong Ukraine</author>
-<key>F#</key>
-<title>Расскажи всем</title>
 <lyrics>[V1]
  1 куплет:
 .F#m
@@ -44,4 +41,7 @@
    Идём, идём, пусть мир узнает всё о Нём.
 .    A               Hm9               F#m D
    Идём, идём, пусть мир узнает всё о Нём.</lyrics>
+<key>F#</key>
+<title>Расскажи всем</title>
+<author>Hillsong Ukraine</author>
 </song>

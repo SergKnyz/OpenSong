@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1317</hymn_number>
-<author>Нина и Надежда Улянчук</author>
-<key>D</key>
-<title>Уж уйдет скоро Бог наш отсюда</title>
 <lyrics>[V1]
  1 куплет:
 .      Dm                  C
@@ -58,4 +55,7 @@
    Чтоб не спрашивать, где святый путь
    Будут спрашивать друг у друга
    Но навеки его не найдут</lyrics>
+<key>D</key>
+<title>Уж уйдет скоро Бог наш отсюда</title>
+<author>Нина и Надежда Улянчук</author>
 </song>

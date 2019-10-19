@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
-<key>B</key>
-<hymn_number>1421</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .           Hm              A
  Бог мы пришли к Тебе, что бы быть вновь
@@ -49,5 +46,8 @@
    По среди всей суеты,
 .                G       A F#m
    В мире нет таких как Ты.</lyrics>
+<hymn_number>1421</hymn_number>
+<author>Слово Жизни Music</author>
+<key>B</key>
 <title>Ты Господь</title>
 </song>

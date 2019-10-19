@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>54</hymn_number>
-<author>Реубен Морган</author>
-<key>F</key>
-<title>Верю я Верю я</title>
-<time_sig>4/4</time_sig>
+<?xml version="1.0" encoding="UTF-8"?><song><tempo>124</tempo>
+<hymn_number>54</hymn_number>
 <lyrics>[V1]
 .     F  B     F B7
  Верю я!  Верю я!
@@ -38,5 +35,8 @@
    Меня вознес Ты, Забрав всю боль.
 .    F/A       Gm            F          C7
    Увижу Твое Царство я, танцуя пред Тобой.</lyrics>
-<tempo>124</tempo>
+<time_sig>4/4</time_sig>
+<title>Верю я Верю я</title>
+<key>F</key>
+<author>Реубен Морган</author>
 </song>

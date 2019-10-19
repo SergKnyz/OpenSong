@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Лицом к лицу</author>
-<key>E</key>
-<hymn_number>3161</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3161</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .E          C#m         H       G#m
@@ -29,5 +27,7 @@
  Когда не вижу свет, ко мне крадется ночь
  Вдруг слышу голос Твой: - Я всегда с тобой!
  И больше страха нет, ведь Ты всегда со мной</lyrics>
+<key>E</key>
 <title>Ты всегда со мною рядом</title>
+<author>Лицом к лицу</author>
 </song>

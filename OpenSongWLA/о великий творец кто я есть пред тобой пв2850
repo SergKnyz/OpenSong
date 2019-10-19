@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2850</hymn_number>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <title>О великий Творец кто я есть пред Тобой ПВ2850</title>
 <lyrics>[V1]
  О великий Творец, кто я есть пред Тобой,
@@ -42,4 +41,5 @@
  чтобы вечно я славил Тебя!
  Пусть уста наполняются дивной хвалой
  всё за то, что ты любишь меня.</lyrics>
+<hymn_number>2850</hymn_number>
 </song>

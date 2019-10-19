@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2100</hymn_number>
-<title>Цветы</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Цветы</title>
 <lyrics>[V1]
  Спят, свернувшись бутоны до утра все цветы
  Все во тьме ночи тонет, ритмы жизни просты
@@ -39,4 +38,5 @@
  Жертвы той неслучайной словно крови следы
  Милосердной рукою, падших грешников спас
  Крови сына ценою заплатил Бог за нас</lyrics>
+<hymn_number>2100</hymn_number>
 </song>

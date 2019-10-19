@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
+<title>Вместе звучно</title>
+<lyrics>[V1]
 .Em       G     Am         Em
  Вместе звучно запоём Христу,
 .C           D         Em  C D
@@ -17,7 +19,5 @@
    Аллилуйя!
 .       H7               Em
    Наш Бог достоин похвалы!</lyrics>
-<title>Вместе звучно</title>
-<key>Em</key>
 <hymn_number>58</hymn_number>
 </song>

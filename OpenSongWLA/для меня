@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1283</hymn_number>
-<key>D</key>
-<author>Кучіяші</author>
-<title>Для меня</title>
 <lyrics>[V1]
  1 куплет:
 .  Dm               F                Gm          A
@@ -51,4 +48,7 @@
  Хоть слаб я и нищ и не знаю где взять нужных слов.
  Пусть будут слова просты, но искренние от сердца.
  Ведь Ты для меня так дорог, мой Господь.</lyrics>
+<key>D</key>
+<title>Для меня</title>
+<author>Кучіяші</author>
 </song>

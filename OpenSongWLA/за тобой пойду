@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1470</hymn_number>
-<key>G</key>
-<author>Slavic New Beginnings Church</author>
-<title>За Тобой пойду</title>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .  Gm           D#                 A#
    За Тобой пойду, буду там где Ты
@@ -48,4 +44,8 @@
    Ты дал мне радость навсегда
 .  F
    Ты со мною</lyrics>
+<hymn_number>1470</hymn_number>
+<author>Slavic New Beginnings Church</author>
+<title>За Тобой пойду</title>
+<key>G</key>
 </song>

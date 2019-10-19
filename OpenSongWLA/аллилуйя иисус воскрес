@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Часовня у Голгофы (г. Владимир)</author>
+<time_sig>4/4</time_sig>
+<aka>Пред именем Иисуса</aka>
+<key>D</key>
+<title>Аллилуйя Иисус воскрес</title>
+<lyrics>[V1]
 .     D  G            D G
  Аллилуйя, Иисус воскрес
 .     D  G       D G
@@ -27,11 +32,6 @@
  И всяк язык возвестит,
 .       A              H7
  Что Иисус Христос Господь!</lyrics>
-<tempo>120</tempo>
-<title>Аллилуйя Иисус воскрес</title>
-<time_sig>4/4</time_sig>
-<key>D</key>
-<author>Часовня у Голгофы (г. Владимир)</author>
-<aka>Пред именем Иисуса</aka>
 <hymn_number>2</hymn_number>
+<tempo>120</tempo>
 </song>

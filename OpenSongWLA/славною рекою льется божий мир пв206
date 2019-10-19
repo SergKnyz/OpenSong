@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>206</hymn_number>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
 <title>Славною рекою льется Божий мир ПВ206</title>
 <lyrics>[V1]
  Славною рекою льется Божий мир,
@@ -22,4 +21,5 @@
  Каждому по силам Господом даны:
  Если Богу верим, то войдем в покой,
  Верен Бог для тех, кто верует душой.</lyrics>
+<hymn_number>206</hymn_number>
 </song>

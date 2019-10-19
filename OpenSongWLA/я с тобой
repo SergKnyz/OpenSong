@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>400</hymn_number>
-<author>RealIvanna</author>
-<key>D</key>
-<title>Я с тобой</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Dm                       F
  Не грусти, ты слышишь, не грусти,
@@ -58,4 +54,8 @@
 [V6]
  И когда не видно солнца за горой
  Ты не смей бояться , сын Мой , Я с тобой !</lyrics>
+<hymn_number>400</hymn_number>
+<author>RealIvanna</author>
+<title>Я с тобой</title>
+<key>D</key>
 </song>

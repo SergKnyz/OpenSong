@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мы поклоняемся</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1586</hymn_number>
 <lyrics>[V1]
  Куплет:
 .     A#m       G#      F#
@@ -16,7 +16,7 @@
    Мы поклоняемся, мы поклоняемся
 .    A#m
    Мы поклоняемся, мы поклоняемся</lyrics>
-<hymn_number>1586</hymn_number>
+<title>Мы поклоняемся</title>
 <key>F#</key>
 <author>Виталий Ефремочкин</author>
 </song>

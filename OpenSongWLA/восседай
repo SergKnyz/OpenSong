@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Восседай</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>В хвале перед Тобой</aka>
+<key>G</key>
+<title>Восседай</title>
+<author>Bethel Music</author>
+<hymn_number>2309</hymn_number>
 <lyrics>[V1]
  Саро 6(2)
  [Vеrsе 1]
@@ -61,8 +65,4 @@
   Будь прославлен, Святый Бог
 .Em    C      G        D
   Будь прославлен! Ты достоин! Святый Бог!</lyrics>
-<hymn_number>2309</hymn_number>
-<aka>В хвале перед Тобой</aka>
-<key>G</key>
-<author>Bethel Music</author>
 </song>

@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Не золотые купола</title>
+<key>A</key>
+<author>Николай Брандуков</author>
+<hymn_number>3321</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am
@@ -64,7 +67,4 @@
    Мы исповедуем Христа.
 .  Em
    И бесам в церкви нету места.</lyrics>
-<hymn_number>3321</hymn_number>
-<author>Николай Брандуков</author>
-<key>A</key>
 </song>

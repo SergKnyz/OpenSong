@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Маханаим</author>
+<key>A</key>
+<title>Пастырь мой</title>
+<lyrics>[V1]
  1 куплет:
 .Am      F               C E
  Мой Господь - Пастырь мой,
@@ -34,8 +37,5 @@
  Твоя милость всегда ко мне.
  Дом Ты мне сотворишь среди чистых небес,
  Я нуждаюсь в Тебе.</lyrics>
-<title>Пастырь мой</title>
-<key>A</key>
-<author>Маханаим</author>
 <hymn_number>1220</hymn_number>
 </song>

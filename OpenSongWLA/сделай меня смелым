@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2485</hymn_number>
-<author>79 Band, NG Worship</author>
-<key>B</key>
-<title>Сделай меня смелым</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .Hm            G       D
  Я стою пред тобою сейчас
@@ -44,4 +40,8 @@
    Окуни меня в океан твоей любви
    Страха больше нет страха больше нет
    Погружай меня в океан твоей любви</lyrics>
+<hymn_number>2485</hymn_number>
+<author>79 Band, NG Worship</author>
+<key>B</key>
+<title>Сделай меня смелым</title>
 </song>

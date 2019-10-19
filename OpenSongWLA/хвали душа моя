@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Другая Реальность</author>
-<hymn_number>1898</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Бог, Ты спас меня
 
 [V2]
@@ -29,5 +26,8 @@
  Мы поем Ему хвалу.
  И танцуем и ликуем
  Слава нашему Царю!</lyrics>
+<hymn_number>1898</hymn_number>
+<author>Другая Реальность</author>
+<key>A</key>
 <title>Хвали душа моя</title>
 </song>

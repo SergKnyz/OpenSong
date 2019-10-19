@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>712</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Авен Езер</author>
 <key>C</key>
-<author>Авен Езер</author>
 <title>Наша надежда</title>
 <lyrics>[V1]
  1 куплет:
@@ -37,4 +36,5 @@
  Которую Ты открыл для нас вновь.
  Ты с неба доброту нам принес.
  Дай светлый разум понять это все.</lyrics>
+<hymn_number>712</hymn_number>
 </song>

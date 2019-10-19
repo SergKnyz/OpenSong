@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<author>Ольга Марина</author>
-<hymn_number>766</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .        Bb            Eb
  Все вокруг - Твое творенье.
@@ -44,5 +41,8 @@
  Свят, свят Господь!
 .    F
  Достоин принять всю честь.</lyrics>
+<hymn_number>766</hymn_number>
+<author>Ольга Марина</author>
 <title>Ты любовь</title>
+<key>Bb</key>
 </song>

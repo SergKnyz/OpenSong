@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Новое творишь</title>
+<key>E</key>
+<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
+<hymn_number>95</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .   E         H     F#
@@ -38,7 +41,4 @@
    Бог, Ты восстановишь всё для Своей славы
 .                 H      G#m              F#
    Ты моя жизнь  Иисус, Ты моя жизнь  Иисус</lyrics>
-<hymn_number>95</hymn_number>
-<key>E</key>
-<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
 </song>

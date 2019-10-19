@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Воздам хвалу</aka>
-<hymn_number>2357</hymn_number>
-<key>E</key>
-<author>Jem Worship</author>
-<title>Лишь в Тебе вся жизнь моя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2357</hymn_number>
 <lyrics>[V1]
  Куплет:
- Em    D\F#  G   G   Am     Am  D
+. Em    D/F#  G   G   Am  Am D
  Лишь в Тебе вся жизнь моя
- Em  D\F#  G    G   Am  Am  D
- Ты-мой Бог, люблю Тебя
+. Em  D/F#  G    G   Am  Am D
+ Ты-мой Бог, люблю Тебя__
 
 [C1]
    Пред припев:
@@ -27,4 +23,8 @@
    Сотни раз я воздам хвалу
 .          H
    Других имен не превознесу</lyrics>
+<title>Лишь в Тебе вся жизнь моя</title>
+<key>E</key>
+<aka>Воздам хвалу</aka>
+<author>Jem Worship</author>
 </song>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Игорь Акулов</author>
-<hymn_number>3667</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Игорь Акулов</author>
+<title>Драгоценный Христос</title>
+<key>A</key>
 <lyrics>[V1]
 .Am Dm
  Драгоценный Христос! Недостойным позволь,
@@ -38,5 +38,5 @@
  И стремленье одно мною движет,
  Различить поотчетливей неба черты,
  И с Тобой познакомиться ближе...</lyrics>
-<title>Драгоценный Христос</title>
+<hymn_number>3667</hymn_number>
 </song>

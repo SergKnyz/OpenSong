@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>С нами Бог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>С нами Бог</title>
+<author>Darlene Zschech, Дарлене Зсцхецх</author>
+<hymn_number>1380</hymn_number>
 <lyrics>[V1]
  КУПЛЕТ 1
  Открой глаза нам
@@ -36,7 +39,4 @@
 
 [V5]
  (Перевод Андрея Тимохина)</lyrics>
-<hymn_number>1380</hymn_number>
-<key>D</key>
-<author>Darlene Zschech, Дарлене Зсцхецх</author>
 </song>

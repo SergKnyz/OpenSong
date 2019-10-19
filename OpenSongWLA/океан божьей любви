@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Simon Khorolskiy</author>
+<key>E</key>
+<title>Океан Божьей Любви</title>
+<lyrics>[V1]
  Куплет:
 .    Em                    D                 C      H7
  Эта песня хвалы, словно птица, парит в небеса, а-а-а.
@@ -30,8 +33,5 @@
    Слава, Аллилуйя, Слава Аллилуйя,
 .   Em         D      C      H7
    Слава, Аллилуйя, Аллилуйя.</lyrics>
-<title>Океан Божьей Любви</title>
-<author>Simon Khorolskiy</author>
-<key>E</key>
 <hymn_number>1560</hymn_number>
 </song>

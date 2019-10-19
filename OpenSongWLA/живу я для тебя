@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<key>A</key>
+<title>Живу я для Тебя</title>
+<lyrics>[V1]
  1 куплет:
 .  A D      E            F#m           A D
  Я знаю, что с Небес пришел Ты в этот мир
@@ -43,8 +46,5 @@
    О любви к Тебе,
 .       A             E
    О любви к Тебе, наш Бог.</lyrics>
-<title>Живу я для Тебя</title>
-<key>A</key>
-<author>Hillsong Ukraine</author>
 <hymn_number>951</hymn_number>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я знаю, кто я есть</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Sinach</author>
+<title>Я знаю, кто я есть</title>
+<key>F#</key>
 <lyrics>[V1]
  Вст. | F# | C# | G# | Dm#7 | F# | Am# | G# | Dm#7 |
 
@@ -61,6 +63,4 @@
  Dm#7
  Я знаю, кто я eсть</lyrics>
 <hymn_number>2423</hymn_number>
-<author>Sinach</author>
-<key>F#</key>
 </song>

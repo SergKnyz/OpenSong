@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус для Тебя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<title>Иисус для Тебя</title>
+<key>G</key>
 <lyrics>[C1]
    Припев:
 .  G        C       D          G
@@ -39,6 +41,4 @@
 .   G    D          Em
    Принадлежит Тебе вся жизнь моя.</lyrics>
 <hymn_number>3187</hymn_number>
-<key>G</key>
-<author>Hillsong Ukraine</author>
 </song>

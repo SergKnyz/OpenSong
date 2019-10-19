@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Осень</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Каподастор на 2-й лад для соло
 
 [V2]
@@ -61,6 +60,7 @@
 .  F#m                    D        E             F#m
    Клён как-то листья сбросил и стала другой земля.</lyrics>
 <hymn_number>807</hymn_number>
-<key>F#</key>
 <author>Спасение</author>
+<key>F#</key>
+<title>Осень</title>
 </song>

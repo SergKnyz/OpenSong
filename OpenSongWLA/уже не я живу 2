@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Валерий Короп</author>
-<hymn_number>1844</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Валерий Короп</author>
+<title>Уже не я живу</title>
+<key>E</key>
 <lyrics>[V1]
  1 куплет:
 .H7         Em   D              G
@@ -26,5 +26,5 @@
    Уже не я живу, уже не я живу, уже не я живу,
 .                   Em
    Живёт во мне Христос!</lyrics>
-<title>Уже не я живу</title>
+<hymn_number>1844</hymn_number>
 </song>

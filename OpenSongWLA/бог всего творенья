@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><copyright>2000 Неу Спринг | Сторм Боы Мусиц | Меаукс Мерцы</copyright>
-<title>Бог всего творенья</title>
 <lyrics>[V1]
 .Dsus Em        C2    Dsus Em          C2
  Бог всего творенья, Владыка всей земли
@@ -27,8 +26,9 @@
 [B1]
 .  Dsus Em            C
     ///  Аллилуйя, Ты Бог небес и земли ///</lyrics>
+<key>Bb</key>
+<title>Бог всего творенья</title>
 <aka>Царь великий, превыше всех миров</aka>
 <capo>3</capo>
-<key>Bb</key>
 <author>Марц Бырд, Стеве Хиндалонг, Марц Бырд, Стеве Хиндалонг, Тхирд Даы</author>
 </song>

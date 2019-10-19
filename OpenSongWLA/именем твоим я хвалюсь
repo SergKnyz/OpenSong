@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Именем Твоим я хвалюсь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Именем Твоим я хвалюсь</title>
+<author>Размер неба</author>
+<hymn_number>3333</hymn_number>
 <lyrics>[V1]
  1 Куплет:
 .Dm           Am/C            Bb  F/A
@@ -58,7 +61,4 @@
 
 [V6]
  Живу Тобой, Иисус.</lyrics>
-<hymn_number>3333</hymn_number>
-<author>Размер неба</author>
-<key>D</key>
 </song>

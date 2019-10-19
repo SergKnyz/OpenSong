@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я, встречая утро, С рассветом солнца уже жду Тебя.</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .   G        C
  Я, встречая утро,
@@ -37,7 +36,8 @@
 .  D                    C
    Когда страх настигает, я верю, Бог придет.</lyrics>
 <hymn_number>51</hymn_number>
-<aka>Буду славить</aka>
-<key>G</key>
 <author>Слово Жизни Music</author>
+<aka>Буду славить</aka>
+<title>Я, встречая утро, С рассветом солнца уже жду Тебя.</title>
+<key>G</key>
 </song>

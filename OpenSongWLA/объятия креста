@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5253</hymn_number>
-<title>Объятия креста</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Объятия креста</title>
 <lyrics>[V1]
  Крест делит мир наш на две половины,
  Правда они совсем не равны,
@@ -30,4 +29,5 @@
    Бог и Спаситель иль просто Учитель,
    Тот ли кто на кресте умирал
    Вместо меня, вместо тебя...</lyrics>
+<hymn_number>5253</hymn_number>
 </song>

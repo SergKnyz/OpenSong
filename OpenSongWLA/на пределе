@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2069</hymn_number>
-<author>Елена Махинина</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Елена Махинина</author>
 <title>На пределе</title>
 <lyrics>[V1]
  На пределе
@@ -31,4 +30,5 @@
 [V6]
  | Am Dm Am | E | Am Dm Am | F G Am E ||
  **| Am C | F G E | Am C | F G Am ||</lyrics>
+<hymn_number>2069</hymn_number>
 </song>

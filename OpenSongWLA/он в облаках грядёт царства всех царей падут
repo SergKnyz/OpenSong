@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Он в облаках грядёт царства всех царей падут</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Агнец и Лев</aka>
+<title>Он в облаках грядёт царства всех царей падут</title>
+<key>B</key>
+<author>Свет Миру Worship</author>
+<hymn_number>3367</hymn_number>
 <lyrics>[V1]
  BPM: 90,00
 
@@ -44,8 +48,4 @@
    Никто не остановит Бога, никто не остановит Бога...
 .  C#m          H/D#      E               F#
    Никто не остановит Бога, никто и никогда</lyrics>
-<aka>Агнец и Лев</aka>
-<hymn_number>3367</hymn_number>
-<key>B</key>
-<author>Свет Миру Worship</author>
 </song>

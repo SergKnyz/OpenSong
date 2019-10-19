@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2401</hymn_number>
-<key>F</key>
-<author>Hillsong Ukraine, Роман Касевич</author>
-<title>Одного Прошу</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .F             G              Am     C/E
  Я в жизни своей испробовал всё что мир предлагает
@@ -53,4 +49,8 @@
    Всем, что есть во мне, Господь мой
 .       Am
    Поклоняться буду я</lyrics>
+<hymn_number>2401</hymn_number>
+<author>Hillsong Ukraine, Роман Касевич</author>
+<key>F</key>
+<title>Одного Прошу</title>
 </song>

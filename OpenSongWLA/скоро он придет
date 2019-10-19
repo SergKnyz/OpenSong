@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Скоро Он придет</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<title>Скоро Он придет</title>
+<key>D</key>
 <lyrics>[V1]
  1 куплет:
 .  D                 Hm
@@ -54,6 +56,4 @@
 .   Em  A       D
    Скоро Он придёт.</lyrics>
 <hymn_number>2719</hymn_number>
-<author>Hillsong Ukraine</author>
-<key>D</key>
 </song>

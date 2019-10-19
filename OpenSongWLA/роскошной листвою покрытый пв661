@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>661</hymn_number>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
 <title>Роскошной листвою покрытый ПВ661</title>
 <lyrics>[V1]
  Роскошной листвою покрытый
@@ -50,4 +49,5 @@
  Она не станет смокв растить,
  Твоя десница будет властна
  Ее для пламени срубить&quot;.</lyrics>
+<hymn_number>661</hymn_number>
 </song>

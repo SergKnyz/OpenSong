@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3504</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ладони</author>
 <aka>Благословение</aka>
-<key>A</key>
-<author>Ладони</author>
 <title>Над народом Твоим - благословение</title>
+<key>A</key>
 <lyrics>[C1]
    Припев:
 .  Am                              F
@@ -63,4 +62,5 @@
  И обращаюсь к Тебе.
  Я верю что от Тебя
  Приходит помощь ко мне.</lyrics>
+<hymn_number>3504</hymn_number>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1148</hymn_number>
-<author>Дарина Кочанжи</author>
-<key>E</key>
-<title>Истомилась душа по Богу</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    Em                        Hm
  Истомилась душа по Богу, испытала и муку и гнёт
@@ -30,4 +26,8 @@
  К золотому святому чертогу где куриться любви фимиам.
  Где среди торжества и хваленья дням пред Вечным не будет конца
  Где под звуки небесного пенья в небе ангелы славят Творца.</lyrics>
+<hymn_number>1148</hymn_number>
+<author>Дарина Кочанжи</author>
+<title>Истомилась душа по Богу</title>
+<key>E</key>
 </song>

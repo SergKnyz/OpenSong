@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
+<key>F#</key>
+<title>Эхо</title>
+<lyrics>[V1]
  Куплет:
 .      F#m             A
  В один голос взываем избранный народ Твой
@@ -32,8 +35,5 @@
    Благодать спасает поколенья
 .  D       Hm
    Хвала Твоя вовек вовек вовек</lyrics>
-<title>Эхо</title>
-<key>F#</key>
-<author>Виталий Ефремочкин</author>
 <hymn_number>773</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2791</hymn_number>
-<key>E</key>
-<title>Священное Слово Твое ПВ2791</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Священное Слово Твое
  Есть свет на пути моем.
  Оно мой защитник от зла
@@ -30,4 +27,7 @@
  Спаситель людей Христос
  Заблудшим в пустыне греха
  Спасенье и мир принес.</lyrics>
+<hymn_number>2791</hymn_number>
+<key>E</key>
+<title>Священное Слово Твое ПВ2791</title>
 </song>

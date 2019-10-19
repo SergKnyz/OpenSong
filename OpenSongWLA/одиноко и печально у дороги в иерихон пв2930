@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2930</hymn_number>
-<key>Eb</key>
-<title>Одиноко и печально у дороги в Иерихон ПВ2930</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Одиноко и печально у дороги в Иерихон
  нищий милостыню просит;
  слеп он, горем удручён.
@@ -45,4 +42,7 @@
  благодать Он всем даёт,
  Он и ныне тот же самый.
  Слышишь: Он тебя зовёт!</lyrics>
+<hymn_number>2930</hymn_number>
+<key>Eb</key>
+<title>Одиноко и печально у дороги в Иерихон ПВ2930</title>
 </song>

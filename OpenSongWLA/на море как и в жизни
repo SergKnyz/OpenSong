@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>234</hymn_number>
-<title>На море как и в жизни</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Жизнь прожить как море переплыть,
  Попутный ветер моряку отрада.
  Но в море надо твёрдым духом быть,
@@ -38,4 +36,6 @@
    Кто цели не теряет, и твёрдость проявляет,
    Увидит Божьей славы чудеса.
    Увидит Божьей славы чудеса.</lyrics>
+<hymn_number>234</hymn_number>
+<title>На море как и в жизни</title>
 </song>

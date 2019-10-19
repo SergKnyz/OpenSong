@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Виталий Ефремочкин</author>
-<hymn_number>145</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>145</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .         D     Hm  A    G       D  Hm A G
@@ -50,5 +48,7 @@
    Куда ведешь иду с Тобою
    Верю словам Твоим
    Сегодня тот день</lyrics>
+<key>D</key>
 <title>Сегодня тот день</title>
+<author>Виталий Ефремочкин</author>
 </song>

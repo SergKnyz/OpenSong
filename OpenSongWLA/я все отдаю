@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>46</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>4U Band</author>
 <key>D</key>
-<author>4U Band</author>
 <title>Я все отдаю</title>
 <lyrics>[V1]
  Куплет:
@@ -27,4 +26,5 @@
    Теряюсь я в Тебе, Ты смысл в моей судьбе,
 .     Hm   G   (D)
    Иисус, Ты так нужен мне.</lyrics>
+<hymn_number>46</hymn_number>
 </song>

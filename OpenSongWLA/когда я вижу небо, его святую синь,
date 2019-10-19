@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>439</hymn_number>
-<aka>Бог мой</aka>
-<key>B</key>
-<author>Imprintband</author>
-<title>Когда я вижу небо, его святую синь,</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Hm        G      A           Hm
  Когда я вижу небо, его святую синь,
 .Hm    G              A           Hm
@@ -41,4 +36,9 @@
  Я ждал и жаждал Одного Тебя!
  Я шел Твоим путем дорогой правды,
  Не важно радуясь или скорбя.</lyrics>
+<hymn_number>439</hymn_number>
+<author>Imprintband</author>
+<aka>Бог мой</aka>
+<key>B</key>
+<title>Когда я вижу небо, его святую синь,</title>
 </song>

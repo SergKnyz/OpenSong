@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ищу я лица Твоего</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Корван</author>
+<title>Ищу я лица Твоего</title>
+<key>G</key>
 <lyrics>[V1]
  1 куплет:
 .  G                     D
@@ -28,6 +30,4 @@
  Как дорог же Ты для меня не могут сказать то уста
  Лишь Ты - моя нужда</lyrics>
 <hymn_number>1423</hymn_number>
-<author>Корван</author>
-<key>G</key>
 </song>

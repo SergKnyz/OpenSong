@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Рождество Христово, ангел прилетел</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  Intro: F G7 C Dm G7 C    C G7         C
  Рождество Христово,          ангел прилетел,
 .C                 G7          C C/E
@@ -43,4 +41,6 @@
  // «Все люди ликуйте, в сей день торжествуйте
 .Em              A7      D
  В день Христова Рождества».  //</lyrics>
+<title>Рождество Христово, ангел прилетел</title>
+<key>D</key>
 </song>

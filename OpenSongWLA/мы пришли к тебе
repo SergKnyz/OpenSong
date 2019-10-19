@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Matt Redman, Тим Уансталл, Матт Редман, Матт Махер, Йессе Реевес</author>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Мы пришли к Тебе</title>
+<author>Matt Redman, Тим Уансталл, Матт Редман, Матт Махер, Йессе Реевес</author>
 <hymn_number>1820</hymn_number>
 <lyrics>[V1]
 .C
@@ -54,5 +55,4 @@
  Великий Бог любви
 .F
  Все здесь для Тебя</lyrics>
-<title>Мы пришли к Тебе</title>
 </song>

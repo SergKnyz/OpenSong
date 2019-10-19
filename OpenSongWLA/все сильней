@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Все сильней</title>
+<key>E</key>
+<author>Hillsong Ukraine</author>
+<hymn_number>941</hymn_number>
+<lyrics>[V1]
 .            Em      C              G
  Поёт моя душа, я живу лишь для Тебя,
 .     D           Em       C           G      D
@@ -25,8 +29,4 @@
  В трудный миг я буду всё сильней
 .         C    Em7           D
  Жизнью всей являть Божью славу</lyrics>
-<title>Все сильней</title>
-<key>E</key>
-<author>Hillsong Ukraine</author>
-<hymn_number>941</hymn_number>
 </song>

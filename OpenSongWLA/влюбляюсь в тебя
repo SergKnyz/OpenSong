@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Лишь Тебе принадлежит любовь моя,</aka>
-<hymn_number>2360</hymn_number>
-<key>E</key>
-<author>Hillsong Ukraine</author>
-<title>Влюбляюсь в Тебя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2360</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Em      C     D          G     D/F#
@@ -31,4 +27,8 @@
  И ничто нас не разлучит.
  С каждым днём сильней Тебя люблю,
  Влюбляюсь всё больше в тебя, Иисус.</lyrics>
+<aka>Лишь Тебе принадлежит любовь моя,</aka>
+<title>Влюбляюсь в Тебя</title>
+<key>E</key>
+<author>Hillsong Ukraine</author>
 </song>

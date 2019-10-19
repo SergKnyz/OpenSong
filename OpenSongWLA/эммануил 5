@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2246</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Белые Крылья</author>
 <key>B</key>
-<author>Белые Крылья</author>
 <title>Эммануил</title>
 <lyrics>[V1]
  1 куплет:
@@ -41,4 +40,5 @@
    Проходят дни, бегут года,
 .           A              F#
    Но свет её нам светит навсегда!</lyrics>
+<hymn_number>2246</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>819</hymn_number>
-<key>A</key>
-<title>Высока любовь и дивна ПВ819</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Высока любовь и дивна,
  Чиста, свята, глубока,
  Изливается из сердца
@@ -24,4 +21,7 @@
  Все грехи Он мне простил!
  Честь Ему, хвала и слава,
  За меня Он кровь пролил!</lyrics>
+<hymn_number>819</hymn_number>
+<key>A</key>
+<title>Высока любовь и дивна ПВ819</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1887</hymn_number>
-<title>Я знаю Боже указал мне путь ПВ1887</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я знаю, Боже указал мне путь,
  Я знаю, Боже указал мне путь.
 
@@ -16,4 +14,6 @@
 [V3]
  Я знаю, Боже, радость меня ждет,
  Я знаю, Боже, радость меня ждет.</lyrics>
+<hymn_number>1887</hymn_number>
+<title>Я знаю Боже указал мне путь ПВ1887</title>
 </song>

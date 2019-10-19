@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<hymn_number>1516</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Пусть не золота изделье
  И не камень дорогой,
  Пусть не жемчуг, ожерелье
@@ -23,5 +21,7 @@
  Счастье мирное вокруг,
  - Вот что хочет, дорогая,
  От тебя, от тебя твой лучший друг.</lyrics>
+<hymn_number>1516</hymn_number>
+<key>G</key>
 <title>Пусть не золота изделье ПВ1516</title>
 </song>

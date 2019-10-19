@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>605</hymn_number>
-<key>C</key>
-<author>Вадим Ятковский</author>
-<title>Славлю Тебя Господи</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .C            Am    Em                 G
  Славлю Тебя, Господи, всем сердцем моим
@@ -34,4 +30,8 @@
  Пищу Он даёт боящимся Его,
 . F             C        G7       C
  Вечно помнит Свой завет Он с Тобой!</lyrics>
+<hymn_number>605</hymn_number>
+<author>Вадим Ятковский</author>
+<key>C</key>
+<title>Славлю Тебя Господи</title>
 </song>

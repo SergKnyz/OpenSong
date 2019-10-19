@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4101</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Там синева, там синева...</title>
 <aka>Взгляни на небо</aka>
-<title>Там синева, там синева...</title>
 <lyrics>[C1]
    Взгляни на небо, взгляни на небо! -
    Там синева, там синева...
@@ -41,4 +40,5 @@
    Здесь Иисус, обратись же к Нему,
    В тех небесах, где обитель Христа
    Вечный покой обретешь навсегда!</lyrics>
+<hymn_number>4101</hymn_number>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Где ты прекрасная</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Где ты прекрасная</title>
+<author>Simon Khorolskiy</author>
+<hymn_number>3832</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .          Hm            Em
@@ -60,7 +63,4 @@
    В крике их птичьем радости много,
 .            G7                  Cm
    В родине вечной возвратились они.</lyrics>
-<hymn_number>3832</hymn_number>
-<key>B</key>
-<author>Simon Khorolskiy</author>
 </song>

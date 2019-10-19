@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1136</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Герои веры</title>
 <lyrics>[V1]
  История наша тайну веков хранит
  О подвигах смелых наших героев веры
@@ -40,5 +40,5 @@
  Голос охрипший от слез и молитв
  Бог это знает и видит доныне
  Грозный Судья не спит, не дремлет, не спит.</lyrics>
-<title>Герои веры</title>
+<hymn_number>1136</hymn_number>
 </song>

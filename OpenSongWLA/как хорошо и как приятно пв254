@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>В любви жить братьям каждый час!</aka>
-<hymn_number>254</hymn_number>
-<key>G</key>
-<title>Как хорошо и как приятно ПВ254</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>254</hymn_number>
 <lyrics>[V1]
  Как хорошо и как приятно
  В любви жить братьям каждый час!
@@ -33,4 +30,7 @@
  И славу Богу воздадим.
  И наши вечные хваленья
  Там с ангельским сольются пеньем.</lyrics>
+<aka>В любви жить братьям каждый час!</aka>
+<title>Как хорошо и как приятно ПВ254</title>
+<key>G</key>
 </song>

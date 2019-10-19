@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>609</hymn_number>
-<key>A</key>
-<title>Кто в убогих яслях спит ПВ609</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Кто в убогих яслях спит?
  Чей Младенец там лежит?
  Он - Господь, Христос, Спаситель,
@@ -34,4 +31,7 @@
  И заблудших всех найти?
  Кто над всей землей царит
  И вселенную хранит?</lyrics>
+<hymn_number>609</hymn_number>
+<key>A</key>
+<title>Кто в убогих яслях спит ПВ609</title>
 </song>

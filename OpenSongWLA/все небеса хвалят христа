@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Вера Гетинг</author>
-<key>F</key>
-<hymn_number>1996</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .F    C   Bb    C                Bb    F
  Все небеса   славят Христа воскресшего.
@@ -23,5 +20,8 @@
  2 куплет:
  Провозглашу имя Христа воскресшего,
  Как был распят, чтоб примирить людей с Творцом.</lyrics>
+<hymn_number>1996</hymn_number>
+<author>Вера Гетинг</author>
+<key>F</key>
 <title>Все небеса хвалят Христа</title>
 </song>

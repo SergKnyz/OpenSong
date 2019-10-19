@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>К труду ведь я призван на землю ПВ263</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>К труду ведь я призван на землю ПВ263</title>
+<hymn_number>263</hymn_number>
 <lyrics>[V1]
  К труду ведь я призван на землю,
  К борьбе с своей плотью и злом,
@@ -30,6 +32,4 @@
    Не глядя на робких друзей,
    Свидетелем быть перед миром,
    Суда не бояться людей.</lyrics>
-<hymn_number>263</hymn_number>
-<key>G</key>
 </song>

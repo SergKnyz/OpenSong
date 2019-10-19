@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
-<hymn_number>5134</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5134</hymn_number>
 <lyrics>[V1]
 .Eb          Ab                 Eb        Ab
  Там высоко, где только звёзды светят с луной.
@@ -26,4 +25,5 @@
  Помни о том, что кто-то свыше смотрит на нас.
  Помни о том: он нас услышит в трудный наш час.</lyrics>
 <title>Ангел летит</title>
+<key>Eb</key>
 </song>

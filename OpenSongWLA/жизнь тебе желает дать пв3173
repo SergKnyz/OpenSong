@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
-<aka>В муках умерший Спаситель</aka>
-<hymn_number>3173</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3173</hymn_number>
 <lyrics>[V1]
  В муках умерший Спаситель
  жизнь тебе желает дать.
@@ -31,4 +29,6 @@
  Благодать сейчас прими ты,
  силен Он тебя спасти!</lyrics>
 <title>жизнь тебе желает дать ПВ3173</title>
+<key>Eb</key>
+<aka>В муках умерший Спаситель</aka>
 </song>

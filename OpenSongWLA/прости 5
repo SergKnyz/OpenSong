@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Владимир Скобочкин</author>
+<key>E</key>
+<title>Прости</title>
+<lyrics>[V1]
 .Em     C         D
  1. Молитва в небеса,
  Ты открыл наши глаза,
@@ -30,8 +33,5 @@
  И святостью их вразуми,
  Пускай увидят, что больны,
  Их сердца отдели от этой жадной тьмы.</lyrics>
-<title>Прости</title>
-<author>Владимир Скобочкин</author>
-<key>E</key>
 <hymn_number>3182</hymn_number>
 </song>

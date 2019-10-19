@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Эдем</author>
-<key>D</key>
-<hymn_number>1508</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1508</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .   D/F#            G       A             Hm
@@ -69,5 +67,7 @@
    Ты мой Бог - жизнь подарил всему, что видим, тобою мы дышим
 .          H            G#           C#m
    Ты Бог сильный и святой - Ты Бог мой.</lyrics>
+<key>D</key>
 <title>Ты мой Бог</title>
+<author>Эдем</author>
 </song>

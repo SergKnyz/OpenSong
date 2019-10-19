@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>224</hymn_number>
-<key>C</key>
-<title>О, славьте Господа ИИПВ224</title>
 <lyrics>[V1]
 .   C       F          C F
  // О, славьте Господа,
@@ -20,4 +18,6 @@
    Господь Спасающий,
 .         C          G C (F C F)
    Тебе благодаренье.</lyrics>
+<key>C</key>
+<title>О, славьте Господа ИИПВ224</title>
 </song>

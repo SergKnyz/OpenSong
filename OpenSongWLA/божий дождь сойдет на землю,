@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
-<key>E</key>
-<hymn_number>2008</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em
  Божий дождь сойдет на землю,
  С тем дождем идет Господь
@@ -24,5 +21,8 @@
  В силе и славе я являю Бога,
 .  Am    D         Em
  С властью я иду по планете всей!</lyrics>
+<hymn_number>2008</hymn_number>
+<author>Виталий Ефремочкин</author>
 <title>Божий дождь сойдет на землю,</title>
+<key>E</key>
 </song>

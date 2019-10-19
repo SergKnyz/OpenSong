@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<author>Вічність</author>
-<hymn_number>427</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вст.
 
 [V2]
@@ -68,5 +65,8 @@
  О как прекрасно жить, о как  прекрасно просто жить,
 .    Ebm           F7        Bbm
  И знать кого за всё благодарить.</lyrics>
+<hymn_number>427</hymn_number>
+<author>Вічність</author>
 <title>О как прекрасно просто жить</title>
+<key>A</key>
 </song>

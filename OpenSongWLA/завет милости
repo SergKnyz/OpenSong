@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Завет милости</title>
+<author>Милана</author>
+<hymn_number>345</hymn_number>
+<lyrics>[V1]
  Куплет:
 .Hm
  Мой Господь, снова я ищу Тебя,
@@ -97,8 +101,4 @@
    Я вечностью дышу, склоняясь пред Тобой,
 .    G                     D
    Я о любви кричу, увидев образ Твой!</lyrics>
-<title>Завет милости</title>
-<author>Милана</author>
-<key>B</key>
-<hymn_number>345</hymn_number>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3149</hymn_number>
-<author>Кристалл</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Кристалл</author>
 <title>Не теряйте</title>
+<key>A</key>
 <lyrics>[V1]
  1 куплет:
 .     Am                                 E
@@ -52,4 +51,5 @@
    Не теряйте, потеряешь - не найдешь,
 .          F#                       Hm
    С неба каплями о потерях плачет дождь.</lyrics>
+<hymn_number>3149</hymn_number>
 </song>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Радуйся душа моя, о Боге Спасителе своем</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>844</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Em       Am   Em    Am       H        Em
@@ -27,8 +27,8 @@
    Бог мой Спасение моё, свет для души и покой
 .  Em          D           G Am       H      Em
    Бог мой излей в меня еще Духа любви неземной</lyrics>
-<hymn_number>844</hymn_number>
+<title>Радуйся душа моя, о Боге Спасителе своем</title>
+<key>E</key>
 <aka>Бог мой Спасение моё</aka>
 <author>Краеугольный камень</author>
-<key>E</key>
 </song>

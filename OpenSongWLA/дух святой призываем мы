@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
-<title>Дух Святой Призываем мы</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>98</hymn_number>
 <lyrics>[V1]
 . G
  Дух Святой! Призываем мы,
@@ -17,6 +16,7 @@
  О, излейся сила огнём!
 . C           G    Am      D7
  Будет пробуждение и оно идёт!</lyrics>
-<hymn_number>98</hymn_number>
+<time_sig>4/4</time_sig>
+<title>Дух Святой Призываем мы</title>
 <key>G</key>
 </song>

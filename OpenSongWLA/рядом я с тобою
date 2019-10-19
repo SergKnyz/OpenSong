@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Беглец</author>
-<key>A</key>
-<hymn_number>1983</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1983</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am           G
@@ -29,5 +27,7 @@
  Радость и мир хотим обрести.
  Долго по жизни блуждая
  Мой друг в свое сердце сегодня взгляни.</lyrics>
+<key>A</key>
 <title>Рядом я с Тобою</title>
+<author>Ольга Беглец</author>
 </song>

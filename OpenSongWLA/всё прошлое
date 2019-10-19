@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5493</hymn_number>
-<key>F</key>
-<author>Илона</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Илона</author>
 <title>Всё прошлое</title>
+<key>F</key>
 <lyrics>[V1]
  1. Куплет:
 .F Bb F C
@@ -33,4 +32,5 @@
    Как птица из сети ловца.
    Расторгнута она,
    Свобода мне дана.</lyrics>
+<hymn_number>5493</hymn_number>
 </song>

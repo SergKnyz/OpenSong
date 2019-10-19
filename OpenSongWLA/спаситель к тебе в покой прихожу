@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Спаситель к Тебе В покой прихожу</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<title>Спаситель к Тебе В покой прихожу</title>
+<key>B</key>
 <lyrics>[V1]
 .Hm         F#m7/A
  1. Спаситель к Тебе
@@ -53,6 +55,4 @@
 .  Em    G   A
  Веди Бог, веди меня домой</lyrics>
 <hymn_number>2375</hymn_number>
-<key>B</key>
-<author>Hillsong Ukraine</author>
 </song>

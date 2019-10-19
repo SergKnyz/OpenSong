@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5641</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бог велел Ною построить ковчег</title>
 <key>C</key>
-<title>Бог велел Ною построить ковчег</title>
 <lyrics>[V1]
 .C               F        G
  Бог велел Ною построить ковчег.
@@ -30,4 +29,5 @@
  Люди на земле начали тонуть.
  Но мудрый Ной был Богом спасён
  С животными и со своею семьёй.</lyrics>
+<hymn_number>5641</hymn_number>
 </song>

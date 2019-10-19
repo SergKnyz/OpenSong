@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2526</hymn_number>
+<lyrics>[V1]
 .Dm         A          Dm
  Вот волхвы  с Востока идут,
 .Dm         A           Dm
@@ -53,9 +54,8 @@
  // Аллилуйя! Аллилуйя!
 .Gm       A        Dm
  Небо Ему поет. //</lyrics>
-<title>Взяв дары, не глядя на труд, ПВ2526</title>
-<author>Йохн Х. Хопкинс, Йр.</author>
-<key>F</key>
 <aka>Вот волхвы с Востока идут</aka>
-<hymn_number>2526</hymn_number>
+<title>Взяв дары, не глядя на труд, ПВ2526</title>
+<key>F</key>
+<author>Йохн Х. Хопкинс, Йр.</author>
 </song>

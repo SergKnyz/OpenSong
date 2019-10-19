@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Сила Веры церковь</author>
-<key>E</key>
-<hymn_number>1278</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1278</hymn_number>
 <lyrics>[V1]
  Куплет:
 .E                     A
@@ -34,5 +32,7 @@
    И скажу о любви своей.
 .        A             H          E A E A
    Я отдаюсь в руки Твои, о мой Бог.</lyrics>
+<key>E</key>
 <title>Яркая звезда</title>
+<author>Сила Веры церковь</author>
 </song>

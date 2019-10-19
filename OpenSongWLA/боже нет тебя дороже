@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Ирина Цуканова</author>
-<key>G#m</key>
-<hymn_number>2828</hymn_number>
-<aka>Нет Тебя сильнее сотворил моря и океаны Ты</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G#m  D#m/F#        H             E
  Каждый день я понимаю, что не зря
@@ -33,5 +29,9 @@
  Тихо и легко Ты касаешься души
  Высоко, прочь оставлю миражи
  Сквозь туманы, облака проведет Твоя рука</lyrics>
+<hymn_number>2828</hymn_number>
+<author>Ирина Цуканова</author>
+<aka>Нет Тебя сильнее сотворил моря и океаны Ты</aka>
 <title>Боже нет Тебя дороже</title>
+<key>G#m</key>
 </song>

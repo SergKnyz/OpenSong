@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4834</hymn_number>
-<aka>Бог всегда в движении</aka>
-<key>A</key>
-<title>Ради новой жизни люди оставляют тьму,</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .A                     E          B
  Ради новой жизни люди оставляют тьму,
 .A                     E       B
@@ -38,4 +34,8 @@
    Бог ищет тех, кто скажет я готов!
 .  A
    Идти, давать, учить, любить!</lyrics>
+<hymn_number>4834</hymn_number>
+<aka>Бог всегда в движении</aka>
+<title>Ради новой жизни люди оставляют тьму,</title>
+<key>A</key>
 </song>

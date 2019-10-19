@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2763</hymn_number>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <title>Прошли столетья летят года ПВ2763</title>
 <lyrics>[V1]
  Прошли столетья, летят года,
@@ -24,4 +23,5 @@
  Стучится в сердце, ответа ждет,
  Покайся, слышишь, приди сейчас,
  Быть может, бьёт уж последний час.</lyrics>
+<hymn_number>2763</hymn_number>
 </song>

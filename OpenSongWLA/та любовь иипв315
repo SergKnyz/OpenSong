@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>315</hymn_number>
-<key>E</key>
-<title>Та любовь ИИПВ315</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .E                        F#m
  Та любовь, что Господь нам подарил,
 .B7                E
@@ -22,4 +19,7 @@
  Чтобы радость, мир и счастье
 . F#m               B7
  Правили миром всегда.</lyrics>
+<hymn_number>315</hymn_number>
+<key>E</key>
+<title>Та любовь ИИПВ315</title>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Аллилуйя мой Господь!</aka>
-<hymn_number>5447</hymn_number>
-<title>Как чуден Ты</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Как чуден Ты</title>
+<aka>Аллилуйя мой Господь!</aka>
 <lyrics>[V1]
  Аллилуйя мой Господь! Как чуден Ты!
  Аллилуйя мой Господь! Как чуден Ты!
@@ -12,4 +11,5 @@
    Твоих чудес мне никогда не перечесть!
    Твоих чудес мне никогда не перечесть!
    Как благодарить Тебя?</lyrics>
+<hymn_number>5447</hymn_number>
 </song>

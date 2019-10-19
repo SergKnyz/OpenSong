@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Знаю Ты недалеко</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Даша Яловец</author>
+<key>E</key>
+<title>Знаю Ты недалеко</title>
 <lyrics>[V1]
  1 куплет:
 .Em
@@ -40,6 +42,4 @@
  Дай остановиться, оглядеться
  На каком сейчас пути стою</lyrics>
 <hymn_number>5268</hymn_number>
-<author>Даша Яловец</author>
-<key>E</key>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Хвала мой прорыв</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Келание Глоецклер</author>
+<title>Хвала мой прорыв</title>
+<key>G</key>
 <lyrics>[V1]
 .G
  Ты - мой щит, Ты - моя защита,
@@ -26,6 +28,4 @@
  Славь, душа, Господа,
  И благослови святое имя Его.</lyrics>
 <hymn_number>3888</hymn_number>
-<key>G</key>
-<author>Келание Глоецклер</author>
 </song>

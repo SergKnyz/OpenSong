@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<author>Неизвестный</author>
-<hymn_number>2487</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2487</hymn_number>
 <lyrics>[C1]
    Припев:
 .  E                          H
@@ -24,5 +22,7 @@
  Волю Божью открывает сегодня для нас!
 .  A         H
  Сегодня для нас!</lyrics>
+<key>E</key>
 <title>Приди Святой дух в Своей силе</title>
+<author>Неизвестный</author>
 </song>

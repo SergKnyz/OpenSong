@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2106</hymn_number>
-<title>Друг оглянись позади ПВ2106</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Друг оглянись позади ПВ2106</title>
 <lyrics>[V1]
  Друг, оглянись: позади
  Мрачный твой путь.
@@ -35,4 +34,5 @@
  Поздний час.
  Не опоздай, торопись,
  Друг, сейчас.</lyrics>
+<hymn_number>2106</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2617</hymn_number>
-<key>Eb</key>
-<title>Да будет с вами всюду ПВ2617</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Да будет с вами всюду
  Господня благодать:
  Она творит в нас чудо, чудо
@@ -42,4 +39,7 @@
  Спешим им пожелать:
  Да будет всюду с вами, с вами
  Господня благодать!</lyrics>
+<hymn_number>2617</hymn_number>
+<title>Да будет с вами всюду ПВ2617</title>
+<key>Eb</key>
 </song>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Мисц Праисе Сонгс</author>
+<?xml version="1.0" encoding="UTF-8"?><song><time_sig>2/4</time_sig>
+<title>Бог пробуждение шлёт по всей стране</title>
 <key>G</key>
+<author>Мисц Праисе Сонгс</author>
 <hymn_number>29</hymn_number>
 <lyrics>[V1]
 . G                C
@@ -20,6 +22,4 @@
    Бог пробуждение шлёт__
 .               G
    По всей стране.</lyrics>
-<title>Бог пробуждение шлёт по всей стране</title>
-<time_sig>2/4</time_sig>
 </song>

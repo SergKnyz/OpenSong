@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1381</hymn_number>
-<title>Снова осень пришла и в наш край</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Снова осень пришла и в наш край</title>
 <lyrics>[V1]
  Снова осень пришла и в наш край,
  Землю желтым ковром покрывая,
@@ -39,4 +38,5 @@
  Взойдет солнце добра и свободы,
  Бог взрастит для небес урожай
  И прославится в нашем народе!</lyrics>
+<hymn_number>1381</hymn_number>
 </song>

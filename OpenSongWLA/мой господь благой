@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<author>Павел Плахотин</author>
-<hymn_number>1053</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    Dm                Gm         Dm
  Злословия злословящих пали на Тебя,
@@ -36,5 +33,8 @@
  Напиваюсь я из рук Твоих
  Иисус любимый, Ты неповторимый
  Ты души возлюбленный Жених</lyrics>
+<hymn_number>1053</hymn_number>
+<author>Павел Плахотин</author>
 <title>Мой Господь благой</title>
+<key>D</key>
 </song>

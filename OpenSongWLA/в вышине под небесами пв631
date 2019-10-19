@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Звонко льется пенье</aka>
-<hymn_number>631</hymn_number>
-<key>Bb</key>
-<title>В вышине под небесами ПВ631</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>631</hymn_number>
 <lyrics>[V1]
  В вышине под небесами
  Звонко льется пенье,
@@ -35,4 +32,7 @@
  Рано на рассвете.
  О, воспойте песнь хваленья:
  Подарил нам жизнь Христос.</lyrics>
+<aka>Звонко льется пенье</aka>
+<title>В вышине под небесами ПВ631</title>
+<key>Bb</key>
 </song>

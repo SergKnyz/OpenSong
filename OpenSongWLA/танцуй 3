@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>NG Worship</author>
-<key>C#m</key>
-<hymn_number>66</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>66</hymn_number>
 <lyrics>[V1]
  1 Куплет:
 .C#m           A
@@ -37,5 +35,7 @@
  Ты со мною навсегда мой Господь
 .     H            F#m     C#m     A H F#m
  В Тебе вся жизнь моя славлю я Тебя</lyrics>
+<key>C#m</key>
 <title>Танцуй</title>
+<author>NG Worship</author>
 </song>

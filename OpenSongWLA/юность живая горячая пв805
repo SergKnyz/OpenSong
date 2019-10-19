@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>805</hymn_number>
-<key>D</key>
-<title>Юность живая горячая ПВ805</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Юность живая, горячая,
  Счастлив твой век золотой!
  Юность чудесно могучая -
@@ -42,4 +39,7 @@
  Ты непременно узришь,
  Юности силы мгновенные
  В дело Христа превратишь.</lyrics>
+<hymn_number>805</hymn_number>
+<title>Юность живая горячая ПВ805</title>
+<key>D</key>
 </song>

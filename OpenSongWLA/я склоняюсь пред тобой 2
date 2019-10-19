@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>155</hymn_number>
-<aka>Бог мой</aka>
-<key>C</key>
-<author>Виталий Ефремочкин</author>
-<title>Я склоняюсь пред Тобой</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Cm     G#           A#
  Я склоняюсь пред Тобой
@@ -29,4 +24,9 @@
    Мост:
 .     Cm         G#          A#
    Ты Царь мой, Бог мой, Иисус</lyrics>
+<hymn_number>155</hymn_number>
+<author>Виталий Ефремочкин</author>
+<key>C</key>
+<title>Я склоняюсь пред Тобой</title>
+<aka>Бог мой</aka>
 </song>

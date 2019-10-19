@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>563</hymn_number>
-<aka>Возвеселись печальный друг</aka>
-<key>Bb</key>
-<title>Воспой Христа, любя! ПВ563</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Возвеселись, печальный друг!
  Воспой Христа, любя!
  Без дел твоих и без заслуг
@@ -31,4 +27,8 @@
  Пред жизненной грозой!
  И будешь ты счастлив тогда
  И сердцем и душой.</lyrics>
+<hymn_number>563</hymn_number>
+<aka>Возвеселись печальный друг</aka>
+<key>Bb</key>
+<title>Воспой Христа, любя! ПВ563</title>
 </song>

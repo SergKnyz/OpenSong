@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3230</hymn_number>
-<key>Ab</key>
-<title>Зачем мне быть рабом греха ПВ3230</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Зачем мне быть рабом греха,
  и чтоб в душе царила тьма,
  когда читают в Слове я:
@@ -44,4 +41,7 @@
  Вкуси и ты, о человек,
  и счастлив будешь ты вовек
  - кровь Агнца очищает!</lyrics>
+<hymn_number>3230</hymn_number>
+<title>Зачем мне быть рабом греха ПВ3230</title>
+<key>Ab</key>
 </song>

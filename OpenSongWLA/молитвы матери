@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>828</hymn_number>
-<key>D</key>
-<author>Натали Дорошенко</author>
-<title>Молитвы матери</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Dm C Dm
  Молитвы матери,как солнце и луна
 .Bb C Dm
@@ -33,4 +29,8 @@
  По тонкой ниточке опять хожу
  Всем чем бы стоило не дорожу
  Я без твоих молитв жить не смогу</lyrics>
+<hymn_number>828</hymn_number>
+<author>Натали Дорошенко</author>
+<title>Молитвы матери</title>
+<key>D</key>
 </song>

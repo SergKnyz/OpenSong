@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Евгений Косенков</author>
-<hymn_number>3919</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Если свет, который в тебе тьма, то какова же тьма?
 
 [V2]
@@ -32,5 +30,7 @@
 [V6]
  Стой, брат, не ходи дальше, тот путь из одной фальши.
  Мне, брат, одиноко, стой, брат, там глубоко.</lyrics>
+<hymn_number>3919</hymn_number>
+<author>Евгений Косенков</author>
 <title>Стой, брат</title>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1032</hymn_number>
-<author>Светлана Малова</author>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Светлана Малова</author>
 <title>Третья заповедь</title>
+<key>B</key>
 <lyrics>[V1]
  1 куплет:
 .  F#m                                                     Hm
@@ -44,4 +43,5 @@
    В Библии Господь нас предупредил так ясно
    Ангелы пред Ним крыльями лицо прячут,
    Святый Божий Сын глядя на людей плачет</lyrics>
+<hymn_number>1032</hymn_number>
 </song>

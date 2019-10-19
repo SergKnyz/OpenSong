@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<aka>В Гефсиманский сад пойди</aka>
-<hymn_number>2611</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В Гефсиманский сад пойди,
  В искушенье чтоб не впасть,
  На Спасителя гляди, на Его тяжелый час:
@@ -31,5 +28,8 @@
  А Христа во гробе нет.
  Он воскрес, Он смерть попрал.
  Нам путь жизни указал. Аминь.</lyrics>
+<hymn_number>2611</hymn_number>
+<key>G</key>
 <title>В искушенье чтоб не впасть ПВ2611</title>
+<aka>В Гефсиманский сад пойди</aka>
 </song>

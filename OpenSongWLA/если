@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Если</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>NDay</author>
+<key>G</key>
+<title>Если</title>
 <lyrics>[V1]
  1 куплет:
 .G         C       G     C
@@ -35,6 +37,4 @@
  Если покинули тебя силы,
  Знай, выведет Божья рука.</lyrics>
 <hymn_number>2079</hymn_number>
-<author>NDay</author>
-<key>G</key>
 </song>

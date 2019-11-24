@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Тихо в доме у Саула ПВ2351</title>
-<hymn_number>2351</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Тихо в доме у Саула,
  Ночь объяла сном людей,
  В сумрак мягкий окунула
@@ -77,4 +75,6 @@
  Что его от смерти спас,
  Что его Бог не оставил,
  А хранил и в этот час.</lyrics>
+<hymn_number>2351</hymn_number>
+<title>Тихо в доме у Саула ПВ2351</title>
 </song>

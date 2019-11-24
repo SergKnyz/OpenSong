@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1479</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <lyrics>[V1]
  1 куплет:
 .         Fm     Bbm
@@ -27,7 +27,7 @@
  Простые пастухи.
  Сегодня та же темнота
  И тяжкие грехи.</lyrics>
-<key>F</key>
+<hymn_number>1479</hymn_number>
 <title>Когда родился Иисус</title>
-<author>Неизвестный</author>
+<key>F</key>
 </song>

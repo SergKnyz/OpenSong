@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Будет любовь между нами</aka>
-<title>Счастье горит пусть в глазах, ИИПВ24</title>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>24</hymn_number>
 <lyrics>[V1]
 .          F         G
  Будет любовь между нами,
@@ -26,5 +24,7 @@
    Моя душа, славь Его. Аллилуйя!
 .         Dm         G          C  C7(C)
    Моя душа, славь Его. Аллилуйя!__</lyrics>
-<hymn_number>24</hymn_number>
+<aka>Будет любовь между нами</aka>
+<key>F</key>
+<title>Счастье горит пусть в глазах, ИИПВ24</title>
 </song>

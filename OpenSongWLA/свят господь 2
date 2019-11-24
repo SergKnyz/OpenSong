@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Свят Господь</title>
-<key>G</key>
-<author>Павел Плахотин</author>
-<hymn_number>256</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Павел Плахотин</author>
 <lyrics>[V1]
  1 куплет:
 .Gm  F                 Bb   Cm  D               Gm
@@ -55,4 +52,7 @@
    Свят Господь, свят Господь, все преклонимся пред Ним,
 .          Am            Dm             E              F G
    Свят Господь, свят Господь, свят Господь - наш Элохим.</lyrics>
+<hymn_number>256</hymn_number>
+<key>G</key>
+<title>Свят Господь</title>
 </song>

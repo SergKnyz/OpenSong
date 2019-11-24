@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Вадим Ятковский</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Рождество Христово</title>
 <key>D</key>
-<title>Рождество Христово</title>
 <lyrics>[V1]
  1 куплет:
 .Dm               C/E F   Gm          Asus A
@@ -32,4 +31,5 @@
  И поэтому звучит радостное слово
  И скорбящим мир дарит - Рождество Христово!</lyrics>
 <hymn_number>4138</hymn_number>
+<author>Вадим Ятковский</author>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3830</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я Тебе принадлежу</title>
+<key>C</key>
 <lyrics>[V1]
  1 куплет:
 .C
@@ -23,7 +24,6 @@
    Оооо ооооо, Ты держишь за руку меня
 .  G
    Оооо ооооо, с Тобой я связан на века</lyrics>
-<key>C</key>
-<title>Я Тебе принадлежу</title>
+<hymn_number>3830</hymn_number>
 <author>Wolsar worship</author>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3872</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .H           E    F#    H
  Чем же воздать, Тебе мой Бог
@@ -40,7 +39,8 @@
    Прошлое Ты стёр я милостью покрыт
 .  F#                   E
    Ты не обязан был, но Ты так хотел              (2x)</lyrics>
+<hymn_number>3872</hymn_number>
+<author>Steiger Worship</author>
 <title>Спасибо</title>
 <key>B</key>
-<author>Steiger Worship</author>
 </song>

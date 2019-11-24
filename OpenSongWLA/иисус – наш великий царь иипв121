@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Иисус – наш великий Царь ИИПВ121</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>121</hymn_number>
 <lyrics>[V1]
 .A             F#m
  Иисус - наш великий Царь,
@@ -19,5 +18,6 @@
  Боже мой, Иисус, мой Господь,
 .           D           E     A
  Царствуй, царствуй вовеки! Аминь.</lyrics>
-<hymn_number>121</hymn_number>
+<key>A</key>
+<title>Иисус – наш великий Царь ИИПВ121</title>
 </song>

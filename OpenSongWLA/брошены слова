@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>Не первые слова, и нет больше всех слов</aka>
-<title>Брошены слова</title>
-<key>C</key>
 <author>Він знає</author>
-<hymn_number>9</hymn_number>
 <lyrics>[V1]
  1 Куплет:
 .Cmaj7
@@ -52,4 +49,7 @@
    Мост:
 .  G       Dm   Em      F
    Он зовет тебя! Он зовет тебя!</lyrics>
+<hymn_number>9</hymn_number>
+<title>Брошены слова</title>
+<key>C</key>
 </song>

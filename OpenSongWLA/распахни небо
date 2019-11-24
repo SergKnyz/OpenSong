@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Распахни небо</title>
-<author>Хиллсонг Уорсхип</author>
-<hymn_number>3305</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Изливаешь Ты Свой Дух
  Из чудес и знамений
  На того, кто призовет
@@ -30,4 +27,7 @@
  Окружая Твою милость,
  Надо мною небо распахни,
  Поднимая к Своей славе!</lyrics>
+<hymn_number>3305</hymn_number>
+<author>Хиллсонг Уорсхип</author>
+<title>Распахни небо</title>
 </song>

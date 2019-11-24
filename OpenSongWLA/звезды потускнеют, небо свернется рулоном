@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Минеев</author>
-<key>C</key>
-<title>Звезды потускнеют, небо свернется рулоном</title>
-<aka>БАЛЛАДА О СУДЕ</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>БАЛЛАДА О СУДЕ</aka>
+<author>Сергей Минеев</author>
 <lyrics>[V1]
 .Am            C
  Звезды потускнеют...
@@ -48,4 +46,6 @@
  Но мимо ты прошел, смотря на небо,
  Посыпая Мои раны солью.</lyrics>
 <hymn_number>1167</hymn_number>
+<key>C</key>
+<title>Звезды потускнеют, небо свернется рулоном</title>
 </song>

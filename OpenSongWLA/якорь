@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Марина</author>
-<title>Якорь</title>
-<key>B</key>
 <lyrics>[V1]
  1 куплет:
 .Hm            A                           G
@@ -41,4 +39,6 @@
 .       Hm                     G
    Мой Бог, мой защитник, упованье моё</lyrics>
 <hymn_number>776</hymn_number>
+<key>B</key>
+<title>Якорь</title>
 </song>

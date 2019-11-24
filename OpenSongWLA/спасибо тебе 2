@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Спасибо Тебе</title>
-<key>F#</key>
-<author>Виталий Ефремочкин</author>
-<hymn_number>1110</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .         F#m                          A
  Все от Тебя и все к Тебе каждый мой шаг и пыль дорог
@@ -40,4 +36,8 @@
  Люди, события и города в этом прекрасном, нелегком пути
  Знаю, Твоя ладонь надо мной слышу звуки Твоих шагов
  Ты даришь уют, Ты даришь покой Ты понимаешь меня без слов</lyrics>
+<hymn_number>1110</hymn_number>
+<author>Виталий Ефремочкин</author>
+<title>Спасибо Тебе</title>
+<key>F#</key>
 </song>

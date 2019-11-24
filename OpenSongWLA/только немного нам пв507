@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Только немного нам ПВ507</title>
-<hymn_number>507</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>507</hymn_number>
 <lyrics>[V1]
  Только немного нам
  Осталось еще идти
@@ -18,4 +16,6 @@
  Осталось трудиться нам,
  Мы скроемся вдаль от скорбей
  И в славе пребудем там.</lyrics>
+<key>G</key>
+<title>Только немного нам ПВ507</title>
 </song>

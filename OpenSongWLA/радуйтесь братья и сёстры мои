@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>15</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Синицын</author>
 <tempo>124</tempo>
 <lyrics>[C1]
 .    Gm           Cm
@@ -45,9 +45,9 @@
  Когда за тобой придёт Твой Жених
 .   D7               Gm
  В вечной небесной славе!</lyrics>
-<key>Gm</key>
-<title>Радуйтесь братья и сёстры мои</title>
-<time_sig>4/4</time_sig>
+<hymn_number>15</hymn_number>
 <aka>Благословенна церковь моя</aka>
-<author>Сергей Синицын</author>
+<time_sig>4/4</time_sig>
+<title>Радуйтесь братья и сёстры мои</title>
+<key>Gm</key>
 </song>

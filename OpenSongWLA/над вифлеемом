@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Сион Молдова</author>
-<key>F</key>
-<title>Над Вифлеемом</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 . Fm         Eb       C#
  Очами сердца видели пророки
@@ -46,4 +43,7 @@
 .C#                          Eb
  «Христос родился! В мир явился Свет!»</lyrics>
 <hymn_number>1756</hymn_number>
+<author>Сион Молдова</author>
+<key>F</key>
+<title>Над Вифлеемом</title>
 </song>

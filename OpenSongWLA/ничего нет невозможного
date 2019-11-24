@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>380</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
 <lyrics>[C1]
    Припев:
 .  C                          G
@@ -27,7 +27,7 @@
    Верю я, верю я
 .  Dm           F
    Верю я, верю я в Тебя</lyrics>
-<key>C</key>
+<hymn_number>380</hymn_number>
 <title>Ничего нет невозможного</title>
-<author>Слово Жизни Music</author>
+<key>C</key>
 </song>

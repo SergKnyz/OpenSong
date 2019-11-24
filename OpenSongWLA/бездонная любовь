@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>До моих первых слов Ты, Господь, мне песню пел</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бездонная любовь</title>
 <key>G#m</key>
-<title>Бездонная любовь</title>
+<aka>До моих первых слов Ты, Господь, мне песню пел</aka>
 <author>Наталья Доценко</author>
-<hymn_number>3679</hymn_number>
 <lyrics>[V1]
  1 Куплет:
 .G#m             F#                 E
@@ -54,4 +53,5 @@
    И нет такой неправды, чтоб Ты не смог разрушить
 .            H
    На моем пути</lyrics>
+<hymn_number>3679</hymn_number>
 </song>

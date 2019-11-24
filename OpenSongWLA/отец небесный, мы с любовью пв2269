@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2797</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Боб Фиттс</author>
+<hymn_number>2797</hymn_number>
 <lyrics>[V1]
 .C  Dm
  Отец Небесный, мы с любовью
@@ -18,8 +19,7 @@
    Слава Всемогущему Богу
 .  F   G   C
    Вовеки веков.,</lyrics>
-<copyright>1984 Сцриптуре ин Сонг</copyright>
-<key>C</key>
 <title>Отец Небесный, мы с любовью ПВ2269</title>
-<author>Боб Фиттс</author>
+<key>C</key>
+<copyright>1984 Сцриптуре ин Сонг</copyright>
 </song>

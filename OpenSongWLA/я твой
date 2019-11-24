@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Я Твой</title>
 <key>E</key>
-<author>Филипп Реннер</author>
 <hymn_number>1254</hymn_number>
 <lyrics>[V1]
  Куплет:
@@ -27,4 +26,5 @@
    Святым дыханием неба, приди, омой,
 .  Em   G          C        Am
    Покрой Своей любовью, Иисус, я Твой.</lyrics>
+<author>Филипп Реннер</author>
 </song>

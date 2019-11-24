@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Верим Мы</title>
+<key>Bb</key>
+<aka>В век отчаяния и страха,</aka>
+<author>Newsboys, Неусбоыс</author>
+<lyrics>[V1]
 .Bb Eb Bb
  В век отчаяния и страха,
 .Eb Gm
@@ -69,8 +73,4 @@
 .Bb
  Верим мы!</lyrics>
 <hymn_number>2503</hymn_number>
-<author>Newsboys, Неусбоыс</author>
-<title>Верим Мы</title>
-<key>Bb</key>
-<aka>В век отчаяния и страха,</aka>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1486</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Это любовь</title>
+<key>G</key>
+<author>Белые Крылья</author>
 <lyrics>[V1]
  1 куплет:
 .     Gm              Cm           D                     Gm
@@ -27,7 +29,5 @@
  Но бывает в жизни так, как Бог для вас назначил.
  Что в глаза ты ей посмотрел, а она улыбнулась нежно,
  И поплыл ваш кораблик теперь, в океане любви безбрежном.</lyrics>
-<key>G</key>
-<title>Это любовь</title>
-<author>Белые Крылья</author>
+<hymn_number>1486</hymn_number>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Другая Реальность</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мой Бог прекрасный</title>
 <key>E</key>
-<title>Мой Бог прекрасный</title>
 <lyrics>[V1]
  Прихожу к Тебе с хвалою
  Открываю свое сердце для  Тебя
@@ -36,4 +35,5 @@
  Сердце открываю, Бога прославляю я,
  Любовь Его укрыла нас</lyrics>
 <hymn_number>1894</hymn_number>
+<author>Другая Реальность</author>
 </song>

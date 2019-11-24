@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>767</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Марина</author>
 <lyrics>[V1]
  1 куплет:
 .F#m                              D
@@ -37,7 +37,8 @@
    Всемогущий, Бог Великий,
 .         F#m/D   Hm  C#
    Господь славы, наполняй Собой.</lyrics>
+<hymn_number>767</hymn_number>
+<aka>Святой, Святой, Святой Господь Бог Израиля.</aka>
 <title>Всемогущий</title>
 <key>F#</key>
-<author>Ольга Марина</author>
 </song>

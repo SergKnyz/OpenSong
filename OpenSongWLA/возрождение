@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
-<title>Возрождение</title>
-<key>C</key>
-<aka>То, что делал я, никому не нужно в одиночестве я словно грузну</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>То, что делал я, никому не нужно в одиночестве я словно грузну</aka>
+<author>Imprintband</author>
 <lyrics>[V1]
  1 куплет:
 .       Cm
@@ -42,4 +40,6 @@
 .  Fm                      Cm
    Чтобы спасти, Иисус, меня</lyrics>
 <hymn_number>1314</hymn_number>
+<title>Возрождение</title>
+<key>C</key>
 </song>

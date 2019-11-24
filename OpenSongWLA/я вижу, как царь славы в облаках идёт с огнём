@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я вижу, как Царь Славы в облаках идёт с огнём</title>
-<author>Хиллсонг, Брооке Фрасер</author>
-<hymn_number>5209</hymn_number>
-<copyright>2006 Хиллсонг Публисхинг</copyright>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Хиллсонг, Брооке Фрасер</author>
 <lyrics>[V1]
  Я вижу, как Царь Славы в облаках идёт с огнём
  Трепещет всё, трепещет всё.
@@ -25,4 +22,7 @@
    Сделай боль Свою - моей,
    Царствию отдам всё, что есть во мне
    Так пройду свой путь земной я к вечности.</lyrics>
+<hymn_number>5209</hymn_number>
+<title>Я вижу, как Царь Славы в облаках идёт с огнём</title>
+<copyright>2006 Хиллсонг Публисхинг</copyright>
 </song>

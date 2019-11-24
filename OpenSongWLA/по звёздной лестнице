@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>По звёздной лестнице</title>
-<author>Алла и Сергей Манчик</author>
-<hymn_number>809</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алла и Сергей Манчик</author>
 <lyrics>[V1]
  1 куплет:
 .  Cm                        G#
@@ -38,4 +35,7 @@
  Богу мы обещали нашу любовь хранить...
  Годы, как дни считали, боли не замечали...
  Дорог нам, как вначале день, когда нас венчали!</lyrics>
+<hymn_number>809</hymn_number>
+<title>По звёздной лестнице</title>
+<key>C</key>
 </song>

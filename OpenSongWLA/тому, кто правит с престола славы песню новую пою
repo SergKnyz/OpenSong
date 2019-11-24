@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>375</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Тому, Кто правит с престола славы песню новую пою</title>
+<key>F#</key>
+<author>Слово Жизни Music</author>
 <lyrics>[V1]
  1 куплет:
 .F#        C#m          E             H
@@ -30,8 +32,6 @@
  Перед именем Твоим
  Иисус - вода живая, огонь, дыханье жизни
  Вся сила в Имени Твоём</lyrics>
-<key>F#</key>
-<title>Тому, Кто правит с престола славы песню новую пою</title>
+<hymn_number>375</hymn_number>
 <aka>Вознесённый Агнец Божий свято имя Твоё</aka>
-<author>Слово Жизни Music</author>
 </song>

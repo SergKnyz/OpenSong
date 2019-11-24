@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вся земля полна славы и хвалы</title>
-<key>D</key>
-<aka>Ты родился в этот мир</aka>
-<author>Slavic New Beginnings Church</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Slavic New Beginnings Church</author>
 <hymn_number>42</hymn_number>
 <lyrics>[V1]
  1 Куплет:
@@ -68,4 +65,7 @@
    Изменил меня,
 .      C#m    C#m/H   A           H
    Изменил весь этот мир, Иисус! Мой Иисус!</lyrics>
+<aka>Ты родился в этот мир</aka>
+<key>D</key>
+<title>Вся земля полна славы и хвалы</title>
 </song>

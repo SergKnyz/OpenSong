@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>На небе мой Отцовский дом ПВ506</title>
-<hymn_number>506</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  На небе мой Отцовский дом,
  Хочу домой к Иисусу.
  Нет слез и скорби в доме том,
@@ -40,4 +37,7 @@
  Где мир, блаженство и покой,
  Где мир, блаженство и покой,
  Иду домой к Иисусу.</lyrics>
+<hymn_number>506</hymn_number>
+<title>На небе мой Отцовский дом ПВ506</title>
+<key>G</key>
 </song>

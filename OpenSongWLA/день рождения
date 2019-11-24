@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>890</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em              Am
  У меня сегодня праздник,
 .H                    Em
@@ -59,7 +58,8 @@
  По моим щекам струятся слезы.
  Только мне совсем не стыдно -
  Будто снова я опять не взрослый.</lyrics>
-<key>E</key>
-<title>День Рождения</title>
+<hymn_number>890</hymn_number>
 <author>Евгений Гудухин</author>
+<title>День Рождения</title>
+<key>E</key>
 </song>

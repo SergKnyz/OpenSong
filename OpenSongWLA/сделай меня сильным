@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Сделай меня сильным</title>
-<key>G</key>
-<author>Roman Pretchislov</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em                      G
  Сделай меня сильным, сделай меня твёрдым,
 .C            Am
@@ -26,4 +23,7 @@
    // На потоки благодати Твоей.
 .        G       Am         Em
    На потоки благодати Твоей. //</lyrics>
+<title>Сделай меня сильным</title>
+<author>Roman Pretchislov</author>
+<key>G</key>
 </song>

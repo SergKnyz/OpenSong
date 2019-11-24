@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Истина Твоя победила грех и смерть</aka>
-<key>Fm</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Fm</key>
 <title>Ты даешь мне милость</title>
+<aka>Истина Твоя победила грех и смерть</aka>
 <author>Новое Поколение церковь Новомосковск</author>
-<hymn_number>3294</hymn_number>
 <lyrics>[V1]
-.Fm               Db
+.Em               C                D Em
  Истина Твоя победила грех и смерть.
-.Fm               Db7+
+.Em               C7+            D Em
  Истина Твоя исцелила мое сердце!
-.  Fm                    Db7+
+.  Em                    C7+
  Благодать Твоя - неиссякающий поток.
-.      Bm                     C7
+.      Am                     H7
  Я спасен благодаря Твоей крови!
 
 [C1]
-.   Fm
+.   Em
    Ты, Ты даешь мне милость!
-.   Bm
+.   Am
    Ты, Ты даёшь мне силу!
-.   Ab
+.   G
    Ты наполняешь жизнью
-.   C7
+.   H7
    Сердце моё, Иисус!</lyrics>
+<hymn_number>418</hymn_number>
 </song>

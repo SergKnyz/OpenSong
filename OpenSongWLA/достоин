@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3981</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Достоин</title>
 <lyrics>[V1]
  1 куплет:
 .D            A       Em     Hm
@@ -34,7 +35,6 @@
  Пусть оно растёт мой Бог во мне.
  Я открою двери сердца - оно больше не моё
  Держи его в своей руке.</lyrics>
-<title>Достоин</title>
-<key>D</key>
+<hymn_number>3981</hymn_number>
 <author>SokolovBrothers</author>
 </song>

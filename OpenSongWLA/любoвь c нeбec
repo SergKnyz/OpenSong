@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Любoвь c нeбec</title>
-<author>Milla</author>
-<hymn_number>1162</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .        Hm             F#m/A
  Словно первый луч рассвета
@@ -44,4 +40,8 @@
  Но ему не в силах изменить
  Разорвать любви дыханье
  Втрое скрученную нить</lyrics>
+<hymn_number>1162</hymn_number>
+<author>Milla</author>
+<title>Любoвь c нeбec</title>
+<key>D</key>
 </song>

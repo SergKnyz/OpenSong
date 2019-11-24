@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Iota worship</author>
-<key>A</key>
-<title>Кто я</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am          G            C    E7
       Кто я?     Что Ты помнишь меня, что Ты помнишь меня?
@@ -36,4 +33,7 @@
    Fb5                        G7/4
    Открываешь Небо!</lyrics>
 <hymn_number>3869</hymn_number>
+<author>Iota worship</author>
+<key>A</key>
+<title>Кто я</title>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты знаешь</title>
-<key>B</key>
-<author>Hillsong Ukraine</author>
-<hymn_number>640</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Hm                         E      D
  Весь мир Ты держишь на ладони своей,
@@ -52,4 +48,8 @@
    Любовь Твою мы желаем,
 .     A                    E
    Живём мы с целью, с Твоею целью.</lyrics>
+<hymn_number>640</hymn_number>
+<author>Hillsong Ukraine</author>
+<key>B</key>
+<title>Ты знаешь</title>
 </song>

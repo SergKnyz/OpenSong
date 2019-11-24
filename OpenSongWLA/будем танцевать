@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>86</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Будем танцевать</title>
+<aka>Есть благая весть для тебя, Он возлюбил так сильно</aka>
+<author>Виталий Ефремочкин</author>
 <lyrics>[C1]
    Припев:
 .             Dm             C
@@ -29,8 +32,5 @@
  Я в Его руках.
  Он отдавший жизнь, жизнь за тех кто верит
  В Нем свободны мы.</lyrics>
-<aka>Есть благая весть для тебя, Он возлюбил так сильно</aka>
-<key>D</key>
-<title>Будем танцевать</title>
-<author>Виталий Ефремочкин</author>
+<hymn_number>86</hymn_number>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2206</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Таня Навроцькая</author>
+<hymn_number>2206</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .      Cm      G#           Bb       Gm
@@ -70,7 +71,6 @@
    О, Отец, мой, я прошу помоги мне так прожить
 .             C#  Fm  Bbm        Gm            C   Fm
    Чтоб в конце пути моем я смогла в глаза смотреть</lyrics>
-<key>C</key>
 <title>Он за нас страдал</title>
-<author>Таня Навроцькая</author>
+<key>C</key>
 </song>

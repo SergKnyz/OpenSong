@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>923</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Лишь любовь</title>
+<key>B</key>
+<hymn_number>923</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .H        Hsus4 Hsus2       H
@@ -41,7 +43,5 @@
    Лишь Любовь За мой грех заплатила Лишь кровь,
 .  E        G#m           F#      C#m
    Твоя кровь жизнь мне вновь подарила</lyrics>
-<key>B</key>
-<title>Лишь любовь</title>
 <author>Hillsong Ukraine</author>
 </song>

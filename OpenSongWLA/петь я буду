@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<title>Петь я буду</title>
-<author>Исход Краснодар</author>
-<hymn_number>1723</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1678</hymn_number>
 <lyrics>[V1]
  Куплет:
-.Hm                        G
+.Dm                         Bb
  Я блуждал до встречи с Тобой во тьме
-.               D               E           G A
- Твой свет показал мне путь навсегда, о Иисус!
-.Hm                      G
+.               F               G           Bb  C
+ Твой свет показал мне путь навсегда, о Иисус!__
+.Dm                      Bb
  На кресте был вместо меня распят
-.         D                E          G    A
+.         F                G          Bb   C
  Меня оживил Ты. Я возрождён. Вечно буду петь Тебе
 
 [C1]
    Припев:
-.   Hm      D  A     G
+.   Dm     F   C    Bb
    Петь я буду всю жизнь мою
-.  Hm        D          A       G
+.  Dm        F          C      Bb
    Пока во мне Твоё дыхание - не замолчу!
-.  Hm        D       A           G
+.  Dm        F       C           Bb
    Источник жизни и радости в Тебе, Бог,
-.  Hm    D       A
+.  Dm    F       C
    Буду петь хвалу!
 
 [B1]
    Бридж:
-.  A         Hm  G
+.  C         Dm  Bb
    Всё во всём Ты для меня
-.  A                     G
+.  C                     Bb
    Подарил мне жизнь Ты. Так люблю Тебя я!</lyrics>
+<author>Alaniaworshipband, Генерацио́н 12</author>
+<title>Петь я буду</title>
+<key>D</key>
 </song>

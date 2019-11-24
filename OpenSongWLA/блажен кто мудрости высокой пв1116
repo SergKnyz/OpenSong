@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>послушен сердцем и умом</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <title>Блажен кто мудрости высокой ПВ1116</title>
-<key>G</key>
 <hymn_number>1116</hymn_number>
 <lyrics>[V1]
 .Dm                A
@@ -41,4 +40,5 @@
  цветет, красуется плодом,
  так он для Бога сердцем зреет,
  И плод святой растет на нем.</lyrics>
+<aka>послушен сердцем и умом</aka>
 </song>

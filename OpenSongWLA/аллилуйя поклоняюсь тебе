@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
-<aka>Дух Святой приди, в жизнь мою приди</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <title>Аллилуйя поклоняюсь Тебе</title>
-<key>A</key>
+<aka>Дух Святой приди, в жизнь мою приди</aka>
 <lyrics>[V1]
  Куплет:
 .Am             F      G           Dm
@@ -31,4 +30,5 @@
 .  Bb               G
    Дух Святой наполни!</lyrics>
 <hymn_number>147</hymn_number>
+<author>Виталий Ефремочкин</author>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Христос воскрес</aka>
+<author>Анна и Андрей Лукашины</author>
+<tempo>84</tempo>
+<lyrics>[V1]
  вступление:
 .G C D C-D-G
   
@@ -32,11 +35,8 @@
  Я снова радостно пою о том, что на скале стою,
 .           D                         G         D
  О том, что Иисус воскрес в великой благости небес!</lyrics>
-<tempo>84</tempo>
 <hymn_number>56</hymn_number>
-<author>Анна и Андрей Лукашины</author>
-<time_sig>4/4</time_sig>
-<aka>Христос воскрес</aka>
 <key>G</key>
+<time_sig>4/4</time_sig>
 <title>Весна все обновила вновь</title>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Дарина Кочанжи</author>
-<key>C</key>
-<title>Сохрани</title>
 <lyrics>[V1]
  1 куплет:
 .Hm        A          G               F#
@@ -30,4 +28,6 @@
  Лица встречные безсердечные звали нас к борьбе,
  Мы считали себя не вечными вопреки себе.</lyrics>
 <hymn_number>161</hymn_number>
+<key>C</key>
+<title>Сохрани</title>
 </song>

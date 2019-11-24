@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Зажги моё сердце</title>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>Зажги моё сердце</title>
 <author>Новая жизнь</author>
-<hymn_number>3731</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .     Fm             G#                   C#
@@ -30,4 +29,5 @@
  Дай силы мне любить, до смерти верной быть, исполнять волю лишь Твою.
  Стоим сейчас пред Тобой,
  Пусть знают все что Ты, наш Бог, живой.</lyrics>
+<hymn_number>3731</hymn_number>
 </song>

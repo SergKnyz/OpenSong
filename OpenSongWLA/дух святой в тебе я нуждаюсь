@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Дух Святой в Тебе я нуждаюсь</title>
+<key>C</key>
 <lyrics>[V1]
  intro:
 
@@ -30,7 +31,6 @@
  Аллилуйя,  аллилуйя,  ищу Тебя, Дух Святой...
 .   Cm Fm     Gm G#   Cm       Fm      G#     Gm
  Аллилуйя,  аллилуйя,       я так жажду встречи с Тобой...</lyrics>
-<title>Дух Святой в Тебе я нуждаюсь</title>
-<key>C</key>
+<hymn_number>6</hymn_number>
 <author>Виталий Ефремочкин</author>
 </song>

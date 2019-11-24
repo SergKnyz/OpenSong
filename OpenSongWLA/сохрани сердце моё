@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>739</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Сохрани сердце моё</title>
+<author>Сергей Инглет</author>
 <lyrics>[V1]
 .Em                  Am           D                   G
  Все отдам, чтобы быть с Тобой, всё отдам, чтобы быть с Тобой.
@@ -48,7 +50,5 @@
    Я знаю Божию любовь и знаю, мы воскреснем вновь,
 .  C                       D                     H
    Я буду ждать Тебя всегда, лишь бы со мной была любовь Твоя</lyrics>
-<title>Сохрани сердце моё</title>
-<key>E</key>
-<author>Сергей Инглет</author>
+<hymn_number>739</hymn_number>
 </song>

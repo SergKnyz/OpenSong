@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Gm</key>
-<title>Ты ярче, чем солнца свет</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Gm F                Bb   Cm  D                Gm D#/D
  Ты ярче, чем солнца свет, Ты бездна святой любви.
 .Gm   F             Bb   Cm    D                 Gm/F
@@ -23,4 +21,6 @@
 [V3]
  Ты жизнь, Ты сама любовь, Ты Агнец, проливший кровь.
  Ты славный Спаситель мой, Иисус, Ты мой Господь живой.</lyrics>
+<title>Ты ярче, чем солнца свет</title>
+<key>Gm</key>
 </song>

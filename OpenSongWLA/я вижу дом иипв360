@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Я вижу дом ИИПВ360</title>
-<aka>Казахстан, ты будешь спасён</aka>
-<author>Дмитрий Синельников</author>
-<hymn_number>360</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Дмитрий Синельников</author>
 <lyrics>[C1]
 .          E                 B7
    Я вижу дом, где молятся Ему,
@@ -29,4 +25,8 @@
  Чтобприготовить путь Творцу.
  Явижу день, когда народы всей земли
  Воскликнутвсе: Господь, гряди!</lyrics>
+<hymn_number>360</hymn_number>
+<aka>Казахстан, ты будешь спасён</aka>
+<title>Я вижу дом ИИПВ360</title>
+<key>E</key>
 </song>

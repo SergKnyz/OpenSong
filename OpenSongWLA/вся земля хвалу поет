@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Церковь &quot;Сила Веры&quot; (г. Киев)</author>
-<title>Вся земля хвалу поет</title>
-<key>D</key>
-<time_sig>4/4</time_sig>
+<tempo>74</tempo>
 <lyrics>[V1]
  1 куплет:
 .D             A/C#   Hm              Hm/A   G
@@ -30,6 +28,8 @@
  Для народа всей земли сияет свет Твоей любви.
  Своим присутствием покрой всю землю, пусть свет прольется в жизнь людей,
  И все народы преклонят колени, и воспоют хвалу Тебе!</lyrics>
-<tempo>74</tempo>
 <hymn_number>852</hymn_number>
+<key>D</key>
+<title>Вся земля хвалу поет</title>
+<time_sig>4/4</time_sig>
 </song>

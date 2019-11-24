@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Александр Соколов (Armageddon)</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <title>Город мечты</title>
-<key>D</key>
 <lyrics>[V1]
  1 куплет:
 .Dm      C   Bb            A
@@ -37,4 +36,5 @@
  Нас захвати крепкою рукою,
  И поведи вслед за Тобою.</lyrics>
 <hymn_number>253</hymn_number>
+<author>Александр Соколов (Armageddon)</author>
 </song>

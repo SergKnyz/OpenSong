@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Я нашёл Иисуса</title>
-<author>Белый Ангел</author>
-<hymn_number>2524</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .      Fm                                     Bbm
  Я не мог Тебя не найти, Твоя милость меня позвала,
@@ -52,4 +48,8 @@
    Я нашел Иисуса, я нашел Иисуса,
 .  C#                   F#m
    Я нашел Иисуса Христа</lyrics>
+<hymn_number>2524</hymn_number>
+<author>Белый Ангел</author>
+<title>Я нашёл Иисуса</title>
+<key>F</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Велик Ты Господь</aka>
-<title>Ты дал жизнь, Ты любовь, в темноте свет приносишь,</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты дал жизнь, Ты любовь, в темноте свет приносишь,</title>
 <key>D</key>
 <author>Виталий Ефремочкин, Сонс анд Даугхтерс, Давид Леонард</author>
 <hymn_number>771</hymn_number>
@@ -31,4 +30,5 @@
    Сердца воскликнут лишь к Нему
 .   D        A
    Как Ты велик.</lyrics>
+<aka>Велик Ты Господь</aka>
 </song>

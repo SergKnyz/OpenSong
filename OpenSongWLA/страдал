@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Страдал</title>
-<author>Инна Звягинцева</author>
-<hymn_number>1577</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Страдал</title>
+<key>G</key>
 <lyrics>[V1]
  1 куплет:
 .  Gm                Cm
@@ -47,4 +45,6 @@
  Ты страдал, умирал воскрешая нас
 .Am        Dm        F          E
  Ты страдал, умирал воскрешая нас</lyrics>
+<hymn_number>1577</hymn_number>
+<author>Инна Звягинцева</author>
 </song>

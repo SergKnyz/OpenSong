@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
-<key>D</key>
-<title>Город моей мечты</title>
 <lyrics>[V1]
  1 куплет:
 .Dm      Bb            C
@@ -30,4 +28,6 @@
  Ты в шелесте летних трав в энергии огня
  И этот день ото дня так сильно влечет меня</lyrics>
 <hymn_number>3824</hymn_number>
+<key>D</key>
+<title>Город моей мечты</title>
 </song>

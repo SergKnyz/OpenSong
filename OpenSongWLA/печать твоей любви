@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
-<title>Печать Твоей любви</title>
-<key>C#m</key>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .  C#m                    A
    Ты ждёшь, когда приду я к Тебе
@@ -39,4 +36,7 @@
    Лишь смотреть на Тебя хочу,
    Только петь Тебе.</lyrics>
 <hymn_number>472</hymn_number>
+<author>Слово Жизни Music</author>
+<key>C#m</key>
+<title>Печать Твоей любви</title>
 </song>

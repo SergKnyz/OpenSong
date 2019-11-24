@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Только в Тебе</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Только в Тебе</title>
 <author>Imprintband</author>
-<hymn_number>3860</hymn_number>
 <lyrics>[V1]
  1 куплет:
  Посмотришь и спросишь - ничего
@@ -29,4 +28,5 @@
    В величии славы всей склоняюсь пред Тобой.
    Бог силы и любви паду к Твоим ногам
    Всё что есть во мне, лишь Тебе отдам.</lyrics>
+<hymn_number>3860</hymn_number>
 </song>

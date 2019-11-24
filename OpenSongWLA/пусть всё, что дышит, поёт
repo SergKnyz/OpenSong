@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3947</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Пусть всё, что дышит, поёт</title>
 <lyrics>[V1]
  Intro:
 
@@ -32,7 +33,6 @@
    Всё что есть в нас, мы отдаём, когда хвалу Тебе поём.
 .                  E                      G#m7       F#
    Всё что есть в нас, мы отдаём, когда хвалу Тебе поём.</lyrics>
-<title>Пусть всё, что дышит, поёт</title>
-<key>E</key>
+<hymn_number>3947</hymn_number>
 <author>Алексей Каратаев, Вертицал Уорсхип</author>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Сила Господня</title>
+<key>A</key>
+<author>Благодать церква г. Минск</author>
+<lyrics>[V1]
  1 куплет:
 .  A     Dm           A   D     E            A
  Вдоль по улице в толпе идет Иисус и спор о Нем:
@@ -65,7 +68,4 @@
 .    Eb             Bb     Ebm                      Bb
  Благословен грядущий во Имя Его во Имя Его, во Имя Христа.</lyrics>
 <hymn_number>1491</hymn_number>
-<author>Благодать церква г. Минск</author>
-<key>A</key>
-<title>Сила Господня</title>
 </song>

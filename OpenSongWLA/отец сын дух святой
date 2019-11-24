@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Ковчег церковь Днепропетровск</author>
-<title>Отец Сын Дух Святой</title>
-<key>A</key>
 <lyrics>[V1]
  Вступление:
 
@@ -48,4 +46,6 @@
 .              D
  Даёт Дух Святой</lyrics>
 <hymn_number>2636</hymn_number>
+<title>Отец Сын Дух Святой</title>
+<key>A</key>
 </song>

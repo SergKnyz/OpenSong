@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2104</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя Святой Святой</title>
+<key>G</key>
+<aka>Хочу я быть ближе, ближе к Тебе</aka>
 <lyrics>[V1]
  Куплет:
 .G            Am      D/F#     G
@@ -33,8 +35,6 @@
    Кто сможет устоять перед Его величием
 .  Em     C        G  D
    Величием, величием.</lyrics>
-<aka>Хочу я быть ближе, ближе к Тебе</aka>
-<title>Аллилуйя Святой Святой</title>
-<key>G</key>
-<author>Ольга Марина</author>
+<hymn_number>326</hymn_number>
+<author>Алексей Каратаев, Виталий Ефремочкин, Ольга Марина, Йаред Андерсон</author>
 </song>

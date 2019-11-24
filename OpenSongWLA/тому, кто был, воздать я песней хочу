@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>Тому, Кто был, воздать я песней хочу</title>
+<author>Корван</author>
+<lyrics>[V1]
  1 куплет:
 .Fm                        C#        D#
  Тому, Кто был, воздать я песней хочу
@@ -27,8 +30,5 @@
  Ты Тот Господь, Кто жизнь мне дал
  Ты обещание Свое сдержал!</lyrics>
 <hymn_number>1718</hymn_number>
-<author>Корван</author>
 <aka>Быть хочу таким как Ты</aka>
-<key>F</key>
-<title>Тому, Кто был, воздать я песней хочу</title>
 </song>

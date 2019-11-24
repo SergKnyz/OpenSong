@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Alaniaworshipband, Цоры Асбуры</author>
-<aka>Верен до конца</aka>
-<key>Ab</key>
-<title>Сказал, придешь во свете Ты,</title>
-<lyrics>[V1]
- Куплет:
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C#                        Fm D#
  Сказал, придешь во свете Ты,
 .C#                      Fm D#
@@ -13,8 +8,7 @@
 .C#              Fm     D#
  Осветит ночь Твоя заря.
 
-[C1]
-   Пред припев:
+[P1]
 .           Fm                  C#
    И Ты придешь с небес на облаках
 .               G#                      D#
@@ -24,8 +18,7 @@
 .                    G#                  D#
    Огонь в Твоих глазах, Ты ревностью объят.
 
-[C2]
-   Припев:
+[C1]
 .                  Fm            C#
    Ты верен до конца сердцу моему.
 .               G#                    D#
@@ -36,10 +29,13 @@
    Верен до конца Ты придешь меня обнять.
 
 [B1]
-   Бридж:
 .  Fm    C#      G#   D#
    Слава Тебе, правды Царь
 .  Fm    C#      G#   D#
    Слава Тебе, правды Царь</lyrics>
 <hymn_number>1684</hymn_number>
+<author>Alaniaworshipband, Цоры Асбуры</author>
+<aka>Верен до конца</aka>
+<title>Сказал, придешь во свете Ты,</title>
+<key>Ab</key>
 </song>

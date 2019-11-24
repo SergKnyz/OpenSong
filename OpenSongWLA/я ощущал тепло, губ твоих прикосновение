@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
-<key>E</key>
-<title>Я ощущал тепло, губ твоих прикосновение</title>
-<aka>Ангел</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1936</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Em             D             Hm
@@ -48,5 +45,8 @@
    Мы полетим  вдвоём,
 .         Am  G   D/F#
    Мы полетим  вдвоём.</lyrics>
-<hymn_number>1936</hymn_number>
+<author>Imprintband</author>
+<aka>Ангел</aka>
+<key>E</key>
+<title>Я ощущал тепло, губ твоих прикосновение</title>
 </song>

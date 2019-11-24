@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1283</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .  Dm               F                Gm          A
  Зачем, мой Господь, Ты оставил всех ангелов в небе?
@@ -48,7 +47,8 @@
  Хоть слаб я и нищ и не знаю где взять нужных слов.
  Пусть будут слова просты, но искренние от сердца.
  Ведь Ты для меня так дорог, мой Господь.</lyrics>
+<hymn_number>1283</hymn_number>
+<author>Кучіяші</author>
 <key>D</key>
 <title>Для меня</title>
-<author>Кучіяші</author>
 </song>

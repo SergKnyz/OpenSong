@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>День яркий над землей</aka>
-<title>Аллилуйя</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя</title>
 <author>Сергей Брикса</author>
-<hymn_number>1541</hymn_number>
 <lyrics>[V1]
  1 куплет:
  День яркий над землей,
@@ -30,4 +28,6 @@
    Пред припев:
    Бог... Наш грядет...
    Пусть народ воспоет:</lyrics>
+<hymn_number>1541</hymn_number>
+<aka>День яркий над землей</aka>
 </song>

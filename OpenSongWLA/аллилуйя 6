@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3599</hymn_number>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .  Dm       Bb     F        C
    Аллилуйя! Аллилу- аллилу- аллилуйя!
@@ -31,8 +30,9 @@
  4 куплет:
  Он избрал нас, и сейчас Сам сражается за нас,
  В славе Сын Его грядет, к небесам нас вознесет.</lyrics>
+<hymn_number>2561</hymn_number>
+<author>Харьковская Церковь Христа, Маханаим</author>
 <aka>Господу хвалу поем</aka>
 <key>D</key>
 <title>Аллилуйя</title>
-<author>Маханаим, Харьковская Церковь Христа</author>
 </song>

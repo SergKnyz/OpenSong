@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Только Ты один</title>
-<key>E</key>
-<author>Другая Реальность</author>
-<hymn_number>1900</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Другая Реальность</author>
 <lyrics>[V1]
  Аккорды:
 
@@ -41,4 +38,7 @@
  Лишь Тебе пою хвалу я.
  Поднимая руки к небу
  Авва Отче я кричу.</lyrics>
+<hymn_number>1900</hymn_number>
+<title>Только Ты один</title>
+<key>E</key>
 </song>

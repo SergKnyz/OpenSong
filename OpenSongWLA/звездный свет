@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Звездный свет</title>
+<lyrics>[V1]
  1 куплет:
 .G           C                G
  Ты словно звездный свет в ночи
@@ -43,6 +45,4 @@
    Иисус Иисус!</lyrics>
 <hymn_number>2627</hymn_number>
 <author>Bethel Music, Бетхел Мусиц</author>
-<key>G</key>
-<title>Звездный свет</title>
 </song>

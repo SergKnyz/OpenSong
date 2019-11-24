@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя! Наш Господь есть Царь царей ПВ1206</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . D                          G      A
  Аллилуя! Наш Господь есть Царь царей
 .D         G                  A
@@ -36,4 +34,7 @@
  Кровь Христа, дает победу, радость и покой,
  Не смущайся, Он всегда с Тобой!</lyrics>
 <hymn_number>1206</hymn_number>
+<aka>Аллилуя! Жизнь моя в руке Твоей!</aka>
+<title>Аллилуйя! Наш Господь есть Царь царей ПВ1206</title>
+<key>D</key>
 </song>

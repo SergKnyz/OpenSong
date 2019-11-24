@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Ты любовь моя, Господь</title>
-<author>Евгений Косенков</author>
-<hymn_number>2478</hymn_number>
 <lyrics>[C1]
    Припев:
    Dm                                                          Gm
@@ -41,4 +39,6 @@
  Буду звездочкой гореть в полной темноте,
  Я струной Твоей, Господь, буду петь любя,
  Только Ты, Господь, Господь, не оставь меня</lyrics>
+<hymn_number>2478</hymn_number>
+<author>Евгений Косенков</author>
 </song>

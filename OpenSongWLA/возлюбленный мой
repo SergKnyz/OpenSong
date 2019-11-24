@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Пролетело небо      в метре от меня,</aka>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <title>Возлюбленный мой</title>
 <author>Рома Иванько</author>
-<hymn_number>1828</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .  Em     Hm  C   Em   Hm        C
@@ -31,4 +29,6 @@
  Но разве кто то скрыться от Тебя бы смог.
  Разве ж Твои слёзы,высохнут в окне,
  Разве ж Твоя милость не поможет мне.</lyrics>
+<hymn_number>1828</hymn_number>
+<aka>Пролетело небо      в метре от меня,</aka>
 </song>

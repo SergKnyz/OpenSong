@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Слышал я о стране ПВ1029</title>
 <key>G</key>
-<hymn_number>2939</hymn_number>
 <lyrics>[V1]
  Слышал я о стране,
  светлой той стороне.
@@ -32,4 +31,5 @@
  Там весна не пройдет,
  плач туда не войдет,
  Все новое Бог сотворит!</lyrics>
+<hymn_number>2939</hymn_number>
 </song>

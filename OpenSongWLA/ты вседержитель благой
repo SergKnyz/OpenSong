@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
 <title>Ты Вседержитель благой</title>
-<aka>Лишь в Тебе я нашёл покой</aka>
-<hymn_number>343</hymn_number>
 <lyrics>[V1]
 . F          C7        Dm
  Ты - Вседержитель благой,
@@ -41,4 +39,6 @@
     
 .  B Gm Csus C7
     </lyrics>
+<hymn_number>343</hymn_number>
+<aka>Лишь в Тебе я нашёл покой</aka>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1924</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Intro:
 
 [V2]
@@ -51,7 +50,8 @@
    Окутал в Свою милость
    Надо мною небеса открыл,
    Восстановишь к Своей Славе.</lyrics>
-<key>F</key>
-<title>Открытые небеса</title>
+<hymn_number>1924</hymn_number>
 <author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
+<title>Открытые небеса</title>
+<key>F</key>
 </song>

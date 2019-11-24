@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1975</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Любовь Твоя верна</title>
+<key>A</key>
+<author>Анастасия Патлис, Цхрис МцЦларнеы, Антхоны Скиннер, Йесус Цултуре</author>
 <lyrics>[V1]
  1 куплет:
 .Am      F        C              G
@@ -38,7 +40,5 @@
    Ты всё, всё делаешь благом для меня, для меня.
 .  F            C                     G        Dm
    Ты всё, всё делаешь благом для меня, для меня.</lyrics>
-<key>A</key>
-<title>Любовь Твоя верна</title>
-<author>Анастасия Патлис, Цхрис МцЦларнеы, Антхоны Скиннер, Йесус Цултуре</author>
+<hymn_number>1975</hymn_number>
 </song>

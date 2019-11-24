@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3221</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Любовь Его вовеки</title>
+<key>G</key>
+<author>Fly worship, Цхрис Томлин</author>
 <lyrics>[V1]
 .G
  Воспойте хвалу Царю Царей! Любовь Его вовеки!
@@ -45,7 +47,5 @@
  Вовеки будеш с нами! Вовеки, Ты Бог Наш!
  Вовеки Бог нам верен! Вовеки сила в нем!
  Вовеки будеш с нами! Вовеки, Ты Бог Наш, вовеки</lyrics>
-<key>G</key>
-<title>Любовь Его вовеки</title>
-<author>Fly worship, Цхрис Томлин</author>
+<hymn_number>3221</hymn_number>
 </song>

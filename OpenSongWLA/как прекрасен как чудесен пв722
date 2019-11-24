@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
-<title>Как прекрасен как чудесен ПВ722</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>722</hymn_number>
 <lyrics>[V1]
  Как прекрасен, как чудесен
  Виноградник молодой!
@@ -41,5 +40,6 @@
  Будем Бога воспевать
  За богатство урожая,
  За дары, за благодать.</lyrics>
-<hymn_number>722</hymn_number>
+<title>Как прекрасен как чудесен ПВ722</title>
+<key>Ab</key>
 </song>

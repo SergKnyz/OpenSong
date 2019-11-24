@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2116</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Если ты в большом собранье ПВ2116</title>
+<key>E</key>
 <lyrics>[V1]
  Если ты в большом собрании,
  где Господь и Властелин
@@ -40,6 +41,5 @@
  ль в лесу среди тропин,
  Или в поезде, в вагоне,
  будь везде христианин.</lyrics>
-<title>Если ты в большом собранье ПВ2116</title>
-<key>E</key>
+<hymn_number>2116</hymn_number>
 </song>

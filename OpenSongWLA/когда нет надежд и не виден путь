@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Оул Циты</author>
-<time_sig>4/4</time_sig>
-<key>G</key>
-<title>Когда нет надежд и не виден путь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><tempo>92</tempo>
+<author>Оул Циты</author>
 <lyrics>[V1]
 .GD / D A / G Em / Hm A
   
@@ -55,6 +53,8 @@
    Ты - всё, что нужно мне!
 .                 G      Em  Hm A
    Ты - всё, что нужно мне!__</lyrics>
-<tempo>92</tempo>
 <hymn_number>175</hymn_number>
+<time_sig>4/4</time_sig>
+<title>Когда нет надежд и не виден путь</title>
+<key>G</key>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>100</hymn_number>
+<lyrics>[V1]
 .    D    F#m   Hm
  Его имя выше всех.
 .     G       A7     Em      A7
@@ -27,8 +28,7 @@
  Он - Господь для всех господ.
 .     G       A          G     A7  D7
  Мы провозглашаем на земле благую весть.</lyrics>
-<hymn_number>100</hymn_number>
-<time_sig>4/4</time_sig>
 <key>D</key>
 <title>Его имя выше всех</title>
+<time_sig>4/4</time_sig>
 </song>

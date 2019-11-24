@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
-<title>Я иду по земной тропе</title>
-<key>E</key>
 <lyrics>[V1]
 .Em                            Am
  Я иду по земной тропе. Время вышло.
@@ -43,4 +41,6 @@
  Смерть, ты можешь забрать только прах....
  Я на Божию чашу ложу только крохи....</lyrics>
 <hymn_number>4760</hymn_number>
+<title>Я иду по земной тропе</title>
+<key>E</key>
 </song>

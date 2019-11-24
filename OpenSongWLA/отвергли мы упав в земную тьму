@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Новая Земля церковь г. Минск</author>
-<title>Отвергли мы упав в земную тьму</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Отвергли мы упав в земную тьму</title>
 <key>Bb</key>
-<aka>Великий Бог, Твой свет небесный, вечный</aka>
+<author>Новая Земля церковь г. Минск</author>
 <lyrics>[V1]
  1 куплет:
 .         Bb                        Eb
@@ -59,4 +58,5 @@
    Теперь поёт мой дух Господь Тебе
    Как Ты велик, как Ты велик</lyrics>
 <hymn_number>4234</hymn_number>
+<aka>Великий Бог, Твой свет небесный, вечный</aka>
 </song>

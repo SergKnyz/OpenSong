@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Воспою всей душой, всей душой,</title>
-<key>D</key>
-<aka>Прославлю имя Твое</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Прославлю имя Твое</aka>
 <author>Виталий Ефремочкин, Йесус Цултуре, Йонас Мырин, Матт Редман</author>
 <hymn_number>1105</hymn_number>
 <lyrics>[C1]
@@ -45,4 +43,6 @@
  И час придет вознестись к нему
  Душа моя будет громко славить
  На небе вечно будет петь хвалу.</lyrics>
+<key>D</key>
+<title>Воспою всей душой, всей душой,</title>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Благодарю, Господь, за тихий вечер</title>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>Благодарю, Господь, за тихий вечер</title>
 <author>Русавуки</author>
-<hymn_number>3670</hymn_number>
 <lyrics>[V1]
 .Fm G#
  Благодарю, Господь, за тихий вечер,
@@ -38,4 +37,6 @@
  Уйдя от повседневной суеты,
  Я дорожу такой взаимной встречей,
  Я рада слушать то, что скажешь Ты.</lyrics>
+<hymn_number>3670</hymn_number>
+<aka>Когда свои колени преклоня,</aka>
 </song>

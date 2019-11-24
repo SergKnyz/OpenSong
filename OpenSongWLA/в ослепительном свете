@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Олухи Царя</author>
-<aka>Благодать Твоя так велика.</aka>
-<key>G</key>
-<title>В ослепительном свете</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Благодать Твоя так велика.</aka>
+<author>Олухи Царя</author>
+<hymn_number>2073</hymn_number>
 <lyrics>[V1]
 .G            C          G D
  Благодать Твоя так велика.
@@ -40,5 +39,6 @@
 
 [V4]
  Пр. 2 раза</lyrics>
-<hymn_number>2073</hymn_number>
+<title>В ослепительном свете</title>
+<key>G</key>
 </song>

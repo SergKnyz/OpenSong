@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Размер неба, Йесус Цултуре, Давид Цроудер, Йохн Марк МцМиллан</author>
-<title>Любит Бог нас</title>
-<key>G</key>
 <lyrics>[V1]
  Куплет:
 .G                  C/E
@@ -37,4 +35,6 @@
 .        D                                C
    Нет времени себя больше жалеть, когда думаю, что так...</lyrics>
 <hymn_number>48</hymn_number>
+<key>G</key>
+<title>Любит Бог нас</title>
 </song>

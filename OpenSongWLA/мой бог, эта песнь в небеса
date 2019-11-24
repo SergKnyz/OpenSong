@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Владимир Скобочкин</author>
-<title>Мой Бог, эта песнь в Небеса</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мой Бог, эта песнь в Небеса</title>
 <key>D</key>
 <aka>Воспой!</aka>
 <lyrics>[V1]
@@ -36,4 +35,5 @@
 [V3]
  Припев.</lyrics>
 <hymn_number>4123</hymn_number>
+<author>Владимир Скобочкин</author>
 </song>

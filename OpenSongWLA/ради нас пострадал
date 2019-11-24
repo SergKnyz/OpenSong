@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Юлия Хворых</author>
-<key>D</key>
-<title>Ради нас пострадал</title>
 <lyrics>[V1]
 .Dm                 Gm
  1. На кресте Голгофском за нас с тобой страдал.
@@ -34,4 +32,6 @@
  Все грехи, проклятья, болезни Он забрал.
  Умирая в муках, - &quot;Свершилось!&quot; - Он сказал.</lyrics>
 <hymn_number>4502</hymn_number>
+<title>Ради нас пострадал</title>
+<key>D</key>
 </song>

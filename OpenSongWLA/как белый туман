@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Как белый туман</title>
-<author>Sharikov Family Band</author>
-<hymn_number>3916</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Sharikov Family Band</author>
 <lyrics>[V1]
  1 куплет:
 .            Cm  Bb            Gm G#
@@ -37,4 +34,7 @@
  Когда всё, устав, мирно спит на земле,
  Смотреть в небеса, где среди звёзд,
  Безмерно любя меня, Иисус, ждёшь.</lyrics>
+<hymn_number>3916</hymn_number>
+<title>Как белый туман</title>
+<key>C</key>
 </song>

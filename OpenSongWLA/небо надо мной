@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Небо надо мной</title>
+<author>Пётр Бальжик</author>
+<lyrics>[V1]
  intro:
 
 [V2]
@@ -23,7 +26,4 @@
 .      Gm              A         D        Gm
    Помоги в земной долине, никогда не унывать.</lyrics>
 <hymn_number>2684</hymn_number>
-<author>Пётр Бальжик</author>
-<key>G</key>
-<title>Небо надо мной</title>
 </song>

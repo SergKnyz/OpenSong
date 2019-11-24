@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Благодать и любовь от Отца ПВ2687</title>
-<key>E</key>
-<hymn_number>1097</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>От Отца бесконечной вселенной.</aka>
 <lyrics>[V1]
 .Ab           Db       F#m
  Благодать и любовь от Отца,
@@ -22,4 +20,7 @@
  Кровь Иисуса - единственный путь.
  // Никогда человека, пришедшего к Богу,
  Иисус не желает забыть. //</lyrics>
+<hymn_number>2687</hymn_number>
+<key>E</key>
+<title>Благодать и любовь от Отца ПВ2687</title>
 </song>

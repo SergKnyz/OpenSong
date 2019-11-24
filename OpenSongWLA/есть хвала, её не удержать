@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3283</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Есть хвала, её не удержать!</title>
 <lyrics>[V1]
  1 куплет:
 .E
@@ -33,8 +34,7 @@
 [V2]
 .   A             C#m H
  Я петь буду вечно</lyrics>
-<title>Есть хвала, её не удержать!</title>
-<key>E</key>
-<aka>Возвышу громко</aka>
+<hymn_number>3283</hymn_number>
 <author>Виталий Ефремочкин</author>
+<aka>Возвышу громко</aka>
 </song>

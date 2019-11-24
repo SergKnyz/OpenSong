@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<key>C</key>
-<title>Прославь Царя</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .            C
  Прославь Царя, прославь Царя.
@@ -46,4 +43,7 @@
    Прославь Царя, прославь Царя.
    Прославь Царя, прославь Царя.</lyrics>
 <hymn_number>305</hymn_number>
+<author>Hillsong Ukraine</author>
+<key>C</key>
+<title>Прославь Царя</title>
 </song>

@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Блаженны те, кто в доме Твоём</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Блаженны те, кто в доме Твоём</title>
+<key>D</key>
 <aka>Восхваляют лишь Тебя.</aka>
-<author>Hillsong Ukraine</author>
-<hymn_number>1049</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .                    D      C  D C
@@ -52,4 +50,6 @@
    Ведь Ты святой, Бог!
 .  Hm                  G
    Ведь Ты святой, Господь!</lyrics>
+<hymn_number>1049</hymn_number>
+<author>Hillsong Ukraine</author>
 </song>

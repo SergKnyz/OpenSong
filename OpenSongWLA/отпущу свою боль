@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
-<title>Отпущу свою боль</title>
-<author>Дарина Кочанжи</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Отпущу свою боль</title>
+<key>C#m</key>
 <hymn_number>167</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -45,4 +44,5 @@
    Ты прости я ничего не стою,
 .  H    G#m    Bbm    D#m
    Без Тебя и Твоей любви.</lyrics>
+<author>Дарина Кочанжи</author>
 </song>

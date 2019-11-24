@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <title>Одно желанье</title>
-<key>E</key>
+<hymn_number>731</hymn_number>
 <lyrics>[V1]
 .E/G#                 A
  Ты всё для меня отдал желания души в Твоих руках
@@ -32,5 +32,5 @@
 [V4]
 .    E  A/F#     E/G#   A   C#m          H       E/G# A
  Прошу я,    Прошу   я об одном просто быть с Тобой.</lyrics>
-<hymn_number>731</hymn_number>
+<author>Hillsong Ukraine</author>
 </song>

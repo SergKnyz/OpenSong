@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2245</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 КУПЛЕТ:
 .C
  Суть рождения Иисуса
@@ -45,7 +44,8 @@
  Наши взоры на Христа
  Благодарностью наполним
  Наши души и сердца!</lyrics>
-<key>C</key>
-<title>Рождество</title>
+<hymn_number>2245</hymn_number>
 <author>Марин и Марина Севастиян</author>
+<title>Рождество</title>
+<key>C</key>
 </song>

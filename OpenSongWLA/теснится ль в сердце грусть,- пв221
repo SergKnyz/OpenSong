@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Теснится ль в сердце грусть,- ПВ221</title>
-<aka>В минуту жизни трудную</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>В минуту жизни трудную</aka>
 <hymn_number>221</hymn_number>
 <lyrics>[V1]
  В минуту жизни трудную,
@@ -19,4 +17,6 @@
  Сомненье далеко,
  И верится, и плачется,
  И так легко, легко.</lyrics>
+<key>D</key>
+<title>Теснится ль в сердце грусть,- ПВ221</title>
 </song>

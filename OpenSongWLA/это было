@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Это было</title>
+<key>B</key>
+<author>Эдем</author>
+<lyrics>[V1]
  1 куплет:
 .Hm                          F#/A#
  Вот уже прошли тысячелетья, но хочется нам снова вспоминать,
@@ -38,7 +41,4 @@
 .      Dm7            C/E            F           G
    Он ждёт тебя, Он ждёт тебя, Он ждёт тебя давно.</lyrics>
 <hymn_number>276</hymn_number>
-<author>Эдем</author>
-<title>Это было</title>
-<key>B</key>
 </song>

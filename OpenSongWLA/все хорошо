@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Все хорошо</title>
+<key>G</key>
+<lyrics>[V1]
  1 куплет:
 .G                 D      Em
  Земля трепещет, стихнет шторм,
@@ -65,8 +67,7 @@
    «Бог благой» - сердце пой!
 .          C         Dsus4  D       Em
    Бог благой, Он благой, благ ко мне!</lyrics>
-<hymn_number>5586</hymn_number>
+<hymn_number>3389</hymn_number>
 <author>Supernatural Worship, Бетхел Мусиц</author>
-<title>Все хорошо</title>
-<key>G</key>
+<aka>Земля трепещет, стихнет шторм,</aka>
 </song>

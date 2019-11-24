@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Знаешь ли ручей что бежит ПВ421</title>
-<key>A</key>
-<hymn_number>2777</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2777</hymn_number>
 <lyrics>[V1]
  Знаешь ли ручей, что бежит
  Со креста, где умер Христос?
@@ -36,4 +34,6 @@
  Со креста текущий ручей;
  Льется в нем для всех благодать;
  Им я сделан снега белей.</lyrics>
+<key>A</key>
+<title>Знаешь ли ручей что бежит ПВ421</title>
 </song>

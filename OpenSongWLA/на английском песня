@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ближе, Любовью Своею пленил.</aka>
-<key>B</key>
-<title>на английском песня</title>
-<author>Bethel Music, Бетхел Мусиц</author>
-<hymn_number>2623</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .C#m           H
  Любовью Своею пленил.
@@ -35,4 +30,9 @@
    Ооо-ооо, велика Твоя любовь, Бог
 .  A  E  H        C#m
    Ооо-ооо, велика любовь Твоя.</lyrics>
+<hymn_number>2623</hymn_number>
+<author>Bethel Music, Бетхел Мусиц</author>
+<aka>Ближе, Любовью Своею пленил.</aka>
+<key>B</key>
+<title>на английском песня</title>
 </song>

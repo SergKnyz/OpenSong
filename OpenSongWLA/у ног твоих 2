@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>162</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев</author>
 <lyrics>[V1]
  1 куплет:
 .C#m      A E         H
@@ -50,7 +50,7 @@
 [V5]
 .C#m      A E         H
  У ног Твоих я сердце отдаю</lyrics>
-<title>У ног Твоих</title>
+<hymn_number>162</hymn_number>
 <key>C#m</key>
-<author>Алексей Каратаев</author>
+<title>У ног Твоих</title>
 </song>

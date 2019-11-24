@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3853</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Шум воды</title>
+<key>D</key>
+<hymn_number>3853</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Dm                    D
@@ -34,7 +36,5 @@
    Когда один и этот звук безмерно слышать рад
    Вода проточит твердь скалы оставив в ней следы
    И я услышу скоро шум прорвавшейся воды</lyrics>
-<title>Шум воды</title>
-<key>D</key>
 <author>Imprintband</author>
 </song>

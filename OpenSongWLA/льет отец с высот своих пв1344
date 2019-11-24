@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<title>Льет Отец с высот Своих ПВ1344</title>
-<aka>Благодатный свет обильно</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Льет Отец с высот Своих ПВ1344</title>
+<key>Bb</key>
+<hymn_number>1344</hymn_number>
 <lyrics>[V1]
 .Bb                Eb
  Благодатный свет обильно
@@ -32,5 +32,5 @@
  В чувствах ваших и делах.
  Чтобы в свете том был виден
  Наш Отец на небесах!</lyrics>
-<hymn_number>1344</hymn_number>
+<aka>Благодатный свет обильно</aka>
 </song>

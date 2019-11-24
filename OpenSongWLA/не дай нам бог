@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Не дай нам Бог</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Не дай нам Бог</title>
 <author>Эдуард Акулов</author>
-<hymn_number>1351</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .           Am                    Em
@@ -53,4 +52,5 @@
  Читать ее и слушать, не вникая,
  И терминами речь пересыпая,
  Не дай нам Бог, не дай нам Бог.</lyrics>
+<hymn_number>1351</hymn_number>
 </song>

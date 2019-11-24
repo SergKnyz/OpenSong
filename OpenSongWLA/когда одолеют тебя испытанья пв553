@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Когда одолеют тебя испытанья ПВ553</title>
-<key>D</key>
-<hymn_number>553</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>553</hymn_number>
 <lyrics>[V1]
  Когда одолеют тебя испытанья,
  Когда в непосильной устанешь борьбе
@@ -32,4 +30,6 @@
  Ведь жизнь и в страданье всегда хороша.
  В ней большего счастья не может и быть:
  Надеяться, верить, любить.</lyrics>
+<title>Когда одолеют тебя испытанья ПВ553</title>
+<key>D</key>
 </song>

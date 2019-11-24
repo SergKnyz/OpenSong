@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>Мне так нужен Ты</title>
-<author>Ольга Марина</author>
-<hymn_number>764</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мне так нужен Ты</title>
+<key>F#</key>
 <lyrics>[V1]
  Куплет:
 .F#m     Hm       D                  E
@@ -33,4 +31,6 @@
    Твоя вселенная
 .       D A   E    Hm
    И всё в Твоих руках</lyrics>
+<hymn_number>764</hymn_number>
+<author>Ольга Марина</author>
 </song>

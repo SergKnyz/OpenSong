@@ -1,7 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1802</hymn_number>
+<lyrics>[V1]
+. E Gbm
  Тишина, ночь прикрыла равнину крылом
+.B A B
  Но глаза ярких звёзд светят в небе ночном
+.E Abm/E# Abm/D A Am
  Пастухи охраняют спокойно стада
+.E B Cdim Dbm A E B E
  Всё молчит, тишина, тишина.
 
 [V2]
@@ -15,6 +20,7 @@
  Совершилися ныне на грешной земле
  В величавом безмолвии Божьи дела
  В сердце мир, тишина, тишина.</lyrics>
-<hymn_number>1802</hymn_number>
+<aka>Тишина, ночь прикрыла равнину крылом</aka>
+<key>E</key>
 <title>Тишина</title>
 </song>

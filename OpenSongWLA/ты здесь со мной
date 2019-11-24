@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты здесь со мной</title>
-<key>A</key>
-<author>Worship Emmanuil</author>
-<hymn_number>3918</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Worship Emmanuil</author>
 <lyrics>[V1]
  Куплет 1
 .Am    F
@@ -32,4 +29,7 @@
  Ты пришел в жизнь мою
 .C                G
  Ты пришел в жизнь мою</lyrics>
+<hymn_number>3918</hymn_number>
+<title>Ты здесь со мной</title>
+<key>A</key>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Благодарю Тебя Господь  За то, что подарил мне мужа</title>
-<key>Am</key>
-<aka>Благодарю за мужа</aka>
-<hymn_number>1292</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Am                 E/Ab
  Благодарю Тебя Господь
 .G                      Dm
@@ -42,4 +38,8 @@
  Что я здорова, он здоров
  За то что Ты к нам добр и строг
  Благодарю тебя мой Бог.</lyrics>
+<hymn_number>1292</hymn_number>
+<aka>Благодарю за мужа</aka>
+<key>Am</key>
+<title>Благодарю Тебя Господь  За то, что подарил мне мужа</title>
 </song>

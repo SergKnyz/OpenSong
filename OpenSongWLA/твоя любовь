@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Жанат Кусаинова</author>
-<title>Твоя любовь</title>
-<key>Dm</key>
+<hymn_number>5017</hymn_number>
 <lyrics>[V1]
  Intro: Dm Gm A Dm Bb Gm A Dm
 .Dm   Gm                    A
@@ -73,5 +72,6 @@
    Как птица лечу я, в Небеса! ////
 .  Gm     A   Dm       Bb    C      Dm
    Твоя любовь! Твоя любовь! Твоя любовь!</lyrics>
-<hymn_number>5017</hymn_number>
+<key>Dm</key>
+<title>Твоя любовь</title>
 </song>

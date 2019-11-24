@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Я стою на земле Твоей небеса слава Твоя</aka>
-<title>Воспою Красоту</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Воспою Красоту</title>
 <key>B</key>
 <author>Милана Люлькин</author>
-<hymn_number>3140</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .   Hm      A/C#    D     Hm   A/C#    D
@@ -33,4 +31,6 @@
  Человека создал Творец жизнь в него как ручей вдохнул
  Наделил красотой Своей выбор дал знать куда идти
  Среди тёмных ***** ночей путь ко солнцу Он осветил</lyrics>
+<hymn_number>3140</hymn_number>
+<aka>Я стою на земле Твоей небеса слава Твоя</aka>
 </song>

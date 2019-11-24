@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя ИИПВ2</title>
 <key>D</key>
-<hymn_number>2</hymn_number>
 <lyrics>[V1]
 .D         G         A
  Аллилуйя, Аллилуйя, Аллилуйя
@@ -22,4 +21,6 @@
  Иисус, Иисус. В Иисусе Христе.
 .D G  A7 D
  Аллилуйя!</lyrics>
+<hymn_number>2</hymn_number>
+<aka>Аллилуйя, Аллилуйя, Аллилуйя</aka>
 </song>

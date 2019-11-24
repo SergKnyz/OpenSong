@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Библию читай каждый день</title>
+<key>Bb</key>
+<aka>Молись всегда, молись всегда.</aka>
+<lyrics>[V1]
 .Bb
  Библию читай каждый день,
 .F                Bb
@@ -14,6 +17,4 @@
 .  Bb                        Eb    F     Bb
    Библию читай каждый день, чтоб тебе расти.</lyrics>
 <hymn_number>4999</hymn_number>
-<key>Bb</key>
-<title>Библию читай каждый день</title>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Будьте совершенны, как Он свят,</title>
+<key>C</key>
+<lyrics>[C1]
    Припев:
 .               C               D
    Будьте совершенны, как Он свят,
@@ -40,7 +42,5 @@
  В вере святость покажите быстрей.</lyrics>
 <hymn_number>125</hymn_number>
 <author>Артём Янский</author>
-<key>C</key>
-<title>Будьте совершенны, как Он свят,</title>
 <aka>А кто свят, тот на небо взят.</aka>
 </song>

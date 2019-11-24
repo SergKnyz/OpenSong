@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя Аллилуйя Буду славить я Того ПВ1660</title>
-<key>D</key>
-<hymn_number>1660</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .    D           Em
  Аллилуйя! Аллилуйя!
 .      G          A
@@ -30,4 +27,8 @@
  // Иисус, благодарю Тебя
  за дар любви святой.
  За прощенье, за спасенье.  //</lyrics>
+<hymn_number>1660</hymn_number>
+<aka>Кто всех дороже.</aka>
+<title>Аллилуйя Аллилуйя Буду славить я Того ПВ1660</title>
+<key>D</key>
 </song>

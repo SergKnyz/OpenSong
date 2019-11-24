@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Покой и мир</title>
-<author>Hillsong Ukraine</author>
-<hymn_number>687</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
  1 куплет:
 .Em D/F#  G     Em   D   C
@@ -38,4 +35,7 @@
    Так близко сейчас Ты держишь меня,
 .  A      F#m         Hm         E/G#
    Мой Господь, верю я, будешь Ты со мной всегда.</lyrics>
+<hymn_number>687</hymn_number>
+<key>E</key>
+<title>Покой и мир</title>
 </song>

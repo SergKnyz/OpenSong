@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<title>Слышишь ли ты голос Божий ПВ774</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Слышишь ли ты голос Божий -
  Нежно для тебя звучит;
  У дверей стоит прохожий,
@@ -26,4 +24,6 @@
  Если ты и пошатнулся,
  Может Он тебя поднять.</lyrics>
 <hymn_number>1836</hymn_number>
+<key>B</key>
+<title>Слышишь ли ты голос Божий ПВ774</title>
 </song>

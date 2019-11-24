@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>53</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .Hm                    G      A
  Твоя любовь, она велика ко мне,
@@ -34,7 +33,8 @@
    Будем славить, Он великий,
 .          A          G
    Будем славить, Он Бог.</lyrics>
-<title>Вся слава Тебе</title>
-<key>B</key>
+<hymn_number>53</hymn_number>
 <author>Слово Жизни Music</author>
+<key>B</key>
+<title>Вся слава Тебе</title>
 </song>

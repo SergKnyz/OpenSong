@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Чьим словам поверишь ты?</title>
-<key>C</key>
 <lyrics>[V1]
 .    Am7           F
  //  Чьим словам поверишь ты?
@@ -15,4 +14,5 @@
    Бог сказал свободен я!
 .  A#          Esus2  E
    Есть победа у меня!</lyrics>
+<key>C</key>
 </song>

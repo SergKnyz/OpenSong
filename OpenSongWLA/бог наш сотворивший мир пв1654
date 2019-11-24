@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бог наш сотворивший мир ПВ1654</title>
-<key>D</key>
-<hymn_number>5644</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Бог наш сотворивший мир ПВ1654</title>
 <lyrics>[V1]
 .D            G
  Бог наш, сотворивший мир,
@@ -32,4 +31,5 @@
  Кто из милости жизнь даровал.
  Любит тебя и хочет спасти.
  Чтоб в радости ты путь свершал.</lyrics>
+<hymn_number>5644</hymn_number>
 </song>

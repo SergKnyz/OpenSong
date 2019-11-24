@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Павел Плахотин</author>
-<aka>Благодать</aka>
-<title>Твою благодать не могу я понять</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Твою благодать не могу я понять</title>
 <key>G</key>
+<author>Павел Плахотин</author>
 <lyrics>[V1]
  1 куплет:
 .           G               Em
@@ -58,4 +57,5 @@
 .   Hm              E  Hm          E
    Я каждый день живу благодатью новой.</lyrics>
 <hymn_number>590</hymn_number>
+<aka>Благодать</aka>
 </song>

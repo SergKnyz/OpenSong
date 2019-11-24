@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Вставай скорей ИИПВ60</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .     G      C       D7       G
  Вставай скорей, мы Бога восхвалим.
 .            C        D7
@@ -20,4 +18,6 @@
 .     C     D7        G
  Наш Бог, Ты - наш Царь.</lyrics>
 <hymn_number>60</hymn_number>
+<key>G</key>
+<title>Вставай скорей ИИПВ60</title>
 </song>

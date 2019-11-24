@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Аня Монах</author>
+<lyrics>[V1]
  Иисус, Ты - наш царь, Бог, Ты един,
  Сильный, Спаситель, Ты непобедим,
  Слава, хвала вся, величие Тебе, -
@@ -22,8 +23,7 @@
  Пусть ангелы Неба воскликнут Тебе:
  Аллилуйя, Аллилуйя!</lyrics>
 <hymn_number>3001</hymn_number>
-<author>Аня Монах</author>
 <aka>Иисус, Ты - наш царь, Бог, Ты един</aka>
-<key>A</key>
 <title>Аллилуйя (Божественное вдохновение)</title>
+<key>A</key>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>За что?</title>
-<author>Вайдас Вишняускас, Виталий Ефремочкин</author>
-<hymn_number>4098</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Intro:
 
 [V2]
@@ -53,4 +49,8 @@
    Святой!  Ты Святой!
 .     Am  G   D/F#        F
    Святой!  Святой! Преклоняюсь пред Тобой!</lyrics>
+<hymn_number>4098</hymn_number>
+<author>Вайдас Вишняускас, Виталий Ефремочкин</author>
+<key>E</key>
+<title>За что?</title>
 </song>

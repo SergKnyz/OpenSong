@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Не в словах молитвенных речей ПВ48</title>
-<hymn_number>48</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Не в словах молитвенных речей
  И не в песнях жизнь души моей.
  Вся она сокрыта во Христе:
@@ -42,4 +39,7 @@
  Крепость и покров, Спаситель мой!
  Вечное блаженство дал Ты мне:
  Все мои источники в Тебе!</lyrics>
+<hymn_number>48</hymn_number>
+<title>Не в словах молитвенных речей ПВ48</title>
+<key>D</key>
 </song>

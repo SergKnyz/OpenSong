@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>5 минут</title>
-<key>Dm</key>
-<author>Gospel People</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Gospel People</author>
 <hymn_number>2342</hymn_number>
 <lyrics>[V1]
-.Dm          Cm         G          Am
+.    
+     
  Куда ты Дима? просила мама, уже поздно будь дома
  Я в магазин куплю воду, через 5 минут буду
  Прошло 2 часа, но мать не идёт спать
@@ -98,4 +97,6 @@
  Он упал на землю, и уж как бы во сне
  Услышал Дима те, последние слова
  Проверь бумажник и все, валим от сюда.</lyrics>
+<key>Dm</key>
+<title>5 минут</title>
 </song>

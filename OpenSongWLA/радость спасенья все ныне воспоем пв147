@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5020</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Радость спасенья Все ныне воспоем ПВ147</title>
+<key>D</key>
 <lyrics>[V1]
  Радость спасенья
  Все ныне воспоем,
@@ -28,6 +29,5 @@
  С хваленьем на устах,
  Петь в здешней жизни
  И после в небесах.</lyrics>
-<title>Радость спасенья Все ныне воспоем ПВ147</title>
-<key>D</key>
+<hymn_number>5020</hymn_number>
 </song>

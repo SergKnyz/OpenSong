@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Это Иисус</title>
-<key>F#</key>
-<author>Ольга Марина</author>
-<hymn_number>2746</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    F#m                    E
  Смотри, Иисус там пребит ко кресту
@@ -41,4 +37,8 @@
    Его любовь
 .         D
    Для меня</lyrics>
+<hymn_number>2746</hymn_number>
+<author>Ольга Марина</author>
+<title>Это Иисус</title>
+<key>F#</key>
 </song>

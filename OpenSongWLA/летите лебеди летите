@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Авана</author>
-<key>A</key>
-<title>Летите лебеди летите</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .                Am
  Дождь прошёл и листья пожелтели
@@ -42,4 +39,7 @@
  С Ним мы долетим в пределы рая
  Вечно будем с Богом в небесах</lyrics>
 <hymn_number>5952</hymn_number>
+<author>Авана</author>
+<key>A</key>
+<title>Летите лебеди летите</title>
 </song>

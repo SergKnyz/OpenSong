@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>190</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Мы возносим руки ИИПВ190</title>
 <lyrics>[V1]
 . E
  Мы возносим руки: «Богу хвала»!
@@ -29,6 +30,5 @@
    Аллилуйя! Богу хвала
 .     E               B7       E
    За то, что Ты нам жизнь подарил.</lyrics>
-<key>E</key>
-<title>Мы возносим руки ИИПВ190</title>
+<hymn_number>190</hymn_number>
 </song>

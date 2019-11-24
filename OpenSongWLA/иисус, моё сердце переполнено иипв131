@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Иисус, моё сердце переполнено ИИПВ131</title>
-<author>Сәлем қауымы Алматы тр 10</author>
-<hymn_number>131</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сәлем қауымы Алматы тр 10</author>
 <lyrics>[V1]
 .D           A          Bm
  Иисус, мое сердце переполнено
@@ -21,4 +18,7 @@
    Иисус___
 .        G            A            D
    Я люблю Тебя, мой Бог и мой Господь!</lyrics>
+<hymn_number>131</hymn_number>
+<title>Иисус, моё сердце переполнено ИИПВ131</title>
+<key>D</key>
 </song>

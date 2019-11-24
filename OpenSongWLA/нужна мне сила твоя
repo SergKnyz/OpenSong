@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>12</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .         Em              Am
  Наполни славой, наполни силой
@@ -27,7 +26,8 @@
  Проговори мне в этот миг, чтоб глубину Твою постичь.
  О Авва Отче, просветишь очи,
  И на Тебя буду взирать, в духе Твоём отдыхать.</lyrics>
+<hymn_number>12</hymn_number>
+<author>Артём Янский</author>
 <title>Нужна мне сила Твоя</title>
 <key>E</key>
-<author>Артём Янский</author>
 </song>

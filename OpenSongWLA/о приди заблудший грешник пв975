@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О приди заблудший грешник ПВ975</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>975</hymn_number>
 <lyrics>[V1]
  О, приди, заблудший грешник.
  Вот Иисус тебя зовет.
@@ -23,5 +22,6 @@
  У Креста кто грех сложил.
  Для богатых и убогих
  Он спасенье совершил.</lyrics>
-<hymn_number>975</hymn_number>
+<title>О приди заблудший грешник ПВ975</title>
+<key>A</key>
 </song>

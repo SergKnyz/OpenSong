@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Рождественская колыбельная</title>
-<hymn_number>1944</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Спустилась ночь на Вифлеем -
  Красив её наряд.
  Звезда с небес сияет всем.
@@ -31,4 +29,6 @@
  Отныне с нами Бог.
  /// А - а - а - а,
  Отныне с нами Бог! ///</lyrics>
+<hymn_number>1944</hymn_number>
+<title>Рождественская колыбельная</title>
 </song>

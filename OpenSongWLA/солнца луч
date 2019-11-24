@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Солнца луч</title>
+<key>D</key>
+<author>Ладони</author>
+<hymn_number>5750</hymn_number>
+<lyrics>[V1]
 .D           G
  Солнца луч одарит теплом землю.
 .D           G
@@ -33,8 +37,4 @@
  Ты - твердыня для нас,
 .       D
  Наш Господь и Отец.</lyrics>
-<hymn_number>5750</hymn_number>
-<author>Ладони</author>
-<title>Солнца луч</title>
-<key>D</key>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1560</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Возлюбл__енный мой,   я пойду за Тобой!</title>
+<author>Рома Иванько</author>
 <lyrics>[V1]
  1 куплет:
 .Am  G/H  C       F  Dm      Em      Am
@@ -30,8 +32,6 @@
  2 куплет:
  Возлюбленный мой постучал и ушёл,
  И у двери аромат мой нарушил покой.</lyrics>
-<title>Возлюбл__енный мой,   я пойду за Тобой!</title>
-<key>A</key>
+<hymn_number>1560</hymn_number>
 <aka>Влеки меня</aka>
-<author>Рома Иванько</author>
 </song>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Возможно всё</title>
-<key>B</key>
-<aka>Ты меня познал, за Собой позвал</aka>
-<author>Alaniaworshipband, Генерацио́н 12</author>
-<hymn_number>3310</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Возможно всё</title>
 <lyrics>[V1]
  1 куплет :
 .Hm            G
@@ -43,4 +40,7 @@
    С Тобой, Иисус, возможно всё,
 .  Hm   G     D            A
    С Твоим огнем, мы весь путь пройдём.</lyrics>
+<hymn_number>3310</hymn_number>
+<author>Alaniaworshipband, Генерацио́н 12</author>
+<aka>Ты меня познал, за Собой позвал</aka>
 </song>

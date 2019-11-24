@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>G#m</key>
+<title>Воду в вино превратил (перевод Hillsong)</title>
+<aka>Наш Бог</aka>
+<hymn_number>309</hymn_number>
+<lyrics>[V1]
  Куплет:
 .G#m       E        H
  Воду в вино превратил,
@@ -34,9 +38,5 @@
    И если наш Бог с нами,
 .  F#
    Кто против нас пойдёт?</lyrics>
-<hymn_number>309</hymn_number>
-<author>Йессе Реевес, Йонас Мырин, Матт Редман, Цхрис Томлин</author>
-<key>G#m</key>
-<title>Воду в вино превратил (перевод Hillsong)</title>
-<aka>Наш Бог</aka>
+<author>Цхрис Томлин, Матт Редман, Йонас Мырин, Йессе Реевес</author>
 </song>

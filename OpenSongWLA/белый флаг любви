@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3201</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Белый флаг любви</title>
+<key>Dm</key>
 <lyrics>[V1]
 .Dm                           Bb
  Бог любит тебя, так любит тебя,
@@ -42,8 +43,7 @@
    Твоя любовь охраняет нас
    Белый флаг любви Ты поднимаешь вновь
    и прощаешь нас, Твоё имя - Любовь //</lyrics>
-<title>Белый флаг любви</title>
-<key>Dm</key>
-<aka>Бог любит тебя, так любит тебя,</aka>
+<hymn_number>3201</hymn_number>
 <author>Ира Калиниченко</author>
+<aka>Бог любит тебя, так любит тебя,</aka>
 </song>

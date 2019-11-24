@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Шкляев</author>
-<title>Как я устал быть в оковах</title>
-<key>Em</key>
-<aka>Тебя восхвалю я всей душой</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em       C           G
  Как я устал быть в оковах
 .Em       C            G
@@ -45,4 +41,8 @@
 .            D
  О как Ты велик Наш Царь и наш Бог!</lyrics>
 <hymn_number>400</hymn_number>
+<author>Алексей Шкляев</author>
+<aka>Тебя восхвалю я всей душой</aka>
+<key>Em</key>
+<title>Как я устал быть в оковах</title>
 </song>

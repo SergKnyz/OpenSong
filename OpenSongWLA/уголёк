@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1558</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
+<title>Уголёк</title>
+<author>Краеугольный камень</author>
 <lyrics>[V1]
  Куплет:
 .Hm             G   D            A
@@ -31,7 +33,5 @@
    Что бы ты ни делал - славь Его с любовью!
 .    A                    F#
    Что бы ты ни делал - славь Его с любовью!</lyrics>
-<key>F#</key>
-<title>Уголёк</title>
-<author>Краеугольный камень</author>
+<hymn_number>1558</hymn_number>
 </song>

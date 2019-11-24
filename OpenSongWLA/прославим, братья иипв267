@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Прославим, братья ИИПВ267</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>267</hymn_number>
 <lyrics>[V1]
 .G.   D        C       D        G
  Прославим, братья, Иисуса Христа!
@@ -11,5 +10,6 @@
  Пустьлюди смотрят в небесную высь,
  Онверный путь среди моря дорог.
  Аллилуйя!...</lyrics>
-<hymn_number>267</hymn_number>
+<key>G</key>
+<title>Прославим, братья ИИПВ267</title>
 </song>

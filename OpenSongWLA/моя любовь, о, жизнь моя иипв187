@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Моя любовь, о, жизнь моя ИИПВ187</title>
-<key>G</key>
-<hymn_number>187</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  G    D7              G
  Моя любовь, о, жизнь моя,
 . C        A7    D D7
@@ -18,4 +15,7 @@
  Вовеки я люблю Тебя
 .  C       D7   G
  Всем сердцем моим.</lyrics>
+<hymn_number>187</hymn_number>
+<title>Моя любовь, о, жизнь моя ИИПВ187</title>
+<key>G</key>
 </song>

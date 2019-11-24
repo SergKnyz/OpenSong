@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Даниел Грул, Стеве МцПхерсон, Йохн Еззы</author>
-<key>F</key>
-<title>Иисус, Ты - любовь моя ИИПВ135</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>135</hymn_number>
 <lyrics>[V1]
 .F       A7
  Иисус, Ты - любовь моя.
@@ -20,6 +18,8 @@
    Спаситель, мой лучший Друг.
 .  Dm7                Bb            C7
    Прославлять Тебя я буду вновь и вновь.</lyrics>
+<author>Йохн Еззы, Стеве МцПхерсон, Даниел Грул</author>
+<title>Иисус, Ты - любовь моя ИИПВ135</title>
+<key>F</key>
 <copyright>1992 Хиллсонг Публисхинг</copyright>
-<hymn_number>1007</hymn_number>
 </song>

@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Если ждет тебя дорога</title>
-<key>A</key>
-<author>Виталий Русавук, Виталия Еременко</author>
-<hymn_number>4014</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Если ждет тебя дорога</title>
 <lyrics>[V1]
  1 куплет:
 .Am                          Dm          C
  Если ждет тебя дорога в неизвестный край
-.Bdim                E          Am G
+.Hm                E          Am G
  На прощанье у порога думы не гадай
 .  C              A             Dm
  Слово доброе послушай и совет прими
@@ -41,4 +39,6 @@
    В неизвестный край
 .                 Hm
    В неизвестный край</lyrics>
+<hymn_number>4014</hymn_number>
+<author>Виталия Еременко, Виталий Русавук</author>
 </song>

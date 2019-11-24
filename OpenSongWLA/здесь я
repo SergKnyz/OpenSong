@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1715</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Здесь я</title>
+<key>A</key>
 <lyrics>[V1]
  1 куплет:
 . Am             Bb
@@ -34,7 +35,6 @@
    Порой всё не так, как хочешь Ты! Прости...
 .    Gm               F          Em
    Я больше жить так не хочу! Молю...</lyrics>
-<title>Здесь я</title>
-<key>A</key>
+<hymn_number>1715</hymn_number>
 <author>Корван</author>
 </song>

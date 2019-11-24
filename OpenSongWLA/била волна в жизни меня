@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2355</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Cm</key>
+<title>Била волна в жизни меня</title>
+<aka>Рвала со всех своих сил,</aka>
 <lyrics>[V1]
 .Cm           D7
  Била волна в жизни меня,
@@ -46,6 +48,5 @@
  Я буду сражаться с волной,
  Но песня моя - о Божьей любви,
  Что я возвращаюсь домой.</lyrics>
-<title>Била волна в жизни меня</title>
-<key>Cm</key>
+<hymn_number>2355</hymn_number>
 </song>

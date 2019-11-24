@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
-<title>Яви нам милость</title>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am                    G   Dm           Am
  В смирении приходим мы искать Твоей руки
@@ -35,4 +32,7 @@
 .      Bb                           E
    Но милость свою Ты превознес превыше небес</lyrics>
 <hymn_number>990</hymn_number>
+<author>Виталий Ефремочкин</author>
+<title>Яви нам милость</title>
+<key>A</key>
 </song>

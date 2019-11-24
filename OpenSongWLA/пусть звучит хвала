@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Пусть звучит хвала</title>
+<lyrics>[C1]
    Припев:
 .   H               F#
    Пусть, пусть звучит хвала
@@ -35,6 +37,4 @@
    Славь Его, Славь Его.</lyrics>
 <hymn_number>2630</hymn_number>
 <author>Алексей Каратаев, Йеремы Риддле</author>
-<key>B</key>
-<title>Пусть звучит хвала</title>
 </song>

@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><tempo>96</tempo>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Любовью сильною и вечной</title>
+<time_sig>4/4</time_sig>
+<key>E</key>
+<aka>В страну молчания вселилась</aka>
+<author>Вячеслав Кузнецов, Софья Баязова</author>
+<tempo>96</tempo>
 <hymn_number>45</hymn_number>
 <lyrics>[V1]
 .E                     Hm7
@@ -49,9 +54,4 @@
  Сын на Голгофе, Сын на Голгофе,
 . F#m                H7
  Сын на Голгофе победил!</lyrics>
-<time_sig>4/4</time_sig>
-<aka>В страну молчания вселилась</aka>
-<title>Любовью сильною и вечной</title>
-<key>E</key>
-<author>Вячеслав Кузнецов, Софья Баязова</author>
 </song>

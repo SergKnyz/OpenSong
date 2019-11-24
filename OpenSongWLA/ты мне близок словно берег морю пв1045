@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Ты мне близок словно берег морю ПВ1045</title>
-<hymn_number>136</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ты мне близок, словно берег морю.
  Ты мне дорог словно детям мать.
  Ты пришел, чтоб сладким сделать горе.
@@ -24,4 +21,7 @@
  Я живу, пока в свой час умру.
  Ты мне ближе, чем песок прибою,
  И дороже, чем вода в жару.</lyrics>
+<hymn_number>136</hymn_number>
+<key>A</key>
+<title>Ты мне близок словно берег морю ПВ1045</title>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Вся хвала Тебе Господь</title>
-<author>Ольга Марина</author>
-<hymn_number>2403</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C
  Вся хвала, Тебе, Господь
 .Am
@@ -28,4 +24,8 @@
  Избавитель мой
 .A D
  Это Он, это Он</lyrics>
+<hymn_number>2403</hymn_number>
+<author>Ольга Марина</author>
+<title>Вся хвала Тебе Господь</title>
+<key>C</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Благодать Свою яви</aka>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <title>Бог, нам пошли благодать Свою из Своей руки</title>
 <lyrics>[V1]
 .C                        F             C
@@ -32,4 +31,5 @@
 .     C(Bb)           Dm     C Bb (F)
    // Благодать свою яви. //</lyrics>
 <hymn_number>1882</hymn_number>
+<aka>Благодать Свою яви</aka>
 </song>

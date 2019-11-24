@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>4U Band</author>
-<title>Так близко</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Так близко</title>
 <key>C#m</key>
 <lyrics>[V1]
  1 Куплет:
@@ -33,4 +32,5 @@
 .  E               H
    Вовеки со мною Ты</lyrics>
 <hymn_number>45</hymn_number>
+<author>4U Band</author>
 </song>

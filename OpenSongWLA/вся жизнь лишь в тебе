@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><time_sig>2/4</time_sig>
 <title>Вся жизнь лишь в Тебе</title>
-<time_sig>2/4</time_sig>
+<key>F</key>
+<tempo>160</tempo>
 <lyrics>[V1]
 .     F
  Вся жизнь лишь в Тебе, Бог,
@@ -20,6 +21,5 @@
    Всё сердце моё, все мысли мои,
 .    Eb    Gm        C7
    Всё отдаю лишь Тебе.</lyrics>
-<tempo>160</tempo>
 <hymn_number>80</hymn_number>
 </song>

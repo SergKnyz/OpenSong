@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Worship ZC</author>
-<title>Навеки, навсегда</title>
-<key>C#m</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4640</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .C#m      A            E
@@ -37,5 +35,7 @@
    Один лишь миг в присутствии Твоем
 .  H
    Дороже тысячи лет жизни без Тебя!</lyrics>
-<hymn_number>4640</hymn_number>
+<author>Worship ZC</author>
+<key>C#m</key>
+<title>Навеки, навсегда</title>
 </song>

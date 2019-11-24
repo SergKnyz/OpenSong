@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1009</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Изнутри</title>
+<copyright>2005 Хиллсонг Публисхинг</copyright>
+<author>Хиллсонг, Йоел Хоустон</author>
+<hymn_number>1009</hymn_number>
 <lyrics>[V1]
 .      F                     C     G
  Пусть падал тысячу раз - со мной милость Твоя
@@ -34,6 +38,4 @@
    Прославлять лишь Тебя - крик души моей
 .      F   G     F  G
    Изнутри Тебя жаждет душа моя</lyrics>
-<title>Изнутри</title>
-<key>C</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Не плачь</title>
-<author>Imprintband</author>
-<hymn_number>223</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
 <lyrics>[V1]
 .Am                   F         G            Dm
  Когда рушатся все планы и мечты и когда неудачи твою жизнь рушат
@@ -42,4 +39,7 @@
    Порошу, прости меня!  Я не хочу так жить
 .  Dm             C Bb                  E
    И знаю только Ты жизнь сможешь изменить</lyrics>
+<hymn_number>223</hymn_number>
+<title>Не плачь</title>
+<key>A</key>
 </song>

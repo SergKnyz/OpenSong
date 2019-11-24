@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>В душе покой</aka>
-<title>Управляет всем Господь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Управляет всем Господь</title>
 <author>Hillsong Worship, Хиллсонг Уорсхип</author>
-<hymn_number>3453</hymn_number>
 <lyrics>[V1]
  1 куплет:
  В душе покой
@@ -39,4 +37,6 @@
  Окутал Ты меня
  Своей любовью
  Окутал Ты меня</lyrics>
+<hymn_number>3453</hymn_number>
+<aka>В душе покой</aka>
 </song>

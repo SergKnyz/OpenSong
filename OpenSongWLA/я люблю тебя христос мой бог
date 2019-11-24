@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я люблю Тебя Христос мой Бог</title>
+<key>Eb</key>
+<author>Simple stuff</author>
+<lyrics>[V1]
  1 куплет:
 .D#        Bb   Fm              G#
  Я люблю Тебя.       Я люблю Тебя
@@ -45,7 +48,4 @@
 .      Fm  Cm        Bb  D#
    Мой Бог, люблю Тебя!__</lyrics>
 <hymn_number>275</hymn_number>
-<author>Simple stuff</author>
-<title>Я люблю Тебя Христос мой Бог</title>
-<key>Eb</key>
 </song>

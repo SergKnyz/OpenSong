@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Маяк</title>
-<key>F#</key>
-<author>Игорь Яловец</author>
-<hymn_number>62</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Игорь Яловец</author>
 <lyrics>[V1]
  1 Куплет:
 .              F#m           C#       F#m
@@ -30,4 +27,7 @@
  Какую выбрать мне из них, поможет Бог.
  Одна ведет туда, где ложь и суета,
  Но выбираю я дорогу в небеса.</lyrics>
+<hymn_number>62</hymn_number>
+<title>Маяк</title>
+<key>F#</key>
 </song>

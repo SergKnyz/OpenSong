@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>768</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты моё солнце</title>
+<key>G</key>
 <lyrics>[V1]
  Куплет:
 .   G      D        C            Em          D
@@ -27,7 +28,6 @@
    Прикоснуться к Тебе, я так жажду, прикоснуться к Тебе, я так жажду,
 .                   Am7       Hm           Em
    Прикоснуться к Тебе, я так жажду, о, Иисус!</lyrics>
-<title>Ты моё солнце</title>
-<key>G</key>
+<hymn_number>768</hymn_number>
 <author>Ольга Марина</author>
 </song>

@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>Я открою сердца дверь, воспою Тебя теперь</aka>
-<title>Воспою Тебя</title>
-<key>A</key>
-<author>Вадим Ятковский</author>
-<hymn_number>383</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am    G   C       F    Dm   Am   H7    E
@@ -33,4 +29,8 @@
  Святым духом снизойди на меня в Твоей любви,
  Поклоняюсь пред Тобой, наполняй меня Собой!
  Наполняй меня Собой!</lyrics>
+<hymn_number>383</hymn_number>
+<author>Вадим Ятковский</author>
+<key>A</key>
+<title>Воспою Тебя</title>
 </song>

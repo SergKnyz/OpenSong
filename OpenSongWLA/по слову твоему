@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
-<title>По Слову Твоему</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>По Слову Твоему</title>
+<key>C#m</key>
 <author>Виталий Ефремочкин</author>
-<hymn_number>3863</hymn_number>
 <lyrics>[V1]
  Куплет:
 .C#m              E
@@ -39,4 +38,5 @@
    Бридж:
 .  C#m  H/D#-E    H
    Дух Святой сойди!</lyrics>
+<hymn_number>3863</hymn_number>
 </song>

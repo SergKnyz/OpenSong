@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>28</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Руки к небу вознесу</title>
+<key>A</key>
 <lyrics>[V1]
  1 куплет:
 .Am                Dm
@@ -38,7 +39,6 @@
  Остатки прошлой боли, Ты забрал с Собой, с Собой мой Бог
  Каждый день со мной Иисус, Ты не только Бог, но друг
  Я слышу Тебя сердцем, живу с Тобой надеждой, мой Иисус.</lyrics>
-<key>A</key>
-<title>Руки к небу вознесу</title>
+<hymn_number>28</hymn_number>
 <author>Алексей Грудинский</author>
 </song>

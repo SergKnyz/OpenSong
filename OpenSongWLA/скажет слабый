@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine, Хиллсонг, Реубен Морган</author>
-<aka>Осанна</aka>
-<key>C</key>
-<title>Скажет слабый</title>
 <lyrics>[V1]
 .C   G   C
  Скажет слабый: Я силён
@@ -30,4 +27,7 @@
  Буду петь, что во Христе
  К новой жизни я воскрес.</lyrics>
 <hymn_number>2494</hymn_number>
+<aka>Осанна</aka>
+<key>C</key>
+<title>Скажет слабый</title>
 </song>

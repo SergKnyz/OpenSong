@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>419</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Вот я здесь</title>
+<author>Виталий Ефремочкин, Делуге Банд</author>
+<hymn_number>419</hymn_number>
 <lyrics>[V1]
  Куплет:
 .D                 Hm7
@@ -38,7 +41,5 @@
    Буду славить Тебя вечно
 .   G
    Буду славить Тебя</lyrics>
-<key>D</key>
-<title>Вот я здесь</title>
-<author>Виталий Ефремочкин, Делуге Банд</author>
+<aka>Прими жертву Ты мою на колени становлюсь</aka>
 </song>

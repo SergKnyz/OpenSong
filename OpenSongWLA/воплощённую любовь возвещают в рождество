@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Рождён</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
 <title>Воплощённую любовь  Возвещают в Рождество</title>
-<key>Bb</key>
-<author>Ксения Пейчева, Цхрис Томлин</author>
 <hymn_number>3994</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -44,4 +42,6 @@
 
 [B1]
    Instrumental:</lyrics>
+<author>Ксения Пейчева, Цхрис Томлин</author>
+<aka>Рождён</aka>
 </song>

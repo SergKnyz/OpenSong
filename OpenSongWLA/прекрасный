@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Прекрасный</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Прекрасный</title>
 <author>Алексей Каратаев</author>
-<hymn_number>3620</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .     G            A        D
@@ -44,4 +43,5 @@
    Тебе душа поёт Тебе душа поёт
 .     G       A               D
    Тебе душа поёт прекрасный Господь.</lyrics>
+<hymn_number>3620</hymn_number>
 </song>

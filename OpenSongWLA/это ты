@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<title>Это Ты</title>
-<author>Slavic New Beginnings Church</author>
-<hymn_number>492</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Это Ты</title>
+<key>B</key>
 <lyrics>[V1]
  1 куплет:
 .     H                   F#
@@ -44,4 +42,6 @@
  3 куплет:
  Пусть смотрят на меня все и видят жизнь Твою
  И Тебе земную славу пусть воздают</lyrics>
+<hymn_number>492</hymn_number>
+<author>Slavic New Beginnings Church</author>
 </song>

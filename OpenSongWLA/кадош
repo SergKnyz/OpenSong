@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>933</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Кадош</title>
+<key>G</key>
 <lyrics>[V1]
 .Am     Dm     Am
  Кадош, Кадош, Кадош!
@@ -13,6 +14,5 @@
    Адонай, Элохим, Саваоф.
 .       A         G        D     A
    Кто был и Кто есть, и Кто грядёт!</lyrics>
-<title>Кадош</title>
-<key>G</key>
+<hymn_number>933</hymn_number>
 </song>

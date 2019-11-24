@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Без любви на Земле не прожить и дня</title>
+<key>Bm</key>
+<lyrics>[V1]
 .Bm                G     A          F#
  Без любви на Земле не прожить и дня
 .    Em         F#     Bm     A
@@ -38,6 +40,5 @@
 .  G                     Cm
    Там на Голгофе любовь ждет Тебя</lyrics>
 <hymn_number>5164</hymn_number>
-<title>Без любви на Земле не прожить и дня</title>
-<key>Bm</key>
+<aka>Без неё нет сил и пустеет Земля</aka>
 </song>

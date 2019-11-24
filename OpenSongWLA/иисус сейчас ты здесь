@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>159</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус сейчас Ты здесь</title>
+<key>D</key>
 <lyrics>[V1]
 .D          E   A  D            E   A
  Иисус сейчас Ты здесь, Иисус сейчас Ты здесь...
@@ -10,7 +11,6 @@
  Твоя могучая сила здесь освободить меня,
 .D         E    A
  Иисус сейчас Ты здесь...</lyrics>
-<key>D</key>
-<title>Иисус сейчас Ты здесь</title>
+<hymn_number>159</hymn_number>
 <author>Виталий Ефремочкин</author>
 </song>

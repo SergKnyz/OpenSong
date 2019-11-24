@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Эдем</author>
-<title>Зажги свечу</title>
-<key>G</key>
 <lyrics>[V1]
  1 куплет:
 .D#        Cm        Fm          D#
@@ -60,4 +58,6 @@
 .  C      D    G
    От любви твоей!</lyrics>
 <hymn_number>251</hymn_number>
+<key>G</key>
+<title>Зажги свечу</title>
 </song>

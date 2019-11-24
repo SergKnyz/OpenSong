@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1483</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Тихо звезды на небе мерцают</aka>
+<hymn_number>1483</hymn_number>
 <lyrics>[V1]
  1 куплет:
 . D             Em
@@ -27,7 +28,7 @@
  Он-Младенец, и Он же Сын Божий.
  Перед Ним я колени склоняю
  Никого в мире нет мне дороже!</lyrics>
-<title>В Рождественский вечер</title>
-<key>D</key>
 <author>Песнь возрождения 2800</author>
+<key>D</key>
+<title>В Рождественский вечер</title>
 </song>

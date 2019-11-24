@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Mosaic MSC, Мосаиц МСЦ</author>
-<key>A</key>
-<title>Трепет</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3277</hymn_number>
 <lyrics>[V1]
  Трепет (Tremble) - перевод песни
 
@@ -61,5 +59,7 @@
    Иисус, Иисус, вся тьма дрожит пред Тобой.
 .  F       Am      G
    Иисус, Иисус...!</lyrics>
-<hymn_number>3277</hymn_number>
+<author>Mosaic MSC, Мосаиц МСЦ</author>
+<title>Трепет</title>
+<key>A</key>
 </song>

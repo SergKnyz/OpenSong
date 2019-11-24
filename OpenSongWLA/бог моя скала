@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>27</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<time_sig>4/4</time_sig>
+<title>Бог моя скала</title>
 <tempo>140</tempo>
 <lyrics>[V1]
 .D            G
@@ -23,7 +25,5 @@
    Бог моя скала -
 .    A7      D
    Скала спасения!</lyrics>
-<time_sig>4/4</time_sig>
-<title>Бог моя скала</title>
-<key>D</key>
+<hymn_number>27</hymn_number>
 </song>

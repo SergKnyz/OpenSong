@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Брикса</author>
+<hymn_number>1378</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .Hm           F#7        Hm
  Знаешь ли ручей, что бежит
@@ -47,8 +49,6 @@
  Со креста текущий ручей,
  Льётся в нём для всех благодать,
  Им я сделан снега белей!</lyrics>
-<hymn_number>1378</hymn_number>
-<author>Сергей Брикса</author>
-<title>Знаешь ли ручей</title>
 <key>B</key>
+<title>Знаешь ли ручей</title>
 </song>

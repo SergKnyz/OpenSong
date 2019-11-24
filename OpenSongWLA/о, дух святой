@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Путь Христа церковь, г. Нюрнберг</author>
-<title>О, Дух Святой</title>
-<key>D</key>
 <lyrics>[V1]
  1.
 .    Dm             Gm         Dm
@@ -38,4 +36,6 @@
 .   A                   Dm
  И за святую Кровь Христа.</lyrics>
 <hymn_number>3129</hymn_number>
+<key>D</key>
+<title>О, Дух Святой</title>
 </song>

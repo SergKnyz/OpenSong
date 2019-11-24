@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Тебя восхвалю я всей душой</title>
+<key>Em</key>
+<lyrics>[V1]
 .Em       C           G
  Как я устал быть в оковах
 .Em       C            G
@@ -43,6 +45,4 @@
 <hymn_number>400</hymn_number>
 <author>Алексей Шкляев</author>
 <aka>Как я устал быть в оковах</aka>
-<title>Тебя восхвалю я всей душой</title>
-<key>Em</key>
 </song>

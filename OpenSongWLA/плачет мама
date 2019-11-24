@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Плачет мама</title>
+<key>A</key>
+<lyrics>[V1]
  1 куплет:
 .Am          Em                 F                 Em
  Мама плакала... Хлопнув дверью ты ушёл с оскорбленным видом
@@ -35,6 +37,4 @@
  И одним из твоих обвинителей будут тихие мамины слёзы....</lyrics>
 <hymn_number>864</hymn_number>
 <author>Ольга Вельгус</author>
-<key>A</key>
-<title>Плачет мама</title>
 </song>

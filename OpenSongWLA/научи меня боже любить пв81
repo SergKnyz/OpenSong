@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Научи меня Боже любить ПВ81</title>
-<hymn_number>81</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Научи меня Боже любить ПВ81</title>
+<key>A</key>
 <lyrics>[V1]
  Научи меня, Боже, любить
  Всем умом Тебя, всем помышленьем,
@@ -18,4 +17,5 @@
  Ты Своею пречистою кровью, -
  Бескорыстной, глубокой любовью
  Научи меня, Боже, любить!</lyrics>
+<hymn_number>81</hymn_number>
 </song>

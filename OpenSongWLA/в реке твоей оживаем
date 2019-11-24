@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Влад Фонки, Йесус Цултуре</author>
-<key>Bb</key>
-<title>В реке Твоей оживаем</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .            Bb        Gm
  В реке небесной течёт добро
@@ -56,4 +53,8 @@
 .           Bb            Gm            Dm       F/A
    Открой поток, открой поток открой поток во мне</lyrics>
 <hymn_number>1616</hymn_number>
+<author>Влад Фонки, Йесус Цултуре</author>
+<aka>Своим фонтаном заглушит боль</aka>
+<key>Bb</key>
+<title>В реке Твоей оживаем</title>
 </song>

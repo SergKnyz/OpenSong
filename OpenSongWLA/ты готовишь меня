@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Павел Плахотин</author>
-<key>G</key>
-<title>Ты готовишь меня</title>
 <lyrics>[V1]
  1 куплет:
 .G          C         D
@@ -37,4 +35,6 @@
  Ты за дверями стоишь, я знаю,
  Тебя, Жених мой, благословляю!</lyrics>
 <hymn_number>1991</hymn_number>
+<key>G</key>
+<title>Ты готовишь меня</title>
 </song>

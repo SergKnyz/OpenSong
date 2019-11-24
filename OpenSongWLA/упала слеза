@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Упала слеза</title>
+<author>Мелхиседек</author>
+<lyrics>[V1]
  1 куплет:
 .Am      E/G#    G           D/F#
  Упала слеза     на горячий песок
@@ -44,7 +47,4 @@
    Голгофа над грешной землёй поднялась
    И сделалась центром вселенной.</lyrics>
 <hymn_number>335</hymn_number>
-<author>Мелхиседек</author>
-<key>A</key>
-<title>Упала слеза</title>
 </song>

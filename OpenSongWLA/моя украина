@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Моя Украина</title>
+<key>Bb</key>
+<author>Imprintband</author>
+<lyrics>[V1]
  1 куплет:
 .Dm         C          Bb        C
  Ты мне с улыбкой говоришь, что я - никто,
@@ -66,7 +69,4 @@
  Что на планете нет страны такой,
  И нет истории у моего народа.</lyrics>
 <hymn_number>261</hymn_number>
-<author>Imprintband</author>
-<title>Моя Украина</title>
-<key>Bb</key>
 </song>

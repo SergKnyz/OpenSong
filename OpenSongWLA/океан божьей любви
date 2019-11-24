@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Simon Khorolskiy</author>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <title>Океан Божьей Любви</title>
 <lyrics>[V1]
  Куплет:
@@ -34,4 +33,5 @@
 .   Em         D      C      H7
    Слава, Аллилуйя, Аллилуйя.</lyrics>
 <hymn_number>1560</hymn_number>
+<author>Simon Khorolskiy</author>
 </song>

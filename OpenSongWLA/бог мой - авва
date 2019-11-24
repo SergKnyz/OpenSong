@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Am</key>
-<title>Бог мой - Авва!</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бог мой - Авва!</title>
 <lyrics>[V1]
 .   Am               F
  // Возлюбивший нас Своей,
@@ -28,4 +27,5 @@
 .           Dm                E
    В Твоих объятьях, я нашел покой! //</lyrics>
 <author>Жанат Кусаинова</author>
+<key>Am</key>
 </song>

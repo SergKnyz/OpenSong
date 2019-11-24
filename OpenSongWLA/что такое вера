@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Что такое вера</title>
+<key>C</key>
+<lyrics>[V1]
 .C          G
  Что такое вера?
 .Am       F
@@ -154,6 +156,4 @@
  Сейчас, сегодня, не завтра, сейчас</lyrics>
 <hymn_number>731</hymn_number>
 <author>Дима Фреш</author>
-<title>Что такое вера</title>
-<key>C</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Просто сосуды</author>
-<title>Однажды</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Em             Am         D
  Эта музыка с небес мне напомнит о Тебе
@@ -30,4 +27,7 @@
  Побежать за облака прикоснуться до Небес,
  Вечность разделить с Тобою.</lyrics>
 <hymn_number>2608</hymn_number>
+<author>Просто сосуды</author>
+<title>Однажды</title>
+<key>E</key>
 </song>

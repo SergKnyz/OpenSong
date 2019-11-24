@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Воззову</title>
+<lyrics>[V1]
  1 куплет:
 . C               G
  Воззову к Богу моему,
@@ -40,6 +42,4 @@
 <hymn_number>647</hymn_number>
 <author>Сергей Нагорный</author>
 <aka>Воззову к Богу моему,</aka>
-<title>Воззову</title>
-<key>C</key>
 </song>

@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ты позволил снова</aka>
-<title>Боже Слышать слово ПВ3</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Боже Слышать слово ПВ3</title>
 <key>Eb</key>
-<hymn_number>6091</hymn_number>
 <lyrics>[V1]
  Боже! Слышать слово
  Ты позволил снова,
@@ -19,4 +17,6 @@
  Вы Христа живого!
  Он спасения венец,
  Он - наш Пастырь и Отец!</lyrics>
+<hymn_number>6091</hymn_number>
+<aka>Ты позволил снова</aka>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>264</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Прихожу к Тебе с чистым сердцем ИИПВ264</title>
+<key>E</key>
 <lyrics>[V1]
 .      С#m               F#m
  Прихожу к Тебе с чистым сердцем я,
@@ -20,6 +21,5 @@
  В благодати каждый день живу с Тобой,
 .                 F#m B7 (E)
  Всегда Ты будешь рядом.</lyrics>
-<key>E</key>
-<title>Прихожу к Тебе с чистым сердцем ИИПВ264</title>
+<hymn_number>264</hymn_number>
 </song>

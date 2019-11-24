@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Ты так благ</title>
-<author>Наталья Доценко</author>
-<hymn_number>4061</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Наталья Доценко</author>
 <lyrics>[V1]
  1 куплет:
 .F
@@ -53,4 +50,7 @@
    Счастлив я с Тобой в холод или в зной.
 .         F          C/E
    Ты благой! Ты благой!</lyrics>
+<hymn_number>4061</hymn_number>
+<key>F</key>
+<title>Ты так благ</title>
 </song>

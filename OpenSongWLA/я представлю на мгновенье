@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Я представлю на мгновенье</title>
-<author>Алла Чепикова</author>
-<hymn_number>1042</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .F                           Am
  Я представлю на мгновенье звездный небосвод,
@@ -39,4 +35,8 @@
    В Вифлиеме, в яслях на соломе
 .  Gm              Am          Bb       C
    И не в царском доме был рожден Христос</lyrics>
+<hymn_number>1042</hymn_number>
+<author>Алла Чепикова</author>
+<title>Я представлю на мгновенье</title>
+<key>F</key>
 </song>

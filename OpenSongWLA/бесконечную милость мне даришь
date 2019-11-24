@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бесконечную милость мне даришь</title>
+<key>D</key>
+<lyrics>[V1]
 . D           G           A7
  Бесконечную милость мне даришь,
 . D               G    A7
@@ -32,6 +34,5 @@
 .    G   A    D
  И опять  И опять</lyrics>
 <hymn_number>9</hymn_number>
-<title>Бесконечную милость мне даришь</title>
-<key>D</key>
+<aka>Жизнь Свою за меня отдал.</aka>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Русь</title>
+<hymn_number>3206</hymn_number>
+<lyrics>[V1]
 .     Gm           Gm
  Босоногая, по распутице,
 .        Gm            D
@@ -61,8 +64,5 @@
  Русь - безбожница, Русь - отступница,
 .        D              Gm
  Вечный Бог не забыл тебя!</lyrics>
-<hymn_number>3206</hymn_number>
 <author>Щеглова Н.И, Ковалева Н.А., Nina Kovaleva</author>
-<key>G</key>
-<title>Русь</title>
 </song>

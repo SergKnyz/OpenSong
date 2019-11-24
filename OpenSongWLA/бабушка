@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4435</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бабушка</title>
+<key>Bb</key>
 <lyrics>[V1]
 .Bb              Eb       Bb
  Почему мы любим бабушек своих?
@@ -30,7 +31,6 @@
  Бабушке любимой я теперь пою.
  Крепкого здоровья ей желаю я,
  Пусть от бед Господь всегда хранит тебя.</lyrics>
-<key>Bb</key>
-<title>Бабушка</title>
+<hymn_number>4435</hymn_number>
 <aka>Почему мы любим бабушек своих?</aka>
 </song>

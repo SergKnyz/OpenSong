@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Благо есть славить Господа</aka>
+<hymn_number>1991</hymn_number>
+<lyrics>[V1]
 . Em              Am
  Благо есть славить Господа,
 . H7             Em    H7
@@ -31,11 +33,9 @@
  Да не постыжусь, что к Тебе взываю,
  На Тебя уповаю я,
  Благослови, Господь, меня.</lyrics>
-<hymn_number>1991</hymn_number>
 <tempo>130</tempo>
 <author>Пісні хвали</author>
-<time_sig>4/4</time_sig>
-<aka>Благо есть славить Господа</aka>
 <title>И петь имени Твоему, Спаситель</title>
+<time_sig>4/4</time_sig>
 <key>E</key>
 </song>

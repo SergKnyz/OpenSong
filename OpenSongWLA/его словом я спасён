@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>44</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
+<title>Его словом я спасён</title>
 <lyrics>[V1]
 .Em
  В слово чьё поверишь ты?
@@ -14,8 +15,7 @@
    Сатану Он победил,
 .  Am             H7
    Он - источник моих сил.</lyrics>
-<aka>В слово чьё поверишь ты</aka>
-<key>Em</key>
-<title>Его словом я спасён</title>
+<hymn_number>44</hymn_number>
 <author>АХВЕГС</author>
+<aka>В слово чьё поверишь ты</aka>
 </song>

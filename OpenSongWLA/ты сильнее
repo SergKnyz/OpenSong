@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2852</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .        D Е А
  INTRО:
 .         D    E        A
@@ -46,7 +45,8 @@
    // Мы имя Твоё, Возносим выше
 .           A              E
    Возносим выше, Возносим выше //</lyrics>
+<hymn_number>2852</hymn_number>
+<author>Хиллсонг</author>
 <key>A</key>
 <title>Ты сильнее</title>
-<author>Хиллсонг</author>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Я знаю любишь Ты меня</title>
+<author>Галим Хусаинов</author>
+<lyrics>[V1]
  Куплет:
 .D                  A/C#   Hm                   G
  Я знаю: любишь Ты меня!  Я знаю: рядом Ты всегда!
@@ -20,7 +23,4 @@
 .  Hm         G
    Я люблю Тебя!</lyrics>
 <hymn_number>677</hymn_number>
-<author>Галим Хусаинов</author>
-<key>D</key>
-<title>Я знаю любишь Ты меня</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Аллилуйя, хвалу Богу вознесу я ИИПВ6</title>
-<hymn_number>6</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Дар небесный восхвалю я.</aka>
 <lyrics>[V1]
 .      G        C   Am
  Аллилуйя, Аллилуйя!
@@ -22,4 +20,7 @@
  Миргреховный с душ мы смоем.
  Шалом,шалом, шалом, шалом,
  Озарёня Божьим взором!</lyrics>
+<hymn_number>6</hymn_number>
+<key>G</key>
+<title>Аллилуйя, хвалу Богу вознесу я ИИПВ6</title>
 </song>

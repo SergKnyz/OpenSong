@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Пусть сердце моё будет чисто</title>
 <key>E</key>
-<aka>Расправим крылья</aka>
-<hymn_number>279</hymn_number>
 <lyrics>[V1]
 .       E       A H7      E
  Пусть сердце моё  будет чисто.
@@ -25,4 +23,6 @@
    На крыльях веры, на крыльях любви.
 .       Am6              H7        E C#m
    На крыльях веры, на крыльях любви.</lyrics>
+<hymn_number>279</hymn_number>
+<aka>Расправим крылья</aka>
 </song>

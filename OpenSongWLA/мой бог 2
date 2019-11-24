@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3934</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Проигрыш:
 .Am
  Моя твердая скала,
@@ -45,7 +44,8 @@
 
 [B2]
    Instrumental</lyrics>
-<title>Мой Бог</title>
-<key>A</key>
+<hymn_number>3934</hymn_number>
 <author>Worship Emmanuil</author>
+<key>A</key>
+<title>Мой Бог</title>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Путь Христа церковь, г. Нюрнберг</author>
-<title>Любовь Христа</title>
-<key>E</key>
 <lyrics>[V1]
  1.
 . Em         H7             Em
@@ -47,4 +45,6 @@
 .  Am      H7                         Em
    Единый Бог - Отец и Сын, и Дух Святой.</lyrics>
 <hymn_number>3039</hymn_number>
+<title>Любовь Христа</title>
+<key>E</key>
 </song>

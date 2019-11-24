@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Вечная любовь</title>
+<key>A</key>
+<lyrics>[V1]
  1 куплет:
 .Am                 F
  Я любил тебя всегда когда ты шла во тьму от света
@@ -39,6 +41,4 @@
 <hymn_number>226</hymn_number>
 <author>Imprintband</author>
 <aka>Я любил тебя всегда когда ты шла во тьму от света</aka>
-<title>Вечная любовь</title>
-<key>A</key>
 </song>

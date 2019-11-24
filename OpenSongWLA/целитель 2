@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1673</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>Целитель</title>
 <lyrics>[V1]
  Куплет:
 .   F
@@ -38,7 +39,6 @@
    Нет ничего невозможного Тебе.
 .               C
    Ты держишь мир мой в руках!</lyrics>
-<title>Целитель</title>
-<key>F</key>
+<hymn_number>1673</hymn_number>
 <author>Alaniaworshipband, Хиллсонг, Кари Йобе</author>
 </song>

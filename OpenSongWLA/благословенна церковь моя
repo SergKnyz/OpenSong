@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
+<title>Благословенна церковь моя</title>
+<key>Gm</key>
+<aka>Радуйтесь братья и сёстры мои</aka>
+<tempo>124</tempo>
+<author>Сергей Синицын</author>
+<lyrics>[C1]
 .    Gm           Cm
    Благословенна Церковь моя!
 .    F                 B      D7
@@ -43,11 +49,5 @@
  Когда за тобой придёт Твой Жених
 .   D7               Gm
  В вечной небесной славе!</lyrics>
-<tempo>124</tempo>
 <hymn_number>15</hymn_number>
-<author>Сергей Синицын</author>
-<time_sig>4/4</time_sig>
-<aka>Радуйтесь братья и сёстры мои</aka>
-<title>Благословенна церковь моя</title>
-<key>Gm</key>
 </song>

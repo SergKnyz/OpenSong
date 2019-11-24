@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>По пути к отчизне</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <title>Вот и в вашей жизни</title>
-<key>C</key>
-<author>Иван Деченко</author>
-<hymn_number>2070</hymn_number>
+<aka>По пути к отчизне</aka>
 <lyrics>[V1]
  1 Куплет:
 .C
@@ -59,4 +57,6 @@
   Для Христа живите,
 .Dm             G            C
   И старайтесь Богу жизнь отдать</lyrics>
+<hymn_number>2070</hymn_number>
+<author>Иван Деченко</author>
 </song>

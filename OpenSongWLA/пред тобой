@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Пред Тобой</title>
-<author>Hillsong Ukraine</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <hymn_number>946</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -43,4 +41,6 @@
    Преклонится вся Вселенная, Преклонится Пред Тобой.
 .        Hm7    F#m    A  E         Hm7    F#m   G
    Преклонится вся Вселенная, Преклонится Пред Тобой.</lyrics>
+<title>Пред Тобой</title>
+<key>D</key>
 </song>

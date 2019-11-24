@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Славимо Бога</title>
+<key>Ab</key>
+<author>Неизвестный</author>
+<lyrics>[V1]
  Вст
 
 [V2]
@@ -49,7 +52,4 @@
 [V12]
  Приспів</lyrics>
 <hymn_number>1160</hymn_number>
-<author>Неизвестный</author>
-<key>Ab</key>
-<title>Славимо Бога</title>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Славен Господь</title>
-<key>A</key>
-<author>Ковчег церковь Днепропетровск</author>
-<hymn_number>6297</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .     A       E      A       E
  Ты - вечное сиянье небесного Отца,
@@ -43,4 +39,8 @@
    И восстановишь все, когда придешь.
 .  A/F#          E/G#          A  - H
    И восстановишь все, когда при__дешь.</lyrics>
+<hymn_number>6297</hymn_number>
+<author>Ковчег церковь Днепропетровск</author>
+<title>Славен Господь</title>
+<key>A</key>
 </song>

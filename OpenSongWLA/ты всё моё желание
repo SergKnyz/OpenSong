@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Сергеев</author>
-<title>Ты всё моё желание</title>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am            C
  Проходит ночь, рассеян мрак
@@ -49,4 +46,7 @@
 .      Am                   E
    Пройдя через крест, научиться любить</lyrics>
 <hymn_number>14</hymn_number>
+<author>Алексей Сергеев</author>
+<key>A</key>
+<title>Ты всё моё желание</title>
 </song>

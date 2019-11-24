@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5456</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Губами губ твоих коснусь,</aka>
+<author>Валерий Чередниченко</author>
 <lyrics>[V1]
  Вступление:
 
@@ -70,8 +71,7 @@
  Счастливыми...
 .Dm Bb/D Dm
  Счастливыми...</lyrics>
-<aka>Губами губ твоих коснусь,</aka>
-<key>D</key>
+<hymn_number>5456</hymn_number>
 <title>Бессонница</title>
-<author>Валерий Чередниченко</author>
+<key>D</key>
 </song>

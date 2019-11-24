@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>49</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Я склоняюсь</title>
+<hymn_number>49</hymn_number>
 <lyrics>[V1]
  Куплет:
 .      Hm         A D   G
@@ -28,7 +30,5 @@
 
 [V2]
  Петь Тебе, Бог...</lyrics>
-<title>Я склоняюсь</title>
-<key>B</key>
 <author>Слово Жизни Music</author>
 </song>

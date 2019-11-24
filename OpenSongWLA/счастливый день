@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <title>Счастливый день</title>
-<author>Виталий Ефремочкин</author>
-<hymn_number>673</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .D
@@ -48,4 +46,6 @@
    Имени Твоем
 .       D
    Ты спас меня</lyrics>
+<hymn_number>673</hymn_number>
+<author>Виталий Ефремочкин</author>
 </song>

@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Elevation Worship, Елеватион Уорсхип</author>
-<title>Алтарь вот</title>
-<key>C</key>
-<lyrics>[V1]
- Перевод-Давид Кругляк
-
-[V2]
- Elevation Worship - O Come To The Altar
-
-[V3]
- Алтарь вот.
-
-[V4]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .B      E                 B
  Тебе больно, ты сломлен внутри,
 .       E            Abm
@@ -37,7 +25,7 @@
 .  Abm                  E   B
    Он грех твой кровью искупил. //
 
-[V5]
+[V2]
  Сожаления, ошибки оставь,
  У креста ведь зачем тебе ждать.
  Иисус зовет.
@@ -63,4 +51,8 @@
 .              B
    Наш Христос живой.</lyrics>
 <hymn_number>1727</hymn_number>
+<author>Елеватион Уорсхип</author>
+<aka>Тебе больно, ты сломлен внутри,</aka>
+<title>Алтарь вот</title>
+<key>C</key>
 </song>

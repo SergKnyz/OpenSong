@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>JG Youth Worship</author>
-<key>D</key>
-<title>Победил</title>
 <lyrics>[V1]
  1 куплет:
 .  D           A/C#
@@ -48,4 +46,6 @@
 .  F#m           A
    Спасеньем стал для меня.</lyrics>
 <hymn_number>3213</hymn_number>
+<title>Победил</title>
+<key>D</key>
 </song>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2212</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Елена</author>
 <lyrics>[V1]
 .Am
  ԶՈՐՈՒԹՅՈՒՆ ԿԱ
@@ -16,7 +16,7 @@
  ԲՈԼՈՐ ԿԱՊԱՆՔՆԵՐ ՋԱՂՋԱԽԵԼՈՒ
 .     C    G
  ԵՎ ԿՈՏՐԵԼՈՒ</lyrics>
-<key>C</key>
+<hymn_number>2212</hymn_number>
 <title>Сила в Твоем имени</title>
-<author>Елена</author>
+<key>C</key>
 </song>

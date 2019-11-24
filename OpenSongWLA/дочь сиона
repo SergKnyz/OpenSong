@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Дочь Сиона</title>
-<key>D</key>
-<author>Владимир Скобочкин</author>
-<hymn_number>3295</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Владимир Скобочкин</author>
 <lyrics>[V1]
 .Dm    E     Am    F
  1. Дочь, обернись,
@@ -36,4 +33,7 @@
  Я столько терпел не для того, чтобы уйти.
  Настанет время Меня найдешь,
  И в белом платье ко Мне придешь.</lyrics>
+<hymn_number>3295</hymn_number>
+<title>Дочь Сиона</title>
+<key>D</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В два этажа старый дом</title>
-<aka>Самый большой в мире дом</aka>
-<hymn_number>5148</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Самый большой в мире дом</aka>
 <lyrics>[V1]
  В два этажа старый дом
  Самый большой в мире дом
@@ -28,4 +26,6 @@
  Так нам казалось только мы
  Только были мы детьми.
  Только были мы детьми.</lyrics>
+<hymn_number>5148</hymn_number>
+<title>В два этажа старый дом</title>
 </song>

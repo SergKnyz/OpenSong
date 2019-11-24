@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2569</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Белый снег кружится за окошком ПВ2569</title>
+<key>Em</key>
+<aka>Мир встречает снова Новый год.</aka>
 <lyrics>[V1]
 .Em                     Am
  Белый снег кружится за окошком,
@@ -26,6 +28,5 @@
  Мир встречает снова Новый год.
  // Думаю о том, с какой душою
  Буду я встречать Тебя, Господь! //</lyrics>
-<title>Белый снег кружится за окошком ПВ2569</title>
-<key>Em</key>
+<hymn_number>2569</hymn_number>
 </song>

@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Во имя Господа Христа</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <title>Во Христе</title>
-<key>A</key>
+<aka>Во Имя Господа любви хочу подняться от земли,</aka>
 <author>Краеугольный камень</author>
-<hymn_number>2840</hymn_number>
 <lyrics>[V1]
  Вступление:
 .A F#m C#m H A F#m E H
@@ -35,4 +34,5 @@
    Пусть наполнятся любовью и сияньем чистоты.
    Во Имя Господа веков придет свобода от оков,
    И мы поднимемся над бездной, и мы себя откроем вновь.</lyrics>
+<hymn_number>3406</hymn_number>
 </song>

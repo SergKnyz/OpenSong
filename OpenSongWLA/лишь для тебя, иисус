@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Лишь для Тебя, Иисус</title>
-<author>Not An Idol</author>
-<hymn_number>5346</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Лишь для Тебя, Иисус</title>
+<key>C</key>
 <lyrics>[V1]
  1 куплет:
 . C     F          Am         G
@@ -41,4 +39,6 @@
    Позови меня и верю
 .   G     E    A
    Пойду по воде за Тобою.</lyrics>
+<hymn_number>5346</hymn_number>
+<author>Not An Idol</author>
 </song>

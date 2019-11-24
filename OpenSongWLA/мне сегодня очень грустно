@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3006</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мне сегодня очень грустно</title>
 <lyrics>[V1]
  Мне сегодня очень, очень грустно,
  Хочется, чтоб кто-то рядом был.
@@ -28,5 +28,5 @@
 [C3]
    Чтобы кто-нибудь, чтобы кто-нибудь,
    Чтобы кто-нибудь его любил.</lyrics>
-<title>Мне сегодня очень грустно</title>
+<hymn_number>3006</hymn_number>
 </song>

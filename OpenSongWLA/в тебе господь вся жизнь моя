@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В Тебе Господь вся жизнь моя</title>
-<key>Eb</key>
-<author>Молодіжний хор</author>
-<hymn_number>2132</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
+<title>В Тебе Господь вся жизнь моя</title>
 <lyrics>[V1]
  1.куплет
 .Eb
@@ -51,4 +49,6 @@
 
 [V5]
  припев (2 раз)</lyrics>
+<hymn_number>2132</hymn_number>
+<author>Молодіжний хор</author>
 </song>

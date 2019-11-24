@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Благословен Господь</aka>
-<key>D</key>
-<title>Благословлю Господа во всякое время</title>
-<author>Ольга Марина</author>
-<hymn_number>3542</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .   Dm                    C     Bb
  Благословлю Господа во всякое время
@@ -44,4 +39,9 @@
    Я взыскал и Он услышал, избавил,
 .      C      D      Em
    Веселиться сердце моё.</lyrics>
+<hymn_number>3542</hymn_number>
+<author>Ольга Марина</author>
+<aka>Благословен Господь</aka>
+<key>D</key>
+<title>Благословлю Господа во всякое время</title>
 </song>

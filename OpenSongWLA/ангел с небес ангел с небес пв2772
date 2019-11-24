@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Ангел с небес Ангел с небес ПВ2772</title>
-<hymn_number>2772</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ангел с небес Ангел с небес ПВ2772</title>
+<key>D</key>
+<aka>Людям принес Благую весть.</aka>
 <lyrics>[V1]
 .C#m
  Ангел с небес, Ангел с небес
@@ -34,8 +34,9 @@
  Дети Божьи ждут.
 
 [C2]
-   Бог так любит всех,
+   // Бог так любит всех,
    Бог так любит всех,
    Бог так любит всех!
-   Ангелы здесь поют.</lyrics>
+   Ангелы здесь поют. //</lyrics>
+<hymn_number>2772</hymn_number>
 </song>

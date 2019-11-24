@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1098</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Лишь одна дорога</title>
+<author>Русавуки</author>
 <lyrics>[C1]
    C                       Em                  Am
    Как много в мире есть дорог: широких,
@@ -23,6 +24,5 @@
  Омыт пречистой кровью Святой.
  И потому нам легче им идти,
  Ведь Сам Господь ведет нас впереди.</lyrics>
-<title>Лишь одна дорога</title>
-<author>Русавуки</author>
+<hymn_number>1098</hymn_number>
 </song>

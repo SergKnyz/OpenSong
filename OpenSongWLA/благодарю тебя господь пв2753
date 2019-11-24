@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>За этот уж прошедший год</aka>
-<title>Благодарю Тебя Господь ПВ2753</title>
-<key>D</key>
-<hymn_number>2753</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Благодарю Тебя, Господь
  3а этот уж прошедший год,
  Что диет-но Ты меня хранил,
@@ -31,4 +27,8 @@
  Чтоб царствовать вовек веков,
  Мне быть всегда с Тобой везде,
  На новом небе и земле.</lyrics>
+<hymn_number>2753</hymn_number>
+<aka>За этот уж прошедший год</aka>
+<title>Благодарю Тебя Господь ПВ2753</title>
+<key>D</key>
 </song>

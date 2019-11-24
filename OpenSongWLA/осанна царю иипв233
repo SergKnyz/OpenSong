@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Осанна Царю ИИПВ233</title>
-<hymn_number>233</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  G      Am       C  D    G
  Осанна, Осанна, Осанна Царю! (×2)
 .    G   Bm            C  D
@@ -16,4 +13,7 @@
  О, величай и прославляй
 .     Am G D     G
  Имя Господа вовек.</lyrics>
+<hymn_number>233</hymn_number>
+<title>Осанна Царю ИИПВ233</title>
+<key>G</key>
 </song>

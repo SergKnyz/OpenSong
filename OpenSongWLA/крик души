@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Крик души</title>
-<author>Татьяна Прохор</author>
-<hymn_number>241</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .    Am7        Em/G          Dm
  Как хочется в Твоих руках согреться
@@ -65,4 +61,8 @@
 [B2]
    Концовка:
    В Тебе я так нуждаюсь,мой Господь...</lyrics>
+<hymn_number>241</hymn_number>
+<author>Татьяна Прохор</author>
+<key>A</key>
+<title>Крик души</title>
 </song>

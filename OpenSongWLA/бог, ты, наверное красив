@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Бог, Ты, наверное красив</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Твоих дождей речитатив</aka>
 <author>Юлия Авструб</author>
-<hymn_number>2821</hymn_number>
 <lyrics>[V1]
 .Cm           Gm         G#
  1. Бог, Ты, наверное, красив.
@@ -60,4 +58,7 @@
    Меня Ты учишь кисть держать -
    И, кажется, моя душа
    Жива...</lyrics>
+<hymn_number>2771</hymn_number>
+<key>C</key>
+<title>Бог, Ты, наверное красив</title>
 </song>

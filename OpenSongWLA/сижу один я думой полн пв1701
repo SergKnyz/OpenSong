@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Сижу один я думой полн ПВ1701</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1701</hymn_number>
 <lyrics>[V1]
  Сижу один я, думой полн,
  Как будто я в ладье средь волн,
@@ -23,5 +22,6 @@
  Похвал и славы не искал,
  Он жил, трудился для людей
  И жизнь Свою за нас отдал.</lyrics>
-<hymn_number>1701</hymn_number>
+<key>G</key>
+<title>Сижу один я думой полн ПВ1701</title>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>877</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Голгофа Голгофа Голгофа ПВ877</title>
+<key>A</key>
 <lyrics>[V1]
  Голгофа, Голгофа, Голгофа...
 
@@ -25,6 +26,5 @@
  Голгофы кровавую тень.
  Склонясь у Креста, я милость нашла,
  Свободу мне дал Божий Сын!</lyrics>
-<key>A</key>
-<title>Голгофа Голгофа Голгофа ПВ877</title>
+<hymn_number>877</hymn_number>
 </song>

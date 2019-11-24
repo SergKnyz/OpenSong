@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты благословенья путь</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .E       B/D#     C#m  E/B
  Ты благословенья путь,
 .A             F#m7       Bsus4 B
@@ -19,4 +17,6 @@
  Чрез Тебя народы все восхвалят,
 .A     F#m   B      E
  Будут Господу служить</lyrics>
+<title>Ты благословенья путь</title>
+<key>E</key>
 </song>

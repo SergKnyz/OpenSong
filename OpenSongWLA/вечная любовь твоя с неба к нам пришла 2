@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>Благодарю за любовь Твою, благодарю</aka>
-<key>E</key>
-<title>Вечная любовь Твоя с неба к нам пришла</title>
 <author>Галим Хусаинов</author>
-<hymn_number>674</hymn_number>
 <lyrics>[V1]
  Куплет:
 . Em      Hm/D         C               G
@@ -27,4 +24,7 @@
    Благодарю, благодарю, благодарю Тебя Иисус.
 .          Em         Hm/D        C        D/H
    Благодарю, благодарю, благодарю Тебя Иисус.</lyrics>
+<hymn_number>674</hymn_number>
+<title>Вечная любовь Твоя с неба к нам пришла</title>
+<key>E</key>
 </song>

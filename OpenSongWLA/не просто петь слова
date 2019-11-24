@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
-<title>Не просто петь слова</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Не просто петь слова</title>
 <key>G#m</key>
 <lyrics>[V1]
 .G#m      H       G#m H
@@ -15,4 +14,5 @@
 .                    C#         E
  Не просто ждать, я жажду сердцем!</lyrics>
 <hymn_number>449</hymn_number>
+<author>Слово Жизни Music</author>
 </song>

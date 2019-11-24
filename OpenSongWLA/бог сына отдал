@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Божье прикосновение</author>
-<aka>чтоб каждый узнал цену Его любви,</aka>
-<key>D</key>
-<title>Бог Сына отдал</title>
 <lyrics>[V1]
  1 куплет:
 .Dm          F                  Bb Gm            C
@@ -39,4 +36,7 @@
  Спеши скорей, спеши, ведь дни все сочтены,
  Царство придёт, Творец нас заберёт.</lyrics>
 <hymn_number>173</hymn_number>
+<aka>чтоб каждый узнал цену Его любви,</aka>
+<title>Бог Сына отдал</title>
+<key>D</key>
 </song>

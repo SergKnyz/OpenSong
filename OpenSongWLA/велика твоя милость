@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><hymn_number>51</hymn_number>
-<tempo>70</tempo>
 <lyrics>[V1]
 . F           C/E         Dm
  Велика Твоя милость ко мне,
@@ -43,8 +42,10 @@
    И живою водой напои.
 .       G/D   D7     G
    И живою водой напои.</lyrics>
-<title>Велика Твоя милость</title>
+<tempo>70</tempo>
+<author>Вячеслав Кузнецов</author>
+<aka>Душу мою исцели,</aka>
 <key>F</key>
 <time_sig>4/4</time_sig>
-<author>Вячеслав Кузнецов</author>
+<title>Велика Твоя милость</title>
 </song>

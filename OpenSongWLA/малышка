@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1046</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Просто сосуды</author>
+<hymn_number>1046</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Fm        Cm  D#                Bb
@@ -28,7 +29,6 @@
    Прости меня Папа
 .  Fm          Cm   Bb
    Прости меня Папочка</lyrics>
-<key>F</key>
 <title>Малышка</title>
-<author>Просто сосуды</author>
+<key>F</key>
 </song>

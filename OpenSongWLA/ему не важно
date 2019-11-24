@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ему не важно</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Ему не важно</title>
 <author>Supernatural Worship</author>
-<hymn_number>4</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am               F      C
@@ -44,4 +43,5 @@
  Ему не важно, что сделал ты.
  Свобода даром тебе дана,
  И в этом нет заслуги твоей.</lyrics>
+<hymn_number>4</hymn_number>
 </song>

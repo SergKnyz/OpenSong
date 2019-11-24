@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Святый и Великий</title>
+<key>A</key>
+<lyrics>[V1]
  1 куплет:
 .A                   F#m                 D
  Всё что так нужно мне, быть ближе к Тебе.
@@ -39,6 +41,4 @@
    Земля поёт и Небеса!</lyrics>
 <hymn_number>4004</hymn_number>
 <author>Новый Завет NTWorship</author>
-<key>A</key>
-<title>Святый и Великий</title>
 </song>

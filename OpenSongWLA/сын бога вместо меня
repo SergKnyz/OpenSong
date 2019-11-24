@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>160</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Сын Бога вместо меня</title>
+<key>D</key>
 <lyrics>[V1]
  1 куплет:
 .Gm    C    F     Bb
@@ -32,7 +33,6 @@
  Скажу Ему: люблю, не сомневаюсь!
  Ни страх, ни боль, уже не помешают
  Найти дорогу к Нему.</lyrics>
-<key>D</key>
-<title>Сын Бога вместо меня</title>
+<hymn_number>160</hymn_number>
 <author>Дарина Кочанжи</author>
 </song>

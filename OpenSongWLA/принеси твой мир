@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Наталья Доценко, Мосаиц МСЦ</author>
-<aka>Приводишь тьму Ты в трепет</aka>
-<key>A</key>
-<title>Принеси Твой мир</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Приводишь тьму Ты в трепет</aka>
+<author>Наталья Доценко, Мосаиц МСЦ</author>
 <lyrics>[V1]
  1 куплет:
 .Am          F
@@ -45,4 +43,6 @@
 .    F    G      Am
    Никто не победит Тебя.</lyrics>
 <hymn_number>3279</hymn_number>
+<key>A</key>
+<title>Принеси Твой мир</title>
 </song>

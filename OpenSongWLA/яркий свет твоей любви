@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
+<hymn_number>139</hymn_number>
+<lyrics>[V1]
  Куплет:
 .Am      G            F          G
  Яркий свет Твоей любви с неба льется в сердце
@@ -24,8 +26,6 @@
    Мост:
 .     Am          G          F
    Аллилуйя! Аллилуйя! Аллилуйя! Иисус!</lyrics>
-<hymn_number>139</hymn_number>
-<author>Виталий Ефремочкин</author>
 <key>A</key>
 <title>Яркий свет Твоей любви</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Slavic New Beginnings Church</author>
-<key>F#</key>
-<title>Имя выше всех</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .        F#m                D
  В Тебе моя жизнь свет безмерной любви
@@ -48,4 +45,7 @@
 .    F#m      E
    Иисус наш Царь.</lyrics>
 <hymn_number>1469</hymn_number>
+<author>Slavic New Beginnings Church</author>
+<title>Имя выше всех</title>
+<key>F#</key>
 </song>

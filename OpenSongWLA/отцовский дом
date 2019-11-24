@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Отцовский дом</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Отцовский дом</title>
 <author>Божье прикосновение</author>
-<hymn_number>477</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .       Dm                      Dm/F         D7/F#
@@ -52,4 +51,5 @@
    Отцовский дом,молитвы до утра
 .             G#m               Bb           D#m
    За нас с тобой, чтоб были счастливы всегда.</lyrics>
+<hymn_number>477</hymn_number>
 </song>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3440</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мудрецы</title>
 <lyrics>[V1]
  Мудрецы под вечер вышли на дорогу,
  Вёл их всех на встречу свет звезды далекой.
@@ -20,5 +20,5 @@
 [V4]
  Каждый ощущает: плотью стало Слово,
  В новый день вступает Рождество Христово.</lyrics>
-<title>Мудрецы</title>
+<hymn_number>3440</hymn_number>
 </song>

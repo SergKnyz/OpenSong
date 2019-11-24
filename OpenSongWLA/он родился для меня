@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Он родился для меня</title>
-<author>Алекс и Лена Исаевы</author>
-<hymn_number>604</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .     D          F#        G               D
  Тишина, ночное небо в домах тепло и светло
@@ -39,4 +35,8 @@
    В эту чудную ночь Он пришел чтобы каждый мир с Богом нашел
 .     A                    E/G#        F#m      H        E
    Сегодня есть шанс для тебя и меня Иисус ожидает всех нас</lyrics>
+<hymn_number>604</hymn_number>
+<author>Алекс и Лена Исаевы</author>
+<key>D</key>
+<title>Он родился для меня</title>
 </song>

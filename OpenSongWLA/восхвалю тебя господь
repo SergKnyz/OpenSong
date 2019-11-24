@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Восхвалю Тебя Господь</title>
+<time_sig>4/4</time_sig>
+<key>C</key>
+<tempo>70</tempo>
+<lyrics>[V1]
 . C
  Восхвалю, восхвалю
 . C
@@ -23,9 +27,5 @@
    Воспою хвалу имени Твоему!
 .       B     F        C
    Воспою хвалу, о Господь!</lyrics>
-<tempo>70</tempo>
 <hymn_number>71</hymn_number>
-<key>C</key>
-<title>Восхвалю Тебя Господь</title>
-<time_sig>4/4</time_sig>
 </song>

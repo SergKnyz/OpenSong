@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5840</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Что сеял ты друг мой весною ПВ658</title>
 <lyrics>[V1]
  Что сеял ты, друг мой, весною?
  Не злаков ли хлебных зерно?
@@ -36,6 +37,5 @@
  Спасенных, счастливых людей -
  Великую жатву спасенья...
  О, сей, неустанно, друг, сей!</lyrics>
-<title>Что сеял ты друг мой весною ПВ658</title>
-<key>G</key>
+<hymn_number>5840</hymn_number>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Мой Господь, я пред Тобою ИИПВ181</title>
-<hymn_number>181</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мой Господь, я пред Тобою ИИПВ181</title>
+<key>G</key>
 <lyrics>[V1]
 .        D        G/D    A/C#
  Мой Господь, я пред Тобою.
@@ -30,4 +29,5 @@
    Прими же меня.
 .  Em  A   Bm F#mGDEm A D
    Прими же меня.</lyrics>
+<hymn_number>181</hymn_number>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>37</hymn_number>
+<lyrics>[V1]
 .       F      C/E    Dm
  Буду превозносить Тебя,
 .      Gm        C
@@ -38,10 +39,9 @@
 .  2раз:Eb Csus C7
     </lyrics>
 <tempo>130</tempo>
-<hymn_number>37</hymn_number>
 <author>Валерий Короп</author>
+<aka>Буду превозносить Тебя</aka>
+<time_sig>4/4</time_sig>
 <title>Да славят Тебя Господи все дела Твои</title>
 <key>F</key>
-<time_sig>4/4</time_sig>
-<aka>Буду превозносить Тебя</aka>
 </song>

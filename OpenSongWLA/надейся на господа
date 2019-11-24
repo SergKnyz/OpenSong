@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Вадим Ятковский</author>
-<time_sig>4/4</time_sig>
-<title>Надейся на Господа</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><tempo>140</tempo>
+<author>Вадим Ятковский</author>
+<hymn_number>216</hymn_number>
 <lyrics>[V1]
 .   G        D       Am              Em
  Надейся на Господа, всем сердцем твоим,
@@ -47,6 +46,7 @@
    И точила твои перельются новым вином,
 .   G       C G D
    Новым вином.</lyrics>
-<hymn_number>216</hymn_number>
-<tempo>140</tempo>
+<time_sig>4/4</time_sig>
+<title>Надейся на Господа</title>
+<key>G</key>
 </song>

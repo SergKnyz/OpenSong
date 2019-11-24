@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Я буду славить</title>
-<author>Спасение церковь г. Вишневое</author>
-<hymn_number>570</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>570</hymn_number>
 <lyrics>[V1]
  Куплет:
 .F                      Dm
@@ -28,4 +25,7 @@
  Запев:
 .      F        Dm         Bb  Dm     C
  Аллилуйя, Аллилуйя, Аллилуйя, Аллилуйя!</lyrics>
+<author>Спасение церковь г. Вишневое</author>
+<key>F</key>
+<title>Я буду славить</title>
 </song>

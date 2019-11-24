@@ -1,17 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Скрой меня Своим крылом</title>
+<key>C</key>
+<author>Хиллсонг</author>
+<lyrics>[V1]
 . C    G Am   F   D    G
  Скрой меня Своим крылом
 .C  G  F      Dm       G
  Сохрани под сильною рукой
 
 [C1]
-.     C                        F   GC
+.     C         F       G      C
    Пусть бушует шторм и гром гремит
-.          C                F     GAm
+.          C      F      GAm
    Над бурей буду я с Тобой парить
-.    C                        F     GC
+.    C            F      GC
    Мой Отец, Ты Царь над всей землей
-.    G          F              GC
+.    G   F              GC
    Я не боюсь - мой Бог со мной
 
 [V2]
@@ -20,8 +23,5 @@
 .  C    F         Dm     G
  Верю я в могущество Твое</lyrics>
 <hymn_number>963</hymn_number>
-<author>Хиллсонг</author>
 <aka>Покой</aka>
-<key>C</key>
-<title>Скрой меня Своим крылом</title>
 </song>

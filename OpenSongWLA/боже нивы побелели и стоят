@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Боже нивы побелели и стоят</title>
-<aka>Кто же встанет и пойдёт те нивы жать, а в поле тишина</aka>
-<author>Семья Степановичей</author>
-<hymn_number>1202</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Кто же встанет и пойдёт те нивы жать, а в поле тишина</aka>
 <lyrics>[V1]
  1 куплет:
 .Em              Am  H    Em
@@ -36,4 +32,8 @@
  Боже, помоги, чтоб вышли мы в поля!
  Боже, помоги, чтоб жизнь не прожить зря
  И святое Слово Твоё пускай соберёт Твой народ</lyrics>
+<hymn_number>1202</hymn_number>
+<author>Семья Степановичей</author>
+<title>Боже нивы побелели и стоят</title>
+<key>E</key>
 </song>

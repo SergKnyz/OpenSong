@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Дай взамен другое.</aka>
-<title>Возьми Господь сердце моё</title>
-<hymn_number>833</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Возьми, Господь, сердце моё,
  Дай взамен другое.
  Возьми,Господь,сердце каменное,
@@ -22,4 +19,7 @@
    И царствуй безраздельно
    И все, что я имею -
    Тебе я отдаю.</lyrics>
+<hymn_number>833</hymn_number>
+<aka>Дай взамен другое.</aka>
+<title>Возьми Господь сердце моё</title>
 </song>

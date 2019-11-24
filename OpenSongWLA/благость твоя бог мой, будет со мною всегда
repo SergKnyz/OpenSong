@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Благость Твоя Бог мой, будет со мною всегда</title>
-<key>Bm</key>
-<aka>Если пастырем будет Господь мой,</aka>
-<hymn_number>1179</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1179</hymn_number>
 <lyrics>[V1]
 .     Bm       A     D          A
  Если пастырем будет Господь мой,
@@ -39,4 +36,7 @@
  И на копьях поднимет меня,
  // Он огонь Свой прольет на их лица
  И от смерти избавит меня. //</lyrics>
+<aka>Если пастырем будет Господь мой,</aka>
+<title>Благость Твоя Бог мой, будет со мною всегда</title>
+<key>Bm</key>
 </song>

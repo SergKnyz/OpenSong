@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Subcultura</author>
-<title>Я здесь, чтоб поклониться</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .G       D            Am           G     D          C
  Ты миру Свет , что явился во тьму и открыл мне глаза
  Дал мне увидеть твою красоту, сердце пленил навсегда
@@ -20,4 +17,7 @@
 .              D     Em      C      D        Em          C
    Бридж: Как несравненно велика, тобой заплачена цена. - 2раза</lyrics>
 <hymn_number>2384</hymn_number>
+<author>Subcultura</author>
+<key>G</key>
+<title>Я здесь, чтоб поклониться</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Am</key>
-<title>Дух Святой, прикоснись ко мне своим теплом</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Am              F               G
  Дух Святой, прикоснись ко мне своим теплом.
 .F        Dm                  E7
@@ -43,4 +41,6 @@
    Аллилуйя, Аллилуйя
 .     G       E7
    Аллилуйя, Аллилуйя</lyrics>
+<title>Дух Святой, прикоснись ко мне своим теплом</title>
+<key>Am</key>
 </song>

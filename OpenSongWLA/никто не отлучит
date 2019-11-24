@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Никто не отлучит</title>
+<key>A</key>
+<author>Краеугольный камень</author>
+<lyrics>[V1]
  Куплет:
 .  Am           G        F           C
  Куда пойду от духа Твоего, мой Господь?
@@ -34,7 +37,4 @@
 .         Dm             Am
    Не отлучат меня от Тебя.</lyrics>
 <hymn_number>337</hymn_number>
-<author>Краеугольный камень</author>
-<key>A</key>
-<title>Никто не отлучит</title>
 </song>

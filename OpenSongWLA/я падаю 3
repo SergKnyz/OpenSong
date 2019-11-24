@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>251</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
+<title>Я падаю</title>
+<author>Дарина Кочанжи</author>
 <lyrics>[V1]
  1 куплет:
 .G#                 Cm
@@ -27,7 +29,5 @@
  В Своих руках, в Святых руках.
  Я верю где-то там Ты ждёшь меня,
  На небеса, на небеса.</lyrics>
-<key>Eb</key>
-<title>Я падаю</title>
-<author>Дарина Кочанжи</author>
+<hymn_number>251</hymn_number>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Христос мой как о Тебе молчать ПВ1807</title>
-<hymn_number>299</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Христос мой как о Тебе молчать ПВ1807</title>
+<key>C</key>
 <lyrics>[V1]
 .  C                  G
  Христос мой, как о Тебе молчать,
@@ -32,4 +31,5 @@
  Для труда во имя Христа.
  Пошли нам больше дара любви,
  Чтоб не смолкли наши уста.</lyrics>
+<hymn_number>299</hymn_number>
 </song>

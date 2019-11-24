@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Любовь Отца</title>
-<key>C</key>
-<author>Йеремы Риддле, Йосх Фарро, Пхил Уицкхам</author>
-<hymn_number>3081</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .C
   Ты нарушаешь власть греха и тьмы
@@ -61,4 +57,8 @@
    Слава Тебе Божий Сын,
 .  F
    слава, слава</lyrics>
+<hymn_number>3081</hymn_number>
+<author>Йеремы Риддле, Йосх Фарро, Пхил Уицкхам</author>
+<title>Любовь Отца</title>
+<key>C</key>
 </song>

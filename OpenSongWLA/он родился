@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1371</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
+<title>Он родился</title>
+<author>Трио Спасение церковь</author>
 <lyrics>[V1]
  1 куплет:
 .Bb                           D#
@@ -24,7 +26,5 @@
  В каждом доме свет и радость, и любовь царит в сердцах
  Гимны славы благодарности воздаются к Богу благости
  Воспевают небеса.</lyrics>
-<key>Bb</key>
-<title>Он родился</title>
-<author>Трио Спасение церковь</author>
+<hymn_number>1371</hymn_number>
 </song>

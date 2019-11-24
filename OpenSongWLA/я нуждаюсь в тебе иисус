@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>Я нуждаюсь в Тебе Иисус</title>
-<author>Ксения Кузнецова</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ксения Кузнецова</author>
 <hymn_number>121</hymn_number>
 <lyrics>[V1]
  Куплет:
@@ -34,4 +32,6 @@
    Слава Тебе, Бог Святой
 .     F#m     Hm D E
    Господь мой</lyrics>
+<title>Я нуждаюсь в Тебе Иисус</title>
+<key>F#</key>
 </song>

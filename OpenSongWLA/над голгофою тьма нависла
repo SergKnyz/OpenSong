@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Егор и Наталия Лансере</author>
-<aka>Агнец Пасхальный</aka>
-<title>Над Голгофою тьма нависла</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Над Голгофою тьма нависла</title>
 <key>A</key>
 <lyrics>[V1]
  1 куплет:
@@ -61,4 +59,6 @@
    D                             A                                    E                             A
    Претерпел Он страданья, Кровью нас спас, Кровью нас спас!</lyrics>
 <hymn_number>2698</hymn_number>
+<author>Егор и Наталия Лансере</author>
+<aka>Агнец Пасхальный</aka>
 </song>

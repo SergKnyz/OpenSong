@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог нас любит, знаю я,</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Так нас учит Библия,</title>
 <key>D</key>
-<title>Так нас учит Библия,</title>
-<author>Joyyouth Worship</author>
-<hymn_number>462</hymn_number>
 <lyrics>[V1]
 .D
  Бог нас любит, знаю я,
@@ -34,4 +31,7 @@
  Лишь в Тебе покой найду.
  Чистый свет - любовь Твоя -
  Не померкнет никогда.</lyrics>
+<hymn_number>462</hymn_number>
+<author>Joyyouth Worship</author>
+<aka>Бог нас любит, знаю я,</aka>
 </song>

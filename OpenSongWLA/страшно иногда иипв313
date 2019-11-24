@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Страшно иногда ИИПВ313</title>
-<hymn_number>313</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Страшно иногда ИИПВ313</title>
+<key>G</key>
 <lyrics>[C1]
 .   Em            Bm
    Страшно иногда даже вспоминать
@@ -38,4 +37,5 @@
  Нашимысли и дела.
  Долгоне могли мы никак понять,
  Почемутак много зла.</lyrics>
+<hymn_number>313</hymn_number>
 </song>

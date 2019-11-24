@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
-<key>B</key>
-<title>Шедевр</title>
+<hymn_number>6232</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .H    C#m     G#m       E
@@ -51,5 +50,6 @@
    И трепещут силы тьмы Твои дети знают кто они
 .  C#m         E              H            F#
    В наши руки дал всю власть в Твоей силе будем наступать</lyrics>
-<hymn_number>6232</hymn_number>
+<title>Шедевр</title>
+<key>B</key>
 </song>

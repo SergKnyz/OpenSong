@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Тебе душа поёт</title>
-<author>Алексей Каратаев</author>
-<hymn_number>333</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев</author>
 <lyrics>[V1]
 .         C      Dm       C/E
  Потерян был, но найден вновь,
@@ -47,4 +44,7 @@
  Аллилуйя! Аллилуйя!
 .       F  G Am  Gsus G
  Для Тебя душа поёт!__</lyrics>
+<hymn_number>333</hymn_number>
+<title>Тебе душа поёт</title>
+<key>C</key>
 </song>

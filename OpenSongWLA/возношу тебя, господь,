@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Возношу Тебя, Господь,</title>
-<key>G</key>
-<aka>Пришел на Землю с небес</aka>
-<author>Альфа и Омега</author>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Пришел на Землю с небес</aka>
 <hymn_number>1768</hymn_number>
 <lyrics>[V1]
 .G   C    D    C
@@ -26,4 +23,7 @@
  Возношу Тебе хвалу я.
  Для меня Ты - жизнь моя,
  Для меня Ты - путь спасенья.</lyrics>
+<author>Альфа и Омега</author>
+<title>Возношу Тебя, Господь,</title>
+<key>G</key>
 </song>

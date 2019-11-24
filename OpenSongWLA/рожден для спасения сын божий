@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3802</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
 <lyrics>[C1]
    Припев:
 .     Cm                Bb
@@ -40,7 +40,7 @@
    За людей Он жизнь отдал
 .  G#            G
    И меня Он оправдал.</lyrics>
-<key>C</key>
+<hymn_number>3802</hymn_number>
 <title>Рожден для спасения Сын Божий</title>
-<author>Неизвестный</author>
+<key>C</key>
 </song>

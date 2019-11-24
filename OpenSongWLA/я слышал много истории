@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Цхрис Томлин</author>
 <title>Я слышал много истории</title>
-<aka>Добрый добрый Отец мой</aka>
 <lyrics>[V1]
 .C       Csus         C
  Я слышал много истории
@@ -64,5 +63,6 @@
  И мне Ты открываешь
 .     Dm       G4
  Как любишь, любишь меня</lyrics>
-<author>Цхрис Томлин</author>
+<key>C</key>
+<aka>Добрый добрый Отец мой</aka>
 </song>

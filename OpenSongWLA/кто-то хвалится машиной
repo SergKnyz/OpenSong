@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Валерий Короп</author>
+<lyrics>[V1]
 . Em        C         G   D Em   C         G D
  Кто-то хвалится машиной, у кого-то поезда.
  Кто-то тратит миллионы, покупая острова.
@@ -23,8 +24,7 @@
  И если хочешь эту радость
  Ты в свое сердце принима-а-а-ай.</lyrics>
 <hymn_number>2207</hymn_number>
-<author>Валерий Короп</author>
 <aka>Иисус живой</aka>
-<title>Кто-то хвалится машиной</title>
 <key>Em</key>
+<title>Кто-то хвалится машиной</title>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Неизвестный</author>
-<key>A</key>
-<title>Спасибо, Бог, за лунный свет</title>
 <lyrics>[V1]
  1 Куплет:
 .A      F#m
@@ -41,4 +39,6 @@
  Надеждой Ты моею стал,
  Ты - Бог всей моей жизни, Аллилуйя!</lyrics>
 <hymn_number>3845</hymn_number>
+<title>Спасибо, Бог, за лунный свет</title>
+<key>A</key>
 </song>

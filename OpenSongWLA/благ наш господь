@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Благ наш Господь</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Благ наш Господь</title>
 <aka>Ибо милость Его вовеки</aka>
 <author>Неизвестный</author>
-<hymn_number>2277</hymn_number>
 <lyrics>[V1]
 .D
  Благ наш Господь,
@@ -30,4 +29,5 @@
  Так благ! Так благ!
  О Иисус, Ты так благ,
  Ты так благ для меня!</lyrics>
+<hymn_number>2277</hymn_number>
 </song>

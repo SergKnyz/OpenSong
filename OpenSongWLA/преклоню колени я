@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
-<title>Преклоню колени я</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .C          G/H   Dm             Am
  Преклоню колени я пред Тобой Господь.
@@ -30,4 +27,7 @@
 .       F          E    Am
    Мы поём для Тебя, Иисус.</lyrics>
 <hymn_number>140</hymn_number>
+<author>Виталий Ефремочкин</author>
+<title>Преклоню колени я</title>
+<key>C</key>
 </song>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>81</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  Куплет:
 .Cm
@@ -31,7 +31,7 @@
    И больше чем мечтаем мы.
    Избытки и изобилии,
    Бог способен, Бог способен.</lyrics>
-<key>C</key>
+<hymn_number>81</hymn_number>
 <title>Новое творить</title>
-<author>Виталий Ефремочкин</author>
+<key>C</key>
 </song>

@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Тебе Пою</title>
-<key>F#</key>
-<author>Денис Чубренко</author>
-<hymn_number>3186</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
+<title>Тебе Пою</title>
 <lyrics>[V1]
  1 куплет:
 .F#m               D
@@ -37,4 +35,6 @@
    Пойду за Тобой, ведь, знаю, Иисус,
 .  A           Hm   C#m
    Ты любишь меня, и я...</lyrics>
+<hymn_number>3186</hymn_number>
+<author>Денис Чубренко</author>
 </song>

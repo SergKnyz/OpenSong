@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Нарния</author>
+<lyrics>[V1]
  1 куплет:
-.C#m        H            A H
+.C#m        H           A H
  Призвал меня в Свой свет.
-.C#m          H      A  E/G#
+.C#m          H     A  E/G#
  Открыл мне Свой завет.
-.F#m      G#        C#m   H      A E/G#
+.F#m      G#       C#m   H      A E/G#
  Любовью вечной Ты возлюбил меня.
-.F#m                             G#
+.F#m                            G#
  И знаю, будешь Ты со мной всегда!
 .C#m        H       A H
  Под сенью Божьих крыл
@@ -46,7 +47,6 @@
 .     F#m                   G#
    И Слово Божье укрепит меня!</lyrics>
 <hymn_number>4431</hymn_number>
-<author>Нарния</author>
-<title>Ты праведен и свят</title>
 <key>C#m</key>
+<title>Ты праведен и свят</title>
 </song>

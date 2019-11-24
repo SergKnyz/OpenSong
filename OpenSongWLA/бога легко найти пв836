@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4520</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бога легко найти ПВ836</title>
+<key>C</key>
+<aka>Бога легко искать</aka>
 <lyrics>[V1]
 .Cm          Fm
  Бога легко искать.
@@ -66,7 +68,5 @@
    это - Голгофский крест,
    Это - благая весть,
    крыльев могучих сень.</lyrics>
-<aka>Бога легко искать</aka>
-<title>Бога легко найти ПВ836</title>
-<key>C</key>
+<hymn_number>4520</hymn_number>
 </song>

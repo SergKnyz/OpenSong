@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Божье прикосновение</author>
-<key>A</key>
-<title>Иисус к Тебе иду</title>
 <lyrics>[V1]
  1 куплет:
 .      A        E/G#        F#m              A
@@ -30,4 +28,6 @@
  В этот праздник новогодний веселиться может тот,
  В сердце чьём любовь Господня и богатый веры плод.</lyrics>
 <hymn_number>88</hymn_number>
+<key>A</key>
+<title>Иисус к Тебе иду</title>
 </song>

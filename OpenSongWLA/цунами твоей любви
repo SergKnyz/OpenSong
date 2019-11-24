@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2941</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Цунами Твоей любви</title>
+<author>Филипп Реннер</author>
+<hymn_number>2941</hymn_number>
 <lyrics>[V1]
 .E                   A
  Я хочу познать, долготу и высоту,
@@ -34,7 +37,4 @@
  Я хочу больше, я хочу выше,
 .        F#m    E/G#       A
  Я хочу глубже глубже в Тебя.</lyrics>
-<key>E</key>
-<title>Цунами Твоей любви</title>
-<author>Филипп Реннер</author>
 </song>

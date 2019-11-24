@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Db</key>
-<title>За все Тебя Господь благодарю ПВ2129</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1250</hymn_number>
 <lyrics>[V1]
  За все Тебя, Господь, благодарю,
  Ты после дня тревоги и печали
@@ -18,5 +17,6 @@
  Что я один в безмолвном созерцанье,
  Что всем я чужд и говорю с Тобой.
  За все Тебя, Господь, благодарю.</lyrics>
-<hymn_number>1250</hymn_number>
+<key>Db</key>
+<title>За все Тебя Господь благодарю ПВ2129</title>
 </song>

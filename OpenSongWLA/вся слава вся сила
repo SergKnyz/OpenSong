@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вся слава вся сила</title>
-<key>Dm</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .      Dm        B
  Вся слава, вся сила
 .    Gm Am    Dm
@@ -18,4 +16,6 @@
 .   Dm B   C
  Огнем  //</lyrics>
 <hymn_number>83</hymn_number>
+<key>Dm</key>
+<title>Вся слава вся сила</title>
 </song>

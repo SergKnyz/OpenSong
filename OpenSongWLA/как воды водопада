@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4718</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Как воды водопада</title>
+<key>C</key>
+<author>Марина Зайкова</author>
 <lyrics>[V1]
  1 куплет:
 . C           Am
@@ -44,7 +46,5 @@
    Как воды водопада льются надо мной, текут рекой.
    Господи, да. что еще мне надо,
    Ведь надо- надо-надо-надо-надо мной текут рекой благословения Твои.</lyrics>
-<key>C</key>
-<title>Как воды водопада</title>
-<author>Марина Зайкова</author>
+<hymn_number>4718</hymn_number>
 </song>

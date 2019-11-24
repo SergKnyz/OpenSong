@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<title>Ты - всё Господь</title>
-<author>Виталий Ефремочкин</author>
-<hymn_number>2781</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  Вступление:
 .C                                             G5    D  C/G A
@@ -34,4 +31,7 @@
  Ты всё, Господь
 .       D        A
  Ты всё и во всём</lyrics>
+<hymn_number>2781</hymn_number>
+<key>B</key>
+<title>Ты - всё Господь</title>
 </song>

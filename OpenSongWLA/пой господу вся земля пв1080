@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1080</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Пой Господу вся земля! ПВ1080</title>
+<key>Dm</key>
+<hymn_number>1080</hymn_number>
 <lyrics>[V1]
 .   Dm                  A7
  // Пой Господу, вся земля,
@@ -38,6 +40,4 @@
  Аллилуйя, аллилуйя, аллилуйя, аллилуйя,
 .    A             Dm  Bb    A
  /// Аллилуйя, аллилуйя! ///</lyrics>
-<key>Dm</key>
-<title>Пой Господу вся земля! ПВ1080</title>
 </song>

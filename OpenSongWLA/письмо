@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>613</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Письмо</title>
+<key>C</key>
 <lyrics>[V1]
 .C  F           G            C
  1. Мое письмо к Тебе, Иисус,
@@ -21,7 +22,6 @@
  Да не берет надо мною верх моя плоть,
  Да буду верным воином я имени Тебя,
  Оживляй сердца людей, что вокруг меня.</lyrics>
-<key>C</key>
-<title>Письмо</title>
+<hymn_number>613</hymn_number>
 <author>Владимир Скобочкин</author>
 </song>

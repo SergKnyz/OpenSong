@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>Мы жалкие Адамовы потомки</aka>
-<title>Бог не сказка стариков хочешь верь иль не верь</title>
-<key>A</key>
 <author>Дарина Кочанжи</author>
-<hymn_number>1158</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .   Am               Dm
@@ -31,4 +28,7 @@
  Промчались дни былого торжества
  Разрушены и преданы забвению
  Язычества немые божества</lyrics>
+<hymn_number>1158</hymn_number>
+<key>A</key>
+<title>Бог не сказка стариков хочешь верь иль не верь</title>
 </song>

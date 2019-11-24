@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Нить жизни</title>
+<key>D</key>
+<lyrics>[V1]
  1 куплет:
 .        D    A         D      A
  Нашей жизни нить коротка, тонка
@@ -32,6 +34,4 @@
  Так легко к тебе возвращаться.</lyrics>
 <hymn_number>339</hymn_number>
 <author>Божья роса</author>
-<key>D</key>
-<title>Нить жизни</title>
 </song>

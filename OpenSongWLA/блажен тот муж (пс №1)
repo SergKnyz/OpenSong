@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Воистину, воистину счастливый!</aka>
-<title>Блажен тот муж (пс №1)</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Блажен тот муж (пс №1)</title>
 <key>F</key>
-<hymn_number>4041</hymn_number>
+<aka>Воистину, воистину счастливый!</aka>
 <lyrics>[V1]
 .F        G         C
  Блажен, блажен тот муж!
@@ -52,4 +51,5 @@
  Блажен тот муж ... блажен тот муж
  О Слове Божьем размышляет день и ночь,
  Гоня плотские помышленья вон и прочь...</lyrics>
+<hymn_number>4041</hymn_number>
 </song>

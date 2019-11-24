@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вместе мы с вами верили ПВ823</title>
-<key>C</key>
-<aka>Вместе любили и пели,</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вместе мы с вами верили,
  Вместе любили и пели,
  Вместе дороги мерили
@@ -25,4 +22,7 @@
  Там, где нет слез и горечи,
  Вечно мы будем вместе.</lyrics>
 <hymn_number>823</hymn_number>
+<aka>Вместе любили и пели,</aka>
+<title>Вместе мы с вами верили ПВ823</title>
+<key>C</key>
 </song>

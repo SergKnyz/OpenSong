@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бог ждёт</title>
+<key>D</key>
+<lyrics>[V1]
 .D           A                  Em
  Ты устал от суеты, ты устал от пустоты,
 .                    G
@@ -25,6 +27,4 @@
  И к Нему ты подойди!</lyrics>
 <hymn_number>2639</hymn_number>
 <aka>Ты устал от суеты, ты устал от пустоты,</aka>
-<key>D</key>
-<title>Бог ждёт</title>
 </song>

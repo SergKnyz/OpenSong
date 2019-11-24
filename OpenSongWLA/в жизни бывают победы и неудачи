@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>388</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Верь Мне</aka>
+<author>Татьяна Прохор</author>
 <lyrics>[V1]
 .  Gm                     Eb
  В жизни бывают победы и неудачи
@@ -51,8 +52,7 @@
    Будь до конца Мне верна и потоки живые
 .   C#m                 Eb7      Abm   H
    С нежной любовью сойдут на тебя. /-3 раза</lyrics>
-<title>В жизни бывают победы и неудачи</title>
+<hymn_number>388</hymn_number>
 <key>G</key>
-<aka>Верь Мне</aka>
-<author>Татьяна Прохор</author>
+<title>В жизни бывают победы и неудачи</title>
 </song>

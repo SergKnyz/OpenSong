@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Пели ангелы святые ПВ602</title>
-<key>Eb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Пели ангелы святые.
  Их пречистые уста
  Возвещали дни благие;
@@ -39,4 +37,6 @@
    Ты теряешь вечный рай...
    Друг! Внимай и сохраняй.</lyrics>
 <hymn_number>602</hymn_number>
+<key>Eb</key>
+<title>Пели ангелы святые ПВ602</title>
 </song>

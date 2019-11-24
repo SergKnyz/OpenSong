@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><tempo>150</tempo>
-<hymn_number>336</hymn_number>
 <lyrics>[V1]
 .F        Eb/F  B Gm  F/C         C
  Тебя прославлю и воздам хвалу Тебе.
@@ -25,8 +24,9 @@
    В Тебе нашел я свой покой,
 .  B            Dm           F/C C
    Ты - мой Спаситель и мой Царь.</lyrics>
-<time_sig>4/4</time_sig>
+<hymn_number>336</hymn_number>
 <aka>К Тебе стремлюсь я всей душой</aka>
 <key>F</key>
 <title>Тебя прославлю и воздам хвалу Тебе</title>
+<time_sig>4/4</time_sig>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Иисус, Ты - сила моя</title>
-<author>Путь Христа церковь, г. Нюрнберг</author>
-<hymn_number>2994</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em Am            Em
   Иисус, Ты сила моя.
 .Em  Am                Em
@@ -43,4 +39,8 @@
  Иисус, Ты открыл небеса, Иисус, Ты защита моя
 .Em D            Em           -D           Em
  Иисус, Ты  мой мир и покой, Иисус, Ты Бог мой</lyrics>
+<hymn_number>2994</hymn_number>
+<author>Путь Христа церковь, г. Нюрнберг</author>
+<key>E</key>
+<title>Иисус, Ты - сила моя</title>
 </song>

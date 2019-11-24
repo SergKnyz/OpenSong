@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Взирайте люди на Слово Божье</aka>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <title>Пока еще ныне звучит. ПВ851</title>
-<hymn_number>851</hymn_number>
+<aka>Взирайте люди на Слово Божье</aka>
 <lyrics>[V1]
  Взирайте, люди, на Слово Божье,
  Пока еще ныне звучит.
@@ -31,4 +30,5 @@
  Чтоб Слово Господне найти.
  И полны будут мученья и горя.
  Не смогут спастись уж они.</lyrics>
+<hymn_number>851</hymn_number>
 </song>

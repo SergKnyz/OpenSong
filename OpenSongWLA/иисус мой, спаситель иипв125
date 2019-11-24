@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Господу пой вся земля вместе с нами</aka>
-<title>Иисус мой, Спаситель ИИПВ125</title>
-<key>A</key>
-<author>Цхрис Томлин, Дарлене Зсцхецх</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Дарлене Зсцхецх, Цхрис Томлин</author>
 <hymn_number>125</hymn_number>
 <lyrics>[V1]
 .A.          E.
@@ -36,5 +33,8 @@
    На веки Тебя я люблю, мой Иисус.
 .  F#m               D      E     A
    Нет ничего, что заменит Твою любовь.</lyrics>
+<aka>Господу пой вся земля вместе с нами</aka>
+<title>Иисус мой, Спаситель ИИПВ125</title>
+<key>A</key>
 <copyright>1993 Хиллсонг Публисхинг</copyright>
 </song>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Слава вовеки</title>
-<author>JG Youth Worship</author>
-<hymn_number>3461</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Intro: Tempo: 75 bpm, 4/4
 
 [V2]
@@ -58,4 +54,8 @@
    Аминь! Аминь!
 .         C                  G
    В сердцах горит огонь, и нет других имен!</lyrics>
+<hymn_number>3461</hymn_number>
+<author>JG Youth Worship</author>
+<key>A</key>
+<title>Слава вовеки</title>
 </song>

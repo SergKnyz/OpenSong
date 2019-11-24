@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1157</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>На крыльях могучих орлиных ПВ1157</title>
+<key>Bb</key>
 <lyrics>[V1]
  На крыльях могучих орлиных
  Над морем житейским несусь,
@@ -34,6 +35,5 @@
  Намеченный путь через мир.
  На крыльях я чувствую силу,
  Под крыльями царствует мир!</lyrics>
-<title>На крыльях могучих орлиных ПВ1157</title>
-<key>Bb</key>
+<hymn_number>1157</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Эту песню пою я для вас ПВ1498</title>
-<hymn_number>1498</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Эту песню пою я для вас.
  Дорогие мои друзья,
  Я желаю сказать в этот час:
@@ -29,4 +26,7 @@
  Оно - помощь вам на пути.
  Если все это будет у вас,
  Счастье будет всегда меж вас.</lyrics>
+<hymn_number>1498</hymn_number>
+<title>Эту песню пою я для вас ПВ1498</title>
+<key>E</key>
 </song>

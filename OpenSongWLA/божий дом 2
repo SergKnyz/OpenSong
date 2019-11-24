@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Любим мы божий дом</aka>
-<title>Божий дом</title>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>321</hymn_number>
 <lyrics>[V1]
  Любим мы божий дом
  Нет роднее уголочка на свете
@@ -39,5 +38,6 @@
    Это счастье Он дал нам навечно..
    Это счастье Он дал нам навечно....
    Это счастье Он дал нам навечно.</lyrics>
-<hymn_number>321</hymn_number>
+<aka>Любим мы божий дом</aka>
+<title>Божий дом</title>
 </song>

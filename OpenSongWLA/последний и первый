@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<title>Последний и Первый</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Последний и Первый</title>
 <key>F</key>
 <lyrics>[V1]
  Куплет 1:
@@ -57,4 +56,5 @@
 .       C#
    Воспоют: «Святой Господь!» мы споем: «Святой Господь!»</lyrics>
 <hymn_number>730</hymn_number>
+<author>Hillsong Ukraine</author>
 </song>

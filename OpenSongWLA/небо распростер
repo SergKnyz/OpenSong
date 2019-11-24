@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Chris Tomlin</author>
-<key>C</key>
-<title>Небо распростер</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .C2
  Небо распростер над бездною и тьмой,
@@ -48,4 +45,7 @@
  И лишь издалека
  Видим славные лучи Твоей любви.</lyrics>
 <hymn_number>3463</hymn_number>
+<author>Chris Tomlin</author>
+<title>Небо распростер</title>
+<key>C</key>
 </song>

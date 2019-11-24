@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Кристалл</author>
-<title>Мама</title>
-<key>D</key>
 <lyrics>[V1]
  Куплет 1:
 .  Dm
@@ -52,4 +50,6 @@
  И ночью тихонько дверь откроет она тебе
  Поверь, что не спит, а ждет только мама.</lyrics>
 <hymn_number>1000</hymn_number>
+<title>Мама</title>
+<key>D</key>
 </song>

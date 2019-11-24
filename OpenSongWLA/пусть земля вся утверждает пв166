@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Пусть земля вся утверждает ПВ166</title>
-<key>C</key>
-<hymn_number>166</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Пусть земля вся утверждает,
  Что Тобой я не спасен,
  Дух мой песню воспевает:
@@ -42,4 +39,7 @@
  В сердце избранных Тобой;
  В час минутного затменья
  Будь на страже, Пастырь мой!</lyrics>
+<hymn_number>166</hymn_number>
+<title>Пусть земля вся утверждает ПВ166</title>
+<key>C</key>
 </song>

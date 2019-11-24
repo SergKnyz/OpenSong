@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Приходи Иисус ко мне ПВ1601</title>
-<hymn_number>1601</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Приходи, Иисус, ко мне.
  Приходи в полночной мгле.
  Приходи, когда в сердце грусть.
@@ -21,4 +18,7 @@
  Дай мне силы, Создатель, здесь так прожить.
  Чтоб обители вечной я мог достичь,
  Чтоб вовеки с Тобой жить.</lyrics>
+<hymn_number>1601</hymn_number>
+<title>Приходи Иисус ко мне ПВ1601</title>
+<key>G</key>
 </song>

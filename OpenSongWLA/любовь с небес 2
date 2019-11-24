@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Любовь с небес</title>
+<author>ММК ЕАД</author>
+<lyrics>[V1]
 .            F        G      C
  В небе зажглась звезда любви -
 .            F     G          Am G
@@ -51,7 +54,4 @@
 .       F       G    C
  И воскрес, как обещал!</lyrics>
 <hymn_number>1557</hymn_number>
-<author>ММК ЕАД</author>
-<key>C</key>
-<title>Любовь с небес</title>
 </song>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Supernatural Worship</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <title>Ты живой</title>
+<hymn_number>2490</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .         Am       F      C
@@ -77,5 +77,5 @@
    Ты есть свет, сияй во мне!
 .         G                     D
    Словом освети мир, что во тьме!</lyrics>
-<hymn_number>2490</hymn_number>
+<author>Supernatural Worship</author>
 </song>

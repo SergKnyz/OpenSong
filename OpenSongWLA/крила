@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Крила</title>
-<key>F</key>
-<author>Сіон</author>
-<hymn_number>1738</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сіон</author>
 <lyrics>[V1]
  1 куплет:
 .Fm             Cm
@@ -45,4 +42,7 @@
  Дай же, Боже, крила, щоб я не загинув,
 .Cm         D             Gm
  А у світі тім міг вічно жить</lyrics>
+<hymn_number>1738</hymn_number>
+<key>F</key>
+<title>Крила</title>
 </song>

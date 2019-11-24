@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><time_sig>2/4</time_sig>
+<title>Господу Богу Твоему поклоняйся</title>
+<key>Am</key>
+<hymn_number>87</hymn_number>
+<lyrics>[C1]
 .   Am               Hm
    Господу Богу твоему поклоняйся!
 .   Em               Em
@@ -27,9 +31,5 @@
  И на этой проклятой земле
 .      Em
  Мы оставим Божьи следы.</lyrics>
-<hymn_number>87</hymn_number>
 <tempo>60</tempo>
-<title>Господу Богу Твоему поклоняйся</title>
-<key>Am</key>
-<time_sig>2/4</time_sig>
 </song>

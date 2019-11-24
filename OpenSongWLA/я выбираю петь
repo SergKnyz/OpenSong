@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я выбираю петь</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Я выбираю петь</title>
 <author>Слово Жизни Music</author>
-<hymn_number>3633</hymn_number>
 <lyrics>[V1]
  Куплет:
 .G                 D Hm                A
@@ -41,4 +40,5 @@
    Радость в Господе сила моя я буду прославлять Тебя.
 .  Hm                            A
    Радость в Господе сила моя я буду прославлять Тебя.</lyrics>
+<hymn_number>3633</hymn_number>
 </song>

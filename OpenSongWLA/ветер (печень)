@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Рома Иванько</author>
-<title>Ветер (печень)</title>
-<key>E</key>
-<aka>Ты выпил меня до дна, казалось мне что погасла звезда,</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Ты выпил меня до дна, казалось мне что погасла звезда,</aka>
 <lyrics>[V1]
  1 куплет:
 .Em                  Hm
@@ -41,4 +38,7 @@
  Я на пороге и не вижу дна, опять плыву и потерял берега,
  Но моё сердце как прежде поёт - для Тебя</lyrics>
 <hymn_number>1638</hymn_number>
+<author>Рома Иванько</author>
+<title>Ветер (печень)</title>
+<key>E</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Этот радостный день</title>
-<key>C</key>
-<author>Поздний дождь</author>
-<hymn_number>893</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Поздний дождь</author>
 <lyrics>[V1]
  1 куплет:
 .     Cm            G                     Cm
@@ -33,4 +30,7 @@
  Первой встречи с Христом, покорившей меня своим счастьем.
  И Ему посвящать свои лучшие чувства и песни
  Пусть всегда будет самым хорошим и сильным желаньем.</lyrics>
+<hymn_number>893</hymn_number>
+<key>C</key>
+<title>Этот радостный день</title>
 </song>

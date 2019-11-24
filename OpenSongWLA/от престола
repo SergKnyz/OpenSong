@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>От престола</title>
-<key>F#</key>
-<author>Алексей Грудинский</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Грудинский</author>
 <hymn_number>20</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -53,4 +51,6 @@
  От величия Царя
  Вся дрожит земля
  Вся дрожит земля</lyrics>
+<title>От престола</title>
+<key>F#</key>
 </song>

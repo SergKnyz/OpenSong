@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты мой Бог</title>
-<key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
+<title>Ты мой Бог</title>
 <author>Евгений и Елена Вотчель</author>
-<hymn_number>3932</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .       F#m    C#        F#m C#
@@ -51,4 +50,5 @@
    Припев:
    Буду славить Тебя и петь, мой Христос, мой Господь
    Я увижу Тебя как ты есть, мой Спаситель, мой Бог.</lyrics>
+<hymn_number>3932</hymn_number>
 </song>

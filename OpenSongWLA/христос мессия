@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Христос Мессия</title>
-<author>Е.Туйсузов</author>
-<hymn_number>2173</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Е.Туйсузов</author>
 <lyrics>[V1]
  G.                            Em
  Я подниму свои глаза
@@ -81,4 +78,7 @@
  Припев
  Припев
  Припев</lyrics>
+<hymn_number>2173</hymn_number>
+<key>G</key>
+<title>Христос Мессия</title>
 </song>

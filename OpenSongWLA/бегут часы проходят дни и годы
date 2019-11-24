@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Бегут часы проходят дни и годы</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бегут часы проходят дни и годы</title>
+<key>D</key>
 <author>Анна и Андрей Лукашины</author>
 <hymn_number>1279</hymn_number>
 <lyrics>[V1]
@@ -37,4 +37,5 @@
  Господь хранит вовек любви святой завет
  Печаль и радость из руки святой приемлю
  Иисус мой путь и истина и свет</lyrics>
+<aka>Но с каждым днем дороже мне глаза друзей</aka>
 </song>

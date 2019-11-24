@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Владимир Скобочкин</author>
-<key>D</key>
-<title>Свобода</title>
 <lyrics>[V1]
 .Dm          B          Gm          C
  1. Спасибо, Господь, за крылья свободы,
@@ -33,4 +31,6 @@
  Только надобно в жизни сделать важный выбор-
  Готов ли ты духом ради Бога гореть?</lyrics>
 <hymn_number>2469</hymn_number>
+<title>Свобода</title>
+<key>D</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>пред Тобой мой Бог</title>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . A         E       F#m
  Пред Тобой, мой Бог
 .     D          E A
@@ -37,4 +35,6 @@
    Стал похожим на Тебя.
 .       D                 E4 E A
    Я стал похожим на Тебя.</lyrics>
+<title>пред Тобой мой Бог</title>
+<key>A</key>
 </song>

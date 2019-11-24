@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3957</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
+<title>Славь, душа</title>
+<author>Слово Жизни Music</author>
+<hymn_number>3957</hymn_number>
 <lyrics>[V1]
  Intro
 
@@ -37,7 +40,4 @@
    Нас вывел Бог рукою сильной и дал нам в сердце радость и мир
 .  C#m         A              E             G#m
    И нет теперь проклятий мира на детях Божьих</lyrics>
-<key>C#m</key>
-<title>Славь, душа</title>
-<author>Слово Жизни Music</author>
 </song>

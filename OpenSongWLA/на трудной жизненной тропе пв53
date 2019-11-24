@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>На трудной жизненной тропе ПВ53</title>
-<key>Ab</key>
-<hymn_number>6300</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  На трудной жизненной тропе,
  О дай, Спаситель, силу мне
  Сказать безропотно Тебе:
@@ -30,4 +27,7 @@
  Пусть шепчет мой усталый глас
  Тому, Кто дух навеки спас:
  &quot;Как хочешь Ты&quot;.</lyrics>
+<hymn_number>6300</hymn_number>
+<title>На трудной жизненной тропе ПВ53</title>
+<key>Ab</key>
 </song>

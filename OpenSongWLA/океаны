@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><copyright>Хиллсонг Унитед</copyright>
+<key>Bm</key>
+<title>Океаны</title>
+<author>Саломон Лигхтхелм, Матт Цроцкер, Йоел Хоустон</author>
+<lyrics>[V1]
 .Bm            A/C#      D
  В глубины вод меня призвал Ты
 .          A           G
@@ -69,9 +73,5 @@
    Станет вера моя крепче,
 .         Em
    когда рядом мой Спаситель</lyrics>
-<copyright>Хиллсонг Унитед</copyright>
 <hymn_number>971</hymn_number>
-<author>Саломон Лигхтхелм, Матт Цроцкер, Йоел Хоустон</author>
-<key>Bm</key>
-<title>Океаны</title>
 </song>

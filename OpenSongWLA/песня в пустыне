@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<title>Песня в пустыне</title>
-<key>B</key>
+<hymn_number>968</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Hm          A        G   D
@@ -52,5 +51,6 @@
  Когда есть избыток во всем.
  Знаю, что Бог наполняет, чтоб вновь.
  Мы сеяли семя своё.</lyrics>
-<hymn_number>968</hymn_number>
+<key>B</key>
+<title>Песня в пустыне</title>
 </song>

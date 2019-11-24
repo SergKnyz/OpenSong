@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4126</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
-.Em     C           D
+.Cm     G#           A#
  Я склоняюсь пред Тобой
-.Em      C            D     Hm
+.Cm      G#           A#     Gm
  Руки свои поднимая ввысь к небу
-.Em      C                 D
+.Cm      G#                 A#
  Ты моя радость, Ты мой покой
-.Em       C               D    Hm
+.Cm       G#              A#    Gm
  Жажду Тебя, к Тебе стремлюсь сердцем
 
 [C1]
    Припев:
-.  Em   C     D
+.  Cm   G#    A#
    Бог мой, славлю Тебя я сердцем
-.  Em   C   D
+.  Cm   G#   A#
    Бог мой, Ты жизнь моя
-.  Em   C      D
+.  Cm   G#      A#
    Бог мой, хочу я услышать голос Твой
-.  C          D
+.  G#         A#
    Идти за Тобой
 
 [B1]
-   Бридж:
-.  Em  C   D   Em  C   D
-   Слава Тебе, Слава Тебе</lyrics>
-<key>E</key>
-<title>Я склоняюсь пред Тобой</title>
-<aka>Бог мой</aka>
+   Мост:
+.     Cm         G#          A#
+   Ты Царь мой, Бог мой, Иисус</lyrics>
+<hymn_number>155</hymn_number>
 <author>Виталий Ефремочкин</author>
+<aka>Бог мой</aka>
+<title>Я склоняюсь пред Тобой</title>
+<key>C</key>
 </song>

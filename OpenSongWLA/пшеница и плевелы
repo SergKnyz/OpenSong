@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Пшеница и плевелы</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Пшеница и плевелы</title>
 <author>Благодать церква г. Минск</author>
-<hymn_number>1492</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Dm               A
@@ -64,4 +63,5 @@
    В этот день, страшный день услышь Меня&quot;
 .  H     G#m      Bb        G# Bb   H     G#m       Bb
    Я проливаю за них в этих муках кровь Мою, кровь Мою.</lyrics>
+<hymn_number>1492</hymn_number>
 </song>

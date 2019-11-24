@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>867</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Приходи Иисус</title>
+<key>A</key>
+<author>Ксения Лапицкая</author>
 <lyrics>[V1]
  1 куплет:
 .            F#  H7   Em
@@ -27,7 +29,5 @@
  Дай мне силы, Создатель, здесь так прожить,
  Чтоб обители вечной мне достичь,
  Чтоб вовеки мне быть с Тобой.</lyrics>
-<title>Приходи Иисус</title>
-<key>A</key>
-<author>Ксения Лапицкая</author>
+<hymn_number>867</hymn_number>
 </song>

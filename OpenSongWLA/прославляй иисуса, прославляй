@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Прославляй Иисуса, прославляй</title>
-<key>F</key>
-<author>Слово Жизни Москва</author>
-<hymn_number>3816</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Москва</author>
 <lyrics>[V1]
  Куплет:
 .F Bb  C   F     Bb C
@@ -19,4 +16,7 @@
    Он воскрес! Он воскрес!
 .       C               Bb   C   F
    Ликуй и празднуй воскресение Христа!</lyrics>
+<hymn_number>3816</hymn_number>
+<key>F</key>
+<title>Прославляй Иисуса, прославляй</title>
 </song>

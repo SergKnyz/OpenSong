@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1225</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>В целом мире нет прекрасней ПВ1225</title>
+<key>C</key>
 <lyrics>[V1]
  В целом мире нет прекрасней,
  В целом мире не найдешь,
@@ -22,6 +23,5 @@
    Слушаем Его мы зов.
    И за это, братья, смело
    Станьте правые в пролом.</lyrics>
-<key>C</key>
-<title>В целом мире нет прекрасней ПВ1225</title>
+<hymn_number>1225</hymn_number>
 </song>

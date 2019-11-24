@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3119</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Припев 1.
 .     D                      A          D
  Аллилуйя, аллилуйя! Прославляйте Господа.
@@ -26,8 +25,9 @@
  Господу хвала, Ему вся честь, вся слава.
 . D    A     D     A       D
  Господу хвала во все времена.</lyrics>
-<aka>Прославляйте Господа</aka>
-<title>Аллилуйя, Аллилуя</title>
-<key>D</key>
+<hymn_number>3119</hymn_number>
 <author>Путь Христа церковь, г. Нюрнберг</author>
+<aka>Прославляйте Господа</aka>
+<key>D</key>
+<title>Аллилуйя, Аллилуя</title>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Слава и честь Царю Царей</aka>
-<key>E</key>
-<title>Навеки</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<author>Джесси Ривз, Крис Томлин, Цхрис Томлин</author>
 <lyrics>[V1]
  Слава и честь Царю Царей!
  Его любовь навеки!
@@ -38,5 +37,6 @@
    Мост:
    // Его любовь навеки.
    Его любовь навеки! //</lyrics>
-<author>Цхрис Томлин</author>
+<title>Навеки</title>
+<aka>Слава и честь Царю Царей</aka>
 </song>

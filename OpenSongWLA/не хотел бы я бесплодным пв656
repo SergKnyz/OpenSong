@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Не хотел бы я бесплодным ПВ656</title>
-<key>D</key>
-<hymn_number>656</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Не хотел бы я бесплодным
  К трону Господа прийти,
  Хоть одну хотел бы душу,-
@@ -30,4 +27,7 @@
  День проходит, ночь близка;
  И, пока не поздно, души
  Вы спасайте для Христа.</lyrics>
+<hymn_number>656</hymn_number>
+<key>D</key>
+<title>Не хотел бы я бесплодным ПВ656</title>
 </song>

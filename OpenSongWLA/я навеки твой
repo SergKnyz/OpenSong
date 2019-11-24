@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5968</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Галим Хусаинов</author>
 <lyrics>[V1]
  Куплет:
 .D     F#m/C#         Hm              F#m/A
@@ -23,7 +23,7 @@
    Нет подобного Тебе в небесах и на земле
 .   D        A/C#      Hm         A
    Нет подобного Тебе в небесах и на земле</lyrics>
-<title>Я навеки Твой</title>
+<hymn_number>5968</hymn_number>
 <key>D</key>
-<author>Галим Хусаинов</author>
+<title>Я навеки Твой</title>
 </song>

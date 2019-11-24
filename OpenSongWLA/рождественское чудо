@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Рождественское чудо</title>
-<key>D</key>
-<author>Они</author>
-<hymn_number>2135</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Они</author>
 <lyrics>[V1]
  1 куплет:
 .    D                            A   E/G#  F#m E
@@ -55,4 +52,7 @@
    Любовь спустилась к нам с Небес, ради людей!
    Поет земля, ликует небо, вторя в унисон:
    Аллилуйя, Царю царей! Аллилуйя, Царю царей! Аллилуйя!</lyrics>
+<hymn_number>2135</hymn_number>
+<title>Рождественское чудо</title>
+<key>D</key>
 </song>

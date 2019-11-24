@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1242</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>Одного Прошу</title>
 <lyrics>[V1]
  1 куплет:
 .F             G              Am     C/E
@@ -12,7 +13,7 @@
 
 [C1]
    Припев:
-.    G       C    G                   Am
+.     G       C    G                   Am
    Я точно знаю моя жизнь ничего не значит
 .  F                     C       G           Am
    Если в ней нет Тебя, Иисус всё, чего желаю я
@@ -50,7 +51,6 @@
    Всем, что есть во мне, Господь мой
 .       Am
    Поклоняться буду я</lyrics>
-<key>F</key>
-<title>Одного прошу</title>
-<author>Роман Касевич</author>
+<hymn_number>2401</hymn_number>
+<author>Hillsong Ukraine, Роман Касевич</author>
 </song>

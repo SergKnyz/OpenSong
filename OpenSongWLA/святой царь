@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1594</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Святой Царь</title>
+<key>C#m</key>
 <lyrics>[V1]
  1 куплет:
 .C#m             A     H      C#m
@@ -38,7 +39,6 @@
  О Ты Бог... Святой Иисус. О нет подобного Тебе Иисус.
 .         C#m  A      H         C#m
  О Ты наш Царь!!! Ты царь Бог!!! О-о-о-о</lyrics>
-<title>Святой Царь</title>
-<key>C#m</key>
+<hymn_number>1594</hymn_number>
 <author>Виталий Ефремочкин</author>
 </song>

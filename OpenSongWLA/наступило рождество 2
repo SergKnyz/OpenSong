@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Фавор</author>
-<key>D</key>
-<title>Наступило Рождество</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .           D                    Em
  Наступает Рождество - это ли не чудо?
@@ -37,4 +34,7 @@
  В Мире столько много бед, но Сам Бог дает нам свет -
  Подарил нам Рождество, и на Землю послал Он к нам Сына Своего</lyrics>
 <hymn_number>2898</hymn_number>
+<author>Фавор</author>
+<title>Наступило Рождество</title>
+<key>D</key>
 </song>

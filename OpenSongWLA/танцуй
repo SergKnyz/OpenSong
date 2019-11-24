@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
-<title>Танцуй</title>
-<author>Виталий Ефремочкин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Танцуй</title>
+<key>C#m</key>
 <hymn_number>141</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -35,4 +34,5 @@
    В Тебе вся жизнь моя
 .        C#m     A H F#m
    Славлю я Тебя.</lyrics>
+<author>Виталий Ефремочкин</author>
 </song>

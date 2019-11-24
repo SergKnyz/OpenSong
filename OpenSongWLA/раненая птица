@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Дарина Кочанжи</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Раненая птица</title>
 <key>B</key>
-<title>Раненая птица</title>
 <lyrics>[V1]
  1 куплет:
 .   Hm                       Em
@@ -52,4 +51,5 @@
  Когда вдруг неудачи грянет гром,
  А горы высоки для восхожденья.</lyrics>
 <hymn_number>164</hymn_number>
+<author>Дарина Кочанжи</author>
 </song>

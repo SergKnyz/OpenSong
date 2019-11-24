@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2270</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Зимней ночью когда снег летит с небес</aka>
 <lyrics>[V1]
 .F#m                   E
  Зимней ночью, когда снег летит с небес,
@@ -42,8 +42,8 @@
    Ты подними глаза.
 .          C
    И посмотри.</lyrics>
+<hymn_number>2270</hymn_number>
+<author>Открытое небо</author>
 <key>F#</key>
 <title>Вифлеемская звезда</title>
-<aka>Зимней ночью когда снег летит с небес</aka>
-<author>Открытое небо</author>
 </song>

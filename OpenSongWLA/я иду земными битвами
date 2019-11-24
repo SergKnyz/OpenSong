@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3962</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Dm           Gm       A                  Dm
  Я иду земными битвами, как в степи идет пастух.
 .         Gm    C               F
@@ -38,7 +37,8 @@
  Среди ангельского пения
  Em ( - E)
  Милосердный Божий лик.</lyrics>
+<hymn_number>3962</hymn_number>
+<author>Скиния</author>
 <key>D</key>
 <title>Я иду земными битвами</title>
-<author>Скиния</author>
 </song>

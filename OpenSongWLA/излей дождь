@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Излей дождь</title>
+<key>G#m</key>
+<hymn_number>150</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .        G#m          E
  Небо вокруг сгущает тучи
@@ -42,8 +45,5 @@
    Прикоснись, прикоснись
 .    D     A       E
    Прикоснись к сердцам</lyrics>
-<hymn_number>150</hymn_number>
 <author>Виталий Ефремочкин</author>
-<key>G#m</key>
-<title>Излей дождь</title>
 </song>

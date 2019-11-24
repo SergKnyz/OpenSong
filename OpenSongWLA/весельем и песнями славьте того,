@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Сам себе Эдельвейс</author>
-<aka>Кто стал победителем смерти.</aka>
-<key>D</key>
-<title>Весельем и песнями славьте Того,</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Кто стал победителем смерти.</aka>
+<hymn_number>1448</hymn_number>
 <lyrics>[C1]
    Припев:
 .    Dm       Gm       Bb        A
@@ -30,5 +28,7 @@
  Распрямите согнутые плечи, крепко стойте все!
  И скажите всем сердцам унылым: будьте смелыми в пути,
  Потому что Иисус Мессия нас пришел спасти!</lyrics>
-<hymn_number>1448</hymn_number>
+<author>Сам себе Эдельвейс</author>
+<title>Весельем и песнями славьте Того,</title>
+<key>D</key>
 </song>

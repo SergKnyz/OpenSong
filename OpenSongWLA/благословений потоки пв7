@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог обещал ниспослать</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
 <title>Благословений потоки ПВ7</title>
-<key>Bb</key>
-<author>Йамес МцГранахан, Даниел Уебстер Ухиттле</author>
-<hymn_number>7</hymn_number>
 <lyrics>[V1]
 .G
  Благословений потоки
@@ -46,4 +43,7 @@
  Бог в Свое время пошлет,
  Если во свете мы ходим,
  Если Он с нами живет.</lyrics>
+<hymn_number>7</hymn_number>
+<author>Йамес МцГранахан, Даниел Уебстер Ухиттле</author>
+<aka>Бог обещал ниспослать</aka>
 </song>

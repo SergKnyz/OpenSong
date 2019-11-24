@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ах как быстро время мчится ПВ2956</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ах, как быстро время мчится!
  Каждый миг к концу ведет.
  Солнце близится к закату
@@ -37,4 +35,7 @@
  - если ты Христа отвергнешь,
  страшен будет твой удел!</lyrics>
 <hymn_number>2956</hymn_number>
+<aka>Каждый миг к концу ведет.</aka>
+<key>E</key>
+<title>Ах как быстро время мчится ПВ2956</title>
 </song>

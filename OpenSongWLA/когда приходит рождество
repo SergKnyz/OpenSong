@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Когда приходит рождество</title>
-<key>Fm</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Fm</key>
+<title>Когда приходит рождество</title>
 <lyrics>[V1]
 .Cm7                       F
  Когда приходит рождество, когда кругом огни мерцают
@@ -27,12 +27,12 @@
  Ну или например на английском.
 
 [C1]
-.  Cm7
-   Merry Christmas
+.      Cm7
+   // Merry Christmas
 .  F
    Merry Christmas
-.  Bb                 Eb Fm Gm
-   Merry Christmas to you
+.  Bb                 Eb Fm  Gm
+   Merry Christmas to you //
 
 [V2]
  Зимний вечер белой вуалью старый город укрывает

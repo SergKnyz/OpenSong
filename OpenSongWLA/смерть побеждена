@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3632</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Смерть побеждена</title>
 <lyrics>[C1]
    Припев:
 .    G           Hm  A
@@ -9,7 +10,6 @@
    Ранами Христа      исцелен вовек
 .       G       Hm         A
    Во мне, Бог, Царство Твоё</lyrics>
-<key>G</key>
-<title>Смерть побеждена</title>
+<hymn_number>3632</hymn_number>
 <author>Слово Жизни Music</author>
 </song>

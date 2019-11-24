@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Ты – Бог на небесах ИИПВ320</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .             E                C#m
  Ты - Бог на небесах, Ты - Искупитель наш
 .     F#m     B7
@@ -22,4 +20,6 @@
 .              F#m    E      B7     E
  Приди, мы ждём Тебя, наш Бог! Иисус!</lyrics>
 <hymn_number>320</hymn_number>
+<title>Ты – Бог на небесах ИИПВ320</title>
+<key>E</key>
 </song>

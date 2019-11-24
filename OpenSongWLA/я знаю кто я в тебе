@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>Я знаю кто я в Тебе</title>
-<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
-<hymn_number>5426</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .F#                            D#m  C#  F#
  Кто же я что Всевышний Царь меня призвал.
@@ -48,4 +44,8 @@
    Твоим другом был я назван
 .     F#             H
    Я знаю кто я в Тебе.</lyrics>
+<hymn_number>5426</hymn_number>
+<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
+<title>Я знаю кто я в Тебе</title>
+<key>F#</key>
 </song>

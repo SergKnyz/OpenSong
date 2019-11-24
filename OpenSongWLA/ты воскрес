@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>350</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Ты воскрес</title>
+<author>Филипп Реннер</author>
 <lyrics>[V1]
 .Am             F
  Ты воскрес, Царь воскрес
@@ -8,7 +10,5 @@
  Ты воскрес, Царь воскрес
 .       C                      G
  Ад и смерть Он победил, за меня Ты кровь пролил</lyrics>
-<key>A</key>
-<title>Ты воскрес</title>
-<author>Филипп Реннер</author>
+<hymn_number>350</hymn_number>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Найди тропинку узкую к Голгофе</title>
-<author>Ольга Вельгус</author>
-<hymn_number>856</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Вельгус</author>
 <lyrics>[V1]
  1 куплет:
 .Dm                       Gm   A7                     Dm
@@ -36,4 +33,7 @@
  Не теряй напрасно жизни годы, не ищи тепла среди снегов
 .        Gm                   A7       Gm       A7        Dm
  Вновь зовёт тебя с креста Голгофы вечная, прекрасная Любовь</lyrics>
+<hymn_number>856</hymn_number>
+<key>D</key>
+<title>Найди тропинку узкую к Голгофе</title>
 </song>

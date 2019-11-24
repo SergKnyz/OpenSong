@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>В жизни есть и трудные минуты,</title>
-<aka>Небо</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Небо</aka>
 <author>Стас Бондаренко ft. Лия Назарчук</author>
-<hymn_number>1759</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .  F#m           Hm       F#m
@@ -38,4 +35,7 @@
  Не забудь поднять ты взор свой ввысь,
  И Господь наполнит миром душу,
  И напомнит: Небо впереди!</lyrics>
+<hymn_number>1759</hymn_number>
+<key>F#</key>
+<title>В жизни есть и трудные минуты,</title>
 </song>

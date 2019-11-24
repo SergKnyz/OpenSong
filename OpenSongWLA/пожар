@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<key>A</key>
-<title>Пожар</title>
 <lyrics>[V1]
  1 куплет:
 .Am C      F        Dm
@@ -41,4 +39,6 @@
  Зажгись во мне, гори во мне
  И пусть Твой пожар внутри меня видят все.</lyrics>
 <hymn_number>933</hymn_number>
+<title>Пожар</title>
+<key>A</key>
 </song>

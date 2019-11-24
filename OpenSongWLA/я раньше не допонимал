@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Аарон Схуст, Доротхы Дора Греенуелл</author>
-<key>C</key>
-<title>Я раньше не допонимал</title>
-<copyright>2005 Бридге Буилдинг Мусиц, Инц.</copyright>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C
  Я раньше не до понимал
 .                         Am
@@ -63,4 +59,8 @@
    Казалось это странным мне,
 .                     C
    Но спас меня Спаситель.</lyrics>
+<author>Аарон Схуст, Доротхы Дора Греенуелл</author>
+<title>Я раньше не допонимал</title>
+<key>C</key>
+<copyright>2005 Бридге Буилдинг Мусиц, Инц.</copyright>
 </song>

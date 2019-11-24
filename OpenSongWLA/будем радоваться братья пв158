@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>158</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Будем радоваться, братья,
  Прочь уныние и страх:
  Принял нас Христос в объятья
@@ -38,7 +37,8 @@
  От Христа, не от людей,
  И ничто во всей вселенной
  Овладеть не может ей.</lyrics>
-<title>Будем радоваться братья ПВ158</title>
-<key>D</key>
+<hymn_number>158</hymn_number>
 <aka>Прочь уныние и страх:</aka>
+<key>D</key>
+<title>Будем радоваться братья ПВ158</title>
 </song>

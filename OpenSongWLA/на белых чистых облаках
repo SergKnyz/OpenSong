@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4673</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Александр Табунщик</author>
 <lyrics>[V1]
 .G#m
  Как мне хочется птицею в небо
@@ -50,7 +50,7 @@
 
 [C2]
    ПРИПЕВ:        - 3 раза</lyrics>
-<key>G#m</key>
+<hymn_number>4673</hymn_number>
 <title>На белых чистых облаках</title>
-<author>Александр Табунщик</author>
+<key>G#m</key>
 </song>

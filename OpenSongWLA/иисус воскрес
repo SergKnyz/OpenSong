@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус воскрес</title>
-<key>E</key>
-<author>Анна Маковецкая</author>
-<hymn_number>1916</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Иисус воскрес</title>
 <lyrics>[V1]
  1 куплет:
 .Em                              Am           H7
@@ -43,4 +41,6 @@
    Пройди с улыбкой путь свой трудный - нас встретит небо песней чудной.
 .  G                  C           Am           H7
    Нас встретит небо песней чудной. Иисус воскрес!</lyrics>
+<hymn_number>1916</hymn_number>
+<author>Анна Маковецкая</author>
 </song>

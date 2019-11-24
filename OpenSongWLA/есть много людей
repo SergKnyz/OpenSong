@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Иван Деченко</author>
-<key>E</key>
-<title>Есть много людей</title>
 <lyrics>[V1]
  1 Куплет:
 .       E      H
@@ -59,4 +57,6 @@
 [V6]
  Припев.</lyrics>
 <hymn_number>2250</hymn_number>
+<key>E</key>
+<title>Есть много людей</title>
 </song>

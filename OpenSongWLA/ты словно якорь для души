@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G#m</key>
-<title>Ты словно якорь для души</title>
-<author>Слово Жизни Music</author>
-<hymn_number>2803</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .G#m       F#/A#  H        C#m  H C#m H F#/A#
  Любая тень не устоит в свете огня
@@ -48,4 +44,8 @@
 
 [V6]
  Проигрыш 2 раза:</lyrics>
+<hymn_number>2803</hymn_number>
+<author>Слово Жизни Music</author>
+<title>Ты словно якорь для души</title>
+<key>G#m</key>
 </song>

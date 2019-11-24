@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Я радуюсь и торжествую ПВ2424</title>
-<hymn_number>3079</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я радуюсь и торжествую,
  Спасенный я кровью Христа,
  Иисуса имя прославляю
@@ -24,4 +21,7 @@
  Лишь в небе душа обретёт,
  И я стремлюсь к небесным далям,
  Меня мой Спаситель там ждёт.</lyrics>
+<hymn_number>3079</hymn_number>
+<title>Я радуюсь и торжествую ПВ2424</title>
+<key>E</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
-<key>C#m</key>
-<title>В тайном месте</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .  C#m     A    E       H
  В тайном месте я встречаю
@@ -42,4 +39,7 @@
 .                   C#m   H
  Приблизь меня к Себе, Бог</lyrics>
 <hymn_number>471</hymn_number>
+<author>Слово Жизни Music</author>
+<title>В тайном месте</title>
+<key>C#m</key>
 </song>

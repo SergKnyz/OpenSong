@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>979</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Рождественская ночь</title>
 <lyrics>[V1]
  1 куплет:
 .                 C                    Am
@@ -38,7 +39,6 @@
    В небе звёзды трепетали
 .        C                                   G
    Восхищаясь любовью Отца и рожденьем Христа</lyrics>
-<title>Рождественская ночь</title>
-<key>C</key>
+<hymn_number>979</hymn_number>
 <author>Мирра Боганёва</author>
 </song>

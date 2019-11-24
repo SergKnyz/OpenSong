@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Маханаим</author>
-<key>A</key>
-<title>Жатва</title>
 <lyrics>[V1]
  1 куплет:
 .Bbm              Ebm
@@ -42,4 +40,6 @@
  Пока есть время, облекайся истиной
  И простирайся вперед!</lyrics>
 <hymn_number>930</hymn_number>
+<title>Жатва</title>
+<key>A</key>
 </song>

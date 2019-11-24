@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3820</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>Молодёжь</title>
 <lyrics>[V1]
  1 куплет:
 .    Fm                                    C#
@@ -34,7 +35,6 @@
  Бог пошлет освежающий дождь, благоденствие нас иссушило...
  Нам нужна переплавка огнем, наших сил молодых возрожденье.
  Как предстанем пред Божьим лицом, мы, последних времен поколенье?</lyrics>
-<key>F</key>
-<title>Молодёжь</title>
+<hymn_number>3820</hymn_number>
 <author>Сион Молдова</author>
 </song>

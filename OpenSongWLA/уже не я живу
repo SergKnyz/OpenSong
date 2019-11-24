@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2115</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Уже не я живу</title>
+<hymn_number>2115</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Em                 G               A
@@ -41,7 +43,5 @@
  Уже не я живу, уже не я живу,
 .Em                 G                A
  У же не я живу, живёт Господь во мне.</lyrics>
-<title>Уже не я живу</title>
-<key>E</key>
 <author>Imprintband</author>
 </song>

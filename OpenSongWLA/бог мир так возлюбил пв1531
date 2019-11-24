@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Что Сына Своего</aka>
-<title>Бог мир так возлюбил ПВ1531</title>
-<key>F</key>
-<hymn_number>1531</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .    F         Gm
  Бог мир так возлюбил,
 .     C     Gm
@@ -29,4 +25,8 @@
  Я знаю: от Тебя ответ я получу.
  За жизни чудный дар и за святую кровь
  Прими, Господь, мою любовь!</lyrics>
+<hymn_number>1531</hymn_number>
+<aka>Что Сына Своего</aka>
+<key>F</key>
+<title>Бог мир так возлюбил ПВ1531</title>
 </song>

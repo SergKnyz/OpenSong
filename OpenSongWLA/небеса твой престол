@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>779</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Небеса Твой престол</title>
+<key>B</key>
 <lyrics>[V1]
  1 куплет:
 .Cm  A#           G#         A#
@@ -23,7 +24,6 @@
  Как живая вода наполняет меня
  От пределов земли от зари до зари
  Ты избрал Себе дом, дом Твой в сердце моем.</lyrics>
-<title>Небеса Твой престол</title>
-<key>B</key>
+<hymn_number>779</hymn_number>
 <author>Алексей Каратаев</author>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Маханаим</author>
-<title>По заколдованному кругу</title>
-<key>D</key>
 <lyrics>[V1]
  1 куплет:
 .Dm                 Gm  A                  Dm
@@ -37,4 +35,6 @@
  Ведь там берут свои истоки пути добра,
  Голгофа - сколько счастья нам принесла она.</lyrics>
 <hymn_number>903</hymn_number>
+<title>По заколдованному кругу</title>
+<key>D</key>
 </song>

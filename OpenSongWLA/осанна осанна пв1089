@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Осанна осанна ПВ1089</title>
-<key>G</key>
-<hymn_number>1089</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Осанна, осанна!
  Осанна в вышних Богу,
  Осанна в вышних Богу.
@@ -23,4 +20,7 @@
  Превозносим Тебя Сердцем, полным хвалы!
  Будь превознесен, Господь!
  Мы любим Тебя, Царь царей!</lyrics>
+<hymn_number>1089</hymn_number>
+<title>Осанна осанна ПВ1089</title>
+<key>G</key>
 </song>

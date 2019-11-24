@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Not An Idol</author>
-<key>A</key>
-<title>Словно слышу Твоего я рядом сердца стук</title>
-<aka>Близко как никогда</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Близко как никогда</aka>
 <lyrics>[V1]
  1 куплет:
 .Am
@@ -37,4 +34,7 @@
  Ты открываешь небо у меня над головой
  Прошу учи меня летать, я так хочу домой</lyrics>
 <hymn_number>2818</hymn_number>
+<author>Not An Idol</author>
+<key>A</key>
+<title>Словно слышу Твоего я рядом сердца стук</title>
 </song>

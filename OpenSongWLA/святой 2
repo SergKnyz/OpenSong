@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Александр Соколов</author>
 <title>Святой</title>
 <lyrics>[V1]
 .A#m    G#       F#         G#       A#m
@@ -15,5 +15,5 @@
    Дух Святой, наполни нас мы жаждем.
    Дух Святой, наполни нас мы жаждем
    Дух Святой ....наполни, наполни, наполни.</lyrics>
-<author>Александр Соколов</author>
+<key>F#</key>
 </song>

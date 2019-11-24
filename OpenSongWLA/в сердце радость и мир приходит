@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В сердце радость и мир приходит</title>
-<aka>Бог внутри меня сияет</aka>
-<hymn_number>131</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>131</hymn_number>
 <lyrics>[V1]
  В сердце радость и мир приходит
  Когда Ты рядом со мною
@@ -22,4 +20,6 @@
    Ты один достоин славы
    Я буду петь Тебе всемогущий Бог
    Меня Ты не оставишь.</lyrics>
+<aka>Бог внутри меня сияет</aka>
+<title>В сердце радость и мир приходит</title>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Илья Цыганков</author>
-<title>Молитва</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Молитва</title>
 <key>C</key>
 <lyrics>[V1]
  1 куплет:
@@ -41,4 +40,5 @@
 .          Dm              F/C       Bb              A
    Чтоб заветов Твоих не нарушил и имел утешение в них</lyrics>
 <hymn_number>958</hymn_number>
+<author>Илья Цыганков</author>
 </song>

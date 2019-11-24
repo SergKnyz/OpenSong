@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>445</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 КУПЛЕТ:
 .G#m        E              H F#/Bb
  Ты предан был пошел на крест
@@ -42,7 +41,8 @@
    Восславь Царя царей всей силой прославляй
 .  G#m             E
    Ведь спасена душа Иисус Мессия</lyrics>
+<hymn_number>445</hymn_number>
+<author>Слово Жизни Music</author>
 <key>G#m</key>
 <title>Иисус Мессия</title>
-<author>Слово Жизни Music</author>
 </song>

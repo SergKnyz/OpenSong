@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я славлю Тебя мой Спаситель ПВ2426</title>
-<key>D</key>
-<hymn_number>2426</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я славлю Тебя, мой Спаситель,
  За данный Тобою мне труд.
  Хочу я, как верный служитель,
@@ -25,4 +22,7 @@
  За данный Тобою мне труд.
  Веди же меня Ты в Обитель,
  В тот Край, где смогу отдохнуть.</lyrics>
+<hymn_number>2426</hymn_number>
+<title>Я славлю Тебя мой Спаситель ПВ2426</title>
+<key>D</key>
 </song>

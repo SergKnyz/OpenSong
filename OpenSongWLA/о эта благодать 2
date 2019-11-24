@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Йеремы Риддле, Йосх Фарро, Пхил Уицкхам</author>
-<aka>Кто тьму разрушил греха проклятье?</aka>
-<key>G</key>
-<title>О эта благодать</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Кто тьму разрушил греха проклятье?</aka>
+<hymn_number>3372</hymn_number>
 <lyrics>[V1]
 .G
  Кто тьму разрушил, греха проклятье?
@@ -57,5 +55,7 @@
    Агнец Божий заклан за нас.
 .  C
    Он достоин. Достоин. Достоин Он.</lyrics>
-<hymn_number>3372</hymn_number>
+<author>Йеремы Риддле, Йосх Фарро, Пхил Уицкхам</author>
+<title>О эта благодать</title>
+<key>G</key>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1320</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Ветры холодные</aka>
+<author>Наталья Литвиненко</author>
 <lyrics>[V1]
  1 куплет:
 .            Am                       E
@@ -58,8 +59,7 @@
    Концовка:
 .                    G                        F#
    Будем лишь вспоминать,  будем лишь вспоминать.</lyrics>
+<hymn_number>1320</hymn_number>
 <title>Ещё будет зима, ещё ветры подуют холодные,</title>
 <key>A</key>
-<aka>Ветры холодные</aka>
-<author>Наталья Литвиненко</author>
 </song>

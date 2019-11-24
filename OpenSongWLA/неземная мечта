@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Божье прикосновение</author>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <title>Неземная мечта</title>
+<author>Божье прикосновение</author>
+<hymn_number>90</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am          H7   E                    Am
@@ -29,5 +30,4 @@
  Ты не знаешь тот час, когда Он за тобою придёт.
  Если ты не готов, обрати сердце к Богу, Он - единственный путь,
  В нём покой каждый грешник для сердца найдёт.</lyrics>
-<hymn_number>90</hymn_number>
 </song>

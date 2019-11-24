@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>87</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Аллилуйя Ты победу одержал</title>
 <lyrics>[V1]
 .Hm A   D       Em7 Hm    A
  Аллилуйя! Ты победу одержал!
@@ -14,7 +15,7 @@
  Полон величия!
 .              Em7   Hm   A
  Ты - наш воскресший Царь!</lyrics>
-<title>Аллилуйя Ты победу одержал</title>
-<key>B</key>
+<hymn_number>87</hymn_number>
 <author>Виталий Ефремочкин</author>
+<aka>Аллилуйя! За меня Ты жизнь отдал!</aka>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2486</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Без Бога нет счастья на свете</title>
+<key>C</key>
+<aka>Звучат и до ныне слова.</aka>
+<author>Алла Чепикова</author>
 <lyrics>[V1]
 .Cm
   &quot;Без Бога нет счастья на свете&quot;
@@ -68,7 +71,5 @@
 
 [V7]
  ...Без Бога нет счастья на свете...</lyrics>
-<title>Без Бога нет счастья на свете</title>
-<key>C</key>
-<author>Алла Чепикова</author>
+<hymn_number>4706</hymn_number>
 </song>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Без Иисуса я не должен</aka>
-<title>Сам идти путем своим ПВ2004</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Сам идти путем своим ПВ2004</title>
+<hymn_number>2004</hymn_number>
 <lyrics>[V1]
  Без Иисуса я не должен
  Сам идти путем своим,
@@ -23,5 +23,5 @@
  Шестуя чужой страной,
  С ним же волны Иордана
  Высыхают предо мной.</lyrics>
-<hymn_number>2004</hymn_number>
+<aka>Без Иисуса я не должен</aka>
 </song>

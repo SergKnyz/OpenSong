@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>В этом городе Ты Бог</title>
+<key>F#</key>
+<hymn_number>452</hymn_number>
+<lyrics>[V1]
  Куплет:
 .               C#
  В этом городе Ты - Бог
@@ -28,8 +31,5 @@
    Господь прольет с небес благодать
 .          C#  G#/C F#
    В этот город</lyrics>
-<hymn_number>452</hymn_number>
 <author>Слово Жизни Music</author>
-<title>В этом городе Ты Бог</title>
-<key>F#</key>
 </song>

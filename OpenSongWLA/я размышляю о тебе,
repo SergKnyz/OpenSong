@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Skinia Worship</author>
-<aka>Восхищаюсь Тобой</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
 <title>Я размышляю о Тебе,</title>
-<key>C#m</key>
 <lyrics>[V1]
  1 куплет:
 .C#m              H
@@ -35,4 +33,6 @@
  Твой луч света воссиял,
  И любовью вечною Ты меня объял.</lyrics>
 <hymn_number>4162</hymn_number>
+<author>Skinia Worship</author>
+<aka>Восхищаюсь Тобой</aka>
 </song>

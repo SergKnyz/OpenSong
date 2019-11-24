@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Покаяние</title>
-<author>Виталий Ефремочкин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
 <hymn_number>141</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -44,4 +42,6 @@
  Бог, прости, не ищу оправдательных слов,
 .D
  Я хочу быть с Тобой, я от жизни устал!</lyrics>
+<key>E</key>
+<title>Покаяние</title>
 </song>

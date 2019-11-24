@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>4U Band</author>
-<aka>Я навсегда в Твоих руках,</aka>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <title>Верный</title>
+<aka>Я навсегда в Твоих руках,</aka>
 <lyrics>[V1]
  1 куплет:
 .                Dm    Bb
@@ -58,4 +57,5 @@
 .        F       Bb       Dm    C
    Ты в сердце моём, Ты моя любовь.</lyrics>
 <hymn_number>1781</hymn_number>
+<author>4U Band</author>
 </song>

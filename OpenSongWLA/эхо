@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Эхо</title>
-<author>Елеватион Уорсхип</author>
-<hymn_number>5934</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Елеватион Уорсхип</author>
 <lyrics>[V1]
  В ночи бывает, страх наполняет, но со мною Ты.
  И на исходе моей надежды, моя сила - Ты!
@@ -20,4 +18,6 @@
 [V2]
  Во всех сезонах Ты повторяешь мне обещания, Бог.
  И непрестанно Ты исполняешь все, что Ты начал, Бог!</lyrics>
+<hymn_number>5934</hymn_number>
+<title>Эхо</title>
 </song>

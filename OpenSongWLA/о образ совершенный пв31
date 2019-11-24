@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О образ совершенный ПВ31</title>
-<key>G</key>
-<hymn_number>31</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О образ совершенный
  Любви и чистоты!
  Спаситель, Царь смиренный,
@@ -50,4 +47,7 @@
  Снаружи и внутри;
  Погаснет &quot;я&quot; плотское
  В лучах Твоей зари.</lyrics>
+<hymn_number>31</hymn_number>
+<title>О образ совершенный ПВ31</title>
+<key>G</key>
 </song>

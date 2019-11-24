@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ликуй дочь Сиона</title>
-<key>F</key>
-<author>Новый Иерусалим</author>
-<hymn_number>2427</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Fm -------- G#
  Ликуй, До___чь Сиона!
 .Bbm -------- C7
@@ -31,4 +27,8 @@
  Торжествова____ть будет о тебе
 .Cm  -- D7 Cm
  С лик__ованием.</lyrics>
+<hymn_number>2427</hymn_number>
+<author>Новый Иерусалим</author>
+<title>Ликуй дочь Сиона</title>
+<key>F</key>
 </song>

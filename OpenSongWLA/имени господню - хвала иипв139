@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>139</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .F        Gm          F
  Имени Господню - хвала.
 .       D                      FGm
@@ -10,6 +9,7 @@
  С пеньем имени Его, имени Его,
 .Gm         C         F
  Имени Господню - хвала.</lyrics>
-<key>F</key>
+<hymn_number>139</hymn_number>
 <title>Имени Господню - хвала ИИПВ139</title>
+<key>F</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Нам Отец спасенье дал ПВ950</title>
-<hymn_number>950</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Нам Отец спасенье дал
  Даром, даром, даром.
  С неба Сына нам послал
@@ -30,4 +27,7 @@
  Этот зов не отвергай
  И получишь вечный рай
  Даром, даром, даром.</lyrics>
+<hymn_number>950</hymn_number>
+<title>Нам Отец спасенье дал ПВ950</title>
+<key>E</key>
 </song>

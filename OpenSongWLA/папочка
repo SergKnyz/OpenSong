@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Папочка</title>
-<key>C</key>
-<author>Божье прикосновение</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Божье прикосновение</author>
 <hymn_number>5594</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -50,4 +48,6 @@
    О милый папочка приди, прижми нас ласково к груди,
 .             C#m          F#m             G#        C#m
    Мы с мамой долго ждём тебя, возьми нас на руки любя.</lyrics>
+<key>C</key>
+<title>Папочка</title>
 </song>

@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Без Него мир похож на пустыню</title>
 <key>C</key>
-<author>Евгения Романенко</author>
-<hymn_number>784</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am                           C
@@ -45,4 +43,7 @@
    У воды я от жажды погибну
 .        F#             Am
    Если нет Иисуса со мной</lyrics>
+<hymn_number>1386</hymn_number>
+<author>Евгения Романенко</author>
+<aka>Что мне золото бренного мира что мне царский удел вековой</aka>
 </song>

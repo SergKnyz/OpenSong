@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты Царь</title>
-<key>G</key>
-<author>Slavic New Beginnings Church</author>
-<hymn_number>43</hymn_number>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .  G
    Ты - Царь, вся земля поет об этом
@@ -50,4 +46,8 @@
    Да будет воля ввек Твоя управляй мной Господь
 .  Em                                   C
    Да будет царствие Твоё Иисус-мой Господь</lyrics>
+<hymn_number>43</hymn_number>
+<author>Slavic New Beginnings Church</author>
+<key>G</key>
+<title>Ты Царь</title>
 </song>

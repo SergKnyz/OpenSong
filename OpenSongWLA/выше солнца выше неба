@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
-<title>Выше солнца выше неба</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Выше солнца выше неба</title>
 <key>A</key>
+<hymn_number>1453</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am                   Hm       C
@@ -64,5 +64,5 @@
    Ждёт всех нас Он на небо, но это потом,
 .  Em                                    |  C D Em Em |
    Нужен каждый из нас, в этом мире пустом__.</lyrics>
-<hymn_number>1453</hymn_number>
+<author>Виталий Ефремочкин</author>
 </song>

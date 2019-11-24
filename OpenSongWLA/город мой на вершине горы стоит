@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Город мой на вершине горы стоит</title>
-<author>Ольга Вельгус</author>
-<hymn_number>887</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Город мой на вершине горы стоит</title>
+<key>A</key>
 <lyrics>[V1]
 .Am                    E
  Город мой на вершине горы стоит,
@@ -48,4 +46,6 @@
  Никогда не будет разграблен он,
  Обновлю Я городскую стену,
  Защищу, город Свой защищу».</lyrics>
+<hymn_number>887</hymn_number>
+<author>Ольга Вельгус</author>
 </song>

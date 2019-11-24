@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1466</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Радости моей</title>
+<key>A</key>
+<author>Moscow Worship Band</author>
+<hymn_number>1466</hymn_number>
 <lyrics>[V1]
  1 куплет:
 . A                E             F#m    D
@@ -35,7 +38,4 @@
    Как мне дороги слова Твои мне не передать
 .  D                                    E
    Не хватает чувств, не хватает слов но я не могу молчать</lyrics>
-<key>A</key>
-<title>Радости моей</title>
-<author>Moscow Worship Band</author>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>119</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Иисус - Господь, Иисус есть Царь ИИПВ119</title>
 <lyrics>[C1]
 .     Em               C
    Иисус - Господь, Иисус есть Царь.
@@ -23,6 +24,5 @@
  Ивесь мир изменится,
  Затанцуютна улицах его и запоют:
  «Знаешьли ты, что...»</lyrics>
-<key>G</key>
-<title>Иисус - Господь, Иисус есть Царь ИИПВ119</title>
+<hymn_number>119</hymn_number>
 </song>

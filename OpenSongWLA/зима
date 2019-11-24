@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Зима</title>
-<hymn_number>3255</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Снова за окном белые дома,
  Снега чистоту небо щедро льёт.
  Вот уже опять к нам пришла зима,
@@ -23,4 +21,6 @@
  Будь же тем огнем в жизни для других.
  И тебя Христос примет в небеса,
  Сам отрет слезу с очей твоих.</lyrics>
+<hymn_number>3255</hymn_number>
+<title>Зима</title>
 </song>

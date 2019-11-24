@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Siloam Church</author>
-<title>Сердце мое</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .D                   C#/A      Hm
  Сердце мое, желает быть рядом с Тобою,
@@ -59,4 +56,7 @@
 .        E   D#/H  C#m
    Мне подольше насладиться.</lyrics>
 <hymn_number>23</hymn_number>
+<author>Siloam Church</author>
+<title>Сердце мое</title>
+<key>D</key>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Корни</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <title>Мой Пастырь</title>
-<key>D</key>
 <lyrics>[V1]
  1 куплет:
 .    D
@@ -25,4 +24,5 @@
  Утолил мою жажду, стал Отцом.
  Он мой Бог.</lyrics>
 <hymn_number>3871</hymn_number>
+<author>Корни</author>
 </song>

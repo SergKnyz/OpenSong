@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя, славь Иисуса ИИПВ5</title>
+<key>E</key>
+<lyrics>[V1]
 .E    C#m   F#m    B
  Аллилуйя, славь Иисуса!
 .E    C#m     F#m      B7
@@ -18,6 +20,4 @@
 .      B A   Amaj7 B
  На земле, на неб__е!</lyrics>
 <hymn_number>5</hymn_number>
-<title>Аллилуйя, славь Иисуса ИИПВ5</title>
-<key>E</key>
 </song>

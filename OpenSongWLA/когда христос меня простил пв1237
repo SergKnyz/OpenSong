@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1237</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Когда Христос меня простил ПВ1237</title>
 <lyrics>[V1]
 .      C
  Когда Христос меня простил
@@ -30,6 +31,5 @@
  На высоте, внизу, во рву,
  В стране родной, в стране чужой,
  Там небо, где Христос со мной!</lyrics>
-<title>Когда Христос меня простил ПВ1237</title>
-<key>C</key>
+<hymn_number>1237</hymn_number>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Завтра</title>
+<key>D</key>
+<lyrics>[C1]
 .  D
    Нам кажется, завтра мы будем прилежней
 .  Hm
@@ -42,6 +44,4 @@
    Припев:</lyrics>
 <hymn_number>1895</hymn_number>
 <author>Набат</author>
-<key>D</key>
-<title>Завтра</title>
 </song>

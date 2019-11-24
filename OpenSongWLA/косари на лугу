@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>803</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Косари на лугу</title>
+<key>A</key>
+<author>Евгения Романенко</author>
 <lyrics>[V1]
  1 куплет:
 .            Gm                      Cm
@@ -34,7 +36,5 @@
  Завершён сенокос, ну а я невредимым стою,
  И как в прежние дни, упиваюсь небесными росами,
  Прославляю Тебя за любовь и за милость Твою.</lyrics>
-<title>Косари на лугу</title>
-<key>A</key>
-<author>Евгения Романенко</author>
+<hymn_number>803</hymn_number>
 </song>

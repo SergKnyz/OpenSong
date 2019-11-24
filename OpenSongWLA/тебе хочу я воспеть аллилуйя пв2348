@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2348</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Тебе хочу я воспеть аллилуйя ПВ2348</title>
 <lyrics>[V1]
  Тебе хочу я воспеть аллилуйя,
  О, мой Господь, я Тобою дышу,
@@ -22,6 +23,5 @@
  Вечно с Тобой славить, имя Твое,
  Чашу страданий с Тобой разделяю,
  И аллилуйя пою.</lyrics>
-<title>Тебе хочу я воспеть аллилуйя ПВ2348</title>
-<key>G</key>
+<hymn_number>2348</hymn_number>
 </song>

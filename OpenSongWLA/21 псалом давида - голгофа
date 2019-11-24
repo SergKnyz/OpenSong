@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6400</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Gm                  Cm
  Боже Мой, Боже Мой! Глас услыши Мой.
 .F        Bb               D              Gm
@@ -78,6 +77,7 @@
  И к Тебе хвала Моя, Господь!
 .F                  Bb
  К Тебе хвала Моя, Господь.</lyrics>
-<key>Gm</key>
+<hymn_number>6400</hymn_number>
 <title>21 Псалом Давида - Голгофа</title>
+<key>Gm</key>
 </song>

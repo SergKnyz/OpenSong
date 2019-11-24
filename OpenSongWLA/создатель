@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4134</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Создатель</title>
+<key>C#m</key>
+<author>A-SIDE</author>
 <lyrics>[V1]
  Intro:
 
@@ -49,7 +51,5 @@
    Ведь лишь Твоя рука могла её создать
    И неба красоту нам не описать
    Ведь лишь Твоя рука могла его создать</lyrics>
-<key>C#m</key>
-<title>Создатель</title>
-<author>A-SIDE</author>
+<hymn_number>4134</hymn_number>
 </song>

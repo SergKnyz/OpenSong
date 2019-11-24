@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Дмитрий Шлетгауэр</author>
-<key>C</key>
-<title>Сердце чистое сотвори во мне</title>
 <lyrics>[V1]
  1 куплет:
 .Cm7                 C#maj7
@@ -38,4 +36,6 @@
  Возьми мою жизнь теперь, омой в воде
  Пошли Свою милость, я не хочу ходить во тьме.</lyrics>
 <hymn_number>229</hymn_number>
+<title>Сердце чистое сотвори во мне</title>
+<key>C</key>
 </song>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<title>Спаситель Царь</title>
-<key>C#m</key>
 <lyrics>[V1]
  1 куплет:
 .             C#m        H      E
@@ -53,4 +51,6 @@
 .    F#m7         C#m             H            E
  И найдёт в нём любовь тех, кто был Тобой спасён</lyrics>
 <hymn_number>509</hymn_number>
+<key>C#m</key>
+<title>Спаситель Царь</title>
 </song>

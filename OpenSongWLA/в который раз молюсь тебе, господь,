@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог Святой из Израиля</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>В который раз молюсь Тебе, Господь,</title>
 <key>Fm</key>
-<title>В который раз молюсь Тебе, Господь,</title>
-<author>Alina Koval</author>
-<hymn_number>2025</hymn_number>
 <lyrics>[V1]
 .   Fm     Eb     Cm  Db
  // Бог Святой из Израиля,
@@ -22,4 +19,7 @@
    В который раз склонюсь к тебе, Иисус,
 .        Bbm       Cm          Fm
    Наш Спаситель - вечный наш принц.</lyrics>
+<hymn_number>2025</hymn_number>
+<author>Alina Koval</author>
+<aka>Бог Святой из Израиля</aka>
 </song>

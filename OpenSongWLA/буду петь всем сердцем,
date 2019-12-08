@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог, Ты всё для меня</aka>
-<author>Новый Завет NTWorship</author>
-<hymn_number>4006</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<aka>Бог, Ты всё для меня</aka>
 <lyrics>[V1]
  1 куплет:
 .A D/F#  G
@@ -33,6 +32,7 @@
    Превозношу   только Тебя, только Тебя, мой Бог.
 .  G           A   D/F#           Hm
    Вся жизнь моя   лишь для Тебя, лишь для Тебя.</lyrics>
-<key>A</key>
+<author>Новый Завет NTWorship</author>
 <title>Буду петь всем сердцем,</title>
+<hymn_number>4006</hymn_number>
 </song>

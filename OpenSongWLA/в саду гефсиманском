@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>В саду Гефсиманском молился Иисус,</aka>
-<author>Мария Мокиенко</author>
-<hymn_number>646</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Мария Мокиенко</author>
 <lyrics>[V1]
  1 куплет:
 .    Dm                 C
@@ -38,6 +36,8 @@
  Он изливал пред Богом Свою печаль и грусть
  И Кровь, как капли пота, стекали по лицу,
  Когда Иисус за нас молился Богу и Отцу</lyrics>
-<key>D</key>
+<hymn_number>646</hymn_number>
 <title>В саду Гефсиманском</title>
+<key>D</key>
+<aka>В саду Гефсиманском молился Иисус,</aka>
 </song>

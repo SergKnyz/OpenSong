@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вижу Бога каждый день</title>
-<aka>Лишь глаза открою рано утром</aka>
-<hymn_number>6003</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6003</hymn_number>
+<title>Вижу Бога каждый день</title>
 <lyrics>[V1]
  Вижу Бога каждый день
  Лишь глаза открою рано утром
@@ -30,4 +29,5 @@
  На пути моём, ведущем в небо
  В сердце Духом Ты живёшь,
  Песни те, что Ты даёшь, дороже хлеба!</lyrics>
+<aka>Лишь глаза открою рано утром</aka>
 </song>

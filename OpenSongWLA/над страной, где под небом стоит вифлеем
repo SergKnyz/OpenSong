@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>Gm</key>
-<title>Над страной, где под небом стоит Вифлеем</title>
 <aka>Баллада о Христе</aka>
-<hymn_number>1177</hymn_number>
 <lyrics>[V1]
 .Gm               Eb              Bb
  Над страной, где под небом стоит Вифлеем
@@ -62,4 +60,6 @@
    Он землю напоил источником добра
    И нам объятия открыл в Своей обители</lyrics>
 <author>Андрей Максимов</author>
+<title>Над страной, где под небом стоит Вифлеем</title>
+<hymn_number>1177</hymn_number>
 </song>

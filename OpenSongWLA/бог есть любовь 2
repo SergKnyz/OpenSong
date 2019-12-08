@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>21</hymn_number>
 <title>Бог есть любовь</title>
 <author>Вячеслав Кузнецов</author>
 <lyrics>[C1]
@@ -49,6 +49,6 @@
    Бог - есть любовь, Бог есть любовь
 .   A   C#7     F#m  H F    G       A
    Бог -есть любовь,  Бог - есть любовь.</lyrics>
-<hymn_number>21</hymn_number>
 <aka>Божья любовь к нам открылась в том</aka>
+<key>G</key>
 </song>

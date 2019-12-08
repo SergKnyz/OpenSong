@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Танцуй</title>
-<key>C#m</key>
 <hymn_number>141</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -35,4 +34,5 @@
 .        C#m     A H F#m
    Славлю я Тебя.</lyrics>
 <author>Виталий Ефремочкин</author>
+<key>C#m</key>
 </song>

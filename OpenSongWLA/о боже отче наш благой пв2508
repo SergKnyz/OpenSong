@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О Боже Отче наш благой ПВ2508</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  О, Боже, Отче наш благой,
  Хвала, хвала Тебе!
  3а всякий дар любви Твоей,
@@ -29,5 +27,7 @@
  За доброту Твою,
  И за Голгофский подвиг Твой
  Тебе хвалу пою.</lyrics>
+<title>О Боже Отче наш благой ПВ2508</title>
 <hymn_number>2508</hymn_number>
+<key>G</key>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Что открыл дорогу ко спасенью в Нём.</title>
-<aka>Благодарность Богу за Его любовь</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Что открыл дорогу ко спасенью в Нём.</title>
+<hymn_number>1773</hymn_number>
 <lyrics>[V1]
 .C     G       Am Em Dm     G
  Благодарность Богу за Его любовь,
@@ -27,5 +26,6 @@
  Пусть земля и небо с торжеством поют (аллилуйя),
  Богу благодарность и хвалу несут.
  Богу благодарность и хвалу несут.</lyrics>
-<hymn_number>1773</hymn_number>
+<aka>Благодарность Богу за Его любовь</aka>
+<key>C</key>
 </song>

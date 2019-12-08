@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог ждёт</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты устал от суеты, ты устал от пустоты,</title>
+<hymn_number>2639</hymn_number>
 <lyrics>[V1]
 .D           A                  Em
  Ты устал от суеты, ты устал от пустоты,
@@ -24,7 +25,6 @@
  Жаждала душа тепла!
  А его все нет и нет, знает только Бог ответ
  И к Нему ты подойди!</lyrics>
-<hymn_number>2639</hymn_number>
-<title>Ты устал от суеты, ты устал от пустоты,</title>
+<aka>Бог ждёт</aka>
 <key>D</key>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2424</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Властей всех прежде</aka>
+<key>G</key>
+<title>Превыше власти и царей</title>
+<hymn_number>2424</hymn_number>
 <lyrics>[V1]
 .G      C   D    G
  Превыше власти и царей,
@@ -29,7 +32,4 @@
 .      G
  Превыше всех!</lyrics>
 <author>Ленни Леблан и Пол Балоч, Ленны ЛеБланц, Паул Балоцхе</author>
-<aka>Властей всех прежде</aka>
-<title>Превыше власти и царей</title>
-<key>G</key>
 </song>

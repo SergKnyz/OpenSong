@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em      C            D-H
  Мы мало хвалимся крестом,
 .  Em     C        D
@@ -40,6 +39,7 @@
  Мы мало думаем о том, что нас коснется Его перст.
  И взглянем мы в глаза Тому,
  Кто нас собрал из разных мест.</lyrics>
-<title>Мы мало хвалимся крестом</title>
+<key>Em</key>
 <author>Александр Калинский</author>
+<title>Мы мало хвалимся крестом</title>
 </song>

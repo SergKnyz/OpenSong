@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Дорога туда где не был</title>
-<hymn_number>4467</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Дмитрий Светлый</author>
 <lyrics>[V1]
  Вступление:
 
@@ -34,5 +32,7 @@
  это зверю угроза и мечта на троих.
  Это война под солнцем, за уголок под небом.
  Там за горизонтом, дорога туда, где не был.</lyrics>
-<author>Дмитрий Светлый</author>
+<hymn_number>4467</hymn_number>
+<title>Дорога туда где не был</title>
+<key>A</key>
 </song>

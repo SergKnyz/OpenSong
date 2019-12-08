@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Сотни стрел</title>
-<author>Рома Иванько</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Сотни стрел</title>
+<hymn_number>1413</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .     Am         G/H     C
@@ -43,5 +42,6 @@
  В стуке молота и в жаре огня
  Я согреться хочу. Ой, хочу
  Я согреться хочу. Ой, хочу</lyrics>
-<hymn_number>1413</hymn_number>
+<author>Рома Иванько</author>
+<key>A</key>
 </song>

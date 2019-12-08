@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Cm</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>311</hymn_number>
 <title>Спой Аллилуйя Господу ИИПВ311</title>
+<author>Линда Страссен</author>
 <lyrics>[V1]
 .  Cm      Gm        Cm
  Спой Аллилуйя Господу.
@@ -21,6 +22,5 @@
  Мывосхваляем Господа.
  СпойАллилуйя. Спой Аллилуйя.
  Мывосхваляем Господа.</lyrics>
-<hymn_number>311</hymn_number>
-<author>Линда Страссен</author>
+<key>Cm</key>
 </song>

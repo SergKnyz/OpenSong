@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Хвалу небесному Отцу ПВ2380</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Хвалу небесному Отцу
  Спешите вознести,
  На землю Сына Он послал,
@@ -29,4 +27,6 @@
  Придёт опять в нежданный час
  - И будет Он велик!</lyrics>
 <hymn_number>4021</hymn_number>
+<title>Хвалу небесному Отцу ПВ2380</title>
+<key>A</key>
 </song>

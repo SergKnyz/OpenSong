@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Молитва</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3233</hymn_number>
+<title>Молитва</title>
 <author>Виталий Ефремочкин</author>
-<hymn_number>3233</hymn_number>
 <lyrics>[V1]
 .Gm                          Dm
  О Спаситель мой, Ты услышь меня
@@ -57,4 +56,5 @@
  Да__й мне силы Господь
 .Eb F  Gm
  Воск__реси Дух и плоть</lyrics>
+<key>G</key>
 </song>

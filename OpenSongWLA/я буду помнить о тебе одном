@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я буду помнить о Тебе Одном</title>
-<key>A</key>
-<author>Марина Зайкова</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am
  Мы все ищем чего-то, не зная чего,
@@ -74,5 +71,8 @@
    Иду я Светлой дорогой Твоей.
    Помня лишь о Тебе Одном -
    Боге Святом, Боге Святом!</lyrics>
+<author>Марина Зайкова</author>
+<title>Я буду помнить о Тебе Одном</title>
 <hymn_number>4719</hymn_number>
+<key>A</key>
 </song>

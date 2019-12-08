@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4009</hymn_number>
 <title>Твой взгляд</title>
+<author>Новый Завет NTWorship</author>
 <lyrics>[V1]
  1 куплет:
 .     E                          H
@@ -31,6 +32,5 @@
    Что сегодня я смогу принести Тебе, Иисус?
 .  A                       E
    Что сегодня будет моим даром?</lyrics>
-<hymn_number>4009</hymn_number>
-<author>Новый Завет NTWorship</author>
+<key>E</key>
 </song>

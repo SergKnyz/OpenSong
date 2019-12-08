@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>988</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <lyrics>[V1]
  Поднимаю взоры к небесам.
  Ах, какая радость ждет нас там!
@@ -33,6 +33,6 @@
  Радость бесконечна.
  Там пребудем вечно,
  Если мы в союзе со Христом.</lyrics>
-<key>E</key>
+<hymn_number>988</hymn_number>
 <title>Поднимаю взоры к небесам ПВ988</title>
 </song>

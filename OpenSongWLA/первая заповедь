@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Первая заповедь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Первая заповедь</title>
 <hymn_number>1030</hymn_number>
 <lyrics>[V1]
  Вступление:
@@ -47,4 +46,5 @@
    Не золота плен поднял вас с колен и оградил от злобы мира.
    Не мощи святых, не лики других, Я Бог живой - сильней кумиров</lyrics>
 <author>Светлана Малова</author>
+<key>E</key>
 </song>

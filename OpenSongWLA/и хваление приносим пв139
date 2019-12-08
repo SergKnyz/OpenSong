@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>И хваление приносим! ПВ139</title>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Боже, славим мы Тебя
  И хваление приносим!
  Вечный, песнь поем Тебе
@@ -72,5 +70,7 @@
  Да прославят все сердца
  Имя Господа Христа!</lyrics>
 <hymn_number>139</hymn_number>
+<title>И хваление приносим! ПВ139</title>
+<key>G</key>
 <aka>Боже славим мы Тебя</aka>
 </song>

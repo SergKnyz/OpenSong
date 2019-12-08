@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
-<title>Как поток воды стремится ПВ3145</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Как поток воды стремится ПВ3145</title>
+<hymn_number>3145</hymn_number>
 <lyrics>[V1]
  Как поток воды стремится
  к бездне моря вдалеке,
@@ -29,5 +29,5 @@
  Пробудись, остановись
  и внемли словам Господним:
  «Сын заблудший, возвратись!»</lyrics>
-<hymn_number>3145</hymn_number>
+<key>Ab</key>
 </song>

@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>По милости Своей Ты много мне даешь,</aka>
+<key>Am</key>
+<title>Апостол Павел</title>
+<hymn_number>3447</hymn_number>
+<lyrics>[V1]
 .Am                  Dm
  По милости Своей Ты много мне даешь,
 .G                   C       E
@@ -44,9 +48,5 @@
  Я вырван, как сорняк, как самый большой грешник.
  И вот теперь иду, как странник, за Тобой,
  И Ты даешь мне светлые одежды. //</lyrics>
-<hymn_number>3447</hymn_number>
 <author>Александр Грайцер</author>
-<aka>По милости Своей Ты много мне даешь,</aka>
-<key>Am</key>
-<title>Апостол Павел</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>У меня есть Бог</aka>
-<author>Перевод с Кыргызского</author>
-<hymn_number>1563</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Перевод с Кыргызского</author>
 <lyrics>[C1]
 .  G    D    Em    C
    Наш Бог благ и милостив,
@@ -33,6 +31,8 @@
  Он любит и тебя.
 .D
  Он разрешает делать всё... кроме греха.</lyrics>
+<hymn_number>1563</hymn_number>
 <title>Наш Бог благ и милостив</title>
 <key>G</key>
+<aka>У меня есть Бог</aka>
 </song>

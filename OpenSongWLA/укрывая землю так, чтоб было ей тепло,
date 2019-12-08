@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Укрывая Землю так, чтоб было ей тепло,</title>
-<aka>Белый снег кружится в ночь на Рождество,</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Most Х</author>
 <lyrics>[V1]
  1 куплет:
 .A                              D
@@ -48,5 +46,7 @@
 .  D          E          F#m E D E
    В ночь Святого Рождества.</lyrics>
 <hymn_number>3405</hymn_number>
-<author>Most Х</author>
+<title>Укрывая Землю так, чтоб было ей тепло,</title>
+<key>A</key>
+<aka>Белый снег кружится в ночь на Рождество,</aka>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<author>Рома Иванько</author>
+<lyrics>[V1]
  1 куплет:
 .     Em         C       D
  Мне ещё бы поближе к Тебе
@@ -40,7 +42,5 @@
  Мне бы ветром примчаться к Тебе
  И травой к Твоим ногам расстелиться</lyrics>
 <hymn_number>74</hymn_number>
-<author>Рома Иванько</author>
 <title>Лей лей лей</title>
-<key>E</key>
 </song>

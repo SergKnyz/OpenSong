@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вот моя жизнь вот дух мой</title>
-<key>B</key>
-<hymn_number>1240</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<aka>Возьми</aka>
 <lyrics>[V1]
  Куплет:
 .        Hm   A         G Em
@@ -30,5 +29,6 @@
 .  D                  Em
    Превознесу Твоё Имя Иисус</lyrics>
 <author>4U Band</author>
-<aka>Возьми</aka>
+<title>Вот моя жизнь вот дух мой</title>
+<hymn_number>1240</hymn_number>
 </song>

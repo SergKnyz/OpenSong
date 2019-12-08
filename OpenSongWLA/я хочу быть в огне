@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я хочу быть в огне</title>
-<key>F</key>
-<author>Ольга Марина</author>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
    Припев:
 .          Fm
    Я хочу быть в огне! (быть в огне)
@@ -27,5 +24,8 @@
  Бог открывается в огненной церкви
 .           D#              Fm
  И дьявол боится тебя и меня!</lyrics>
+<author>Ольга Марина</author>
+<title>Я хочу быть в огне</title>
 <hymn_number>1029</hymn_number>
+<key>F</key>
 </song>

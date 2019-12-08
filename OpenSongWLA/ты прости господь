@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<lyrics>[V1]
  1 куплет:
 .       Am               Dm                    E
  Ты прости, Господь, не могу молиться, как Давид, я,
@@ -43,8 +44,7 @@
  Чтобы в оный день «И тебя Я ждал» сказал Ты,
 .        Em              F#          Hm
  Чтобы в оный день было так, только так, только так.</lyrics>
-<hymn_number>1222</hymn_number>
 <author>Маханаим</author>
-<key>A</key>
 <title>Ты прости Господь</title>
+<hymn_number>1222</hymn_number>
 </song>

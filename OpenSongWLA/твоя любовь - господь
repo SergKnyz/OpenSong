@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
-<author>таня карпова</author>
-<title>Твоя любовь - Господь</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Твоя любовь - Господь</title>
 <lyrics>[V1]
  Твоя любовь - Господь,
  Растопит лёд!
@@ -20,4 +18,6 @@
    Своих заблудших сыновей.
    Ты любишь, веришь,
    Ты простишь, когда они придут домой!</lyrics>
+<key>Em</key>
+<author>таня карпова</author>
 </song>

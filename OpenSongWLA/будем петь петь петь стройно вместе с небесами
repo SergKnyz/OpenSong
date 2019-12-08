@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><tempo>144</tempo>
-<author>Цхрис Томлин, Йессе Реевес, Матт Гилдер, Даниел Царсон, Травис Нунн</author>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Великий и прекрасный народы все и царства, </aka>
+<key>F</key>
+<title>Будем петь петь петь стройно вместе с небесами</title>
+<tempo>144</tempo>
+<hymn_number>35</hymn_number>
+<time_sig>4/4</time_sig>
 <lyrics>[C1]
 .         F
    Будем петь, петь, петь
@@ -33,9 +37,5 @@
  О, Иисус! Лишь Ты один, Лишь Ты один,
 .            F
  Мой Царь и Бог!</lyrics>
-<hymn_number>35</hymn_number>
-<aka>Великий и прекрасный народы все и царства, </aka>
-<time_sig>4/4</time_sig>
-<title>Будем петь петь петь стройно вместе с небесами</title>
-<key>F</key>
+<author>Цхрис Томлин, Йессе Реевес, Матт Гилдер, Даниел Царсон, Травис Нунн</author>
 </song>

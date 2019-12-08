@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В ритме сердца</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
 <lyrics>[V1]
  1 куплет:
 .     D                                  Hm
@@ -42,6 +41,7 @@
 .           G    Hm G D
    Бог, Ты рядом!</lyrics>
 <hymn_number>429</hymn_number>
-<author>Слово Жизни Music</author>
+<title>В ритме сердца</title>
+<key>D</key>
 <aka>Я хочу как дитя оказаться в объятьях Твоих!</aka>
 </song>

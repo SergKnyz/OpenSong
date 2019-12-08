@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
-<title>Бог создал</title>
-<aka>И увидел Бог: Хорошо весьма</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бог создал</title>
 <hymn_number>1947</hymn_number>
 <lyrics>[V1]
 .Eb                 Gm
@@ -45,4 +43,6 @@
    Человека Бог назвал
    И вдохнул живую душу,
    Чтоб Творца он прославлял.</lyrics>
+<aka>И увидел Бог: Хорошо весьма</aka>
+<key>Eb</key>
 </song>

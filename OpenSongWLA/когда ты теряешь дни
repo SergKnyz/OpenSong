@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>14</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 Куплет:
 .Dm             Gm/D
  Когда ты теряешь дни
@@ -40,6 +39,7 @@
  Ты просыпаешься по утрам
  Только не знаешь зачем.</lyrics>
 <author>Теплый дождь</author>
-<key>D</key>
 <title>Когда ты теряешь дни</title>
+<hymn_number>14</hymn_number>
+<key>D</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
-<title>Перелётные птицы</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Перелётные птицы</title>
 <hymn_number>62</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -30,4 +29,5 @@
  Зная неземное назначение, крылья расправляют вновь и вновь!
  Силой неземного притяжения обладает Божия любовь!</lyrics>
 <author>Алла и Сергей Манчик</author>
+<key>C#m</key>
 </song>

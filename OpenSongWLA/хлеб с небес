@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<hymn_number>3026</hymn_number>
+<title>Хлеб с небес</title>
+<author>Вадим Ятковский</author>
+<lyrics>[V1]
  1 куплет:
 .  Am                F/A        G         Em
  Иисус Христос в ту ночь, в которую был предан.
@@ -33,8 +37,4 @@
  Иисусом будет жить, как Он живет Отцом.
  Хлеб истинный с небес, наполнил землю нашу
  Ядущий этот хлеб, вовеки будет жить!</lyrics>
-<hymn_number>3026</hymn_number>
-<author>Вадим Ятковский</author>
-<key>A</key>
-<title>Хлеб с небес</title>
 </song>

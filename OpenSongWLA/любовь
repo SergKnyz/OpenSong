@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Любовь</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
  1 куплет:
 .     Dsus2        A/C#         Hm            G
@@ -29,5 +28,6 @@
  Он - Творец всего творенья несравненный, драгоценный
  Бог святой, Бог святой</lyrics>
 <hymn_number>1906</hymn_number>
-<author>Hillsong Ukraine</author>
+<title>Любовь</title>
+<key>D</key>
 </song>

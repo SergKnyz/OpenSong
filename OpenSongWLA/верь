@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Верь</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Анна Поночевная</author>
 <lyrics>[V1]
  1 куплет:
 .Gm                      Cm
@@ -40,6 +39,7 @@
 .  Gm        Cm   D                Gm
    Верь, ты поверь, Бог всегда с тобой.</lyrics>
 <hymn_number>4219</hymn_number>
-<author>Анна Поночевная</author>
+<title>Верь</title>
+<key>G</key>
 <aka>Сквозь борьбу непониманий сквозь тоску и сквозь печаль</aka>
 </song>

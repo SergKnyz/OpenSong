@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ангелы в небе Господа славят</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<aka>Ангелы в небе Господа славят</aka>
+<author>Неизвестный</author>
 <lyrics>[V1]
 .Em Am/D G/С Am/B7 Em
   
@@ -53,7 +55,5 @@
  Христу Спасителю
  славу поёт, славу поёт:</lyrics>
 <hymn_number>2002</hymn_number>
-<author>Неизвестный</author>
-<key>E</key>
 <title>Славу достойную .Богу поют, Богу поют: ПВ2002</title>
 </song>

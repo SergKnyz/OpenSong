@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>За всё мой Бог</title>
-<author>Hillsong Ukraine</author>
-<hymn_number>1011</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
  Куплет:
 .E         Esus4      E             Esus4
@@ -29,4 +26,7 @@
    Мост:
 .  A/E   H/D#     A/C#     H
     Аллилуйя, за всё, мой Бог.</lyrics>
+<hymn_number>1011</hymn_number>
+<title>За всё мой Бог</title>
+<key>E</key>
 </song>

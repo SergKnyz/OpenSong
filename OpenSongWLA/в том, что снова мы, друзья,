@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Божью милость вижу я</aka>
-<author>Солигорск церковь ЕХБ</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Солигорск церковь ЕХБ</author>
 <lyrics>[V1]
 .G
  Божью милость вижу я
@@ -59,4 +58,5 @@
 <hymn_number>2858</hymn_number>
 <title>В том, что снова мы, друзья,</title>
 <key>G</key>
+<aka>Божью милость вижу я</aka>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я подарю тебе</title>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .F
  Я подарю тебе, милая, славная,
@@ -34,6 +32,8 @@
  И подарю я любовь бесконечную,
  Самую чистую, верную, вечную.
  Ту, что до самых небес нести я готов.</lyrics>
-<hymn_number>1303</hymn_number>
 <author>Новый Иерусалим</author>
+<title>Я подарю тебе</title>
+<hymn_number>1303</hymn_number>
+<key>F</key>
 </song>

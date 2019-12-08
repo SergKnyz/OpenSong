@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бесконечная Хвала</aka>
-<author>Новое Поколение Кенгарагс, Цоры Асбуры</author>
-<hymn_number>4133</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новое Поколение Кенгарагс, Цоры Асбуры</author>
 <lyrics>[V1]
  1 куплет:
 .      D                       E
@@ -58,6 +56,8 @@
  Когда буду закрывать глаза,
  Я держать Тебя не перестану,
  В Моих мыслях только Ты всегда.</lyrics>
-<key>D</key>
+<hymn_number>4133</hymn_number>
 <title>Просыпаясь, жажду встреч с Тобою</title>
+<key>D</key>
+<aka>Бесконечная Хвала</aka>
 </song>

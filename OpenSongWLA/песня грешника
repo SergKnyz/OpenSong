@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1384</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Геннадий Никутьев</author>
 <lyrics>[V1]
  Вступление:
 
@@ -77,7 +77,7 @@
    И в третий день из гроба Я  восстал,
 .                 Am
    Чтобы простить тебя!</lyrics>
-<author>Геннадий Никутьев</author>
+<hymn_number>1384</hymn_number>
 <title>Песня грешника</title>
 <key>A</key>
 </song>

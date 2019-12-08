@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Милая мама</title>
-<key>A</key>
-<author>Алеся Вельгус</author>
-<hymn_number>2444</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <lyrics>[V1]
  Вст
 
@@ -69,4 +66,7 @@
 
 [V6]
  Припев 2 раза</lyrics>
+<author>Алеся Вельгус</author>
+<title>Милая мама</title>
+<hymn_number>2444</hymn_number>
 </song>

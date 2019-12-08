@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вот настал молитвы час ПВ2</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>С верою принесем</aka>
 <key>C</key>
-<aka>С верою принесем</aka>
+<hymn_number>2</hymn_number>
+<title>Вот настал молитвы час ПВ2</title>
 <lyrics>[V1]
  Вот настал молитвы час;
  С верою принесем
@@ -36,5 +37,4 @@
  Мир пошли с неба нам!
  И теперь подобье неба,
  Боже, сделай в них Сам!&quot;</lyrics>
-<hymn_number>2</hymn_number>
 </song>

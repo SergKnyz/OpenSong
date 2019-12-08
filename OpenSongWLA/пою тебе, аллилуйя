@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>4125</hymn_number>
+<title>Пою Тебе, аллилуйя</title>
+<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  1 куплет:
 .D                  A
@@ -35,7 +38,4 @@
    В духе и истине склонюсь,
 .       G          A
    Мой Бог, взываю я.</lyrics>
-<hymn_number>4125</hymn_number>
-<title>Пою Тебе, аллилуйя</title>
-<key>D</key>
 </song>

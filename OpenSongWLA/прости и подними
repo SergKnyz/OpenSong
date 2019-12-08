@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Am</key>
-<title>Прости и подними</title>
-<author>Александр Соколов</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Прости и подними</title>
+<hymn_number>5349</hymn_number>
 <lyrics>[V1]
 .Am                        E
  Пусть слёзы в моих глазах в молитве уста,
@@ -35,5 +34,6 @@
    Я верю в Твою жертву Бог и в Твою любовь
    Не надо больше ничего, быть рядом с Тобой
    Иисус я Твой, навеки Т</lyrics>
-<hymn_number>5349</hymn_number>
+<author>Александр Соколов</author>
+<key>Am</key>
 </song>

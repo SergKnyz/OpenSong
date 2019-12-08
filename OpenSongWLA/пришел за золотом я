@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>41</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<copyright>1994 Мерцы/Винеыард Публисхинг</copyright>
+<aka>В Любви не дай остыть</aka>
+<author>Бриан Доерксен</author>
 <lyrics>[V1]
 .   D         A7
  В Любви, не дай остыть
@@ -28,10 +31,7 @@
  И нуждаясь в наставлении
 .    Em        G                D
  Взываю я, зажги огонь во мне вновь</lyrics>
-<author>Бриан Доерксен</author>
 <tempo>100</tempo>
-<aka>В Любви не дай остыть</aka>
-<key>D</key>
+<hymn_number>41</hymn_number>
 <title>Пришел за золотом я</title>
-<copyright>1994 Мерцы/Винеыард Публисхинг</copyright>
 </song>

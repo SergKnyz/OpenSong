@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<lyrics>[V1]
 .F
  Этот день, этот день
 .      C
@@ -37,7 +38,6 @@
    Давайте все, кто во Христе,
 .         G   D7G
    Петь Ему хвалу.</lyrics>
-<hymn_number>385</hymn_number>
-<key>F</key>
 <title>Этот день сотворил Господь</title>
+<hymn_number>385</hymn_number>
 </song>

@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Святой</aka>
-<key>F</key>
-<author>Йесус Цултуре</author>
-<title>Только одно, звучит во мне</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Только одно, звучит во мне</title>
+<aka>Святой</aka>
 <lyrics>[V1]
 .        Dm             Gm
  Только одно, звучит во мне !
@@ -23,4 +21,6 @@
    Нет, подобного , ведь Ты - Святой ! Святой !
 .  Dm         Gm               F            Am
    Нет, подобного , ведь Ты - Святой ! Святой !</lyrics>
+<key>F</key>
+<author>Йесус Цултуре</author>
 </song>

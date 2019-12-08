@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<aka>Аллилуйя! Иисус живой</aka>
+<author>Рон Кенолы</author>
+<lyrics>[C1]
 .      D     A/C#
    Аллилуйя! Иисус живой.
 .    Am/C
@@ -38,8 +41,5 @@
 .       G         A
    Аллилуйя, аллилуйя!</lyrics>
 <hymn_number>4</hymn_number>
-<author>Рон Кенолы</author>
-<aka>Аллилуйя! Иисус живой</aka>
 <title>Смерть побеждена, ИИПВ4</title>
-<key>D</key>
 </song>

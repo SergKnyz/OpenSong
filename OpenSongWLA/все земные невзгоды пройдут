@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
-<title>Все земные невзгоды пройдут</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Все земные невзгоды пройдут</title>
 <tempo>70</tempo>
+<hymn_number>72</hymn_number>
+<time_sig>4/4</time_sig>
 <lyrics>[V1]
 .        G       Dsus D7   G G7
  Все земные невзгоды пройдут,
@@ -17,6 +17,6 @@
    Превозносим Тебя,
 .      G  C G
    Господь.</lyrics>
-<hymn_number>72</hymn_number>
 <aka>Все троны и царства падут</aka>
+<key>G</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Возрадуемся возрадуемся</title>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .    B     C      Am    Dm
  Возрадуемся, возрадуемся
 . Gm     C      F
@@ -10,5 +8,7 @@
 .  Gm Csus  F
  Победа за нами</lyrics>
 <hymn_number>68</hymn_number>
+<title>Возрадуемся возрадуемся</title>
+<key>F</key>
 <aka>Наш Господь с нами</aka>
 </song>

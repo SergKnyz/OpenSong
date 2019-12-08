@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<hymn_number>2209</hymn_number>
+<title>Я пойду за Тобой</title>
+<author>Милана, Константин Косячков</author>
+<lyrics>[V1]
 .         Am        Em
  1. Я пойду за Тобой
 .        Am       Em
@@ -29,8 +33,4 @@
    Чтобы быть мне в доме Его
    всегда Созерцать красоту и величье Его
    Видеть славу Господа моего</lyrics>
-<hymn_number>2209</hymn_number>
-<author>Милана, Константин Косячков</author>
-<key>A</key>
-<title>Я пойду за Тобой</title>
 </song>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Велики и чудны Твои дела Господь</title>
-<time_sig>2/4</time_sig>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
 <aka>Ты Царь народов, Всемогущий Бог., Ты  один только Свят</aka>
-<hymn_number>1602</hymn_number>
 <lyrics>[V1]
 .Dm       Bb        C         Dm
  Велики и чудны Твои дела, Господь!
@@ -22,6 +19,9 @@
  Ты Один только Свят! Ты Один только Свят!
 .Bb       C        Dm
  Все поклонятся Тебе.</lyrics>
+<time_sig>2/4</time_sig>
 <author>Неизвестный</author>
+<title>Велики и чудны Твои дела Господь</title>
+<hymn_number>1602</hymn_number>
 <tempo>62</tempo>
 </song>

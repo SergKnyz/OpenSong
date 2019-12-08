@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Безумная любовь</title>
-<author>Father's House Worship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Father's House Worship</author>
 <lyrics>[V1]
  1 куплет:
 .C#m            H         A
@@ -41,5 +39,7 @@
 .  C#m              H             A               E
    В огне ложь сжигаешь стены ломаешь на моём пути</lyrics>
 <hymn_number>2802</hymn_number>
+<title>Безумная любовь</title>
+<key>D</key>
 <aka>Взывал Ты ко мне до моих первых слов</aka>
 </song>

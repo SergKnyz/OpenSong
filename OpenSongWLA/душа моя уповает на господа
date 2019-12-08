@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><tempo>140</tempo>
-<hymn_number>99</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<time_sig>4/4</time_sig>
 <lyrics>[C1]
 .     F   C             Dm   C
    Душа моя уповает на Господа!
@@ -27,7 +27,7 @@
  В Господе источник силы найдёшь,
 .   Dm                  B       C7
  Встанешь твёрдо ты и смело пойдёшь.</lyrics>
+<tempo>140</tempo>
+<hymn_number>99</hymn_number>
 <title>Душа моя уповает на Господа</title>
-<time_sig>4/4</time_sig>
-<key>F</key>
 </song>

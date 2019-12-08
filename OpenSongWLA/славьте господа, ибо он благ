@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Славьте Господа, ибо Он благ</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Славьте Господа, ибо Он благ</title>
 <lyrics>[C1]
    Псалом 117
 .   D               G       D    G    D    A       D
@@ -30,4 +29,5 @@
  Ты- мой Бог, буду славить Тебя,
 . D          A
  Буду Тебя превозносить.</lyrics>
+<key>D</key>
 </song>

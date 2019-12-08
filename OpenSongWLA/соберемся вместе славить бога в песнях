@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Соберемся вместе славить Бога в песнях</title>
-<key>D</key>
-<hymn_number>202</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>202</hymn_number>
+<title>Соберемся вместе славить Бога в песнях</title>
+<author>Неизвестный</author>
 <lyrics>[V1]
  Куплет:
 . D                 G
@@ -23,5 +23,5 @@
  Запев:
 .D         Em          A         D
  Аллилуйя, аллилуйя, аллилуйя, аллилуйя</lyrics>
-<author>Неизвестный</author>
+<key>D</key>
 </song>

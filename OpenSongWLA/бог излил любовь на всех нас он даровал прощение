@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Бог излил любовь на всех нас Он даровал прощение</title>
-<author>Виталий Ефремочкин</author>
-<hymn_number>772</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Cm                               Bb
  Бог излил любовь на всех нас Он даровал прощение
@@ -30,5 +26,9 @@
    Аллилуйя, Аллилуйя
 .      Cm           Bb
    Аллилуйя, Ты Святой</lyrics>
+<author>Виталий Ефремочкин</author>
+<title>Бог излил любовь на всех нас Он даровал прощение</title>
+<hymn_number>772</hymn_number>
+<key>G</key>
 <aka>Вечно буду славить</aka>
 </song>

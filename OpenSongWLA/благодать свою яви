@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>Бог, нам пошли благодать Свою из Своей руки</aka>
+<key>C</key>
+<hymn_number>1882</hymn_number>
+<title>Благодать Свою яви</title>
 <lyrics>[V1]
 .C                        F             C
  Бог, нам пошли благодать Свою из Своей руки
@@ -29,7 +32,4 @@
    Нашли Твой путь среди темноты
 .     C(Bb)           Dm     C Bb (F)
    // Благодать свою яви. //</lyrics>
-<hymn_number>1882</hymn_number>
-<key>C</key>
-<title>Благодать Свою яви</title>
 </song>

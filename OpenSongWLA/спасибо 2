@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>Спасибо</title>
-<author>Сион Молдова</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .  D#m
  Когда в бессилье вновь грешу,
@@ -51,5 +48,8 @@
    Благодари Христа, благодари всегда
 .        D#m                  F#           G#        D#m
    Когда сил нет идти, на Иисуса ты посмотри, посмотри.</lyrics>
+<author>Сион Молдова</author>
+<title>Спасибо</title>
 <hymn_number>1237</hymn_number>
+<key>F#</key>
 </song>

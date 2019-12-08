@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Ты</title>
-<key>B</key>
 <hymn_number>931</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -40,4 +39,5 @@
  Пусть смотрят на меня все и видят жизнь Твою
  И Тебе земную славу пусть воздают</lyrics>
 <author>Hillsong Ukraine</author>
+<key>B</key>
 </song>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>Бежать буду за Тобой</aka>
-<author>Слово Жизни Music</author>
+<key>B</key>
 <hymn_number>461</hymn_number>
+<title>Мой путь освещаешь Словом Ты</title>
+<author>Слово Жизни Music</author>
 <lyrics>[V1]
  Куплет:
 .H    F#       E            F#
@@ -34,6 +36,4 @@
    Я за Тобой бегу сейчас
 .     E
    Бегу я за Тобой</lyrics>
-<key>B</key>
-<title>Мой путь освещаешь Словом Ты</title>
 </song>

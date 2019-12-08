@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>О, Ты Отец наш вечный Создатель и Творец</aka>
+<key>F</key>
+<title>В это верю я (Символ веры)</title>
+<hymn_number>91</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .F               Am   G         C/E
  О, Ты Отец наш вечный Создатель и Творец
@@ -46,8 +50,5 @@
    Верю я в силу воскресенья когда Иисус придёт
 .  Am                 F    G    C
    Ведь верю я в Твоё Имя, Иисус</lyrics>
-<hymn_number>1035</hymn_number>
 <author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
-<title>В это верю я (Символ веры)</title>
-<key>F</key>
 </song>

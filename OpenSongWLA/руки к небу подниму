@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Руки к Небу подниму</title>
+<hymn_number>3364</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .C                     G
@@ -27,7 +28,6 @@
  И верность Твоя, верность Твоя
  Иисус Христос лишь только в Нём
  Надежда моя, надежда моя</lyrics>
-<hymn_number>3364</hymn_number>
+<author>Алексей Каратаев</author>
 <key>C</key>
-<title>Руки к Небу подниму</title>
 </song>

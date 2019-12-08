@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Капитан</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 КУПЛЕТ:
 .       C                 Dm      C
  В неизведанных водах, не зная куда
@@ -35,6 +33,8 @@
  3 КУПЛЕТ:
  Мой Капитан Иисус, верю я
  Штурвал моей жизни в надежных руках</lyrics>
-<hymn_number>2614</hymn_number>
 <author>Hillsong United, Хиллсонг Унитед</author>
+<title>Капитан</title>
+<hymn_number>2614</hymn_number>
+<key>C</key>
 </song>

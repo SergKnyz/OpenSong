@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>635</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<author>Вадим Ятковский</author>
 <lyrics>[V1]
  1 куплет:
 .  D      Gm6/Bb  Hm7         E/G#
@@ -27,7 +28,6 @@
  Изливаешь любовь в моё сердце
  Во веки веков будь прославлен мой Бог
  Я Тебе отдаю своё сердце</lyrics>
-<author>Вадим Ятковский</author>
+<hymn_number>635</hymn_number>
 <title>Моё сердце</title>
-<key>D</key>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Кровь Христа</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Альфа</author>
 <lyrics>[V1]
  1 куплет:
 .Cm       D#      Bb        G
@@ -36,5 +35,6 @@
  Зачем (зачем) распинать
  Зачем проливать второй раз кровь Христа.</lyrics>
 <hymn_number>2087</hymn_number>
-<author>Альфа</author>
+<title>Кровь Христа</title>
+<key>C</key>
 </song>

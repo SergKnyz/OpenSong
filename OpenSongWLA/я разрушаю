@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>Я разрушаю</title>
-<author>Филипп Реннер</author>
-<hymn_number>3330</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Филипп Реннер</author>
 <lyrics>[V1]
  1 куплет:
 .F#m       E
@@ -30,4 +27,7 @@
  Бог дал мне новую жизнь
  Ты моя любовь навсегда
  Не расстанемся никогда</lyrics>
+<hymn_number>3330</hymn_number>
+<title>Я разрушаю</title>
+<key>F#</key>
 </song>

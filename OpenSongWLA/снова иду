@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
+<lyrics>[V1]
  1 куплет:
 .C#m                      A
  Снова я нуждаюсь как дитя,
@@ -42,7 +43,6 @@
 .       C#m  G#m A F#m
  Снова иду...</lyrics>
 <hymn_number>4206</hymn_number>
-<author>Imprintband</author>
 <title>Снова иду</title>
 <key>C#m</key>
 </song>

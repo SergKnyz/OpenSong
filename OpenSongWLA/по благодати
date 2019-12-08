@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Галим Хусаинов</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>По благодати</title>
+<hymn_number>3688</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .     G         C          Em C
@@ -26,7 +28,5 @@
    Вечную жизнь, вечную жизнь,
 .  G        C              Em C
    Вечную жизнь дал мне Иисус.</lyrics>
-<hymn_number>3688</hymn_number>
-<title>По благодати</title>
-<key>G</key>
+<author>Галим Хусаинов</author>
 </song>

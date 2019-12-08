@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Реубен Морган</author>
+<lyrics>[V1]
 .  G         C        D       GCEmD
  Всемогущий Бог, мы молим Тебя -
 .  Em          C      D        Em C D
@@ -32,9 +33,8 @@
 .  C.               G   D
    Посылай нам, Господь.</lyrics>
 <hymn_number>59</hymn_number>
-<author>Реубен Морган</author>
-<aka>Всемогущий Бог, мы молим Тебя -</aka>
-<key>G</key>
 <title>Нашу землю Ты, Господь, исцели. ИИПВ59</title>
+<key>G</key>
 <copyright>1997 Реубен Морган / Хиллсонг Публисхинг</copyright>
+<aka>Всемогущий Бог, мы молим Тебя -</aka>
 </song>

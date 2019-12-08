@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1326</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Боже дай терпенье</aka>
+<key>F</key>
+<hymn_number>1326</hymn_number>
+<title>В день, когда придет ПВ1326</title>
 <lyrics>[V1]
  Боже! дай терпенье
  В день, когда придет
@@ -40,7 +43,4 @@
  Чтоб, как Ты, и я
  Мог нести прощенье
  В сумрак бытия.</lyrics>
-<aka>Боже дай терпенье</aka>
-<title>В день, когда придет ПВ1326</title>
-<key>F</key>
 </song>

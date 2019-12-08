@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<aka>В час когда вокруг сомненье,</aka>
+<lyrics>[V1]
  1 куплет:
 .C                     Csus
  В час когда вокруг сомненье,
@@ -52,9 +54,7 @@
    Иисус придет с небес
    Верим мы!
    Верим мы!</lyrics>
-<hymn_number>6371</hymn_number>
 <author>Алексей Каратаев, Неусбоыс</author>
-<aka>В час когда вокруг сомненье,</aka>
 <title>Верим мы</title>
-<key>C</key>
+<hymn_number>6371</hymn_number>
 </song>

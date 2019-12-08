@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>6101</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
+<hymn_number>6101</hymn_number>
+<title>Забыли</title>
+<author>A-SIDE</author>
 <lyrics>[V1]
  1 куплет:
 .C#m      H           A
@@ -37,7 +40,4 @@
    Пред припев:
    Мы бежали, но опять в тупике
    Кто был неправ, время признать, склонясь на колени</lyrics>
-<author>A-SIDE</author>
-<key>C#m</key>
-<title>Забыли</title>
 </song>

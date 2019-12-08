@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я упал</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<author>Альфа</author>
 <lyrics>[V1]
  1 куплет:
 .    C        G         F       C G
@@ -42,5 +42,5 @@
  Но до дна не достал я, так как рука
  Всемогущего подняла на берег меня!</lyrics>
 <hymn_number>796</hymn_number>
-<author>Альфа</author>
+<title>Я упал</title>
 </song>

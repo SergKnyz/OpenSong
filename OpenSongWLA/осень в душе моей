@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Осень в душе моей</title>
-<key>G#m</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1733</hymn_number>
+<title>Осень в душе моей</title>
 <author>Игорь Яловец</author>
 <lyrics>[V1]
  1 куплет:
@@ -36,5 +36,5 @@
  Мой Христос в Нём моё лишь спасение
  Без Тебя мне свой путь не пройти
  Без Тебя мне одно заблуждение.</lyrics>
-<hymn_number>1733</hymn_number>
+<key>G#m</key>
 </song>

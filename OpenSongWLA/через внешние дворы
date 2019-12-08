@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Dm</key>
-<title>Через внешние дворы</title>
-<time_sig>4/4</time_sig>
+<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
 <lyrics>[V1]
 . Dm
  Через внешние дворы
@@ -28,5 +26,9 @@
    Я войду в Святое Святых.
 .       Gm         C          Dm
    Я хочу быть святым пред Тобой.</lyrics>
+<author>Кутлесс</author>
+<title>Через внешние дворы</title>
+<tempo>64</tempo>
 <hymn_number>379</hymn_number>
+<key>Dm</key>
 </song>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Только Ты Один</title>
-<hymn_number>3100</hymn_number>
+<author>Ярослава Лебе-Левинецкая</author>
 <lyrics>[V1]
  1 куплет:
  Всем своим сердцем и всей своей душою
@@ -21,5 +20,6 @@
  Ты цепи ада разорвал
  Чтобы мне иметь спасенье
  Ты жизнь отдал, Ты жизнь отдал</lyrics>
-<author>Ярослава Лебе-Левинецкая</author>
+<hymn_number>3100</hymn_number>
+<title>Только Ты Один</title>
 </song>

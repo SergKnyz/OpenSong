@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Восстань, Господь</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<aka>Господь возносит главу мою.</aka>
+<author>Юрий Шпак</author>
 <lyrics>[V1]
 .Em
  Господь возносит главу мою.
@@ -46,6 +47,5 @@
 .  Am         C        Am   Hm     Em
  Восстанут враги, нагрянет беда - я к Богу опять воззову.</lyrics>
 <hymn_number>2033</hymn_number>
-<author>Юрий Шпак</author>
-<aka>Господь возносит главу мою.</aka>
+<title>Восстань, Господь</title>
 </song>

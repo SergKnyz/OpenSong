@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>425</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<hymn_number>425</hymn_number>
+<title>Ручьем святая кровь течет ПВ425</title>
 <lyrics>[V1]
  Ручьем святая кровь течет
  В омытие грехов;
@@ -34,6 +36,4 @@
  Иисуса огорчу,
  Я знаю, что святая кровь
  Сотрет вину мою.</lyrics>
-<key>G</key>
-<title>Ручьем святая кровь течет ПВ425</title>
 </song>

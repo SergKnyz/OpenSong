@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус</title>
-<key>A</key>
-<hymn_number>2454</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Chris Tomlin</author>
 <lyrics>[V1]
  Перевод выполнен: Церковь &quot;Примирение&quot; г.Бобруйск
 
@@ -70,5 +68,7 @@
  Сила в имени Твоём.
 .          D
  В имени Твоём.</lyrics>
-<author>Chris Tomlin</author>
+<hymn_number>2454</hymn_number>
+<title>Иисус</title>
+<key>A</key>
 </song>

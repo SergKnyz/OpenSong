@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Кто пришел спасти?</title>
-<key>C#m</key>
-<aka>Возносим Тебя</aka>
 <hymn_number>458</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -47,4 +45,6 @@
 .       C#m  A     H
    Ты - Царь, мой Царь!</lyrics>
 <author>Слово Жизни Music</author>
+<aka>Возносим Тебя</aka>
+<key>C#m</key>
 </song>

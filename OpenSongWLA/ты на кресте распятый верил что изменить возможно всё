@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Всего дороже Ты</aka>
-<author>Александр Соколов</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Hm                                                G  D
  Ты на кресте распятый верил что изменить возможно всё
 .Hm                                  GD
@@ -21,7 +19,9 @@
  Вели себя высокомерно прости
  Ведь мы не понимали смысла не слышали слова Твои
  Но разве скрыться можно Бог мой от Твоей любви</lyrics>
-<hymn_number>4911</hymn_number>
+<author>Александр Соколов</author>
 <title>Ты на кресте распятый верил что изменить возможно всё</title>
+<hymn_number>4911</hymn_number>
 <key>Bm</key>
+<aka>Всего дороже Ты</aka>
 </song>

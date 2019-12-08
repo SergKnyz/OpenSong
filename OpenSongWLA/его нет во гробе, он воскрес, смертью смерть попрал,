@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Воскрес воскрес</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>34</hymn_number>
+<title>Его нет во гробе, Он воскрес, смертью смерть попрал,</title>
+<author>Slavic New Beginnings Church</author>
 <lyrics>[V1]
  1 Куплет:
 .Hm           A           Hm                      A
@@ -27,8 +29,6 @@
  Но светом жизни Ты пришел, Господь любовью Ты объял.
  Теперь живу, люблю пою, и славлю я Тебя
  Спасен Тобою Мой Господь, надежда Ты Моя.</lyrics>
-<hymn_number>34</hymn_number>
-<author>Slavic New Beginnings Church</author>
+<aka>Воскрес воскрес</aka>
 <key>B</key>
-<title>Его нет во гробе, Он воскрес, смертью смерть попрал,</title>
 </song>

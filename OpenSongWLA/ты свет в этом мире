@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Ты свет в этом мире</title>
-<key>E</key>
 <lyrics>[V1]
  Ты свет в этом мире
 .  E                H            F#
@@ -36,4 +35,5 @@
    И никогда я не забуду,
 .           H           E/C#    A
    Что Ты мой грех вознёс на крест.</lyrics>
+<key>E</key>
 </song>

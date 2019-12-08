@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мы восклицаем</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>967</hymn_number>
+<title>Мы восклицаем</title>
+<author>Hillsong Ukraine</author>
 <lyrics>[V1]
 .    D
  Врага навеки победил Ты
@@ -19,6 +20,5 @@
  Мы восклицаем всегда с победой!
 .          E/G#
  Возносим Бога, возносим Бога!</lyrics>
-<hymn_number>967</hymn_number>
-<author>Hillsong Ukraine</author>
+<key>D</key>
 </song>

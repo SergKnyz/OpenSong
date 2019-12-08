@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Душу мою к Тебе возношу ИИПВ100</title>
-<key>D</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D      A     Em       Bm
  Душу мою к Тебе возношу,
 . G          A
@@ -29,5 +27,7 @@
  Боже, прошу, приблизься ко мне,
 .   G                    A
  В святости, с нежной любовью.</lyrics>
+<title>Душу мою к Тебе возношу ИИПВ100</title>
 <hymn_number>100</hymn_number>
+<key>D</key>
 </song>

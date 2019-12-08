@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Пролетают минуты, дни за днями,</aka>
+<key>Eb</key>
 <title>Время придёт</title>
-<aka>Пролетают минуты, дни за днями,</aka>
-<author>Nikita Isakov, Никита Исаков</author>
 <hymn_number>3965</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -42,4 +41,5 @@
 [B1]
    Концовка:
    Скоро время придёт... Мы увидим знакомые лица...</lyrics>
+<author>Nikita Isakov, Никита Исаков</author>
 </song>

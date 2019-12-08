@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Одно моё желание ИИПВ229</title>
-<copyright>1995 Хиллсонг Публисхинг</copyright>
-<author>Реубен Морган, Хиллсонг</author>
-<hymn_number>229</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><copyright>1995 Хиллсонг Публисхинг</copyright>
+<key>G</key>
+<aka>Сердце отдаю Тебе</aka>
 <lyrics>[V1]
 .G          Em          Am Am/G D/F#
  Одно моё желанье - величать Тебя.
@@ -24,5 +22,7 @@
    Жить хочу с Тобой вдвоём,
 .     C          D       G
    Да будет Твоя воля во всём.</lyrics>
-<aka>Сердце отдаю Тебе</aka>
+<author>Реубен Морган, Хиллсонг</author>
+<title>Одно моё желание ИИПВ229</title>
+<hymn_number>229</hymn_number>
 </song>

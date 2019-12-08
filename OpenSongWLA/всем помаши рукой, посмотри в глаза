@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Всем помаши рукой, посмотри в глаза</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Здесь твои друзья, здесь твоя семья</aka>
 <key>E</key>
-<aka>Здесь твои друзья, здесь твоя семья</aka>
+<hymn_number>201</hymn_number>
+<title>Всем помаши рукой, посмотри в глаза</title>
+<author>Неизвестный</author>
 <lyrics>[V1]
  1 куплет:
 .          Em   D                  Em
@@ -24,6 +26,4 @@
  3 куплет:
  Пускай проходят дни, пролетают года
  Ты приходи скорей здесь ждут тебя</lyrics>
-<hymn_number>201</hymn_number>
-<author>Неизвестный</author>
 </song>

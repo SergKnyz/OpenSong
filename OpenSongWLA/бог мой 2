@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2030</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Cm</key>
+<aka>Бог мой,моя надежда и любовь,</aka>
+<author>Ольга Макурина</author>
 <lyrics>[C1]
 .  Cm           G
    Бог мой,моя надежда и любовь,
@@ -34,8 +36,6 @@
  Что Ты мне поручил,я за это в ответе.
  Через это спасусь и сама.
  Дара этого хватит сполна.</lyrics>
-<author>Ольга Макурина</author>
-<aka>Бог мой,моя надежда и любовь,</aka>
-<key>Cm</key>
+<hymn_number>2030</hymn_number>
 <title>Бог мой</title>
 </song>

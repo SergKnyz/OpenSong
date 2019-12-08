@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><copyright>Хиллсонг</copyright>
-<title>На равнинах</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><title>На равнинах</title>
 <lyrics>[V1]
 .  C
  Пусть наш дом наполнит радость,
@@ -33,4 +31,6 @@
 .    F   Dm7  Gsus4 G
    Аллилуйя, аллилуйя.</lyrics>
 <author>Реубен Морган</author>
+<copyright>Хиллсонг</copyright>
+<key>C</key>
 </song>

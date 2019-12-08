@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
+<hymn_number>1002</hymn_number>
+<title>К свободе прорвись</title>
+<author>Hillsong Ukraine</author>
+<lyrics>[V1]
 .F#m                                  D
  Будешь ты верить, если я скажу тебе о том,
 .F#m                                       D
@@ -57,8 +61,4 @@
    Всех слов и дел Твоих
 .        E       F#m     D          F#m Bm7
    Мы стоим в Твоей любви! Танцуем мы!__</lyrics>
-<hymn_number>1002</hymn_number>
-<author>Hillsong Ukraine</author>
-<key>F#</key>
-<title>К свободе прорвись</title>
 </song>

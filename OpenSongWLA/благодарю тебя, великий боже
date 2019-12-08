@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>Аллилуйя Творцу миров</aka>
+<key>C</key>
+<hymn_number>3925</hymn_number>
+<title>Благодарю Тебя, великий Боже</title>
 <lyrics>[C1]
 .  C   E     Am    F     Dm      E
    Аллилуйя Творцу миров! Христу хвала!
@@ -54,7 +57,4 @@
 [C4]
    Аллилуйя Творцу миров! Христу хвала!
    Аллилуйя Творцу миров! Аллилуйя!</lyrics>
-<hymn_number>3925</hymn_number>
-<title>Благодарю Тебя, великий Боже</title>
-<key>C</key>
 </song>

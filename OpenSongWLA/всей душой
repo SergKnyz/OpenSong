@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>И вот опять я в Твоих руках</aka>
-<author>Hillsong Ukraine</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .D         F#m/C#        Hm
  И вот опять я в Твоих руках
@@ -43,7 +41,9 @@
    Поклоня  ю__сь,
 .        G/H D   Asus4 A
    Поклоня    юсь я.</lyrics>
+<author>Hillsong Ukraine</author>
+<title>Всей душой</title>
 <hymn_number>945</hymn_number>
 <key>B</key>
-<title>Всей душой</title>
+<aka>И вот опять я в Твоих руках</aka>
 </song>

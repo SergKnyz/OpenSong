@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты путеводитель на каждом моём пути</title>
-<key>A</key>
-<aka>Буду петь Тебе</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3980</hymn_number>
+<title>Ты путеводитель на каждом моём пути</title>
 <author>SokolovBrothers</author>
 <lyrics>[V1]
  1 куплет:
@@ -35,5 +34,6 @@
  И даже, когда,уже не могу идти.
  Ты сильной рукой, поставишь на ноги меня
  Согреешь мне сердце теплом Своего огня.</lyrics>
-<hymn_number>3980</hymn_number>
+<aka>Буду петь Тебе</aka>
+<key>A</key>
 </song>

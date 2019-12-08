@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<aka>Ты Царь в сердце моем</aka>
+<lyrics>[V1]
 .G              C           G
  Ты Царь в сердце моем Ты скала, куда бегу
 .Em          D              C     G
@@ -25,9 +27,7 @@
    Ты не оставишь Бог, Ты не оставишь никогда
 .    G   Em       Dsus C
    Ты не оставишь Бог, Ты не оставишь никогда</lyrics>
-<hymn_number>3019</hymn_number>
 <author>Бетхел Мусиц</author>
-<aka>Ты Царь в сердце моем</aka>
 <title>Ты благой, Бог</title>
-<key>G</key>
+<hymn_number>3019</hymn_number>
 </song>

@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<hymn_number>998</hymn_number>
+<title>Сон</title>
+<author>Кристалл</author>
+<lyrics>[V1]
  1 куплет:
 .    Am                      E           Am
  Как сон который сбылся спустя не много лет
@@ -25,8 +29,4 @@
  3 куплет:
  А если в дальний путь ты позовёшь Христа
  Раздоров и разлуки не будет никогда</lyrics>
-<hymn_number>998</hymn_number>
-<author>Кристалл</author>
-<title>Сон</title>
-<key>A</key>
 </song>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>122</hymn_number>
 <title>Бог я стою пред Тобой</title>
-<aka>Вся жизнь моя для Тебя.</aka>
+<author>Ксения Кузнецова</author>
 <lyrics>[V1]
  Куплет:
 .C#        G#        F#
@@ -30,6 +30,6 @@
    Дай мне прожить для Тебя жизнь ,о которой Ты мечтал,
 .  C#       G#        F#
    Когда творил Ты меня.</lyrics>
-<hymn_number>122</hymn_number>
-<author>Ксения Кузнецова</author>
+<aka>Вся жизнь моя для Тебя.</aka>
+<key>F#</key>
 </song>

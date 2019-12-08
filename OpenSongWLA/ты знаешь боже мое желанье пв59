@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Ты знаешь Боже мое желанье ПВ59</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Ты знаешь, Боже, мое желанье,
  Мои молитвы слышишь Ты;
  // Тебе известно мое страданье,
@@ -36,4 +34,6 @@
  Я верю, Боже, Твоя десница
  Всегда пребудет надо мной</lyrics>
 <hymn_number>59</hymn_number>
+<title>Ты знаешь Боже мое желанье ПВ59</title>
+<key>G</key>
 </song>

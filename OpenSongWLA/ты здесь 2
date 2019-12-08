@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>JG Youth Worship</author>
-<hymn_number>3450</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<author>JG Youth Worship</author>
 <lyrics>[V1]
  Куплет:
 .E        H/D#
@@ -64,6 +64,6 @@
 
 [V4]
  Кода:</lyrics>
-<key>E</key>
+<hymn_number>3450</hymn_number>
 <title>Ты здесь</title>
 </song>

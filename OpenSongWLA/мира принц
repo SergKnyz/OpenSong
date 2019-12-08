@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мира Принц</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>594</hymn_number>
+<title>Мира Принц</title>
 <author>Роман Касевич, Хиллсонг Унитед</author>
 <lyrics>[V1]
  1 куплет:
@@ -108,5 +108,5 @@
  Моя душа познает что Ты Бог
 .      G      D
  Ты ответил мне</lyrics>
-<hymn_number>594</hymn_number>
+<key>G</key>
 </song>

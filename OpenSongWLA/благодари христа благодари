@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Dm</key>
-<title>Благодари Христа благодари</title>
-<aka>Своим трудом, молитвами и пеньем</aka>
-<hymn_number>2324</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Dm
  Благодари Христа, благодари
 .                   E7     Gm  A
@@ -37,4 +33,8 @@
  Благодари Его благодари
  И над большой землёю пусть горит
  Твоя хвала как жертвенное пламя</lyrics>
+<hymn_number>2324</hymn_number>
+<title>Благодари Христа благодари</title>
+<key>Dm</key>
+<aka>Своим трудом, молитвами и пеньем</aka>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я песню пою</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Я песню пою о том
  Как встретились невеста с женихом
  Когда они вдвоём пошли
@@ -21,4 +20,5 @@
  Поэтому сказал небесный Властелин
  Не хорошо быть одному.</lyrics>
 <hymn_number>3208</hymn_number>
+<title>Я песню пою</title>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Аллилуйя Аллилуйя Аллилуйя Иисус-наш Царь!</title>
-<aka>Он явил нам Свою силу</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .     E         H7  E
  Аллилуйя, Аллилуйя,
 .     E  A/F# E/G# A
@@ -30,6 +27,9 @@
    Смертью нас освободил,
 .   D2        A/C#       H7
    Милостью Его мы спасены!</lyrics>
-<hymn_number>3</hymn_number>
 <author>Краеугольный камень</author>
+<title>Аллилуйя Аллилуйя Аллилуйя Иисус-наш Царь!</title>
+<hymn_number>3</hymn_number>
+<key>E</key>
+<aka>Он явил нам Свою силу</aka>
 </song>

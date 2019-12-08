@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Снова слышу Тебя</title>
-<key>C</key>
-<author>Евгений Косенков</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Cm      Bb     Eb  Fm              Cm
  Снова слышу Тебя, снова сердце забилось
@@ -39,5 +36,8 @@
  Нету боли моей, исцелению рад
  /Ведь невеста Христа за меня помолилась
  И повержен мой враг и повержен мой враг/ 2р.</lyrics>
+<author>Евгений Косенков</author>
+<title>Снова слышу Тебя</title>
 <hymn_number>3156</hymn_number>
+<key>C</key>
 </song>

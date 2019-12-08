@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты мой Бог</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2249</hymn_number>
+<title>Ты мой Бог</title>
+<author>Slavic New Beginnings Church, Йесус Цултуре</author>
 <lyrics>[V1]
  1 куплет:
 .      E        F#m  C#m A
@@ -46,6 +47,5 @@
    От начала и вовек
 .       F#m     E           F#m    E
    Ты достоин славы,  Ты достоин славы,</lyrics>
-<hymn_number>2249</hymn_number>
-<author>Slavic New Beginnings Church, Йесус Цултуре</author>
+<key>E</key>
 </song>

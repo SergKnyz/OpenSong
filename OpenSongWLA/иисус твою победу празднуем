@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Иисус Твою победу празднуем</title>
-<hymn_number>141</hymn_number>
-<lyrics>[C1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[C1]
 .   F C Dm C  F    C     Dm   C
    Иисус,  Твою победу празднуем;
 .   F C Dm C     B          Csus C
@@ -30,5 +27,8 @@
  В Твоём присутствии проблемы все уйдут.
 .       B                  Csus C
  В сердцах звучит любви ответ!__</lyrics>
+<hymn_number>141</hymn_number>
+<title>Иисус Твою победу празднуем</title>
+<key>F</key>
 <aka>В сердцах звучит любви ответ</aka>
 </song>

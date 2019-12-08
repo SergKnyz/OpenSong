@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
+<author>Нарния</author>
+<lyrics>[V1]
 .C#m        E        H    C#m
  Мы здесь собрались во Имя Твое!
 .C#m        E         H    C#m
@@ -38,7 +40,5 @@
 .F#m         H   C#
  И откроются небеса!</lyrics>
 <hymn_number>2225</hymn_number>
-<author>Нарния</author>
-<key>C#m</key>
 <title>Мы здесь собрались</title>
 </song>

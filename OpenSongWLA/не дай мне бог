@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Не дай мне Бог</title>
+<hymn_number>670</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .   Dm             F            Am   Dm
  Не дай мне, Бог, бесцельно жизнь прожить мою.
@@ -41,8 +43,6 @@
    Ничто не сломает меня,
 .       F      Gm    A7
    Твоя сила во мне велика.</lyrics>
-<hymn_number>670</hymn_number>
 <author>Марина Белоножко</author>
 <key>D</key>
-<title>Не дай мне Бог</title>
 </song>

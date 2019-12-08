@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>996</hymn_number>
 <title>Прекрасный Бог</title>
-<aka>Лавиной любви</aka>
 <author>Хиллсонг Унитед</author>
 <lyrics>[V1]
 .  Bbm        C#
@@ -43,5 +42,6 @@
    Жизнь отдам и сердцем я всем
 .    F#               C# G#
    Тебя, Иисус, обожаю</lyrics>
-<hymn_number>996</hymn_number>
+<aka>Лавиной любви</aka>
+<key>F#</key>
 </song>

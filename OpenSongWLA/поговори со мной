@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Татьяна Прохор</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<hymn_number>398</hymn_number>
+<title>Поговори со мной</title>
+<author>Татьяна Прохор</author>
 <lyrics>[V1]
  1 куплет:
 .  Hm                 G
@@ -54,7 +57,4 @@
    Поговори со мной, Господь поговори
 .         G      A                  Hm
    Поговори со мной, Господь поговори.</lyrics>
-<hymn_number>398</hymn_number>
-<key>B</key>
-<title>Поговори со мной</title>
 </song>

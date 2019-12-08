@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Наш Бог благ и милостив</title>
-<key>E</key>
-<hymn_number>1992</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Новое Поколение церковь г. Рига, Перевод с Кыргызского</author>
 <lyrics>[V1]
  Куплет:
 .Em           C                  Am               D
@@ -29,5 +27,7 @@
    Господь творит всё что хочет
 .  G      D        Em C
    На Небе и на Земле.</lyrics>
-<author>Новое Поколение церковь г. Рига, Перевод с Кыргызского</author>
+<hymn_number>1992</hymn_number>
+<title>Наш Бог благ и милостив</title>
+<key>E</key>
 </song>

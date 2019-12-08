@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Излей дождь</title>
-<key>G#m</key>
-<hymn_number>150</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G#m</key>
+<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  1 куплет:
 .        G#m          E
@@ -45,5 +44,6 @@
    Прикоснись, прикоснись
 .    D     A       E
    Прикоснись к сердцам</lyrics>
-<author>Виталий Ефремочкин</author>
+<hymn_number>150</hymn_number>
+<title>Излей дождь</title>
 </song>

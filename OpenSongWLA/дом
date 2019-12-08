@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Дом</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <author>Hillsong Ukraine</author>
 <lyrics>[V1]
  1 куплет:
@@ -52,4 +51,5 @@
 .  E  F#m      E      A
    Иисус, о, моя Ты ценность.</lyrics>
 <hymn_number>942</hymn_number>
+<title>Дом</title>
 </song>

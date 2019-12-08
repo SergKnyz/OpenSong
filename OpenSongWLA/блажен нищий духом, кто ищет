@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Воздухоплаватели (Владимир Сомов)</author>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Блажен</aka>
+<key>A</key>
+<title>Блажен нищий духом, кто ищет</title>
 <hymn_number>2583</hymn_number>
 <lyrics>[V1]
 .Am             G
@@ -38,7 +40,5 @@
  Всем народам во спасенье,
 .Am              G                 F
  Здесь ты странник -на небесах твой дом!</lyrics>
-<aka>Блажен</aka>
-<key>A</key>
-<title>Блажен нищий духом, кто ищет</title>
+<author>Воздухоплаватели (Владимир Сомов)</author>
 </song>

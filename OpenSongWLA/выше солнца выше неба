@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Выше солнца выше неба</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Зайти по дальше в реку, и утонуть!</aka>
 <key>A</key>
-<hymn_number>1453</hymn_number>
+<hymn_number>701</hymn_number>
+<title>Выше солнца выше неба</title>
+<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  1 куплет:
 .Am                   Hm       C
@@ -64,5 +66,4 @@
    Ждёт всех нас Он на небо, но это потом,
 .  Em                                    |  C D Em Em |
    Нужен каждый из нас, в этом мире пустом__.</lyrics>
-<author>Виталий Ефремочкин</author>
 </song>

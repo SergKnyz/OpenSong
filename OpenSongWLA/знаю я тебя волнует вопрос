@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог есть Он здесь</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Вадим Ятковский</author>
 <lyrics>[V1]
  вступление:
 .Gm Eb B F
@@ -44,7 +44,7 @@
 .Cm
  Он через Слово открывает тебе.</lyrics>
 <hymn_number>22</hymn_number>
-<author>Вадим Ятковский</author>
-<key>Gm</key>
 <title>Знаю я тебя волнует вопрос</title>
+<key>Gm</key>
+<aka>Бог есть Он здесь</aka>
 </song>

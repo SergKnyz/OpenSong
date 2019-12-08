@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4096</hymn_number>
 <title>Он рождён</title>
+<author>Спасение церковь Брест</author>
 <lyrics>[V1]
  1 куплет:
 .Cm           Fm        Bb          Eb
@@ -44,6 +45,5 @@
    Концовка:
    Совершенно точно сегодня знаю я
    В той безмолвной ночью взошла любви заря.</lyrics>
-<hymn_number>4096</hymn_number>
-<author>Спасение церковь Брест</author>
+<key>C</key>
 </song>

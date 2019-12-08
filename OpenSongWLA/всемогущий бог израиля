@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>Только Ты Живой и Праведный.</aka>
+<key>A</key>
+<hymn_number>153</hymn_number>
+<title>Всемогущий Бог Израиля</title>
+<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
 .Am         C
  Всемогущий Бог Израиля,
@@ -16,8 +20,4 @@
  Восседает на престоле,
 .   G             Dm
  В Нём вся радость и свобода!</lyrics>
-<hymn_number>153</hymn_number>
-<author>Виталий Ефремочкин</author>
-<title>Всемогущий Бог Израиля</title>
-<key>A</key>
 </song>

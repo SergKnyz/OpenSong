@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Есть выход!</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<hymn_number>4122</hymn_number>
+<title>Есть выход!</title>
 <author>Владимир Скобочкин</author>
 <lyrics>[V1]
 .Am                F
@@ -37,5 +38,4 @@
 
 [V3]
  Припев.</lyrics>
-<hymn_number>4122</hymn_number>
 </song>

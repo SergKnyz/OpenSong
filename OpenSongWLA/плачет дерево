@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Радость</author>
-<hymn_number>2120</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <lyrics>[V1]
  Вступление: C#m  A  F#m  G# - 2 раза
 
@@ -68,6 +67,7 @@
 [V11]
  Подожди ещё немного,
  Подожди!</lyrics>
-<key>E</key>
+<author>Радость</author>
 <title>плачет дерево</title>
+<hymn_number>2120</hymn_number>
 </song>

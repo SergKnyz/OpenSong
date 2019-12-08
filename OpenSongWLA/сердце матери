@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>918</hymn_number>
 <title>Сердце матери</title>
 <author>Наталья Литвиненко</author>
 <lyrics>[V1]
@@ -50,5 +50,5 @@
  Но спасти желает всех до одного
  Пусть молитвы материнские текут
  О, как ценен перед Богом этот труд</lyrics>
-<hymn_number>918</hymn_number>
+<key>C</key>
 </song>

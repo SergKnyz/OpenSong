@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine, Слово Жизни Music</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>501</hymn_number>
+<title>Стою</title>
+<author>Hillsong Ukraine, Слово Жизни Music</author>
 <lyrics>[V1]
  1 куплет:
 .   G                           C
@@ -34,7 +36,5 @@
    Стою, Тебе Бог склоняю сердце
 .    C      G     D
    Всё во мне Твоё.</lyrics>
-<hymn_number>501</hymn_number>
-<title>Стою</title>
 <key>G</key>
 </song>

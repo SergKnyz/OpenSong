@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Славу Бога нашего. ИИПВ42</title>
-<aka>Видишь славу</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Славу Бога нашего. ИИПВ42</title>
+<hymn_number>42</hymn_number>
 <lyrics>[C1]
 .            C               G
    Видишь славу, видишь славу,
@@ -24,5 +23,6 @@
  Провозгласим: &quot;Бог - есть добро,
 .   Dm   G.        C
  Милосердие Своё Он дарит нам&quot;.</lyrics>
-<hymn_number>42</hymn_number>
+<aka>Видишь славу</aka>
+<key>C</key>
 </song>

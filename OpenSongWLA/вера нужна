@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Вера нужна</title>
-<key>Bb</key>
-<aka>Как к Тебе Боже рвётся душа, в небо мысли уносят меня,</aka>
-<author>Божье прикосновение</author>
+<hymn_number>26</hymn_number>
 <lyrics>[V1]
  1 Куплет:
 .Bbm               D#      G#                C#
@@ -53,5 +51,7 @@
 [V3]
 .        Hm        C#7     F#m
  Так в войдёт Он впусти Его в сердце.</lyrics>
-<hymn_number>26</hymn_number>
+<author>Божье прикосновение</author>
+<aka>Как к Тебе Боже рвётся душа, в небо мысли уносят меня,</aka>
+<key>Bb</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Я весь Твой</title>
-<author>Филипп Реннер</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Филипп Реннер</author>
 <lyrics>[V1]
 .A           Hsus
  О-о-о, я весь Твой
@@ -19,4 +17,6 @@
 .        C#m  Hsus
  Я весь Твой__</lyrics>
 <hymn_number>351</hymn_number>
+<title>Я весь Твой</title>
+<key>A</key>
 </song>

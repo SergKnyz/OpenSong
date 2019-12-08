@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Всё не так хоть рядом есть друзья</aka>
-<hymn_number>1024</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1024</hymn_number>
+<title>Все не так в жизни без Тебя</title>
+<author>Imprintband</author>
 <lyrics>[V1]
  1 куплет:
 . Em     G     D           A
@@ -28,7 +29,6 @@
  Всё не так это лишь слова
  Дал мне шанс использую его
  Жизнь во тьме - это не моё</lyrics>
-<author>Imprintband</author>
+<aka>Всё не так хоть рядом есть друзья</aka>
 <key>E</key>
-<title>Все не так в жизни без Тебя</title>
 </song>

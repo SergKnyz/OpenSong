@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Сравнится кто, с сияньем красоты Его?</title>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .F    C   Bb    C                Bb    F
  Все небеса   славят Христа воскресшего.
@@ -22,7 +20,9 @@
  2 куплет:
  Провозглашу имя Христа воскресшего,
  Как был распят, чтоб примирить людей с Творцом.</lyrics>
-<hymn_number>1996</hymn_number>
 <author>Вера Гетинг</author>
+<title>Сравнится кто, с сияньем красоты Его?</title>
+<hymn_number>1996</hymn_number>
+<key>F</key>
 <aka>Все небеса хвалят Христа</aka>
 </song>

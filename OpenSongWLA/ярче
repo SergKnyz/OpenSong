@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ярче</title>
-<key>A</key>
-<hymn_number>596</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
 <lyrics>[V1]
  1 куплет:
 .         A     E          H      C#m
@@ -58,5 +56,7 @@
    Сердце в Твоих руках во все века
 .   A          E  H
    Ты нужен мне сейчас</lyrics>
-<author>Hillsong Ukraine</author>
+<hymn_number>596</hymn_number>
+<title>Ярче</title>
+<key>A</key>
 </song>

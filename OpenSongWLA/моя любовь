@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
-<hymn_number>1155</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <lyrics>[V1]
  1 куплет:
 .        Gm                              D#
@@ -48,6 +47,7 @@
    За эту любовь
 .  D#             F
    За радость и счастье вновь</lyrics>
-<key>G</key>
+<author>Imprintband</author>
 <title>Моя любовь</title>
+<hymn_number>1155</hymn_number>
 </song>

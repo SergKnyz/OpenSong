@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<title>Любовь Иисуса</title>
-<author>Ладони</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Любовь Иисуса</title>
+<hymn_number>1912</hymn_number>
 <lyrics>[V1]
 .H7                     Em        C        H7
  Почему боитесь, люди, верить в любовь Мою?
@@ -47,5 +46,6 @@
  Лишь на зов Мой поспешите, следуйте за Мной.
  У Меня вы мир найдете и душе покой.
  У Меня вы мир найдете и душе покой.</lyrics>
-<hymn_number>1912</hymn_number>
+<author>Ладони</author>
+<key>B</key>
 </song>

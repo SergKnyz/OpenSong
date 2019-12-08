@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Зову Тебя и верю Ты придёшь</title>
-<key>C</key>
-<author>МСЦ ЕХБ</author>
 <hymn_number>1112</hymn_number>
 <lyrics>[V1]
  Вст
@@ -51,4 +49,6 @@
 
 [V7]
  Припев</lyrics>
+<author>МСЦ ЕХБ</author>
+<key>C</key>
 </song>

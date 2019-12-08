@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>И пусть шумят</title>
-<key>B</key>
-<author>Слово Жизни Music</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
 <lyrics>[V1]
  1 Куплет:
 .Hm       A/C#  D
@@ -40,5 +38,7 @@
    Где Дух Господень - торжествует
 .  Hm              A/C#
    Вера, любовь и надежда</lyrics>
+<author>Слово Жизни Music</author>
+<title>И пусть шумят</title>
 <hymn_number>326</hymn_number>
 </song>

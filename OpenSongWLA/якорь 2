@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Якорь</title>
-<key>C#m</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .        C#m                      E
  Надежду дал словно якорь для души
 .             H                 A
@@ -37,6 +35,8 @@
    Обещания Ты сдержишь
 .  E             E/F#  H
    Вся в Тебе надежда__</lyrics>
-<hymn_number>689</hymn_number>
 <author>Хиллсонг Унитед</author>
+<title>Якорь</title>
+<hymn_number>689</hymn_number>
+<key>C#m</key>
 </song>

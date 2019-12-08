@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Божья Коровка</author>
+<lyrics>[V1]
 .Em                       Am
  Отец, бесчисленны мои враги,
 .H                              Em
@@ -71,7 +72,6 @@
 .Am           H          Em
  Рукою твердой от беды спасает.</lyrics>
 <hymn_number>1108</hymn_number>
-<author>Божья Коровка</author>
 <title>Псалом 3</title>
 <key>E</key>
 </song>

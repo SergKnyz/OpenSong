@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О, Авва Отче</title>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<author>Данияр Баяманов</author>
 <lyrics>[V1]
 . G          C
  Как благ Ты Боже
@@ -38,6 +39,5 @@
  Вчера сегодня
  Во веки Тот же
  Вся слава только для Тебя</lyrics>
-<author>Данияр Баяманов</author>
-<key>G</key>
+<title>О, Авва Отче</title>
 </song>

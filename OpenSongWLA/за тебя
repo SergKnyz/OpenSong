@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<author>Imprintband</author>
+<lyrics>[V1]
  1 куплет:
 . Cm                            Bb                          Gm
  Кровь, святая кровь, на землю капает с креста, как снег невинна и чиста
@@ -27,7 +29,5 @@
  «Дитя мое, Я за тебя отдал на муки Сына Своего
  Он стал как агнец, Он отдал всего Себя, и эта кровь с креста за тебя»</lyrics>
 <hymn_number>221</hymn_number>
-<author>Imprintband</author>
 <title>За тебя</title>
-<key>C</key>
 </song>

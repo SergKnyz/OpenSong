@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>11</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Хиллсонг, Геофф Буллоцк</author>
 <lyrics>[V1]
 .A.    E   F#m          C#m   F#m
  Измени меня, сердце моё обнови,
@@ -34,8 +34,8 @@
  Обнови меня, волю Свою мне яви,
  Наполни каждый день
  Своей силою любви.</lyrics>
-<author>Хиллсонг, Геофф Буллоцк</author>
-<copyright>1992 Уорд, Инц.</copyright>
-<key>A</key>
+<hymn_number>11</hymn_number>
 <title>Измени меня ИИПВ115</title>
+<key>A</key>
+<copyright>1992 Уорд, Инц.</copyright>
 </song>

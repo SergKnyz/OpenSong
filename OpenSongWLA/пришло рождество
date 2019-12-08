@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Влад Фонки</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Пришло Рождество</title>
+<hymn_number>1064</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .   H
@@ -46,7 +47,6 @@
    Нам рожден Спаситель в ночь на Рождество.
    Святый святый святый, Бог с небес пришёл.
    Нам рожден Спаситель в ночь на Рождество.</lyrics>
-<hymn_number>1064</hymn_number>
-<title>Пришло Рождество</title>
+<author>Влад Фонки</author>
 <key>B</key>
 </song>

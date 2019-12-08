@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я нарисую</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <author>Imprintband</author>
 <lyrics>[V1]
  1 Куплет:
@@ -41,4 +40,5 @@
  Я на рисую, а люди, те, кто за стеной
  Пусть станут хоть на миг добрее.</lyrics>
 <hymn_number>29</hymn_number>
+<title>Я нарисую</title>
 </song>

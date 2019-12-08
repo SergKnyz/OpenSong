@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Во Имя Господа любви хочу подняться от земли,</title>
-<aka>Во Христе</aka>
-<hymn_number>3406</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вступление:
 .A F#m C#m H A F#m E H
  1 куплет:
@@ -35,4 +31,8 @@
    Во Имя Господа веков придет свобода от оков,
    И мы поднимемся над бездной, и мы себя откроем вновь.</lyrics>
 <author>Краеугольный камень</author>
+<title>Во Имя Господа любви хочу подняться от земли,</title>
+<hymn_number>3406</hymn_number>
+<key>A</key>
+<aka>Во Христе</aka>
 </song>

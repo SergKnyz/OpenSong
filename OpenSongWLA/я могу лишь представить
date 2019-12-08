@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев, Барт Миллард, МерцыМе</author>
-<hymn_number>36</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<copyright>2001 Симплевилле Мусиц</copyright>
+<author>Алексей Каратаев, Барт Миллард, МерцыМе</author>
 <lyrics>[V1]
  1 куплет:
 .                  E
@@ -42,7 +43,6 @@
    Это вечно прославлять Тебя
 .  A H               E
    Я могу лишь представить</lyrics>
+<hymn_number>36</hymn_number>
 <title>Я могу лишь представить</title>
-<key>E</key>
-<copyright>2001 Симплевилле Мусиц</copyright>
 </song>

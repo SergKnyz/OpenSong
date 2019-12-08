@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>И для всего назначено время.</title>
-<key>G</key>
-<aka>В жизни земной всё приходит к концу,</aka>
-<hymn_number>800</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .            Bb  C                 Dm
  В жизни земной всё приходит к концу,
@@ -53,4 +49,8 @@
 .       Am  H           Em
  Ныне оставь роковую беспечность.</lyrics>
 <author>Русавуки</author>
+<title>И для всего назначено время.</title>
+<hymn_number>800</hymn_number>
+<key>G</key>
+<aka>В жизни земной всё приходит к концу,</aka>
 </song>

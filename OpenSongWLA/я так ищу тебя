@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
-<title>Я так ищу Тебя</title>
-<key>Em</key>
-<tempo>68</tempo>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
+<aka>Открываю окна</aka>
 <author>Вадим Ятковский</author>
-<hymn_number>2755</hymn_number>
+<time_sig>4/4</time_sig>
 <lyrics>[V1]
  вступление:
 .Em9 Em/D Cmaj7
@@ -40,5 +38,7 @@
  Я хочу услышать, я хочу исполнить,
 . Cmaj7
  Мой Господь, лишь слово Твоё.</lyrics>
-<aka>Открываю окна</aka>
+<tempo>68</tempo>
+<hymn_number>2755</hymn_number>
+<title>Я так ищу Тебя</title>
 </song>

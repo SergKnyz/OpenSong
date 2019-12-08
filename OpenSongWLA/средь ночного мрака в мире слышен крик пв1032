@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1032</hymn_number>
 <title>Средь ночного мрака в мире слышен крик ПВ1032</title>
-<hymn_number>1032</hymn_number>
 <lyrics>[V1]
  Средь ночного мрака в мире слышен крик:
  Дайте свет!
@@ -32,4 +31,5 @@
  Дайте свет!
  Среди мрака Он светить нам приказал.
  Дайте свет!</lyrics>
+<key>A</key>
 </song>

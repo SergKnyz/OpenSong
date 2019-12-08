@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<author>Авен Езер</author>
+<lyrics>[V1]
  1 куплет:
 .  Fm                          C#
  Устал ты по жизни шагать и много успел повидать,
@@ -42,7 +44,5 @@
  Смог, встречая Христа смотреть ты в глаза
  И быть с Ним на ты там где детям земли звёзды вручат венцы</lyrics>
 <hymn_number>714</hymn_number>
-<author>Авен Езер</author>
 <title>Устал ты по жизни шагать</title>
-<key>F</key>
 </song>

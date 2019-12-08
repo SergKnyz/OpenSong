@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .D/F# E/G#    F#m         A
  Иисус, я утопаю, в этом море забвения,
@@ -47,7 +46,8 @@
    Открою сердце для Тебя такой как есть.
 .            F#m    E
    Я такой как есть.</lyrics>
+<author>Алексей Каратаев</author>
+<title>Запад-Восток</title>
 <hymn_number>54</hymn_number>
 <key>D</key>
-<title>Запад-Восток</title>
 </song>

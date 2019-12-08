@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1723</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<aka>Вы, как мгновения, быстро летите;</aka>
 <lyrics>[V1]
  Годы земные, вас мало осталось,
  Вы, как мгновения, быстро летите;
@@ -17,5 +18,5 @@
  Тихое море и бурное море -
  Так нашей жизни бегущие годы.</lyrics>
 <title>Годы земные вас мало осталось ПВ1723</title>
-<key>G</key>
+<hymn_number>1723</hymn_number>
 </song>

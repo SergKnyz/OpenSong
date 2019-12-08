@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><song><tempo>62</tempo>
-<author>Неизвестный</author>
 <hymn_number>1602</hymn_number>
+<title>Ты Царь народов, Всемогущий Бог.</title>
+<author>Неизвестный</author>
+<time_sig>2/4</time_sig>
 <lyrics>[V1]
 .Dm       Bb        C         Dm
  Велики и чудны Твои дела, Господь!
@@ -21,7 +23,5 @@
 .Bb       C        Dm
  Все поклонятся Тебе.</lyrics>
 <aka>Велики и чудны Твои дела Господь, Ты  один только Свят</aka>
-<title>Ты Царь народов, Всемогущий Бог.</title>
-<time_sig>2/4</time_sig>
 <key>Bb</key>
 </song>

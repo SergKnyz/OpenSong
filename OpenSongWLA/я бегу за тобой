@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Денис Никитин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я бегу за Тобой</title>
+<hymn_number>2753</hymn_number>
 <lyrics>[V1]
 .G                             D
  Когда я рядом с Тобой, я не боюсь ничего.
@@ -35,7 +36,6 @@
 
 [V8]
  Хочу бежать лишь за Тобой.</lyrics>
-<hymn_number>2753</hymn_number>
-<title>Я бегу за Тобой</title>
+<author>Денис Никитин</author>
 <key>G</key>
 </song>

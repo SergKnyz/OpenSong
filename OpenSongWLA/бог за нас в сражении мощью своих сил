@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Бог за нас в сражении мощью Своих сил</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бог за нас в сражении мощью Своих сил</title>
 <hymn_number>3164</hymn_number>
 <lyrics>[V1]
  Вступление:
@@ -51,4 +50,5 @@
    Мы будем восклицать, восклицать</lyrics>
 <author>Ц.Благодать, вул.Київська 40, Дарлене Зсцхецх</author>
 <aka>Он есть победитель, да Он победил</aka>
+<key>D</key>
 </song>

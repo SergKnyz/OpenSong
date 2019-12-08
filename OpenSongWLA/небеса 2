@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Небеса</title>
-<author>Божье прикосновение</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Небеса - радость вечная,
  Там ведь зла и горя нет.
  Радость будет там бесконечная,
@@ -24,5 +22,7 @@
  Чтобы ввысь подняться в Небеса,
  Где Отчизна наша вечная,
  Там ведь ждут давно меня.</lyrics>
+<author>Божье прикосновение</author>
+<title>Небеса</title>
 <hymn_number>2183</hymn_number>
 </song>

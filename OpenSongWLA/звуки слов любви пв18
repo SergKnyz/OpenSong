@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Звуки слов любви ПВ18</title>
-<key>G</key>
-<hymn_number>5121</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5121</hymn_number>
+<title>Звуки слов любви ПВ18</title>
 <lyrics>[V1]
  Брат, напомни мне опять
  Звуки слов любви,
@@ -30,4 +29,5 @@
  Песнь любви Христовой
  Будит к жизни новой.</lyrics>
 <aka>Брат напомни мне опять</aka>
+<key>G</key>
 </song>

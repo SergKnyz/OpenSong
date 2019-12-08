@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я верю</title>
-<key>E</key>
-<hymn_number>4217</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4217</hymn_number>
+<title>Я верю</title>
+<author>Анна Поночевная</author>
 <lyrics>[V1]
  Куплет:
 .Em                       Am            Hm
@@ -33,5 +33,5 @@
    Верю я, верю я, я верю в победу Бога.
 .       Am    G/H     C                H7
    Верю я, верю я, я верю в силу Креста.</lyrics>
-<author>Анна Поночевная</author>
+<key>E</key>
 </song>

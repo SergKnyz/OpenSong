@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Милана</author>
-<hymn_number>1435</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1435</hymn_number>
+<title>Эту песню неба ангелы поют</title>
+<author>Милана</author>
 <lyrics>[V1]
 .D#                  Cm
  Эту песню неба, ангелы поют
@@ -11,6 +12,5 @@
  Аллилуйя, Аллилуйя
 .    Fm      D#     Bb
  Аллилуйя. Слава Тебе.</lyrics>
-<title>Эту песню неба ангелы поют</title>
 <key>Bb</key>
 </song>

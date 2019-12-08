@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог велел Ною построить ковчег</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C               F        G
  Бог велел Ною построить ковчег.
 .C                   F       G
@@ -29,6 +28,7 @@
  Но мудрый Ной был Богом спасён
  С животными и со своею семьёй.</lyrics>
 <hymn_number>5641</hymn_number>
-<key>C</key>
 <title>Приготовься плыть, каждый человек,</title>
+<key>C</key>
+<aka>Бог велел Ною построить ковчег</aka>
 </song>

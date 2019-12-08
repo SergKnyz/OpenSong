@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
+<aka>Каждый, не зная пути, смысл жизни искал,</aka>
+<author>NDay</author>
+<lyrics>[V1]
  1 куплет:
 .C#m          A    F#m         H
  Каждый, не зная пути, смысл жизни искал,
@@ -31,8 +34,5 @@
 .C#m       F#m       A       H
  В сердце бьется надежды родник.</lyrics>
 <hymn_number>1271</hymn_number>
-<author>NDay</author>
-<aka>Каждый, не зная пути, смысл жизни искал,</aka>
-<key>C#m</key>
 <title>В нас есть свет</title>
 </song>

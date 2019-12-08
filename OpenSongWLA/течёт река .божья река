@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Течёт река .Божья река!</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Божья река</aka>
 <key>C</key>
-<aka>Божья река</aka>
-<author>Jesus Culture, Йесус Цултуре</author>
+<title>Течёт река .Божья река!</title>
 <hymn_number>2085</hymn_number>
 <lyrics>[V1]
  G.                                  Em
@@ -57,4 +56,5 @@
 
 [V5]
  перевод Туйсузова Е В.</lyrics>
+<author>Jesus Culture, Йесус Цултуре</author>
 </song>

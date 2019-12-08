@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>В окнах</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4037</hymn_number>
+<title>Уставших улиц тусклый город серым стал, пустым.</title>
+<author>Nikita Isakov</author>
 <lyrics>[V1]
  1 куплет:
 . Dm         Dmsus           Dm            Dmsus
@@ -44,8 +46,6 @@
    Поверь и увидишь сам, не нужно искать слова.
 .     F/A            C/E    Dm      Bb
    Вернись к Отцу домой! Он тот же, Он - Бог твой!</lyrics>
-<hymn_number>4037</hymn_number>
-<author>Nikita Isakov</author>
+<aka>В окнах</aka>
 <key>D</key>
-<title>Уставших улиц тусклый город серым стал, пустым.</title>
 </song>

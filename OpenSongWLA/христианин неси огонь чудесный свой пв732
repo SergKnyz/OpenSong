@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<lyrics>[V1]
  Христианин, неси огонь чудесный свой,
  Который дал тебе Христос.
  Он умер на кресте, пожертвовав Собой.
@@ -27,7 +28,6 @@
  Суровый мир гасит огонь,
  Не унывай, ведь любящий Господь с тобой,
  Он сохранит светильник твой.</lyrics>
-<hymn_number>732</hymn_number>
-<key>A</key>
 <title>Христианин неси огонь чудесный свой ПВ732</title>
+<hymn_number>732</hymn_number>
 </song>

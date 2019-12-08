@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2203</hymn_number>
 <title>Вот моя жизнь пред Тобой Бог</title>
-<aka>Вот моя жизнь веди меня</aka>
+<author>Passion, Пассион, Лаурен Даигле</author>
 <lyrics>[V1]
  CAPO +4
 
@@ -59,6 +59,6 @@
    Вот моя жизнь веди меня
    Вот моя жизнь пред Тобой Бог
    Вот моя жизнь веди меня, веди меня, веди меня...</lyrics>
-<hymn_number>2203</hymn_number>
-<author>Passion, Пассион, Лаурен Даигле</author>
+<aka>Вот моя жизнь веди меня</aka>
+<key>E</key>
 </song>

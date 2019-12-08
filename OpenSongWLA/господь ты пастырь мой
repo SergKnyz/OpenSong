@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Я ни в чём, не буду нуждаться</aka>
+<key>Dm</key>
+<hymn_number>6204</hymn_number>
+<title>Господь Ты Пастырь мой</title>
+<author>Новое поколение (Рига), Сергей Данильченко (Серж Дани)</author>
+<lyrics>[V1]
 .Dm            Gm
  Господь, Ты - Пастырь мой.
 .    C                 F      A
@@ -17,9 +22,4 @@
    Где бы, я ни шел, не убоюсь я зла!
 .       A           Asus
    Твой  жезл, и Твой посох - успокоят меня!</lyrics>
-<hymn_number>6204</hymn_number>
-<author>Новое поколение (Рига)</author>
-<aka>Я ни в чём, не буду нуждаться.</aka>
-<title>Господь Ты Пастырь мой</title>
-<key>Dm</key>
 </song>

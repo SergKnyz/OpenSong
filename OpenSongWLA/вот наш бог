@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вот наш Бог</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Кто моря все горстью исчерпал?</aka>
 <key>C</key>
-<aka>Кто моря все горстью исчерпал?</aka>
-<author>Степхен Алтрогге, Рыан Баирд, Мегхан Баирд, Йонатхан Баирд</author>
+<title>Вот наш Бог</title>
+<hymn_number>6349</hymn_number>
 <lyrics>[V1]
 .C               Em
  Кто моря все горстью исчерпал?
@@ -37,5 +37,5 @@
 [B1]
 .     C                   F/C
    // Царствуешь во-веки! (Будь прославлен на земле!) //</lyrics>
-<hymn_number>6349</hymn_number>
+<author>Степхен Алтрогге, Рыан Баирд, Мегхан Баирд, Йонатхан Баирд</author>
 </song>

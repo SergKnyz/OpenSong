@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>И петь имени Твоему, Спаситель</aka>
+<key>E</key>
 <title>Благо есть славить Господа</title>
+<tempo>130</tempo>
+<hymn_number>1991</hymn_number>
 <time_sig>4/4</time_sig>
 <lyrics>[V1]
 . Em              Am
@@ -34,8 +37,5 @@
  Да не постыжусь, что к Тебе взываю,
  На Тебя уповаю я,
  Благослови, Господь, меня.</lyrics>
-<hymn_number>1991</hymn_number>
-<tempo>130</tempo>
 <author>Пісні хвали</author>
-<aka>И петь имени Твоему, Спаситель</aka>
 </song>

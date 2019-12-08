@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Павел Геращенко</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<title>Только в Боге</title>
+<hymn_number>3347</hymn_number>
 <lyrics>[V1]
  САРО 5
  Куплет:
@@ -30,7 +32,5 @@
    Бридж:
 .  C  G          F#
    Бог - наше прибежище</lyrics>
-<hymn_number>3347</hymn_number>
-<title>Только в Боге</title>
-<key>E</key>
+<author>Павел Геращенко</author>
 </song>

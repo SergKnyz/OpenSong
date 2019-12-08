@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>А я живу лишь для Тебя, Ты знаешь</title>
-<key>A</key>
-<aka>Знаешь Твоё имя не забыть уже никогда</aka>
-<author>Дарина Кочанжи</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Дарина Кочанжи</author>
 <lyrics>[V1]
  1 куплет:
 .Am          G         F    Dm      Em
@@ -57,4 +54,7 @@
 .         G/H      C           Gb/Bb   H
    В тот день, когда приду к ногам Твоим</lyrics>
 <hymn_number>185</hymn_number>
+<title>А я живу лишь для Тебя, Ты знаешь</title>
+<key>A</key>
+<aka>Знаешь Твоё имя не забыть уже никогда</aka>
 </song>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус Ты мой Целитель</title>
-<time_sig>4/4</time_sig>
-<key>D</key>
-<aka>Божий Сын Иисус</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>33</hymn_number>
+<tempo>90</tempo>
+<title>Иисус Ты мой Целитель</title>
 <lyrics>[V1]
 . D           A    G             Hm A7
  Божий Сын Иисус спас меня, страдая.
@@ -37,6 +36,7 @@
  Тебе доверяю всегда.
 .     D/F#     Gm7  C7
  Мой Бог, мой Царь, я восклицаю:</lyrics>
-<hymn_number>33</hymn_number>
-<tempo>90</tempo>
+<time_sig>4/4</time_sig>
+<aka>Божий Сын Иисус</aka>
+<key>D</key>
 </song>

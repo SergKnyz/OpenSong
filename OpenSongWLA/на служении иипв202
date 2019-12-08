@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>На служении ИИПВ202</title>
-<key>D</key>
 <hymn_number>202</hymn_number>
 <lyrics>[V1]
 .D.     F#m              G
@@ -28,4 +27,5 @@
    Любовь Твою, наш верный Бог.
 .  Em.        A        D
    Ты верный наш Господь.</lyrics>
+<key>D</key>
 </song>

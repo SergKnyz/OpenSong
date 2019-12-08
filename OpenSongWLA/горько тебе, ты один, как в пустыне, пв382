@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Горько тебе, ты один, как в пустыне, ПВ382</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Cm                         Eb
  Бедный скиталец, вдали на чужбине
 .Bb
@@ -29,5 +27,7 @@
  Силу Он в жизни и смерти дарует,
  Свет вечный манит тебя, о спеши к Нему.</lyrics>
 <hymn_number>382</hymn_number>
+<title>Горько тебе, ты один, как в пустыне, ПВ382</title>
+<key>C</key>
 <aka>Бедный скиталец вдали на чужбине</aka>
 </song>

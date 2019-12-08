@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Агнец Божий</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Жанат Кусаинова</author>
 <key>C#m</key>
-<author>Жанат Кусаинова</author>
-<title>На Кресте, Иисус был, умалён,</title>
 <lyrics>[V1]
 .C#m7  B               E   A
  На Кресте, Иисус был, умалён,
@@ -48,4 +46,6 @@
    // Любовью Своей, меня оправдал!
 .  A  B      E    F#m G#       C#m
    Любовью Своей, мне жизнь даровал! //</lyrics>
+<aka>Агнец Божий</aka>
+<title>На Кресте, Иисус был, умалён,</title>
 </song>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
-<title>И в завершении нашего служения</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>И в завершении нашего служения</title>
+<hymn_number>2227</hymn_number>
 <lyrics>[V1]
 .C#m      F#m  C#m    F#m
  И в завершении нашего служения
@@ -19,6 +19,6 @@
  И общение наше с Духом Святым
 .      C#m      A     C#m
  Да пребудут с нами! Аминь!</lyrics>
-<hymn_number>2227</hymn_number>
 <author>Нарния</author>
+<key>C#m</key>
 </song>

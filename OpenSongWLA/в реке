@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<title>В реке</title>
-<aka>В реке небесной течёт добро</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>В реке</title>
 <hymn_number>3385</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -57,4 +55,6 @@
 .           Bb            Gm            Dm       F/A
    Открой поток, открой поток открой поток во мне</lyrics>
 <author>Supernatural Worship, Йесус Цултуре</author>
+<aka>В реке небесной течёт добро</aka>
+<key>Bb</key>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>445</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
+<aka>Твоей омой кровью душу мою.</aka>
 <lyrics>[V1]
  Господь, мой Спаситель, Тебя я молю,
  Твоей омой кровию душу мою.
@@ -21,5 +22,5 @@
  Я знаю, молитве Спаситель мой внял
  И сделал нечистое снега белей.</lyrics>
 <title>Господь мой Спаситель Тебя я молю ПВ445</title>
-<key>Eb</key>
+<hymn_number>445</hymn_number>
 </song>

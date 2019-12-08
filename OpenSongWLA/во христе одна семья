@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>Оглянись вокруг себя</aka>
+<key>C</key>
 <hymn_number>60</hymn_number>
+<title>Во Христе одна семья</title>
+<author>Валерий Короп</author>
 <lyrics>[V1]
 . C                Am7 h-c-g
  Оглянись вокруг себя__
@@ -33,8 +36,5 @@
  Друг для друга ты и я
 .        G          C
  Во Христе одна семья</lyrics>
-<author>Валерий Короп</author>
-<key>C</key>
 <time_sig>4/4</time_sig>
-<title>Во Христе одна семья</title>
 </song>

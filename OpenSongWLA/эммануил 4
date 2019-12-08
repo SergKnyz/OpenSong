@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Эммануил</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Владимир Скобочкин</author>
 <lyrics>[V1]
 .Em     D        C
  1.Звезда Вифлеема среди прочих светил
@@ -37,5 +36,6 @@
  Звезда Вифлеема - пророческий знак,
  Милость Господня пришла в земной мрак, пришла в земной мрак.</lyrics>
 <hymn_number>2946</hymn_number>
-<author>Владимир Скобочкин</author>
+<title>Эммануил</title>
+<key>E</key>
 </song>

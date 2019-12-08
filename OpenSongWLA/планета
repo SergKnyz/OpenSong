@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Планета</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<hymn_number>24</hymn_number>
+<title>Планета</title>
+<author>Siloam Church</author>
 <lyrics>[V1]
  Куплет:
 .Am         Dm      G
@@ -62,6 +64,4 @@
    Пускай планет всех в небе не станет,
 .  Hm            D
    Я не боюсь, Ты меня ведешь.</lyrics>
-<hymn_number>24</hymn_number>
-<author>Siloam Church</author>
 </song>

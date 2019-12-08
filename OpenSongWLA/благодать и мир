@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Благодать и мир</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>636</hymn_number>
+<title>Благодать и мир</title>
+<author>Вадим Ятковский</author>
 <lyrics>[V1]
  1 куплет:
 .Em  D       Am      C
@@ -35,7 +36,6 @@
  Я быть хочу
  С Тобой на крыльях любви
  К небу я лечу</lyrics>
-<hymn_number>636</hymn_number>
-<author>Вадим Ятковский</author>
 <aka>Ты дал мне слово Своё</aka>
+<key>E</key>
 </song>

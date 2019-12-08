@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Наш Бог велик</title>
-<hymn_number>2545</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Iota worship</author>
 <lyrics>[V1]
  1 куплет:
 .G    D/F# Em   C  D
@@ -29,5 +27,7 @@
  Дай мне любить, до конца пройти.
 .Hm        C
  Я пред Тобой Великий Бог Земли.</lyrics>
-<author>Iota worship</author>
+<hymn_number>2545</hymn_number>
+<title>Наш Бог велик</title>
+<key>G</key>
 </song>

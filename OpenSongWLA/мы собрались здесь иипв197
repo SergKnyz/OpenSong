@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Мы собрались здесь ИИПВ197</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Мы собрались здесь ИИПВ197</title>
+<hymn_number>197</hymn_number>
 <lyrics>[C1]
 .         E                 B7     C#m
    Мы собрались здесь имя славить Твоё,
@@ -19,5 +19,5 @@
    Бог на небе, на земле.
 .       A             B7       E
    Ты - Господь на небе и на земле.</lyrics>
-<hymn_number>197</hymn_number>
+<key>E</key>
 </song>

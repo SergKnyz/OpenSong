@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>Бог ищу Тебя я на коленях моих молюсь.</title>
-<aka>Дай мне в сердце мир, исполнить волю Твою хочу</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бог ищу Тебя я на коленях моих молюсь.</title>
+<hymn_number>422</hymn_number>
 <lyrics>[V1]
 .D#m     C#   F#         G#m           A#m
  Бог, ищу Тебя, я на коленях моих молюсь.
@@ -20,6 +19,7 @@
  Сойди в мою жизнь, обнови
 .   G#m     F#          C#
  Я всё отдаю в руки Твои</lyrics>
-<hymn_number>422</hymn_number>
 <author>Слово Жизни Music</author>
+<aka>Дай мне в сердце мир, исполнить волю Твою хочу</aka>
+<key>F#</key>
 </song>

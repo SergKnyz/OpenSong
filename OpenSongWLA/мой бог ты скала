@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<title>Мой Бог Ты скала</title>
 <author>Слово Жизни Music</author>
-<hymn_number>333</hymn_number>
 <lyrics>[V1]
 .Hm
  Мой Бог силен принести в этот мир пробуждение!
@@ -21,4 +19,6 @@
  Ты дал свободу, танцуем для Тебя!
 .  Hm             D                 G         Em
  В сердце навеки жертва Твоя, мой Бог, Ты скала!</lyrics>
+<hymn_number>333</hymn_number>
+<title>Мой Бог Ты скала</title>
 </song>

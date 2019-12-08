@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Любовь Твоя</title>
-<key>C#m</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>968</hymn_number>
+<title>Любовь Твоя</title>
+<author>Hillsong Ukraine</author>
 <lyrics>[V1]
  1 куплет:
 . C#m  E     H        C#m   E     H
@@ -40,6 +41,5 @@
  Тебя так люблю я, Навечно люблю я.
 .   A               C#m
  Тебя так люблю я, Бог.</lyrics>
-<hymn_number>968</hymn_number>
-<author>Hillsong Ukraine</author>
+<key>C#m</key>
 </song>

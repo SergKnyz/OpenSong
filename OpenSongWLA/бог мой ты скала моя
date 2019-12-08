@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>704</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<hymn_number>704</hymn_number>
+<title>Бог мой Ты скала моя</title>
+<author>Неизвестный</author>
 <lyrics>[V1]
  1 куплет:
 .Am       Dm        Am       F       E
@@ -41,7 +44,4 @@
  Буду петь Тебе вовеки
  Ты, Бог спасенья моего,
  Опора и Избавитель</lyrics>
-<author>Неизвестный</author>
-<title>Бог мой Ты скала моя</title>
-<key>A</key>
 </song>

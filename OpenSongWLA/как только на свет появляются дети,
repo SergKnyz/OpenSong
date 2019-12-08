@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ангел хранитель</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2198</hymn_number>
+<title>Как только на свет появляются дети,</title>
 <lyrics>[V1]
 .F#m
  Как только на свет появляются дети,
@@ -46,7 +47,6 @@
    Ты ко мне с улыбкой подойди поближе.
    Ангел мой, хранитель, за руку держи,
    Всё, о чём спрошу я, ты мне расскажи. //</lyrics>
-<hymn_number>2198</hymn_number>
-<title>Как только на свет появляются дети,</title>
+<aka>Ангел хранитель</aka>
 <key>F#m</key>
 </song>

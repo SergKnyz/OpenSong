@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Благословен ти в городе ПВ2006</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Благословен на поле.</aka>
 <key>G</key>
+<hymn_number>2006</hymn_number>
+<title>Благословен ти в городе ПВ2006</title>
 <lyrics>[V1]
 .G                   D
  Благословен ти в городе,
@@ -31,6 +33,4 @@
  Что благодати полон ты,
  Что Бон с тобой теперь и вечно,
  Что ты богат и нет нужды.</lyrics>
-<hymn_number>2006</hymn_number>
-<aka>Благословен на поле.</aka>
 </song>

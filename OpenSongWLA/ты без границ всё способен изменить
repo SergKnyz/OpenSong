@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2847</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  1 куплет:
 .Em         D              A/C#    C
@@ -42,7 +43,6 @@
        Ты безграничный,
 .  Em  D   C
    Только Ты.</lyrics>
-<author>Виталий Ефремочкин</author>
+<hymn_number>2847</hymn_number>
 <title>Ты без границ всё способен изменить.</title>
-<key>E</key>
 </song>

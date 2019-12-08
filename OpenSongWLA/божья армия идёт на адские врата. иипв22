@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
-<title>Божья армия идёт на адские врата. ИИПВ22</title>
-<aka>Еммануил</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Божья армия идёт на адские врата. ИИПВ22</title>
 <hymn_number>22</hymn_number>
 <lyrics>[V1]
 .Em                  D         Em
@@ -26,4 +24,6 @@
  Еммануил, Еммануил,
 .   C  D       Em
  Еммануил - Господь!</lyrics>
+<aka>Еммануил</aka>
+<key>Em</key>
 </song>

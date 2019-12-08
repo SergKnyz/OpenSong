@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Давайте славить Христа</title>
-<time_sig>4/4</time_sig>
-<key>G</key>
-<tempo>66</tempo>
-<hymn_number>95</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <lyrics>[V1]
 . G                                          G
  Давайте славить Христа, давайте славить Спасителя.
@@ -40,4 +36,8 @@
  Пой ликуй душа, прославляй Христа
 .    Am            Dsus D7
  В Праздник Воскресения!</lyrics>
+<time_sig>4/4</time_sig>
+<title>Давайте славить Христа</title>
+<hymn_number>95</hymn_number>
+<tempo>66</tempo>
 </song>

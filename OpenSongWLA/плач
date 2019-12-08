@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1614</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <lyrics>[V1]
  1 куплет:
 . Dm          Dm/A   Gm         A
@@ -48,5 +48,5 @@
    Плачет о тех, кто сбился с пути да так и не смог дорогу найти.</lyrics>
 <author>Краеугольный камень</author>
 <title>Плач</title>
-<key>D</key>
+<hymn_number>1614</hymn_number>
 </song>

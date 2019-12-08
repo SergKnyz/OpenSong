@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Боже жизнь возьми она</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Вся Тебе посвящена ПВ88</title>
+<hymn_number>88</hymn_number>
 <lyrics>[V1]
  Боже, жизнь возьми: она
  Вся Тебе посвящена.
@@ -40,7 +41,6 @@
  С ней у ног Твоих стою,
  О, возьми всего меня!
  Навсегда, навек Твой я.</lyrics>
-<hymn_number>88</hymn_number>
+<aka>Боже жизнь возьми она</aka>
 <key>Eb</key>
-<title>Вся Тебе посвящена ПВ88</title>
 </song>

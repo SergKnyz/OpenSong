@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Твою любовь буду превозносить.</aka>
-<hymn_number>25</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<aka>Твою любовь буду превозносить.</aka>
 <lyrics>[V1]
 . C              F
  Буду в Тебе я весел и рад,
@@ -11,6 +11,6 @@
  С Тобой пойдём мы вместе.
 . C              G      C
  Буду в Тебе я весел и рад.</lyrics>
-<key>C</key>
+<hymn_number>25</hymn_number>
 <title>Буду в Тебе я весел и рад ИИПВ25</title>
 </song>

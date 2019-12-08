@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Свободу нам дал</title>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Music</author>
 <lyrics>[V1]
  1 Куплет:
 .Bb                   Dm/A
@@ -42,5 +41,6 @@
 .           Bb/C D#
    Будем славить!</lyrics>
 <hymn_number>2863</hymn_number>
-<author>Слово Жизни Music</author>
+<title>Свободу нам дал</title>
+<key>Bb</key>
 </song>

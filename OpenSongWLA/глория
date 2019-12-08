@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Роман Касевич</author>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Над землёю в небесах</aka>
+<key>E</key>
+<hymn_number>1328</hymn_number>
+<title>Глория</title>
+<author>Роман Касевич</author>
 <lyrics>[V1]
  1 куплет:
 . E             H C#m
@@ -33,7 +37,4 @@
  Gloria (Слава!!!)
 .A            H
  In excélsis Deo (Слава Богу вышних!!!)</lyrics>
-<hymn_number>1877</hymn_number>
-<key>E</key>
-<title>Глория</title>
 </song>

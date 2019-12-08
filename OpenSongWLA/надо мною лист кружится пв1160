@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Надо мною лист кружится ПВ1160</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <lyrics>[V1]
  Надо мною лист кружится.
  Пожелтевший, медленно упал.
@@ -35,5 +34,6 @@
  Может, влаги в себе не имел?
  Может быть, иногда сам не видел себя?
  Так зачем же с тобою друзья?</lyrics>
+<title>Надо мною лист кружится ПВ1160</title>
 <hymn_number>1160</hymn_number>
 </song>

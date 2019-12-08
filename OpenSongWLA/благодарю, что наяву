@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Я вижу Божий мир чудесный.</aka>
-<key>G</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .    G          A     D
  Я вижу Божий мир чудесный.
 .    G        A      D D/C# Bm
@@ -37,5 +35,7 @@
  За жизнь, за свет и мирозданье,
  За ночь глухую и эфир,
  За звезд далекое мерцанье.</lyrics>
+<key>G</key>
 <title>Благодарю, что наяву</title>
+<aka>Я вижу Божий мир чудесный.</aka>
 </song>

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
-<hymn_number>93</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>93</hymn_number>
+<title>Иисус спасибо</title>
+<author>Hillsong Ukraine, Хиллсонг Уорсхип</author>
 <lyrics>[V1]
  1 куплет:
 .  F               C     Bb    F
@@ -29,6 +30,5 @@
    Мое сердце навек отдам я Тебе
 .  Dm          F
    Люблю Господь, люблю Тебя</lyrics>
-<title>Иисус спасибо</title>
 <key>F</key>
 </song>

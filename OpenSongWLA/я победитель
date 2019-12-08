@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5254</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
+<title>Я победитель</title>
+<hymn_number>5254</hymn_number>
 <lyrics>[V1]
  Intro: Eb, Fm, Db, Ab
 .Eb         Fm       Db                Ab Eb
@@ -37,6 +39,4 @@
    И я буду славить Его потому что в нем мне спасение
    и возможность быть победителем</lyrics>
 <author>Александр Соколов</author>
-<key>Ab</key>
-<title>Я победитель</title>
 </song>

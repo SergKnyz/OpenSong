@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2897</hymn_number>
 <title>История Рождества</title>
 <author>Марин и Марина Севастиян</author>
-<hymn_number>2897</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .          C                     Am
@@ -38,4 +37,5 @@
    Слава, Слава Аллилуйя
 .    G               A
    Слава рождённому Царю - 4 раза.</lyrics>
+<key>C</key>
 </song>

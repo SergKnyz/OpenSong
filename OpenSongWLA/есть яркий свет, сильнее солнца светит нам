@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .             H             E             H
  Есть яркий свет, сильнее солнца светит нам
@@ -46,8 +45,9 @@
    Бог свобода, победил Он всё.
    Бог нам крепость, Бог - приют,
    Бог наш с нами, победил Он все.</lyrics>
-<hymn_number>315</hymn_number>
-<aka>Воспрянь</aka>
-<key>B</key>
+<author>Hillsong Ukraine</author>
 <title>Есть яркий свет, сильнее солнца светит нам</title>
+<hymn_number>315</hymn_number>
+<key>B</key>
+<aka>Воспрянь</aka>
 </song>

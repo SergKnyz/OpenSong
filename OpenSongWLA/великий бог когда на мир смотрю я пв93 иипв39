@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<aka>На всё, что Ты создал рукой Творца</aka>
+<lyrics>[V1]
 .         A                     D
  Великий Бог, когда на мир смотрю я,
 .             A      E            A
@@ -55,9 +57,7 @@
  И светит луч сияния Его,
  Тогда мой дух в смирении смолкает,
  Признав величье Бога своего.</lyrics>
-<hymn_number>39</hymn_number>
 <author>Царл Густав Боберг</author>
-<key>A</key>
 <title>Великий Бог Когда на мир смотрю я ПВ93 ИИПВ39</title>
-<aka>На всё, что Ты создал рукой Творца</aka>
+<hymn_number>39</hymn_number>
 </song>

@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Жертвой Сына на кресте,</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Жанат Кусаинова</author>
 <key>Gm</key>
-<author>Жанат Кусаинова</author>
-<title>Бог Отец спасибо Тебе</title>
 <lyrics>[V1]
 .Gm                    F
  Ты не желаешь, видеть меня,
@@ -65,4 +63,6 @@
    На мне, Твое благоволение! ///
 .          Cm    Dm       Gm
    Спасибо Тебе, спасибо Тебе!</lyrics>
+<aka>Жертвой Сына на кресте,</aka>
+<title>Бог Отец спасибо Тебе</title>
 </song>

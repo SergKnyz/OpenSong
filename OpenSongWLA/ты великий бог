@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Ты великий Бог</title>
-<author>Alex Terlyukevich</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .G                   D
  Как о проблемах забыть?
@@ -36,5 +33,8 @@
  Когда проблемы нагнетают, в тебе я силу обретаю..
 .                   D                 G
  Взор вверх я поднимаю и в небо улетаю!</lyrics>
+<author>Alex Terlyukevich</author>
+<title>Ты великий Бог</title>
 <hymn_number>2493</hymn_number>
+<key>G</key>
 </song>

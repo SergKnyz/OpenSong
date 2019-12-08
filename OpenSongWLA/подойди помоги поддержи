@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Подойди помоги поддержи</title>
-<key>B</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Hm
  Подойди, помоги, поддержи.
 .      Em
@@ -74,6 +72,8 @@
  Ощутить всю их силу, мощь
 .    Hm              H
  И понять - Ты готов помочь.</lyrics>
-<hymn_number>5270</hymn_number>
 <author>Русавуки</author>
+<title>Подойди помоги поддержи</title>
+<hymn_number>5270</hymn_number>
+<key>B</key>
 </song>

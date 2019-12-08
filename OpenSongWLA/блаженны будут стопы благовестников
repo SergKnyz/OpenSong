@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><tempo>80</tempo>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Несущих мир, несущих мир.</aka>
+<key>C</key>
+<tempo>80</tempo>
 <hymn_number>19</hymn_number>
+<title>Блаженны будут стопы благовестников</title>
+<time_sig>4/4</time_sig>
 <lyrics>[V1]
 .          C      D7        C/G   G Em
  Блаженны будут стопы благовестников
@@ -31,8 +35,4 @@
    Правит Бог! Правит Бог!
 .          D  E        A
    Правит Бог! Правит Бог!</lyrics>
-<aka>Несущих мир, несущих мир.</aka>
-<key>C</key>
-<time_sig>4/4</time_sig>
-<title>Блаженны будут стопы благовестников</title>
 </song>

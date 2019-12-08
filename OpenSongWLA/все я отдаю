@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Все я отдаю</title>
-<key>F</key>
-<author>Й.У. Ван Девентер, У.С. Уееден</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Й.У. Ван Девентер, У.С. Уееден</author>
 <lyrics>[V1]
  1 куплет:
 .F   H       C  A
@@ -35,4 +33,7 @@
  Благодатью и любовью
  Ум и сердце наполняй.</lyrics>
 <hymn_number>2124</hymn_number>
+<title>Все я отдаю</title>
+<key>F</key>
+<aka>Всё Иисусу отдаю я,</aka>
 </song>

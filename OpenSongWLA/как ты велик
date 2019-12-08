@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Как ты велик</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>2843</hymn_number>
+<title>Как ты велик</title>
 <author>Валерий Короп</author>
 <lyrics>[V1]
 .        D                  Hm
@@ -42,5 +43,4 @@
  О Аллилуйя,
 .       Em       A
  Ты достоин - Иисус.</lyrics>
-<hymn_number>2843</hymn_number>
 </song>

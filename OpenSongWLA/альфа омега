@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ты Бог начало и конец</aka>
-<author>4U Band</author>
-<hymn_number>2925</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .F    G   Em         Am
  Альфа Омега Ты Бог начало и конец
 .F          G            Em
@@ -39,6 +36,9 @@
    Не остановиться танцевать для Тебя
 .  F           G               Em      Am
    Дай мне насладиться, излей огонь на меня</lyrics>
-<key>F</key>
+<author>4U Band</author>
 <title>Альфа Омега</title>
+<hymn_number>2925</hymn_number>
+<key>F</key>
+<aka>Ты Бог начало и конец</aka>
 </song>

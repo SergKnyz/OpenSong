@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><tempo>70</tempo>
-<author>Бриан Доерксен</author>
+<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
 <lyrics>[V1]
 .  F     C       Dm
  Сделай сердце мне
@@ -31,9 +30,10 @@
  В пламени сожги
 .            Gm F     C7
  Все мои грехи навсегда.</lyrics>
-<hymn_number>304</hymn_number>
+<author>Бриан Доерксен</author>
 <title>Сделай сердце мне</title>
-<time_sig>4/4</time_sig>
+<tempo>70</tempo>
+<hymn_number>304</hymn_number>
 <key>F</key>
 <copyright>1990 Винеыард Сонгс Цанада</copyright>
 </song>

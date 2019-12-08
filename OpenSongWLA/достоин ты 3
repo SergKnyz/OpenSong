@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Достоин Ты</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>681</hymn_number>
+<title>Достоин Ты</title>
 <author>Галим Хусаинов</author>
 <lyrics>[V1]
  1 куплет:
@@ -38,5 +38,5 @@
    Достоин, достоин
 .    Hm  G   D  A
    Достоин, достоин, Царь мой Иисус</lyrics>
-<hymn_number>681</hymn_number>
+<key>D</key>
 </song>

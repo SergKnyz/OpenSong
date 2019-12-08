@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>Видеть хочу как мою жизнь Ты изменил</title>
-<aka>Вот моя жизнь Бог</aka>
-<author>Supernatural Worship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Видеть хочу как мою жизнь Ты изменил</title>
 <hymn_number>1668</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -32,4 +29,7 @@
  2 куплет:
  Время пришло мы вместе навсегда изменим этот мир
  Огонь оживи в нас и сострадание нам дай</lyrics>
+<author>Supernatural Worship</author>
+<aka>Вот моя жизнь Бог</aka>
+<key>F#</key>
 </song>

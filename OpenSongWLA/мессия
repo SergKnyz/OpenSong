@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<title>Мессия</title>
-<author>R-Voice</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет 1
 .Hm                      A
  Узок путь и не многим найти его
@@ -36,5 +33,8 @@
 
 [V4]
  Припев</lyrics>
+<author>R-Voice</author>
+<title>Мессия</title>
 <hymn_number>491</hymn_number>
+<key>B</key>
 </song>

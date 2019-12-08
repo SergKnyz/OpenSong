@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>И научила всех людей любить, ПВ827</title>
-<aka>Библия много света нам открыла</aka>
-<hymn_number>827</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .G            D           G
  Библия много света нам открыла
 .C          G          D
@@ -33,4 +29,8 @@
  Грех побеждайте, двигайтесь вперед!
  И своих близких к небу направляйте,
  Бог за труды награду вам пошлет.</lyrics>
+<title>И научила всех людей любить, ПВ827</title>
+<hymn_number>827</hymn_number>
+<key>G</key>
+<aka>Библия много света нам открыла</aka>
 </song>

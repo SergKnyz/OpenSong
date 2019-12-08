@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1665</hymn_number>
 <title>Мой Искупитель</title>
+<author>Ольга Марина</author>
 <lyrics>[V1]
  1 куплет:
 .Em         G
@@ -35,6 +36,5 @@
  Моя хвала пусть стремится к Нему.
  Не умолкаю, небеса
  Мой голос будет славить всегда!</lyrics>
-<hymn_number>1665</hymn_number>
-<author>Ольга Марина</author>
+<key>E</key>
 </song>

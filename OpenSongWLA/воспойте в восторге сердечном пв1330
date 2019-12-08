@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1330</hymn_number>
 <title>Воспойте в восторге сердечном ПВ1330</title>
-<aka>Спасителя - Господа сил!</aka>
 <lyrics>[V1]
  Воспойте в восторге сердечном
  Спасителя - Господа сил!
@@ -18,5 +17,6 @@
  И с радостью верьте в Него!
  В восторге духовном воспойте
  Иисуса Христа своего!</lyrics>
-<hymn_number>1330</hymn_number>
+<aka>Спасителя - Господа сил!</aka>
+<key>F</key>
 </song>

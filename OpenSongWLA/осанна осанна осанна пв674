@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Осанна Осанна Осанна ПВ674</title>
-<key>C</key>
-<hymn_number>674</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Осанна, Осанна, Осанна!
  О люди, дружно воспоем
  Спасителя Христа!
@@ -34,4 +31,7 @@
  Пусть все поют уста.
  Да изливается в сердцах
  Осанна для Христа.</lyrics>
+<hymn_number>674</hymn_number>
+<title>Осанна Осанна Осанна ПВ674</title>
+<key>C</key>
 </song>

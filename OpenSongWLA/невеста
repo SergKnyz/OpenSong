@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Невеста</title>
-<author>Авана</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Авана</author>
 <lyrics>[V1]
  1 куплет:
 .G----------------------Em
@@ -47,4 +45,6 @@
  Пролетят года, только в вашем сердце навсегда
  Будет жить она, будет жить любовь, Богом данная!</lyrics>
 <hymn_number>107</hymn_number>
+<title>Невеста</title>
+<key>G</key>
 </song>

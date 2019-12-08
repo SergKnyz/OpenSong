@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Знаешь Твоё имя не забыть уже никогда</title>
-<key>A</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Am          G         F    Dm      Em
  Знаешь Твоё имя не забыть уже никогда
@@ -54,7 +52,9 @@
    И верю я, что Ты меня узнаешь
 .         G/H      C           Gb/Bb   H
    В тот день, когда приду к ногам Твоим</lyrics>
-<hymn_number>185</hymn_number>
 <author>Дарина Кочанжи</author>
+<title>Знаешь Твоё имя не забыть уже никогда</title>
+<hymn_number>185</hymn_number>
+<key>A</key>
 <aka>А я живу лишь для Тебя, Ты знаешь</aka>
 </song>

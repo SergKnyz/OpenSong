@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>8</hymn_number>
 <title>Семья</title>
 <author>Авана</author>
-<hymn_number>8</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .    C                    G              Am
@@ -39,4 +38,5 @@
  Свет любви и счастья материнской ласки, добрый взгляд отца.
  Никогда, ничем мы не оплатим,за любовь родителей своих.
  Пусть вам Бог воздаст, и Сам благословит.</lyrics>
+<key>C</key>
 </song>

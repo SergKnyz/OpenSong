@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2806</hymn_number>
 <title>Живу не я</title>
 <author>Matt Redman, Матт Редман</author>
-<hymn_number>2806</hymn_number>
 <lyrics>[V1]
  Куплет 1:
 .       E
@@ -50,4 +49,5 @@
 
 [V4]
  Куплет 1:</lyrics>
+<key>E</key>
 </song>

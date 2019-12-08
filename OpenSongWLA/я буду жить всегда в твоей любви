@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2009</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<hymn_number>2009</hymn_number>
+<title>Я буду жить всегда в Твоей любви</title>
+<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  1 куплет:
 .Em      D     C/G
@@ -30,7 +33,4 @@
  За спасение мое
  За прекрасные дела
  Буду славить Господа.</lyrics>
-<author>Виталий Ефремочкин</author>
-<title>Я буду жить всегда в Твоей любви</title>
-<key>E</key>
 </song>

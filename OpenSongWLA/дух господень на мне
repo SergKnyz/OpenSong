@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Дух Господень на мне</title>
-<time_sig>2/4</time_sig>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>В веянии тихого ветра</aka>
 <key>Dm</key>
+<hymn_number>38</hymn_number>
+<title>Дух Господень на мне</title>
 <lyrics>[V1]
 .   Dm            B
  В веянии тихого ветра
@@ -30,6 +31,5 @@
  В веянии тихого ветра
 .  A7
  Приди, господствуй во мне.</lyrics>
-<hymn_number>38</hymn_number>
-<aka>В веянии тихого ветра</aka>
+<time_sig>2/4</time_sig>
 </song>

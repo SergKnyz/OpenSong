@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Столп огня</title>
-<key>C#m</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .      C#m         A
  Надо мной, над тобой
@@ -43,6 +41,8 @@
  Истина и жизнь от Бога.
  Те, Кто пропадал в пустыне
  Прославляют Его Имя.</lyrics>
-<hymn_number>271</hymn_number>
 <author>Краеугольный камень</author>
+<title>Столп огня</title>
+<hymn_number>271</hymn_number>
+<key>C#m</key>
 </song>

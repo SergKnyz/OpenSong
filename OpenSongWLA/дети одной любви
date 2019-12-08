@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Дети одной любви</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1316</hymn_number>
+<title>Дети одной любви</title>
 <author>Новый Иерусалим</author>
-<hymn_number>1316</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .  Gm            Bb         Cm7      D7
@@ -67,4 +66,5 @@
    Жёлтые и красные, слабые и сильные.
 .      Cm7                   D7
    Мы все такие разные, но всё равно красивые.</lyrics>
+<key>G</key>
 </song>

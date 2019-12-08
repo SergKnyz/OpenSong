@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<aka>Тебе больно, ты сломлен внутри,</aka>
+<author>Елеватион Уорсхип</author>
+<lyrics>[V1]
 .B      E                 B
  Тебе больно, ты сломлен внутри,
 .       E            Abm
@@ -51,8 +54,5 @@
 .              B
    Наш Христос живой.</lyrics>
 <hymn_number>1727</hymn_number>
-<author>Елеватион Уорсхип</author>
-<aka>Тебе больно, ты сломлен внутри,</aka>
 <title>Алтарь вот</title>
-<key>C</key>
 </song>

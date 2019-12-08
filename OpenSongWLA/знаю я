@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Знаю я</title>
-<key>G#m</key>
-<author>Nikita Isakov</author>
+<hymn_number>4032</hymn_number>
 <lyrics>[V1]
  1 КУПЛЕТ:
 .G#m           A             C#m       E  H
@@ -44,5 +43,6 @@
  Развивая простой сюжет, готовимся к финалу.
  Можешь выбрать жизнь, а можешь быть как все.
  Только помни - счастье во Христе.</lyrics>
-<hymn_number>4032</hymn_number>
+<author>Nikita Isakov</author>
+<key>G#m</key>
 </song>

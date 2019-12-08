@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Умер Ты на кресте за нас. ИИПВ1</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <aka>Агнец Божий</aka>
-<hymn_number>1</hymn_number>
 <lyrics>[V1]
 . A     F#m    Bm7    E
  Агнец Божий, Иисус Христос,
@@ -25,4 +23,6 @@
    Господь любимый наш.
 .      Bm7             E          D  A
    Дорогой Христос, хвала Тебе, хвала.</lyrics>
+<hymn_number>1</hymn_number>
+<title>Умер Ты на кресте за нас. ИИПВ1</title>
 </song>

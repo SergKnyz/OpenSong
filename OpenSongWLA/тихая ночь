@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Тихая ночь</title>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>438</hymn_number>
+<title>Тихая ночь</title>
 <author>Бэлла Березина</author>
 <lyrics>[V1]
  1 куплет:
@@ -47,5 +47,5 @@
  Лишь не спит там святая чета:
  Чудный Младенец рождён,
  Чудный Младенец рождён.</lyrics>
-<hymn_number>438</hymn_number>
+<key>Bb</key>
 </song>

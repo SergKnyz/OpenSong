@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>О Царь славы</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>47</hymn_number>
+<title>О Царь славы</title>
 <author>Размер неба, Йесус Цултуре</author>
-<hymn_number>47</hymn_number>
 <lyrics>[V1]
  1 Куплет:
 .  Dm                    Bb
@@ -26,4 +25,5 @@
  Иисус, Ты сильный Бог, Иисус, Ты сильный Бог.
  И звезды держишь Ты в руках
  Иисус, Ты сильный Бог, Иисус, Ты сильный Бог.</lyrics>
+<key>D</key>
 </song>

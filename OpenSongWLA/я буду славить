@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я буду славить</title>
-<key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<hymn_number>1971</hymn_number>
+<title>Я буду славить</title>
 <author>Reallife band</author>
 <lyrics>[V1]
  1 куплет:
@@ -38,5 +39,4 @@
    Лишь Твоё имя превозносить
 .         C#                       C
    Все что есть у меня дала мне рука Твоя</lyrics>
-<hymn_number>1971</hymn_number>
 </song>

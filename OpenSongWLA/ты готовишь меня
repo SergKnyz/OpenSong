@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Павел Плахотин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<title>Ты готовишь меня</title>
+<hymn_number>1991</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .G          C         D
@@ -34,7 +36,5 @@
  Зима прошла, дождь бьёт по крыше,
  Ты за дверями стоишь, я знаю,
  Тебя, Жених мой, благословляю!</lyrics>
-<hymn_number>1991</hymn_number>
-<key>G</key>
-<title>Ты готовишь меня</title>
+<author>Павел Плахотин</author>
 </song>

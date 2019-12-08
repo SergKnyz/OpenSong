@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Дарина Кочанжи</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Сохрани</title>
+<hymn_number>161</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Hm        A          G               F#
@@ -27,7 +29,5 @@
  Нас манили места окрестные и любовь взаймы.
  Лица встречные безсердечные звали нас к борьбе,
  Мы считали себя не вечными вопреки себе.</lyrics>
-<hymn_number>161</hymn_number>
-<key>C</key>
-<title>Сохрани</title>
+<author>Дарина Кочанжи</author>
 </song>

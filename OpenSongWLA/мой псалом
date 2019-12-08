@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Мой псалом</title>
+<hymn_number>603</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .            D     Hm           E  A/C#
  Это мой псалом, Тебе мой Бог пою,
@@ -30,8 +33,5 @@
    Тебе моё сердце поёт всегда,
 .  E    F#m     D
    Лишь Ты моя ценность</lyrics>
-<hymn_number>603</hymn_number>
 <author>Hillsong Ukraine</author>
-<title>Мой псалом</title>
-<key>D</key>
 </song>

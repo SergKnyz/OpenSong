@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>И всё живое славят Господа. ИИПВ54</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <aka>Все народы, все творенья</aka>
-<hymn_number>54</hymn_number>
 <lyrics>[V1]
 . E.         B./D#
  Все народы, все творенья
@@ -31,4 +29,6 @@
  Признают все, что Ты -
 .               A
  Господь над всем!</lyrics>
+<title>И всё живое славят Господа. ИИПВ54</title>
+<hymn_number>54</hymn_number>
 </song>

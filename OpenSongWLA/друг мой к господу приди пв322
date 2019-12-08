@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Друг мой к Господу приди ПВ322</title>
-<key>A</key>
 <hymn_number>322</hymn_number>
 <lyrics>[V1]
  Друг мой, к Господу приди
@@ -30,4 +29,5 @@
  Сбрось греховный гнет;
  Он открыл спасенья дверь
  И к Себе зовет.</lyrics>
+<key>A</key>
 </song>

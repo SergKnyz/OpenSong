@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Не просто петь слова</title>
-<key>G#m</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G#m</key>
+<hymn_number>449</hymn_number>
+<title>Не просто петь слова</title>
+<author>Слово Жизни Music</author>
 <lyrics>[V1]
 .G#m      H       G#m H
  Дай мне сердце Твоё
@@ -13,6 +15,4 @@
  Не просто говорить, не просто петь слова
 .                    C#         E
  Не просто ждать, я жажду сердцем!</lyrics>
-<hymn_number>449</hymn_number>
-<author>Слово Жизни Music</author>
 </song>

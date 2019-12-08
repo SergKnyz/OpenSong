@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bm</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2200</hymn_number>
 <title>Благодарю за новый день нам данный свыше</title>
-<aka>За светлый луч, пронзивший тьму вокруг</aka>
 <lyrics>[V1]
 .Bm                  F#             Bm
  Благодарю за новый день нам данный свыше
@@ -38,5 +37,6 @@
  Невидимую нить не разорвать
  Обогащает и питает , жизни хлебом
  Чтобы Ему, могли мы доверять.</lyrics>
-<hymn_number>2200</hymn_number>
+<aka>За светлый луч, пронзивший тьму вокруг</aka>
+<key>Bm</key>
 </song>

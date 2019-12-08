@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Ты - Бог мой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты - Бог мой</title>
 <lyrics>[V1]
 .Am        F           G
  Я склоняюсь пред Тобой
@@ -23,4 +22,5 @@
 [B1]
 .       Am                 F  G
    Ты Царь мой, Бог мой, Иисус</lyrics>
+<key>C</key>
 </song>

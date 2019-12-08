@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<author>Молтаев Шербек</author>
-<title>И вот я во Христе, я новое творенье</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . G           B       Em C D
  Бог отдал Иисуса за меня
 . G           B           Em C D
@@ -31,5 +28,8 @@
 . G               B      C...
  Бога я люблю и всех людей
  Code: G D C D G - G D C D G; G D C D B...C...D..G.</lyrics>
+<author>Молтаев Шербек</author>
+<key>G</key>
+<title>И вот я во Христе, я новое творенье</title>
 <aka>Бог отдал Иисуса за меня</aka>
 </song>

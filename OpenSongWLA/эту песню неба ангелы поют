@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Вифания</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1368</hymn_number>
+<title>Эту песню неба ангелы поют</title>
+<author>Вифания</author>
 <lyrics>[V1]
 .D                   Hm
  Эту песню неба ангелы поют:
@@ -18,7 +20,5 @@
  Аллилуйя! Аллилуйя!
 .    Em      G      A
  Аллилуйя! Слава Тебе!</lyrics>
-<hymn_number>1368</hymn_number>
-<title>Эту песню неба ангелы поют</title>
 <key>D</key>
 </song>

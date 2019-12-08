@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
-<title>Имя Твоё</title>
-<author>SokolovBrothers</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Имя Твоё</title>
+<hymn_number>365</hymn_number>
 <lyrics>[V1]
  1 куплет:
  Я подниму свои глаза чтобы смотреть лишь на Тебя
@@ -19,5 +18,6 @@
  Как хорошо мне рядом с Тобой Боже Славный
  Ты для меня воды глоток дал мне познать вкус неба
  Рядом с Тобой я не одинок где бы не был</lyrics>
-<hymn_number>365</hymn_number>
+<author>SokolovBrothers</author>
+<key>Eb</key>
 </song>

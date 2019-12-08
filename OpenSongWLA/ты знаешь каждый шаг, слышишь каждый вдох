@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Ты знаешь каждый шаг, слышишь каждый вдох</title>
-<author>JG Youth Worship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>JG Youth Worship</author>
 <lyrics>[V1]
  Tempo - 90 bpm, 4/4
 
@@ -58,5 +56,7 @@
 .  Em                      G
    Я воскресну в Тебе, Бог, оживу в Твоей славе.</lyrics>
 <hymn_number>3540</hymn_number>
+<title>Ты знаешь каждый шаг, слышишь каждый вдох</title>
+<key>C</key>
 <aka>Вечно прославлять</aka>
 </song>

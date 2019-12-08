@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Краеугольный камень</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Научи меня любить</title>
+<hymn_number>3445</hymn_number>
 <lyrics>[V1]
  Вступление:
 
@@ -31,7 +33,5 @@
  Взгляд не отрывать от неба и на голос Твой идти.
  Научи меня победе, дерзновению в бою,
  Оступившись-подниматься, и поднявшись быть в строю.</lyrics>
-<hymn_number>3445</hymn_number>
-<key>A</key>
-<title>Научи меня любить</title>
+<author>Краеугольный камень</author>
 </song>

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<aka>Моя душа рвется ввысь в небеса</aka>
+<author>Евгений Туйсузов</author>
 <lyrics>[V1]
 .G
  Моя душа рвется ввысь в небеса
@@ -36,6 +37,5 @@
 .Am  F  D
  Громко каждый день пою я Аллилуйя</lyrics>
 <hymn_number>2179</hymn_number>
-<author>Евгений Туйсузов</author>
-<aka>Моя душа рвется ввысь в небеса</aka>
+<title>Аллилуйя</title>
 </song>

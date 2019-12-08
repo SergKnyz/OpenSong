@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>46</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Dm</key>
+<aka>Водишь к лугам Ты</aka>
 <lyrics>[C1]
 .  Dm.         Gm       C
    Водишь к лугам Ты зелёным,
@@ -16,7 +17,6 @@
    Ведь Ты мой Пастырь, Ты, мой Иисус,
 .           Dm
    Ты - мой Господь.</lyrics>
-<aka>Водишь к лугам Ты</aka>
 <title>Не убоюсь зла с Тобою ИИПВ46</title>
-<key>Dm</key>
+<hymn_number>46</hymn_number>
 </song>

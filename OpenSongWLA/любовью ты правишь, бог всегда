@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бесконечный когда века летят</aka>
-<key>G</key>
-<title>Любовью ты правишь, Бог всегда</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Любовью ты правишь, Бог всегда</title>
+<aka>Бесконечный когда века летят</aka>
 <lyrics>[V1]
 . Em                          C G Hm
  Бесконечный, когда века летят
@@ -34,5 +33,6 @@
    ведь Ты, наш Бог
 .          Am         Em C
    Господствуешь вовек</lyrics>
+<key>G</key>
 <author>Хиллсонг</author>
 </song>

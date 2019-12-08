@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Во гробе Он лежал ПВ628</title>
-<key>C</key>
-<hymn_number>628</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Во гробе Он лежал,
  Иисус Спаситель,
  Дня славы ожидал, -
@@ -26,5 +23,8 @@
  Иисус Спаситель!
  Плен расторгается, -
  Иисус Господь!</lyrics>
+<hymn_number>628</hymn_number>
+<title>Во гробе Он лежал ПВ628</title>
+<key>C</key>
 <aka>Иисус Спаситель,</aka>
 </song>

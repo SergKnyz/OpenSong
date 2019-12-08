@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>В пустыню Иоанна ПВ1376</title>
-<aka>На берег Иордана,</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  В пустыню Иоанна
  На берег Иордана,
  Спаситель, Ты явился
@@ -43,4 +40,7 @@
  Перед Тобой смириться
  И в смерть Твою креститься.</lyrics>
 <hymn_number>1376</hymn_number>
+<title>В пустыню Иоанна ПВ1376</title>
+<key>A</key>
+<aka>На берег Иордана,</aka>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Евгений Гудухин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<title>Цена</title>
+<hymn_number>5011</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Fm
@@ -39,7 +41,5 @@
  За то, что дал душе моей спасенье.
  Ты из глубокой ямы вытащил меня.
  В Твоей Крови - моё прощение.</lyrics>
-<hymn_number>5011</hymn_number>
-<title>Цена</title>
-<key>F</key>
+<author>Евгений Гудухин</author>
 </song>

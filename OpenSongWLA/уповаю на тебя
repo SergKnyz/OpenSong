@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>735</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Марина</author>
 <lyrics>[V1]
  1 куплет:
 .F                       C
@@ -32,7 +32,7 @@
    Мост:
 .      Bb   Dm Am   Bb Dm   Am     Bb
    Верю я, верю я, верю я - Ты мой путь</lyrics>
-<author>Ольга Марина</author>
-<key>F</key>
+<hymn_number>735</hymn_number>
 <title>Уповаю на Тебя</title>
+<key>F</key>
 </song>

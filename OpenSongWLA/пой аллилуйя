@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Пой Аллилуйя</title>
-<key>D</key>
-<hymn_number>608</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>608</hymn_number>
+<title>Пой Аллилуйя</title>
+<author>Новое Поколение церковь г. Рига</author>
 <lyrics>[V1]
  1 куплет:
 .    D          G     G7         D7
@@ -29,5 +29,5 @@
  Одно, Господь, желанье на сердце у меня -
  Пусть все, кто ищут, все, кто жаждет вновь найдут Тебя,
  Я знаю, что нужно сделать, чтоб увидеть чудеса -</lyrics>
-<author>Новое Поколение церковь г. Рига</author>
+<key>D</key>
 </song>

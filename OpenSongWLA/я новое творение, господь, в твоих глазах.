@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Я новое творение, Господь, в Твоих глазах.</title>
-<aka>Всё прошлое как сон ушло, забыто навсегда.</aka>
-<author>Илона</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Илона</author>
 <lyrics>[V1]
  1. Куплет:
 .F Bb F C
@@ -34,4 +31,7 @@
    Расторгнута она,
    Свобода мне дана.</lyrics>
 <hymn_number>2953</hymn_number>
+<title>Я новое творение, Господь, в Твоих глазах.</title>
+<key>F</key>
+<aka>Всё прошлое как сон ушло, забыто навсегда.</aka>
 </song>

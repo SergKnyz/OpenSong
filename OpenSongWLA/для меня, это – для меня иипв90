@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Dm</key>
-<title>Для меня, это – для меня ИИПВ90</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Для меня, это – для меня ИИПВ90</title>
+<hymn_number>90</hymn_number>
 <lyrics>[V1]
 . Dm      A7      Dm
  Для меня, это - для меня,
@@ -17,5 +17,5 @@
    Теперь всё изменилось -
 .         Bb Gm             A7
    Каждый день лучше, чем вчера.</lyrics>
-<hymn_number>90</hymn_number>
+<key>Dm</key>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Белее снега</title>
-<key>B</key>
-<aka>Несётся песнь, всю суету глуша,</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Abm                F#     E
  Несётся песнь, всю суету глуша,
 .        B      Eb        Abm
@@ -27,4 +24,7 @@
  Законы притяжения слабы,
  Когда Господь любовью наполняет.</lyrics>
 <hymn_number>1598</hymn_number>
+<title>Белее снега</title>
+<key>B</key>
+<aka>Несётся песнь, всю суету глуша,</aka>
 </song>

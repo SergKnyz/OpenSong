@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Лампада</title>
-<hymn_number>4781</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вот дверь предо мною в чертог твой открылась,
  Её мне открыла десница Твоя.
  Но в рубище ветхом едва ль я прикрыта,
@@ -47,4 +45,6 @@
    И ярко зажжется светильник златой.
    О, Господи Боже, Твое я созданье,
    Мне ада страшнее разлука с Тобой!</lyrics>
+<title>Лампада</title>
+<hymn_number>4781</hymn_number>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Сон</title>
-<key>Eb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
 <author>Imprintband</author>
 <lyrics>[V1]
  1 куплет:
@@ -50,4 +49,5 @@
 .         Gb        Ebm
    Я успокаиваюсь в Боге моем</lyrics>
 <hymn_number>1315</hymn_number>
+<title>Сон</title>
 </song>

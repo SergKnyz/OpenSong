@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Парить</title>
+<hymn_number>1566</hymn_number>
+<lyrics>[V1]
  1 куплет:
 .Cm
  Посмотри на небо это Я,
@@ -33,8 +36,5 @@
  Грусть и боль не вспоминаю вновь
  Чувствую дыханье рая я,
  Когда с Тобой, душа моя.</lyrics>
-<hymn_number>1566</hymn_number>
 <author>Инна Звягинцева</author>
-<title>Парить</title>
-<key>C</key>
 </song>

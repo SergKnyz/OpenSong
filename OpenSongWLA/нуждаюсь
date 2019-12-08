@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Нуждаюсь</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1385</hymn_number>
+<title>Нуждаюсь</title>
+<author>Алексей Каратаев</author>
 <lyrics>[V1]
  1 куплет:
 .Am     F                C            G
@@ -22,6 +23,5 @@
 [B1]
    Бридж:
    Бегу я к Тебе! Бегу я к Тебе!</lyrics>
-<hymn_number>1385</hymn_number>
-<author>Алексей Каратаев</author>
+<key>A</key>
 </song>

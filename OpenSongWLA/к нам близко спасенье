@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>Ab</key>
+<aka>Бог с нами</aka>
+<author>Нарния</author>
+<lyrics>[V1]
  Куплет 1 / часть A
 .C#
  К нам близко спасенье
@@ -88,8 +91,5 @@
 .      Ebm               Ab
  Будем праздновать Христово Рождество!</lyrics>
 <hymn_number>3082</hymn_number>
-<author>Нарния</author>
-<aka>Бог с нами</aka>
-<key>Ab</key>
 <title>К нам близко спасенье</title>
 </song>

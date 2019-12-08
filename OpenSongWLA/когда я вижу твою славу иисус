@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Когда я вижу Твою славу Иисус</title>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Когда я вижу Твою славу Иисус</title>
+<hymn_number>700</hymn_number>
 <lyrics>[V1]
  Куплет:
 .Hm A
@@ -18,6 +19,5 @@
    припев:
 .      G     Em             Hm   A
    Хвала, Тебе, мой Бог, хвала...</lyrics>
-<hymn_number>700</hymn_number>
 <author>Виталий Ефремочкин</author>
 </song>

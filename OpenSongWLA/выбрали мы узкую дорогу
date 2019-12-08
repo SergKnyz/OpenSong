@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Выбрали мы узкую дорогу</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Нам не жалко юные года;</aka>
 <key>D</key>
+<hymn_number>656</hymn_number>
+<title>Выбрали мы узкую дорогу</title>
+<author>Новый завет</author>
 <lyrics>[V1]
  1 куплет:
 .Em      Am D        G
@@ -35,6 +38,4 @@
  Будем мы здесь проходить свой путь;
  День придёт, расстанемся с землёю,
  Чтобы нам там в небе отдохнуть.</lyrics>
-<hymn_number>2481</hymn_number>
-<author>Новый завет</author>
 </song>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .E           H/D#  C#m           H  A
  Святый,   Святый, Пред Тобой склонюсь
@@ -43,7 +42,8 @@
       Бог Всевышний
 .  H/D#   C#m      H A
    Нет таких, как Ты.</lyrics>
+<author>Hillsong Ukraine</author>
+<title>Эммануил</title>
 <hymn_number>939</hymn_number>
 <key>E</key>
-<title>Эммануил</title>
 </song>

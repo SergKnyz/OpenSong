@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Ты обитаешь в непреступном свете,</aka>
-<hymn_number>2517</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
+<aka>Ты обитаешь в непреступном свете,</aka>
 <lyrics>[V1]
 .Em G        D               B
  Ты обитаешь в непреступном свете,
@@ -27,5 +27,5 @@
  Как поток воды живой голос Твой внутри я слышу!</lyrics>
 <author>Дмитрий Гольдхед</author>
 <title>Бога узрят только чистые сердцем</title>
-<key>Em</key>
+<hymn_number>2517</hymn_number>
 </song>

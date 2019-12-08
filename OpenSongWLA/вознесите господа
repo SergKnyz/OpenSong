@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Склонитесь к Его стопам.</aka>
-<hymn_number>66</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
+<aka>Склонитесь к Его стопам.</aka>
 <lyrics>[V1]
 . Em        D Hm Em
  Вознесите Господа,
@@ -18,6 +18,6 @@
 .         C7+ D7
    Он Святой.</lyrics>
 <time_sig>4/4</time_sig>
+<hymn_number>66</hymn_number>
 <title>Вознесите Господа</title>
-<key>Em</key>
 </song>

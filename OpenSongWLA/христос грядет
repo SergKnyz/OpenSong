@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<author>Артём Янский</author>
+<lyrics>[V1]
  1 куплет:
 .           Dm                  Gm
  Хочу свято жить перед Богом живым
@@ -41,7 +43,5 @@
  Мы в новой отчизне будем царствовать с Ним
  Назвав этот город Иерусалим</lyrics>
 <hymn_number>129</hymn_number>
-<author>Артём Янский</author>
-<key>D</key>
 <title>Христос грядет</title>
 </song>

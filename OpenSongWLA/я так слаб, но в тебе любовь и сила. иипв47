@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я так слаб, но в Тебе любовь и сила. ИИПВ47</title>
-<key>E</key>
-<hymn_number>47</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . E   A/E     E            A6  A/B
  Воззову, и Твоя рука исцелит меня.
 .       A/E        E             A6  A/B
@@ -24,5 +21,8 @@
  Ибо Ты благ, ибо Ты благ,
 .         A   E   B       E A E
  Ибо Ты благ ко мне, ко мне.</lyrics>
+<hymn_number>47</hymn_number>
+<title>Я так слаб, но в Тебе любовь и сила. ИИПВ47</title>
+<key>E</key>
 <aka>Воззову, и Твоя рука исцелит меня.</aka>
 </song>

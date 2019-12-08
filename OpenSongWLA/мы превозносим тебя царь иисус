@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мы превозносим Тебя Царь Иисус</title>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
 <aka>Величество Царь Вечности</aka>
-<author>Хиллсонг Унитед</author>
 <lyrics>[V1]
 .   Bb             F     Gm
  Величество, Царь Вечности,
@@ -21,5 +19,7 @@
    Мы превозносим Тебя, Царь Иисус,
 .   Eb         Bb         Cm    F      Bb
    Нет подобного Тебе, Величественный Царь.</lyrics>
+<author>Хиллсонг Унитед</author>
+<title>Мы превозносим Тебя Царь Иисус</title>
 <hymn_number>3542</hymn_number>
 </song>

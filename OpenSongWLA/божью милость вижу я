@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2858</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<aka>В том, что снова мы, друзья,</aka>
+<author>Солигорск церковь ЕХБ</author>
 <lyrics>[V1]
 .G
  Божью милость вижу я
@@ -55,8 +57,6 @@
  Боже мой, Боже мой,
  Среди жизни сей земной
  Ты веди, веди, веди меня домой.</lyrics>
-<author>Солигорск церковь ЕХБ</author>
-<aka>В том, что снова мы, друзья,</aka>
-<key>G</key>
+<hymn_number>2858</hymn_number>
 <title>Божью милость вижу я</title>
 </song>

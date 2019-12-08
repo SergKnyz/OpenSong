@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
-<title>Иисус - Господь ИИПВ117</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em               C
  Иисус - Господь, Иисус - Господь,
 .Am                     Am         Em C D
@@ -18,4 +16,6 @@
 .C               B7
  Он - наш Освободитель!</lyrics>
 <hymn_number>4303</hymn_number>
+<title>Иисус - Господь ИИПВ117</title>
+<key>Em</key>
 </song>

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Милость</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>117</hymn_number>
+<title>Милость</title>
+<author>Авана</author>
 <lyrics>[V1]
  1 куплет:
 .        Gm         C      F         Bb
@@ -37,6 +38,5 @@
  Лишь потому что она выше суда.
  Твоя милость велика не достойна её я,
  Вся моя жизнь - это милость Твоя.</lyrics>
-<hymn_number>117</hymn_number>
-<author>Авана</author>
+<key>G</key>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Свет с Небес - Божья любовь</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>963</hymn_number>
+<title>Ближе</title>
+<author>Hillsong Ukraine</author>
 <lyrics>[V1]
  1 куплет:
 .  Dm      C     G      Am
@@ -43,8 +45,6 @@
    Обещал твердо в слове Своём
 .         F    C      G
    Что я буду жить всегда.</lyrics>
-<hymn_number>963</hymn_number>
-<author>Hillsong Ukraine</author>
+<aka>Свет с Небес - Божья любовь</aka>
 <key>D</key>
-<title>Ближе</title>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Да будет Отцу Всеблагому хвала ПВ692</title>
-<key>G</key>
-<hymn_number>692</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <lyrics>[V1]
  Да будет Отцу Всеблагому хвала!
  Господня любовь нас от смерти спасла.
@@ -18,4 +16,6 @@
 [V3]
  Бог сил! Будь прославлен Ты в Духе Святом;
  Он ведет к небесам нас премудрым путем.</lyrics>
+<title>Да будет Отцу Всеблагому хвала ПВ692</title>
+<hymn_number>692</hymn_number>
 </song>

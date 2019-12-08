@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>Видел я Господа сидящего на троне</aka>
+<key>F</key>
+<title>Святый, святый, святый, святый,</title>
 <tempo>72</tempo>
+<hymn_number>57</hymn_number>
+<time_sig>4/4</time_sig>
 <lyrics>[V1]
 . F       C/E
  Видел я Господа,
@@ -23,8 +27,4 @@
    Святый, святый, святый, святый,
 .    F A   B Gm Csus    (F)
    Святый Господь (Господ).</lyrics>
-<hymn_number>57</hymn_number>
-<key>F</key>
-<time_sig>4/4</time_sig>
-<title>Святый, святый, святый, святый,</title>
 </song>

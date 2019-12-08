@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
-<title>На Скрижалях Сердца</title>
-<key>Am</key>
-<aka>Скрижали сердца</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>На Скрижалях Сердца</title>
+<tempo>70</tempo>
 <hymn_number>6142</hymn_number>
+<time_sig>4/4</time_sig>
 <lyrics>[V1]
  вступление:
 .Am E6 C6/4 D6 Dm6, Am/E H9 Esus E7
@@ -57,5 +56,6 @@
 .Dm           Dm/H   E7
  И Любовью Твоею напьётся.</lyrics>
 <author>Группа &quot;Новый Завет&quot;</author>
-<tempo>70</tempo>
+<aka>Скрижали сердца</aka>
+<key>Am</key>
 </song>

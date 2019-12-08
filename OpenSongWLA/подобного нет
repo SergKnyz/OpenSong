@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Подобного нет</title>
-<key>F</key>
-<author>Виталий Ефремочкин</author>
-<hymn_number>76</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
 <lyrics>[V1]
  Куплет:
 .Fm    G#      Cm            Bbm
@@ -37,4 +34,7 @@
    Славу Бога моего я чувствую здесь
 .  C#             D#             G#
    Славу Бога моего я чувствую здесь</lyrics>
+<author>Виталий Ефремочкин</author>
+<title>Подобного нет</title>
+<hymn_number>76</hymn_number>
 </song>

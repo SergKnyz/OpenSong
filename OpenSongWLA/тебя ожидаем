@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Тебя ожидаем</title>
-<key>D</key>
-<author>Alaniaworshipband, Мартин Смитх</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .      D   Dsus2      D  Dsus2
  Вера может двигать горы,
@@ -41,5 +38,8 @@
    Bridge:
 .          G     Hm  A
    Поём мы А-лли-лу-йя.</lyrics>
+<author>Alaniaworshipband, Мартин Смитх</author>
+<title>Тебя ожидаем</title>
 <hymn_number>3312</hymn_number>
+<key>D</key>
 </song>

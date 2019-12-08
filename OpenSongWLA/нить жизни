@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Нить жизни</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>339</hymn_number>
+<title>Нить жизни</title>
+<author>Божья роса</author>
 <lyrics>[V1]
  1 куплет:
 .        D    A         D      A
@@ -32,6 +33,5 @@
  Так легко к тебе возвращаться.
  В неземной мечте сладостных надежд
  Так легко к тебе возвращаться.</lyrics>
-<hymn_number>339</hymn_number>
-<author>Божья роса</author>
+<key>D</key>
 </song>

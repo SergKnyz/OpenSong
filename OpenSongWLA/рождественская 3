@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Рождественская</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1421</hymn_number>
+<title>Рождественская</title>
+<author>Mavjuda</author>
 <lyrics>[V1]
  1 куплет:
 .E            H             C#m            E/H
@@ -46,6 +47,5 @@
    Он есть жизнь для тех, кто умер для себя,
 .           Bb     Gm       Bb      C     F
    Он есть путь на небеса, вечный дом Отца.</lyrics>
-<hymn_number>1421</hymn_number>
-<author>Mavjuda</author>
+<key>E</key>
 </song>

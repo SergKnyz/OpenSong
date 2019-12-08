@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Благодарю Тебя за Кровь</title>
-<key>D</key>
-<aka>Благодарю Тебя за крест</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Егор и Наталия Лансере</author>
 <lyrics>[V1]
 .D    A     Bm      G
  Ты прошел передо мной,
@@ -39,5 +37,7 @@
 .  A
    Мой грех смывает Божья Кровь.</lyrics>
 <hymn_number>2701</hymn_number>
-<author>Егор и Наталия Лансере</author>
+<title>Благодарю Тебя за Кровь</title>
+<key>D</key>
+<aka>Благодарю Тебя за крест</aka>
 </song>

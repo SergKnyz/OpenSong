@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>По дороге</title>
-<key>E</key>
-<hymn_number>112</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Em         G  Am         Hm
  Задышало сердце забежали ноги
@@ -30,4 +27,7 @@
  Когда Ты задышишь я дышу и знаю
  Когда сердцем ищешь я в небесах летаю, в небесах летаю</lyrics>
 <author>Рома Иванько</author>
+<title>По дороге</title>
+<hymn_number>112</hymn_number>
+<key>E</key>
 </song>

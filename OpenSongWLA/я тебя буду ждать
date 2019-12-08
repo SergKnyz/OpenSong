@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Русавуки</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Я Тебя буду ждать</title>
+<hymn_number>1507</hymn_number>
 <lyrics>[V1]
  Вст
 
@@ -46,7 +47,6 @@
  Верю, Ты придешь, снимешь боль мою.
 .D             Hm  C#         F#m
  Знаю - все поймешь,  я Тебя люблю.</lyrics>
-<hymn_number>1507</hymn_number>
-<title>Я Тебя буду ждать</title>
+<author>Русавуки</author>
 <key>E</key>
 </song>

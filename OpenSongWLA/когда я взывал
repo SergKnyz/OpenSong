@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<hymn_number>253</hymn_number>
+<title>Когда я взывал</title>
+<author>Александр Соколов (Armageddon)</author>
+<lyrics>[V1]
  1 куплет:
 .Em       C               G             Hm
  Вся моя жизнь как будто сон, я в нем загадочно влюблен
@@ -37,8 +41,4 @@
  Я слышу нежный голос Твой.
  Лишь для Тебя мой каждый вздох,
  Ты подарил душе покой.</lyrics>
-<hymn_number>253</hymn_number>
-<author>Александр Соколов (Armageddon)</author>
-<title>Когда я взывал</title>
-<key>E</key>
 </song>

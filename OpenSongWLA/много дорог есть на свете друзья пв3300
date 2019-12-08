@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3300</hymn_number>
 <title>Много дорог есть на свете друзья ПВ3300</title>
-<hymn_number>3300</hymn_number>
 <lyrics>[V1]
  Много дорог есть на свете друзья,
  Каждый из нас в жизни путь выбирает.
@@ -30,4 +29,5 @@
  Давший спасение всем кто желает.
  Вечное счастье всем Он принёс.
  Да! В небе не будет слёз</lyrics>
+<key>G</key>
 </song>

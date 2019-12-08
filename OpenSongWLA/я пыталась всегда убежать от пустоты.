@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Инна Звягинцева</author>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Воскрес</aka>
+<key>G</key>
+<hymn_number>1569</hymn_number>
+<title>Я пыталась всегда убежать от пустоты.</title>
+<author>Инна Звягинцева</author>
 <lyrics>[V1]
  1 куплет:
 .    Gm                              F
@@ -23,8 +27,4 @@
  Каждой капле крови воспою хвалу.
  Подвиг Ты совершил для бессмертной души,
  Эту милость Твою трепетно ценю.</lyrics>
-<hymn_number>1569</hymn_number>
-<aka>Воскрес</aka>
-<key>G</key>
-<title>Я пыталась всегда убежать от пустоты.</title>
 </song>

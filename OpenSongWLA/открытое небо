@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<author>Галим Хусаинов</author>
+<lyrics>[V1]
  Куплет:
 .Hm        A          G
  Поднимаю руки в небеса
@@ -44,7 +46,5 @@
 .  G         A        D
    Песнь любви Тебе поём.</lyrics>
 <hymn_number>676</hymn_number>
-<author>Галим Хусаинов</author>
 <title>Открытое небо</title>
-<key>B</key>
 </song>

@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я пред Тобой становлюсь на колени</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <aka>Будь всегда со мною рядом</aka>
-<author>Русавуки</author>
 <lyrics>[V1]
  1 куплет:
 .Hm                  Em        F#
@@ -37,5 +35,7 @@
  Верю даруешь второе рожденье
  Я пред Тобою в молитве склонюсь
  Господи Тебе я молюсь.</lyrics>
+<author>Русавуки</author>
+<title>Я пред Тобой становлюсь на колени</title>
 <hymn_number>1196</hymn_number>
 </song>

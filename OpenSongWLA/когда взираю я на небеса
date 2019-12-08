@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Когда взираю я на небеса</title>
-<aka>Аллилуйя, Господи Боже наш как величественно имя Твоё</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Вадим Ятковский</author>
 <lyrics>[V1]
 . C   G   C
  Господи, Боже наш,
@@ -49,5 +47,7 @@
 . F      C G   C
  Вновь хвалу Тебе воздадим.</lyrics>
 <hymn_number>1045</hymn_number>
-<author>Вадим Ятковский</author>
+<title>Когда взираю я на небеса</title>
+<key>C</key>
+<aka>Аллилуйя, Господи Боже наш как величественно имя Твоё</aka>
 </song>

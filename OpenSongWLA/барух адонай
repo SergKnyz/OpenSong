@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>Барух Адонай Элохим Израиль</aka>
+<key>D</key>
+<hymn_number>684</hymn_number>
+<title>Барух Адонай</title>
+<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
 .Dm       Gm      C     Dm
  Барух Адонай Элохим Израиль
@@ -43,8 +47,4 @@
 
 [V6]
  О-о, я буду славить Тебя</lyrics>
-<hymn_number>684</hymn_number>
-<author>Виталий Ефремочкин</author>
-<key>D</key>
-<title>Барух Адонай</title>
 </song>

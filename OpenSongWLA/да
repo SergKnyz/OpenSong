@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<title>Да</title>
+<hymn_number>2232</hymn_number>
+<lyrics>[V1]
  Вст
 
 [V2]
@@ -58,8 +61,5 @@
 
 [V9]
  Припев 2 раза</lyrics>
-<hymn_number>2232</hymn_number>
 <author>Светлана Малова</author>
-<title>Да</title>
-<key>C</key>
 </song>

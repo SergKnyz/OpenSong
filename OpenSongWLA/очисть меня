@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>352</hymn_number>
 <title>Очисть меня</title>
+<author>Филипп Реннер</author>
 <lyrics>[V1]
  1 куплет:
 .C#m     E/H
@@ -42,6 +43,5 @@
  Очистить меня, мой Бог
 .          C#m   H   A F#m C#m H
  Очистить меня Иисус.</lyrics>
-<hymn_number>352</hymn_number>
-<author>Филипп Реннер</author>
+<key>C#m</key>
 </song>

@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>313</hymn_number>
 <title>В вечной любви</title>
-<aka>Нет сокровищ таких, что бы как-то смогли,</aka>
 <author>Hillsong Ukraine</author>
-<hymn_number>313</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .       Hm                   G
@@ -35,4 +33,6 @@
  Свою гордость смирил, и мечты отложи,
  Что бы в духе и истине петь.
  Всех желаний важней, для меня Ты ценней, мой Бог.</lyrics>
+<aka>Нет сокровищ таких, что бы как-то смогли,</aka>
+<key>B</key>
 </song>

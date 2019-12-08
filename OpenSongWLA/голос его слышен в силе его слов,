@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Голос Его слышен в силе Его слов,</title>
-<key>F#</key>
-<aka>Великий Бог Израилев</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Белые Крылья</author>
 <lyrics>[C1]
    Припев:
 .    F#m
@@ -67,5 +65,7 @@
 .                    Am
    Великий Бог Израилев!</lyrics>
 <hymn_number>975</hymn_number>
-<author>Белые Крылья</author>
+<title>Голос Его слышен в силе Его слов,</title>
+<key>F#</key>
+<aka>Великий Бог Израилев</aka>
 </song>

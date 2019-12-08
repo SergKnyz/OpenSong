@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Посмотри на крест</title>
-<key>A</key>
-<author>Пирс</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <lyrics>[V1]
  1 куплет:
 .Am             Dm/H    Am/C        Fmaj7      G
@@ -38,5 +36,7 @@
  3 куплет:
  Не погасла ещё свеча, воскрешая любви горенье.
  Можно заново жизнь начать, у креста преклонив колени.</lyrics>
+<author>Пирс</author>
+<title>Посмотри на крест</title>
 <hymn_number>1091</hymn_number>
 </song>

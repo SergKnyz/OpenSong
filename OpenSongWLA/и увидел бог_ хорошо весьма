@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>И увидел Бог: Хорошо весьма</title>
-<key>Eb</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Eb                 Gm
  Бог вначале создал небо,
 .Fm              C7
@@ -44,5 +42,7 @@
    И вдохнул живую душу,
    Чтоб Творца он прославлял.</lyrics>
 <hymn_number>1947</hymn_number>
+<title>И увидел Бог: Хорошо весьма</title>
+<key>Eb</key>
 <aka>Бог создал</aka>
 </song>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Вся слава Тебе</title>
-<key>G</key>
+<hymn_number>621</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .G        D              Em     D
@@ -27,6 +27,7 @@
  И благодать Твоя сегодня на мне
  Пусть знает каждый, слыша из моих уст
  О том, что жив Господь, Спаситель Иисус</lyrics>
-<hymn_number>621</hymn_number>
 <author>Вадим Ятковский</author>
+<aka>За всё Тебя, Господь я благодарю</aka>
+<key>G</key>
 </song>

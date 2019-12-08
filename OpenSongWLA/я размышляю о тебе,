@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
-<title>Я размышляю о Тебе,</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .C#m              H
  Я размышляю о Тебе,
@@ -32,7 +30,9 @@
  Как нашел меня в слезах в беспроглядной тьме,
  Твой луч света воссиял,
  И любовью вечною Ты меня объял.</lyrics>
-<hymn_number>4162</hymn_number>
 <author>Skinia Worship</author>
+<title>Я размышляю о Тебе,</title>
+<hymn_number>4162</hymn_number>
+<key>C#m</key>
 <aka>Восхищаюсь Тобой</aka>
 </song>

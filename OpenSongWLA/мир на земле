@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1480</hymn_number>
+<title>Мир на земле</title>
+<author>Алексей Каратаев</author>
+<lyrics>[V1]
  1 куплет:
 .                    Gm  D#
  Я слышу звук колоколов,
@@ -71,8 +74,5 @@
    Концовка:
    Мир земле, мир земле.
    Мир на земле, мир на земле.</lyrics>
-<hymn_number>1480</hymn_number>
-<author>Алексей Каратаев</author>
 <key>G</key>
-<title>Мир на земле</title>
 </song>

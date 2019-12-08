@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Аллилуйя слава Святой святых</aka>
-<tempo>140</tempo>
+<?xml version="1.0" encoding="UTF-8"?><song><tempo>140</tempo>
+<hymn_number>6</hymn_number>
+<title>Он был, Он есть…</title>
+<time_sig>4/4</time_sig>
 <lyrics>[V1]
 .     D
  Аллилуйя, слава! //
@@ -17,8 +19,6 @@
    И Он__
 .      A D
    Грядёт.</lyrics>
-<hymn_number>6</hymn_number>
-<time_sig>4/4</time_sig>
-<title>Он был, Он есть…</title>
+<aka>Аллилуйя слава Святой святых</aka>
 <key>D</key>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Юлия Петерс</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
+<title>Дышать для неба</title>
+<hymn_number>591</hymn_number>
 <lyrics>[V1]
  1 куплет:
 . Ebm                                Bbm/Db
@@ -44,7 +46,5 @@
    Ему потом не будет трудно меня  узнать___
 .         Abm7           Bbsus4  Bb
    Меня узнать Ему не будет трудно</lyrics>
-<hymn_number>591</hymn_number>
-<key>Eb</key>
-<title>Дышать для неба</title>
+<author>Юлия Петерс</author>
 </song>

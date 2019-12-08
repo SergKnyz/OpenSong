@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Вот Божий Сын льет кровь Свою</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>на Голгофе, на Голгофе. ПВ2054</title>
+<hymn_number>2054</hymn_number>
 <lyrics>[V1]
  Вот Божий Сын льет кровь Свою
  на Голгофе, на Голгофе.
@@ -28,7 +29,6 @@
  и в мире всем провозглашай
  и никогда не умолкай
  о Голгофе, о Голгофе.</lyrics>
-<hymn_number>2054</hymn_number>
-<title>на Голгофе, на Голгофе. ПВ2054</title>
+<aka>Вот Божий Сын льет кровь Свою</aka>
 <key>C</key>
 </song>

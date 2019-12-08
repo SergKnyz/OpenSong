@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Верой в Иисуса Христа исцеляюсь я!</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C G C G  C
  Вера моя крепка, не убоюсь я зла.
 .F G Am  F G C
@@ -17,7 +15,9 @@
  Силой Божьей вера утверждается. Нашими делами оживляется.
 .Dm Em Am   F G  C
  Умножает вера в нас любовь. С верой видим чудеса мы вновь!</lyrics>
-<hymn_number>1221</hymn_number>
 <author>Спасение церковь г. Вишневое</author>
+<title>Верой в Иисуса Христа исцеляюсь я!</title>
+<hymn_number>1221</hymn_number>
+<key>C</key>
 <aka>Вера моя крепка, не убоюсь я зла.</aka>
 </song>

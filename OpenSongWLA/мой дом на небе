@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Мой дом на небе</title>
-<key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1286</hymn_number>
+<title>Мой дом на небе</title>
 <author>Дмитрий Копмарь</author>
 <lyrics>[V1]
  Вст
@@ -53,5 +53,5 @@
  Там буду Бога я вечно славить
 .          F#  Eb           Abm
  И в свете чудном Христу служить.</lyrics>
-<hymn_number>1286</hymn_number>
+<key>F#</key>
 </song>

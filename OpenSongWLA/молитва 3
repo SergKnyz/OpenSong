@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Молитва</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>958</hymn_number>
+<title>Молитва</title>
+<author>Илья Цыганков</author>
 <lyrics>[V1]
  1 куплет:
 .Cm                      D#/Bb
@@ -39,6 +41,4 @@
    Сохрани мою вечную душу для чертогов небесных Твоих
 .          Dm              F/C       Bb              A
    Чтоб заветов Твоих не нарушил и имел утешение в них</lyrics>
-<hymn_number>958</hymn_number>
-<author>Илья Цыганков</author>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Вот я поклоняюсь</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>648</hymn_number>
+<title>Ты в мир пришел и рассеялась тьма;</title>
+<author>Сергей Нагорный, Тим Хугхес, Пхиллипс, Цраиг &amp; Деан</author>
 <lyrics>[V1]
  1 куплет:
 . E            H       A
@@ -34,9 +36,7 @@
    И до конца я не пойму
 .      H   C#m     A
    Крови пролившейся цену.</lyrics>
-<hymn_number>648</hymn_number>
-<author>Сергей Нагорный, Тим Хугхес, Пхиллипс, Цраиг &amp; Деан</author>
+<aka>Вот я поклоняюсь</aka>
 <copyright>2000 Тханкыоу Мусиц</copyright>
-<title>Ты в мир пришел и рассеялась тьма;</title>
 <key>E</key>
 </song>

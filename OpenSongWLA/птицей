@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3743</hymn_number>
 <title>Птицей</title>
 <author>Владимир Скобочкин</author>
 <lyrics>[V1]
@@ -30,5 +30,5 @@
  И о рабстве миру звбыть
  И с Тобой в свободе жить,
  С Тобою жить и жить!</lyrics>
-<hymn_number>3743</hymn_number>
+<key>C</key>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Жизнь</author>
+<lyrics>[V1]
  1 куплет:
 .Am                       F
  Долго, долго ты искала солнце,
@@ -37,7 +38,6 @@
  А помнишь, в детстве, все когда-то хотели,
  Летать высоко, высоко-высоко.</lyrics>
 <hymn_number>416</hymn_number>
-<author>Жизнь</author>
 <title>Шаги</title>
 <key>A</key>
 </song>

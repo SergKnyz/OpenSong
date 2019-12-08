@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Был поруган, распят Христос.</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<aka>Был поруган, распят Христос.</aka>
 <lyrics>[V1]
  1 куплет:
 .G          D/F#        Em    Hm     C
@@ -64,8 +65,7 @@
    Ты - мой И__и__сус.
 .          Cm  F Bb   F Bb
    Ты - мой И__исус! Иисус!</lyrics>
-<hymn_number>1840</hymn_number>
 <author>Благодать церква г. Минск</author>
-<key>G</key>
 <title>Вот мой Спаситель, Кто умер на кресте</title>
+<hymn_number>1840</hymn_number>
 </song>

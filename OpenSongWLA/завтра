@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2233</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Завтра</title>
+<hymn_number>2233</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .  Dm                       Gm
@@ -71,6 +73,4 @@
 .    Dm                          Bb          A
    Подарит день еще Господь, послужим и в такой</lyrics>
 <author>Светлана Малова</author>
-<key>D</key>
-<title>Завтра</title>
 </song>

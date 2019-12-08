@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>группа &quot;Ветви&quot;</author>
 <time_sig>4/4</time_sig>
-<title>Достоин чести и славы</title>
-<tempo>120</tempo>
-<author>группа &quot;Ветви&quot;</author>
 <lyrics>[V1]
 .   Em                         Am       Hm7    Em
  Иисус, с того момента, как вошел Ты в жизнь мою,
@@ -38,6 +35,9 @@
  Верою в Тебя я побеждаю этот мир! // 3 раза
 . Em                  Am Hm    C H7
  Верою в Тебя я побеждаю этот мир! //</lyrics>
+<tempo>120</tempo>
 <hymn_number>138</hymn_number>
+<title>Достоин чести и славы</title>
+<key>Em</key>
 <aka>Иисус с того момента</aka>
 </song>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>149</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>149</hymn_number>
+<title>Я Тобой восхищён</title>
+<author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  1 куплет:
 .      D    G   Hm       A
@@ -25,7 +28,4 @@
    Бридж:
 .  G   Hm        A
    Я Тобой восхищён</lyrics>
-<author>Виталий Ефремочкин</author>
-<key>D</key>
-<title>Я Тобой восхищён</title>
 </song>

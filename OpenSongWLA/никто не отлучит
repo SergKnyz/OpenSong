@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Никто не отлучит</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>337</hymn_number>
+<title>Никто не отлучит</title>
 <author>Краеугольный камень</author>
 <lyrics>[V1]
  Куплет:
@@ -36,5 +36,5 @@
    Ни глубина, ни высота, ни тайны бытия
 .         Dm             Am
    Не отлучат меня от Тебя.</lyrics>
-<hymn_number>337</hymn_number>
+<key>A</key>
 </song>

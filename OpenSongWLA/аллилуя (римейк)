@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Аллилуя (римейк)</title>
-<aka>Мой Господь на смерть идет</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C                Am
  Мой Господь на смерть идет
 .C            Am
@@ -34,6 +31,9 @@
  По кресту стекала кровь
  Мир осязал Твою любовь
  Навзрыд тебе пою я Аллилуйя!</lyrics>
-<hymn_number>1895</hymn_number>
 <author>Другая Реальность, Leonard Cohen</author>
+<title>Аллилуя (римейк)</title>
+<hymn_number>1895</hymn_number>
+<key>A</key>
+<aka>Мой Господь на смерть идет</aka>
 </song>

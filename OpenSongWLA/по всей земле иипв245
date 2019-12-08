@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>По всей земле ИИПВ245</title>
-<key>G</key>
 <hymn_number>245</hymn_number>
 <lyrics>[V1]
 .G              D/F#
@@ -24,4 +23,5 @@
  ТвойДух обитает по всей земле.
  Инас защищает пролитая кровь,
  ТвойДух обитает по всей земле.</lyrics>
+<key>G</key>
 </song>

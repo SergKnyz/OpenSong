@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<title>Бесподобная живая ПВ2513</title>
-<aka>Божья вечная любовь</aka>
-<author>Йохн Зундел, Цхарлес Уеслеы</author>
-<hymn_number>2513</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .G         D    G
  Бесподобная, живая,
 .C       G    D   G
@@ -50,4 +45,9 @@
  Приведи в небесный дом,
  Там любовь Твою прославим
  Сладкозвучнейшим псалмом.</lyrics>
+<author>Йохн Зундел, Цхарлес Уеслеы</author>
+<title>Бесподобная живая ПВ2513</title>
+<hymn_number>2513</hymn_number>
+<key>Bb</key>
+<aka>Божья вечная любовь</aka>
 </song>

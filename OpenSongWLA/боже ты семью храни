@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Еще вначале сотворил Господь семью</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Gbm E/Db D E
  Еще вначале сотворил Господь семью
 .Gbm Dbm  D
@@ -39,8 +38,9 @@
 
 [B1]
    Боже Ты семью храни...</lyrics>
-<hymn_number>3985</hymn_number>
 <author>Alex Ryabukha &amp; Lunchenko Family</author>
-<key>A</key>
 <title>Боже Ты семью храни</title>
+<hymn_number>3985</hymn_number>
+<key>A</key>
+<aka>Еще вначале сотворил Господь семью</aka>
 </song>

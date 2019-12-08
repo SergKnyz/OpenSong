@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Все народы, дружно хлопайте, ИИПВ53</title>
-<key>G</key>
-<aka>Громко восклицайте Богу.</aka>
-<hymn_number>53</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  G                  C     G
  Все народы, дружно хлопайте,
 .  D           G     D
@@ -17,4 +13,8 @@
    Воспойте Ал__лилуйя, Аллилуйя
 .            C  GAmEm    D    G
    Воспойте Ал__лилуйя, Аллилуйя</lyrics>
+<hymn_number>53</hymn_number>
+<title>Все народы, дружно хлопайте, ИИПВ53</title>
+<key>G</key>
+<aka>Громко восклицайте Богу.</aka>
 </song>

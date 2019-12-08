@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Вознесем Тебя</title>
 <aka>Мир Ты спасти пришёл</aka>
 <author>Hillsong Ukraine</author>
-<hymn_number>102</hymn_number>
 <lyrics>[V1]
  КУПЛЕТ 1:
 . C                Em
@@ -42,4 +40,6 @@
    Возносим лишь Тебя мы
 .            G C
    Превыше всех</lyrics>
+<hymn_number>102</hymn_number>
+<title>Вознесем Тебя</title>
 </song>

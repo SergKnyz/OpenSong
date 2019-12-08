@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>4U Band</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<hymn_number>21</hymn_number>
+<title>Псалом 62</title>
+<author>4U Band</author>
 <lyrics>[V1]
  1 Куплет:
 .A         F#m
@@ -42,7 +45,4 @@
  Милость Твоя лучше чем жизнь
 . F#m   E    D       E
  Уста мои прославят Тебя</lyrics>
-<hymn_number>21</hymn_number>
-<key>A</key>
-<title>Псалом 62</title>
 </song>

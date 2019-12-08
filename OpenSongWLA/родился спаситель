@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Родился Спаситель</title>
-<author>Mission 3:16</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Mission 3:16</author>
 <lyrics>[V1]
  1 куплет:
 .A                F#m
@@ -35,4 +33,6 @@
  Рождественский вечер снова
  Приходит чтоб ты сейчас счастливей стал</lyrics>
 <hymn_number>2809</hymn_number>
+<title>Родился Спаситель</title>
+<key>A</key>
 </song>

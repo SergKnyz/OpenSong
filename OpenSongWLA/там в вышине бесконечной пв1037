@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Там в вышине бесконечной ПВ1037</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <lyrics>[V1]
  Там, в вышине бесконечной.
  Между планет город стоит, город вечный.
@@ -23,5 +22,6 @@
  вперед. вперед. вперед.
  Он в Небесную
  Отчизну непременно доведет!</lyrics>
+<title>Там в вышине бесконечной ПВ1037</title>
 <hymn_number>1037</hymn_number>
 </song>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Яркий свет Твоей любви</title>
-<key>B</key>
 <hymn_number>3286</hymn_number>
 <lyrics>[V1]
  Куплет:
@@ -28,4 +27,5 @@
 .     Hm          A          G
    Аллилуйя! Аллилуйя! Аллилуйя! Иисус!</lyrics>
 <author>Виталий Ефремочкин</author>
+<key>B</key>
 </song>

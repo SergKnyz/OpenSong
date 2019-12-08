@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Цхарлие ЛеБланц</author>
 <time_sig>4/4</time_sig>
-<title>Все народы дружно хлопайте</title>
-<aka>Громко восклицайте Богу.</aka>
-<author>Цхарлие ЛеБланц</author>
-<tempo>92</tempo>
 <lyrics>[V1]
 .  D                  G    D
  Все народы, дружно хлопайте,
@@ -41,4 +37,8 @@
 [B1]
 .  Eb          B         Gm D (A)
    Иисус - Господь для всех!</lyrics>
+<tempo>92</tempo>
+<title>Все народы дружно хлопайте</title>
+<key>D</key>
+<aka>Громко восклицайте Богу.</aka>
 </song>

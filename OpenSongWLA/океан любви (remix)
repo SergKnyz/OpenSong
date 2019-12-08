@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Океан любви (remix)</title>
-<key>B</key>
-<author>Skeemans Worship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
 <lyrics>[V1]
  1 куплет:
 .            Hm      A
@@ -35,5 +33,7 @@
  Весь этот мир так нуждается
  В том, чтобы знать о любви Творца
  Ты нас избрал Ты всех нас избрал</lyrics>
+<author>Skeemans Worship</author>
+<title>Океан любви (remix)</title>
 <hymn_number>2000</hymn_number>
 </song>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1026</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Imprintband</author>
 <lyrics>[V1]
  Куплет:
 . D    A/C#         Em                Asus4   A
@@ -23,7 +23,7 @@
 
 [B1]
    instrumental:</lyrics>
-<author>Imprintband</author>
-<key>D</key>
+<hymn_number>1026</hymn_number>
 <title>Святый Бог</title>
+<key>D</key>
 </song>

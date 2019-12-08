@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бог</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Бог
 
 [V2]
@@ -41,8 +40,9 @@
  Мои страданья, горести и муки?
  Болезненен всегда навоз науки,
  // И сладок плод учительства Его. //</lyrics>
-<hymn_number>3436</hymn_number>
 <author>Александр Грайцер</author>
-<key>C#m</key>
 <title>Зажечь в себе Божественный огонь,</title>
+<hymn_number>3436</hymn_number>
+<key>C#m</key>
+<aka>Бог</aka>
 </song>

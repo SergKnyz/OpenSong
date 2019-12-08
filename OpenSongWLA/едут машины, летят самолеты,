@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Едут машины, летят самолеты,</title>
-<aka>А я спокоен я отдыхаю</aka>
-<author>Fly worship</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Едут машины, летят самолеты,</title>
 <hymn_number>4052</hymn_number>
 <lyrics>[V1]
 .C            G
@@ -31,4 +28,7 @@
  Время пришло выход найти,
  Время пришло к Богу прийти,
  Ведь без Него на душе пустота.</lyrics>
+<author>Fly worship</author>
+<aka>А я спокоен я отдыхаю</aka>
+<key>C</key>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
-<title>Все награды и венцы Тебе отдам</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<aka>Ты достоин</aka>
 <lyrics>[V1]
 .  Em    Em/D       A/C#     D
  Все награды и венцы свои отдам
@@ -32,7 +31,8 @@
    Поклоняюсь я. Чту Тебя,
 .    Hm7       Esus4   E
    Славлю я Тебя, мой Бог</lyrics>
+<time_sig>4/4</time_sig>
+<title>Все награды и венцы Тебе отдам</title>
 <hymn_number>73</hymn_number>
 <tempo>68</tempo>
-<aka>Ты достоин</aka>
 </song>

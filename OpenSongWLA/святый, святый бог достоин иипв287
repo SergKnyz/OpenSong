@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Святый, святый Бог достоин ИИПВ287</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Bm.           F#./A#
  Святый, святый Бог достоин
 .Bm9./A                G#0
@@ -34,4 +32,6 @@
 .C.       Em7, A11,G, A/G, F#m7,Em7, A11,D2
  Святится имя  Твоё.    Твоё.</lyrics>
 <hymn_number>287</hymn_number>
+<title>Святый, святый Бог достоин ИИПВ287</title>
+<key>D</key>
 </song>

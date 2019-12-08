@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Спит прекрасный город Назарет.</aka>
+<key>E</key>
 <title>Вот рассвет забрезжит еле-еле,</title>
+<hymn_number>1835</hymn_number>
 <lyrics>[V1]
 .Em                    Am
     1)Вот рассвет забрезжит еле-еле,
@@ -49,7 +51,5 @@
  Спит Спаситель в детской колыбели...
 .Am           H7         Em
  До Голгофы целых 30 лет.</lyrics>
-<hymn_number>1835</hymn_number>
 <author>Вадим Дахненко</author>
-<aka>Спит прекрасный город Назарет.</aka>
 </song>

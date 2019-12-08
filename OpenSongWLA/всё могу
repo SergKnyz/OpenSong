@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Всё могу</title>
-<key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <aka>Бог поддержит меня на пути моих дел</aka>
-<hymn_number>2936</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .        Em                D
@@ -34,4 +32,6 @@
 .    C                     G  D
    Всё, всё, всё могу с Тобой!</lyrics>
 <author>Виталий Ефремочкин</author>
+<title>Всё могу</title>
+<hymn_number>2936</hymn_number>
 </song>

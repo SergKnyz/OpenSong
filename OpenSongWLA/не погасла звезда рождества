@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Не погасла звезда Рождества</title>
-<aka>В Мир Пришел Иисус</aka>
-<hymn_number>6334</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>В Мир Пришел Иисус</aka>
 <lyrics>[V1]
  Не погасла звезда Рождества
  Над землей так же светит она
@@ -31,4 +29,6 @@
 [B1]
    Пусть услышат это все люди
    Что оставил Бог небеса!</lyrics>
+<hymn_number>6334</hymn_number>
+<title>Не погасла звезда Рождества</title>
 </song>

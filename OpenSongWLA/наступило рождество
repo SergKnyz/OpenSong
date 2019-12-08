@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Нарния</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>358</hymn_number>
+<title>Наступило Рождество</title>
+<author>Нарния</author>
 <lyrics>[V1]
  1 куплет:
 .       Bb         C      Dm        F
@@ -51,7 +53,5 @@
    Наступило Рождество
 .       Bb    C       F
    Наступило Рождество</lyrics>
-<hymn_number>358</hymn_number>
-<title>Наступило Рождество</title>
 <key>Bb</key>
 </song>

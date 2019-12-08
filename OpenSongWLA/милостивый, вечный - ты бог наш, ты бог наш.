@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G#m</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1411</hymn_number>
 <title>Милостивый, вечный - Ты Бог наш, Ты Бог наш.</title>
-<aka>Вечный</aka>
 <author>NG Worship</author>
 <lyrics>[V1]
 .G#m           E                H          D#m
@@ -35,5 +34,6 @@
  Что потеряно вернется в доме счастье обернется
 .      H                  C#m
  Если мы ослабеваем Ты нас силой наполняешь</lyrics>
-<hymn_number>1411</hymn_number>
+<aka>Вечный</aka>
+<key>G#m</key>
 </song>

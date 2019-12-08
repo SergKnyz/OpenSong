@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>На Бога уповаю</title>
-<author>Другая Реальность</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .G
  На Бога уповаю
  Он моя скала
@@ -22,6 +19,9 @@
  Кого мне еще славить, если не Тебя
  Пред кем мне веселиться, ведь Ты внутри меня
  пред кем мне громко хлопать прыгать и скакать</lyrics>
+<author>Другая Реальность</author>
+<title>На Бога уповаю</title>
 <hymn_number>1896</hymn_number>
+<key>G</key>
 <aka>Алилуя рок н рол</aka>
 </song>

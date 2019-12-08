@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Миллиарды Раз</title>
-<key>D</key>
-<aka>Буду Славить Я</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Hillsong Ukraine, Хиллсонг Уорсхип, Хиллсонг Унитед</author>
 <lyrics>[V1]
  КУПЛЕТ: 1
 .D
@@ -119,5 +117,7 @@
 .   F#m           D          A
  Никого Ты не оставишь никогда</lyrics>
 <hymn_number>2827</hymn_number>
-<author>Hillsong Ukraine, Хиллсонг Уорсхип, Хиллсонг Унитед</author>
+<title>Миллиарды Раз</title>
+<key>D</key>
+<aka>Буду Славить Я</aka>
 </song>

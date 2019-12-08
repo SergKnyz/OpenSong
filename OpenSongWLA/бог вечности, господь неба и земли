@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Бог Вечности, Господь неба и земли</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <aka>Адонай</aka>
 <author>Виталий Ефремочкин</author>
 <lyrics>[V1]
@@ -36,4 +35,5 @@
 .          C                    G
    Ты наш Бог, нет другого как Ты.</lyrics>
 <hymn_number>157</hymn_number>
+<title>Бог Вечности, Господь неба и земли</title>
 </song>

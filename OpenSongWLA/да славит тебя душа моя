@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Да славит Тебя душа моя</title>
-<key>F</key>
 <hymn_number>93</hymn_number>
 <lyrics>[V1]
 . F         C/E  Dm   B
@@ -14,4 +13,5 @@
    Буду славить Тебя вечно.
 .            Dm      B
    Господи, Боже мой.</lyrics>
+<key>F</key>
 </song>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3580</hymn_number>
 <title>Мне есть за что благодарить Творца ПВ1438</title>
-<hymn_number>3580</hymn_number>
 <lyrics>[V1]
  Мне есть за что благодарить Творца -
  Он снял с меня греховную проказу.
@@ -24,4 +23,5 @@
  Душа поет небесным отголоском.
  Придет в мой дом - я ноги обниму
  Того, Кто умер на кресте Голгофском.</lyrics>
+<key>D</key>
 </song>

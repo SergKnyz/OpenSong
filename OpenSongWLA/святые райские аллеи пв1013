@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Святые райские аллеи ПВ1013</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Святые райские аллеи ПВ1013</title>
+<hymn_number>1013</hymn_number>
 <lyrics>[V1]
  Святые райские аллеи!
  Я к вам стремлюся всей душой,
@@ -23,5 +23,5 @@
  Проходит ясный Властелин.
  Он солнца ясного светлее,
  С Ним кроткий Агнец - Божий Сын.</lyrics>
-<hymn_number>1013</hymn_number>
+<key>C</key>
 </song>

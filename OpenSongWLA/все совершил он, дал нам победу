@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>Dm</key>
+<aka>дьявол побежден</aka>
+<time_sig>4/4</time_sig>
+<lyrics>[V1]
 .          Dm                Gm
  Все совершил Он, дал нам победу
 .  C7
@@ -21,10 +24,7 @@
    Иисус Господь! Иисус Господь!
 .  A7     Dm
    Аллилуйя!</lyrics>
-<hymn_number>76</hymn_number>
 <tempo>120</tempo>
-<aka>дьявол побежден</aka>
-<time_sig>4/4</time_sig>
+<hymn_number>76</hymn_number>
 <title>Все совершил Он, дал нам победу</title>
-<key>Dm</key>
 </song>

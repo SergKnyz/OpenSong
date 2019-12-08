@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><time_sig>4/4</time_sig>
-<title>Все от Него и Им сотворено</title>
-<key>Em</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
 <aka>Ему за все слава</aka>
-<tempo>134</tempo>
-<hymn_number>75</hymn_number>
 <lyrics>[V1]
 .Em        Am  Hm         Em
  Все от Него и Им сотворено!
@@ -26,4 +22,8 @@
  О, Бездна богатства, премудрости Христа.
 .Em      Am   Hm          Em
  Непостижимы судьбы Господа.</lyrics>
+<time_sig>4/4</time_sig>
+<title>Все от Него и Им сотворено</title>
+<hymn_number>75</hymn_number>
+<tempo>134</tempo>
 </song>

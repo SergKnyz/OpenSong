@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Я, положив себя на алтарь, отдаю всё, что есть у меня</aka>
-<author>Hillsong Ukraine</author>
-<hymn_number>518</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G#m</key>
+<aka>Я, положив себя на алтарь, отдаю всё, что есть у меня</aka>
 <lyrics>[V1]
  Куплет:
 .G#m     H     F#      G#m       H         F#       C#m
@@ -35,6 +34,7 @@
    Пусть все люди земли, узнают Тебя.
 .  G#m        E         H   F#
    Пусть все люди земли, узнают Тебя.</lyrics>
-<key>G#m</key>
+<author>Hillsong Ukraine</author>
 <title>Алтарь</title>
+<hymn_number>518</hymn_number>
 </song>

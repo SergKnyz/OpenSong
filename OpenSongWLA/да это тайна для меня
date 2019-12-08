@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>5</hymn_number>
 <title>Да это тайна для меня</title>
 <author>Спасение церковь г. Вишневое</author>
 <lyrics>[V1]
@@ -43,5 +43,5 @@
  Иисус Христос рожден для всех людей,
 .Gm         Bb         Dm          Csus C
  Младенец знает как помочь твоей душе!__</lyrics>
-<hymn_number>5</hymn_number>
+<key>D</key>
 </song>

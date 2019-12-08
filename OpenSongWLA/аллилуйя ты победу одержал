@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Исцеление пришло из пронзённых рук Христа.</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4</hymn_number>
+<title>Аллилуйя Ты победу одержал</title>
+<author>Slavic New Beginnings Church</author>
 <lyrics>[V1]
  Intro:
 
@@ -48,8 +50,6 @@
    Ты смертию смерть победил, в небо нам путь открыл,
 .            E    G#m   F#            C#m  G#m F#
    Во славе воссел на трон, мой Царь будь превознесен!</lyrics>
-<hymn_number>4</hymn_number>
-<author>Slavic New Beginnings Church</author>
-<title>Аллилуйя Ты победу одержал</title>
+<aka>Исцеление пришло из пронзённых рук Христа.</aka>
 <key>D</key>
 </song>

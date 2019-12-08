@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Твою благодать не могу я понять</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>590</hymn_number>
+<title>Твою благодать не могу я понять</title>
 <author>Павел Плахотин</author>
 <lyrics>[V1]
  1 куплет:
@@ -56,6 +56,6 @@
    Через Кровь, через Кровь Христа
 .   Hm              E  Hm          E
    Я каждый день живу благодатью новой.</lyrics>
-<hymn_number>590</hymn_number>
 <aka>Благодать</aka>
+<key>G</key>
 </song>

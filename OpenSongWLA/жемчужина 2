@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>811</hymn_number>
 <title>Жемчужина</title>
+<author>Ольга Вельгус</author>
 <lyrics>[V1]
  1 куплет:
 . Dm                   Gm
@@ -35,6 +36,5 @@
  Я твоею создана рукой.
  Выше счастья нет, чем нести Твой Свет,
  Сердцем отражая образ Твой</lyrics>
-<hymn_number>811</hymn_number>
-<author>Ольга Вельгус</author>
+<key>D</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Это рождество</title>
-<key>F</key>
-<hymn_number>2272</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
 <lyrics>[V1]
  1 куплет:
 .F              Bb
@@ -37,4 +35,6 @@
  Этот миг далек от нас!
  Так давай сейчас в Его День Рождения</lyrics>
 <author>Открытое небо</author>
+<title>Это рождество</title>
+<hymn_number>2272</hymn_number>
 </song>

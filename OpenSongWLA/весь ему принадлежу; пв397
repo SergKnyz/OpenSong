@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Весь Ему принадлежу; ПВ397</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Весь Ему принадлежу; ПВ397</title>
+<hymn_number>397</hymn_number>
 <lyrics>[V1]
  Все Иисусу отдаю я,
  Весь Ему принадлежу;
@@ -35,6 +35,6 @@
  Чудо Он во мне свершил:
  Мир и радость дал святую.
  Слава, слава Богу сил!</lyrics>
-<hymn_number>397</hymn_number>
 <aka>Все Иисусу отдаю я</aka>
+<key>E</key>
 </song>

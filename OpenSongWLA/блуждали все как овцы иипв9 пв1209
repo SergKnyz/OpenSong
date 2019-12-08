@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<time_sig>4/4</time_sig>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Ходили каждый своим путём,</aka>
+<key>G</key>
 <title>Блуждали все как овцы ИИПВ9 ПВ1209</title>
+<tempo>70</tempo>
 <hymn_number>1209</hymn_number>
+<time_sig>4/4</time_sig>
 <lyrics>[V1]
 .  G               D
  Блуждали все, как овцы мы,
@@ -35,6 +37,4 @@
  Через Сына к Себе,
  Омой кровью Его,
  Дай пасть пред Тобой.</lyrics>
-<tempo>70</tempo>
-<aka>Ходили каждый своим путём,</aka>
 </song>

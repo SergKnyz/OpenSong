@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
-<title>Вся земля Господа славит ИИПВ62</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .  Em                B7
  Вся земля Господа славит,
 .                           Em
@@ -16,4 +14,7 @@
 .   AmD7     G   Em        C      B7
    Мы восхвалим. Господь правит всем!</lyrics>
 <hymn_number>62</hymn_number>
+<title>Вся земля Господа славит ИИПВ62</title>
+<key>Em</key>
+<aka>Каждый день Господа восхвалим.</aka>
 </song>

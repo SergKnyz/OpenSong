@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Будь жизнью моей</title>
-<hymn_number>1968</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .F    G      Am     F        G         Am
  К Тебе прихожу  и жизнь свою у Твоих ног положу,
@@ -48,5 +45,8 @@
 .   Hm                  G         A
    Могущественным Духом укрепи меня.</lyrics>
 <author>Reallife band</author>
+<title>Будь жизнью моей</title>
+<hymn_number>1968</hymn_number>
+<key>F</key>
 <aka>К Тебе прихожу  и жизнь свою у Твоих ног положу,</aka>
 </song>

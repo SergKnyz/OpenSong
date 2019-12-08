@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
-<title>Вверх на Голгофу, в тот страшный день</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Вверх на Голгофу, в тот страшный день</title>
 <hymn_number>4231</hymn_number>
 <lyrics>[V1]
 .Em         G            D
@@ -53,4 +52,5 @@
    Святый, Невинный - мой Избавитель
    Ты мой Спаситель, умер за всех</lyrics>
 <aka>Благословенный мой Искупитель</aka>
+<key>Em</key>
 </song>

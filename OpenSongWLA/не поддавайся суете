@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Не поддавайся суете</title>
-<hymn_number>2564</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .C                 E
  1. Остановись, друг, друг вразумись,
 .  Am               F
@@ -44,4 +41,7 @@
  Ее присутствие вокруг тебя
  Заменит Свет Любви Отца.</lyrics>
 <author>Владимир Скобочкин</author>
+<title>Не поддавайся суете</title>
+<hymn_number>2564</hymn_number>
+<key>C</key>
 </song>

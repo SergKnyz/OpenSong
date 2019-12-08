@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>360</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <lyrics>[V1]
  Сколько раз, скорбя жестоко,
  Ты со вздохом повторял:
@@ -22,6 +22,6 @@
  Ныне день: Христос зовет,
  Даром Он и безвозвратно
  Полный мир душе дает.</lyrics>
-<key>C</key>
 <title>Сколько раз скорбя жестоко ПВ360</title>
+<hymn_number>360</hymn_number>
 </song>

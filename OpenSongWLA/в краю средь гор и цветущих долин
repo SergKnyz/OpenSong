@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1388</hymn_number>
 <title>В краю средь гор и цветущих долин</title>
-<aka>Баллада о трёх сыновьях</aka>
 <author>Татьяна Шилова</author>
 <lyrics>[V1]
 .     Em       Am       D       Em
@@ -114,5 +113,6 @@
    Кроткий сердцем и духом смирен
 .         Am       D      | Em  C Am D | Em C Am D | Em C Am D | C Hm Em |
    Верный сын унаследовал трон__</lyrics>
-<hymn_number>1388</hymn_number>
+<aka>Баллада о трёх сыновьях</aka>
+<key>E</key>
 </song>

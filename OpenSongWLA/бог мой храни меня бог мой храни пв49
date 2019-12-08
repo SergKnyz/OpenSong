@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Бог мой храни меня Бог мой храни ПВ49</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Бог мой храни меня Бог мой храни ПВ49</title>
 <hymn_number>49</hymn_number>
 <lyrics>[V1]
 .F#             C#              F#
@@ -38,4 +37,5 @@
  В вере Твоей святой:
  Бог мой, храни меня!
  Бог мой, храни!</lyrics>
+<key>F</key>
 </song>

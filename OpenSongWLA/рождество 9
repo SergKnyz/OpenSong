@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1568</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Рождество</title>
+<hymn_number>1568</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Dm                        Gm
@@ -28,6 +30,4 @@
  Мудрецы пришли с востока и несли дары
  Радостно к Нему спешили с поля пастухи</lyrics>
 <author>Инна Звягинцева</author>
-<key>D</key>
-<title>Рождество</title>
 </song>

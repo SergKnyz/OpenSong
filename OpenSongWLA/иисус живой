@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
-<title>Иисус живой</title>
 <aka>Кто-то хвалится машиной</aka>
-<author>Валерий Короп</author>
-<hymn_number>2207</hymn_number>
 <lyrics>[V1]
 . Em        C         G   D Em   C         G D
  Кто-то хвалится машиной, у кого-то поезда.
@@ -27,4 +24,7 @@
  Радость льется через край.
  И если хочешь эту радость
  Ты в свое сердце принима-а-а-ай.</lyrics>
+<author>Валерий Короп</author>
+<title>Иисус живой</title>
+<hymn_number>2207</hymn_number>
 </song>

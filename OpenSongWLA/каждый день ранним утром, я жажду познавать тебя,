@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Каждый день ранним утром, я жажду познавать Тебя,</title>
-<key>C#m</key>
-<aka>Бог живой</aka>
-<author>Слово Жизни Music</author>
+<hymn_number>193</hymn_number>
 <lyrics>[V1]
  BPM - 127
 
@@ -44,5 +42,7 @@
    Ты со мною Твой Дух ведет меня и наполняет Своей силой
 .  A          C#m              H
    Ты живой Бог яви нам чудеса и покажи нам Славу</lyrics>
-<hymn_number>193</hymn_number>
+<author>Слово Жизни Music</author>
+<aka>Бог живой</aka>
+<key>C#m</key>
 </song>

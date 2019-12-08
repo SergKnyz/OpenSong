@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
-<hymn_number>989</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <lyrics>[V1]
  Куплет:
 .       G         D
@@ -20,6 +19,7 @@
    Мост:
 .      Em                  Hm               A
    Обрати взор ко мне, освети сердце мне и дай мне видеть.</lyrics>
+<author>Виталий Ефремочкин</author>
 <title>Хочу я только</title>
-<key>G</key>
+<hymn_number>989</hymn_number>
 </song>

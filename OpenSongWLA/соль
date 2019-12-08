@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Соль</title>
-<author>Дмитрий Шлетгауэр</author>
-<hymn_number>1503</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Gm                   Bb           Dm F Am
@@ -41,4 +38,7 @@
    Если это Бог, то где чудеса?
 .  Gm                     F
    Если это свет, то какова же тьма?</lyrics>
+<author>Дмитрий Шлетгауэр</author>
+<title>Соль</title>
+<hymn_number>1503</hymn_number>
 </song>

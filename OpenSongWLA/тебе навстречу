@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Дима Фреш</author>
-<hymn_number>733</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>733</hymn_number>
+<title>Тебе навстречу</title>
+<author>Дима Фреш</author>
 <lyrics>[V1]
  1 куплет:
 .E               H
@@ -44,6 +45,5 @@
  Солнца луч изменил все вокруг
  И этот нежный рассвет воскресает в любви
  Его мы встретим вдвоем</lyrics>
-<title>Тебе навстречу</title>
 <key>E</key>
 </song>

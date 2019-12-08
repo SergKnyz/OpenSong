@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><tempo>70</tempo>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
+<aka>Стою, закрыв глаза.</aka>
 <author>Арина</author>
+<time_sig>2/4</time_sig>
 <lyrics>[V1]
 .              Em             Em
  В Господнем свете, в Его присутствии
@@ -39,9 +41,7 @@
  Господне имя поют мои уста,
 .   C       D    Em
  И дух мой сокрушен...</lyrics>
+<tempo>70</tempo>
 <hymn_number>40</hymn_number>
-<aka>Стою, закрыв глаза.</aka>
-<time_sig>2/4</time_sig>
 <title>В Господнем Свете, в Его присутствии</title>
-<key>Em</key>
 </song>

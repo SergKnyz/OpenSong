@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<title>Умей прощать</title>
-<author>Божье прикосновение</author>
-<hymn_number>177</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .F Bbm                       Fm
  Умей прощать, молись за обижающих,
@@ -34,4 +30,8 @@
  Но всей душой, всей сущностью своей.
  Ведь кровь Христа за всех была пролита.
  Учись прощать, чтоб ты прощен был сам.</lyrics>
+<author>Божье прикосновение</author>
+<title>Умей прощать</title>
+<hymn_number>177</hymn_number>
+<key>Bb</key>
 </song>

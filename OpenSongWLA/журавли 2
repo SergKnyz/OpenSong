@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Журавли</title>
-<key>D</key>
-<author>Русавуки</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<title>Журавли</title>
+<hymn_number>538</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .     Dm                           Gm  A7
@@ -69,5 +69,5 @@
  Помогите же им, поднимите и путь укажите,
 .    Gm                D                 Gm
  К Иисусу Христу вы молитву за них вознесите.</lyrics>
-<hymn_number>538</hymn_number>
+<author>Русавуки</author>
 </song>

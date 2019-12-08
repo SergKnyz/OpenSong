@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Воспою Красоту</title>
-<key>B</key>
-<author>Милана Люлькин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Милана Люлькин</author>
 <lyrics>[V1]
  1 куплет:
 .   Hm      A/C#    D     Hm   A/C#    D
@@ -32,5 +30,7 @@
  Наделил красотой Своей выбор дал знать куда идти
  Среди тёмных ***** ночей путь ко солнцу Он осветил</lyrics>
 <hymn_number>3140</hymn_number>
+<title>Воспою Красоту</title>
+<key>B</key>
 <aka>Я стою на земле Твоей небеса слава Твоя</aka>
 </song>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Песнь свободы</title>
-<copyright>2003 Ариосе Мусиц | Соылент Тунес</copyright>
-<hymn_number>3492</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3492</hymn_number>
+<title>Песнь свободы</title>
+<author>Петер Фурлер, Стеве Таылор</author>
 <lyrics>[V1]
  Песнь свободы
 
@@ -25,5 +25,5 @@
 [V4]
  Все силы ада трепещут и расступается тьма,
  Я знаю, Дух Святой приходит там, где льется хвала.</lyrics>
-<author>Петер Фурлер, Стеве Таылор</author>
+<copyright>2003 Ариосе Мусиц | Соылент Тунес</copyright>
 </song>

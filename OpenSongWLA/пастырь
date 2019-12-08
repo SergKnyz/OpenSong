@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Господь - Ты пастырь мой</aka>
-<author>Слово Жизни Music</author>
-<hymn_number>1233</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .D            G      D
  Господь - Ты пастырь мой
@@ -57,6 +54,9 @@
  Стою на истине Твоей
 .G        D            A  Hm
  Нуждаюсь только лишь в Тебе</lyrics>
-<key>D</key>
+<author>Слово Жизни Music</author>
 <title>Пастырь</title>
+<hymn_number>1233</hymn_number>
+<key>D</key>
+<aka>Господь - Ты пастырь мой</aka>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<author>Ольга Марина</author>
+<lyrics>[V1]
 .Dm Bb/D  Dm/C C Dm   Bb/D   Dm/C  C
  Душа  моя  жаждет  Тебя,  Бог  мой
 .     Dm   Bb/D     Dm/C  C    Bb Am Dm
@@ -30,7 +32,5 @@
 .C
  Открывай Небеса над нами</lyrics>
 <hymn_number>737</hymn_number>
-<author>Ольга Марина</author>
 <title>Душа моя жаждет Тебя</title>
-<key>D</key>
 </song>

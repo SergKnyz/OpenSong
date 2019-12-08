@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Надежда этой земли</title>
-<key>F#</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1931</hymn_number>
+<title>Надежда этой земли</title>
 <author>4U Band</author>
 <lyrics>[V1]
  1 куплет:
@@ -40,5 +40,5 @@
    Господь, во славу Отца Иисус,да скажут: Лишь Ты
 .  F#               C#
    Надежда этой земли!</lyrics>
-<hymn_number>1931</hymn_number>
+<key>F#</key>
 </song>

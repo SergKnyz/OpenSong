@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Chris Tomlin, Цхрис Томлин</author>
-<hymn_number>4080</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
 <lyrics>[V1]
  Куплет 1:
 .        Am
@@ -43,6 +42,7 @@
    Возвещу я в радости Твою славу
 .   C    (G - 2-й р.)
    Вечно!</lyrics>
-<key>A</key>
+<author>Chris Tomlin, Цхрис Томлин</author>
 <title>Жизнь Тебе Отдаю</title>
+<hymn_number>4080</hymn_number>
 </song>

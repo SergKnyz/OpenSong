@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Годы как птицы летят</title>
+<hymn_number>2</hymn_number>
+<lyrics>[V1]
 .C#         F   Bbm
  Годы как птицы летят,
 .C#        F       Bbm
@@ -43,8 +45,7 @@
  В этот осенний ты вечер,
  И не вернёшь их назад,
  В этот осенний ты вечер.</lyrics>
-<hymn_number>1743</hymn_number>
 <author>Игорь Яловец</author>
+<aka>Ты их совсем не заметишь,</aka>
 <key>Bbm</key>
-<title>Годы как птицы летят</title>
 </song>

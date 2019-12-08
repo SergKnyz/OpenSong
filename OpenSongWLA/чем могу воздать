@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#</key>
-<title>Чем могу воздать</title>
-<hymn_number>1732</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .F#m  F#m/F  F#m/E  F#m/F  F#m  F#m/F      F#7
  Чем могу воздать мой Господь за все что дал Ты мне
 .Hm  Hm/Bb  Hm/A   Hm/Bb  Hm           Dm
@@ -29,4 +26,7 @@
 . D                   E7
  Только для славы Твоей.</lyrics>
 <author>Николай Зарубин</author>
+<title>Чем могу воздать</title>
+<hymn_number>1732</hymn_number>
+<key>F#</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Если ищешь Христа</title>
-<key>Bb</key>
-<author>Sharikov Family Band</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
 <lyrics>[V1]
  1 куплет:
 .   Bbm          F  F#              Bbm
@@ -43,5 +41,7 @@
  Верни тех, кто стоит у обрыва скалы
  И для них у креста будет место,
  Для них будет место.</lyrics>
+<author>Sharikov Family Band</author>
+<title>Если ищешь Христа</title>
 <hymn_number>2558</hymn_number>
 </song>

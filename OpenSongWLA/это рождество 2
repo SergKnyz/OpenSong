@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>A-SIDE</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<hymn_number>2916</hymn_number>
+<title>Это рождество</title>
+<author>A-SIDE</author>
 <lyrics>[V1]
  1 куплет:
 .Dm                        Bb
@@ -45,7 +48,4 @@
    Это рождество - благая весть о Нём
 .  Dm            F/A           Bb  C Dm Bb
    И радостью полны ликуют небеса__</lyrics>
-<hymn_number>2916</hymn_number>
-<title>Это рождество</title>
-<key>D</key>
 </song>

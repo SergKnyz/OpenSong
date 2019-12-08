@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Вельгус</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <hymn_number>724</hymn_number>
+<title>Лучший Друг</title>
+<author>Ольга Вельгус</author>
 <lyrics>[V1]
  1 куплет:
 .Cm                       Fm                G
@@ -72,6 +74,4 @@
  Я в тебя так верю... Жду домой и живу любя...
 .H          Em
  Я люблю тебя (3 раза)</lyrics>
-<title>Лучший Друг</title>
-<key>C</key>
 </song>

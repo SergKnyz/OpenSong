@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Завтра</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1895</hymn_number>
+<title>Завтра</title>
+<author>Набат</author>
 <lyrics>[C1]
 .  D
    Нам кажется, завтра мы будем прилежней
@@ -42,6 +43,5 @@
    И завтра преклоним пред Богом колени,
    Не ныне, а завтра потом.
    Припев:</lyrics>
-<hymn_number>1895</hymn_number>
-<author>Набат</author>
+<key>D</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вот путник шествует ПВ862</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Вот путник шествует
  в страну далекую.
  Узок и темен его путь.
@@ -39,6 +37,8 @@
  Армии Божьих слуг,
  Слышно, вдали поют,
  чтобы потом отдохнуть.</lyrics>
+<title>Вот путник шествует ПВ862</title>
 <hymn_number>862</hymn_number>
+<key>E</key>
 <aka>в страну далекую.</aka>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<lyrics>[V1]
  Куплет 1:
 .Am   G      C
  Давай славить Бога,
@@ -30,8 +31,7 @@
  Не смогут меня от любви оторвать.
  Ни высь, ни глубь, ни какое творенье
  Не смогут уже нас с Тобой разлучать.</lyrics>
-<hymn_number>2651</hymn_number>
 <author>Iota worship</author>
 <title>Давай славить</title>
-<key>A</key>
+<hymn_number>2651</hymn_number>
 </song>

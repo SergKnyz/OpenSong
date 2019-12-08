@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4734</hymn_number>
 <title>Игра в христианство</title>
+<author>Пётр Бальжик</author>
 <lyrics>[V1]
  1 куплет:
 .   Fm       Bbm      C               Fm
@@ -42,6 +43,5 @@
    Неподдельной пред Ним, постоянно святой.
    Состояние это особо прекрасно-
    Жить для славы небесной в долине земной.</lyrics>
-<hymn_number>4734</hymn_number>
-<author>Пётр Бальжик</author>
+<key>F</key>
 </song>

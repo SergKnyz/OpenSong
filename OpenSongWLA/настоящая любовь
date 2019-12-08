@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Настоящая любовь</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>RealIvanna</author>
 <lyrics>[V1]
  1 куплет:
 .Am                                      F
@@ -40,5 +39,6 @@
 .       F                  G
    Настоящая любовь никогда не придаёт.</lyrics>
 <hymn_number>223</hymn_number>
-<author>RealIvanna</author>
+<title>Настоящая любовь</title>
+<key>A</key>
 </song>

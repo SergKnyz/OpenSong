@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Твой крест</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев, Last Time</author>
 <lyrics>[V1]
  1 куплет:
 .Am                    Em
@@ -29,5 +28,6 @@
  Ты дал мне смысл жизни, Твоим словом я живу.
  Я люблю Тебя! Твой крест - всё для меня!</lyrics>
 <hymn_number>2631</hymn_number>
-<author>Алексей Каратаев, Last Time</author>
+<title>Твой крест</title>
+<key>A</key>
 </song>

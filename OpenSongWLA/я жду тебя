@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
+<author>Сила Веры церковь</author>
+<lyrics>[V1]
  Куплет:
 .         D  Em
  Я жду Тебя всей душой
@@ -29,7 +31,5 @@
 .        G               Em       A
    Свою милость яви мне жажду Тебя</lyrics>
 <hymn_number>1286</hymn_number>
-<author>Сила Веры церковь</author>
-<key>D</key>
 <title>Я жду Тебя</title>
 </song>

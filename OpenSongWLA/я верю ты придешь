@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я верю Ты придешь</title>
-<key>Bb</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1981</hymn_number>
+<title>Я верю Ты придешь</title>
+<author>Ольга Беглец</author>
 <lyrics>[V1]
  1 куплет:
 .   D#                 Cm
@@ -24,6 +25,5 @@
  И вместе вечно будем Ты и я!
  Пусть много еще ждать но верю в благодать
  Твоя любовь мне греет сердце вновь и вновь!</lyrics>
-<hymn_number>1981</hymn_number>
-<author>Ольга Беглец</author>
+<key>Bb</key>
 </song>

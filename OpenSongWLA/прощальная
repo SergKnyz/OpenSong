@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1658</hymn_number>
 <title>Прощальная</title>
 <author>Альфа</author>
 <lyrics>[V1]
@@ -69,5 +69,5 @@
    И пускай горели звезды -
 .         Am        Em
    Ни сгорали никогда.</lyrics>
-<hymn_number>1658</hymn_number>
+<key>E</key>
 </song>

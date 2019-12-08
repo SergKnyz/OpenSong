@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Без Тебя мы ничто, без Тебя мы никто</title>
-<key>D</key>
-<aka>Мы просто сосуды пустые внутри</aka>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .                 D                  G
  Без Тебя мы ничто, без Тебя мы никто
@@ -41,6 +38,9 @@
 [B2]
    Концовка:
    Без Тебя мы ничто</lyrics>
-<hymn_number>2615</hymn_number>
 <author>Просто сосуды</author>
+<title>Без Тебя мы ничто, без Тебя мы никто</title>
+<hymn_number>2615</hymn_number>
+<key>D</key>
+<aka>Мы просто сосуды пустые внутри</aka>
 </song>

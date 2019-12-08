@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1935</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>F#m</key>
+<hymn_number>1935</hymn_number>
+<title>Хава нагила</title>
+<author>Неизвестный</author>
 <lyrics>[V1]
 .C#
  Хава нагила хава нагила
@@ -58,7 +61,4 @@
  Ликуй
 .               F#m
  вместе Наша Земля.</lyrics>
-<author>Неизвестный</author>
-<title>Хава нагила</title>
-<key>F#m</key>
 </song>

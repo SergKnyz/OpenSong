@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Превознесен</title>
-<key>E</key>
-<hymn_number>124</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .Em                  Hm
  До краёв земли Ты меня с Собой влеки
@@ -36,4 +33,7 @@
 .  C                        D
  Святый Господь, Ты воскрешён</lyrics>
 <author>Галим Хусаинов</author>
+<title>Превознесен</title>
+<hymn_number>124</hymn_number>
+<key>E</key>
 </song>

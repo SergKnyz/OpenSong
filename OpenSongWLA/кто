@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Юрий Шпак</author>
-<hymn_number>2035</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Em       H      Em
  Люди хотят осознать жизни суть,
 .          D      G
@@ -53,6 +51,8 @@
  Кто говорит: &quot;Я повсюду с тобой&quot;? Это Иисус, Бог живой.
 .D#m7          Bbm      F#    F     Bbm
  Кто говорит: &quot;Я повсюду с тобой&quot;? Это Иисус, Бог живой.</lyrics>
+<author>Юрий Шпак</author>
 <title>Кто?</title>
+<hymn_number>2035</hymn_number>
 <key>E</key>
 </song>

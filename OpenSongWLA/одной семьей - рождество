@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Одной Семьей - Рождество</title>
-<key>G</key>
-<hymn_number>3822</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <lyrics>[V1]
  1 куплет:
 .G         Am/E                G
@@ -48,4 +46,6 @@
 .  G    Am/E      G/D         Am/E
    О рождении Христа (С Рождеством тебя)</lyrics>
 <author>Slavic New Beginnings Church</author>
+<title>Одной Семьей - Рождество</title>
+<hymn_number>3822</hymn_number>
 </song>

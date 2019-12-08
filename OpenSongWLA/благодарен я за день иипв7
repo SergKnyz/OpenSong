@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Благодарен я за день ИИПВ7</title>
-<aka>Что ты мне дал, Господь</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Благодарен я за день ИИПВ7</title>
+<hymn_number>7</hymn_number>
 <lyrics>[V1]
 .  A
  Благодарен я за день,
@@ -79,5 +78,6 @@
    Тем,кто причинил когда-то
    Больдуше моей, Господь.
    Хочуя отдать Твою любовь.</lyrics>
-<hymn_number>7</hymn_number>
+<aka>Что ты мне дал, Господь</aka>
+<key>A</key>
 </song>

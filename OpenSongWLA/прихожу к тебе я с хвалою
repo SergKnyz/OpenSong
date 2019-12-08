@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Прихожу к Тебе я с хвалою</title>
-<key>G</key>
-<author>Милана</author>
 <hymn_number>1325</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -42,4 +40,6 @@
    Ты велик! И дела Твои сильны!
    Всемогущий и Святой,
    Нет подобного Тебе!</lyrics>
+<author>Милана</author>
+<key>G</key>
 </song>

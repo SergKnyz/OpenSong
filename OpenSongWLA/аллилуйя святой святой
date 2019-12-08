@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Аллилуйя Святой Святой</title>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Хочу я быть ближе, ближе к Тебе</aka>
 <key>G</key>
-<aka>Хочу я быть ближе, ближе к Тебе</aka>
+<title>Аллилуйя Святой Святой</title>
+<hymn_number>326</hymn_number>
 <lyrics>[V1]
  Куплет:
 .G            Am      D/F#     G
@@ -35,6 +36,5 @@
    Кто сможет устоять перед Его величием
 .  Em     C        G  D
    Величием, величием.</lyrics>
-<hymn_number>326</hymn_number>
 <author>Алексей Каратаев, Виталий Ефремочкин, Ольга Марина, Йаред Андерсон</author>
 </song>

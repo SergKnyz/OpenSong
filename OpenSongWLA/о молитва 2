@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>О молитва</title>
+<?xml version="1.0" encoding="UTF-8"?><song><title>О молитва</title>
+<hymn_number>3168</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .    Fm         Bbm             Fm    C    Fm
@@ -55,6 +55,6 @@
    К небесам сердечный вздох возносился средь тревог
 .       Am    H         Em
    Я в молитве радость получал.</lyrics>
-<hymn_number>3168</hymn_number>
 <author>Simon Khorolskiy</author>
+<key>F</key>
 </song>

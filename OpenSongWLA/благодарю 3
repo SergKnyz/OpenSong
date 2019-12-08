@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Благодарю</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <aka>Благодарю Тебя за солнца свет.</aka>
-<hymn_number>3877</hymn_number>
+<author>Михаил Мантай и Богдан Коваль</author>
 <lyrics>[V1]
  Музыка и слова - Богдан Коваль.
 
@@ -57,5 +56,6 @@
    Бла-го-да-рю, за всё, Господь, благодарю!
 .  G    F#m  Hm  Em          A           D
    Бла-го-да-рю, за всё, Господь, благодарю!</lyrics>
-<author>Михаил Мантай и Богдан Коваль</author>
+<hymn_number>3877</hymn_number>
+<title>Благодарю</title>
 </song>

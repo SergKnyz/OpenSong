@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<author>Сергей Брикса</author>
-<title>Каждый день на устах моих</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Сергей Брикса</author>
+<key>F</key>
 <lyrics>[V1]
 .F
  Каждый день на устах моих
@@ -37,4 +36,5 @@
  В моём сердце опять звучит
  Иисусу Царю Псалом.</lyrics>
 <aka>Я буду славить Господа Христа</aka>
+<title>Каждый день на устах моих</title>
 </song>

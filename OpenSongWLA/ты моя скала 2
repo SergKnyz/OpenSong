@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Ты моя Скала</title>
 <author>Not An Idol</author>
-<hymn_number>3549</hymn_number>
 <lyrics>[V1]
  Куплет:
 .Cm   Eb        Bb
@@ -34,4 +32,6 @@
    Сквозь боли и страх ввысь на руках
 .               E        G
    Подними, если я споткнусь.</lyrics>
+<hymn_number>3549</hymn_number>
+<title>Ты моя Скала</title>
 </song>

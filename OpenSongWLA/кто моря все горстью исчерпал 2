@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Кто моря все горстью исчерпал</title>
-<key>C</key>
-<hymn_number>3818</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <lyrics>[V1]
  1 Куплет:
 .  C           Em
@@ -46,4 +44,6 @@
 .             F
    Будь прославлен на земле!</lyrics>
 <author>Ковчег церковь Днепропетровск</author>
+<title>Кто моря все горстью исчерпал</title>
+<hymn_number>3818</hymn_number>
 </song>

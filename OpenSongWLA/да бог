@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Да Бог</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Да Бог</title>
+<hymn_number>2112</hymn_number>
 <lyrics>[V1]
 .A    D     F#m   E
  Я слагаю болезни.
@@ -28,6 +29,5 @@
  Даже если всю ночь длился плачь,
 .A
  то на утро Божья радость.</lyrics>
-<hymn_number>2112</hymn_number>
 <author>Неизвестный</author>
 </song>

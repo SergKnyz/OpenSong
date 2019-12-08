@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>170</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Каратаев</author>
 <lyrics>[V1]
  1 куплет:
 .   C             Am                 F
@@ -28,8 +28,8 @@
    Мост:
 .            F           Am               G
    Когда я славлю Тебя поют небеса и Земля поёт</lyrics>
-<author>Алексей Каратаев</author>
-<aka>Величествен</aka>
-<key>A</key>
+<hymn_number>170</hymn_number>
 <title>Любовь во мне живёт и надежда с небес</title>
+<key>A</key>
+<aka>Величествен</aka>
 </song>

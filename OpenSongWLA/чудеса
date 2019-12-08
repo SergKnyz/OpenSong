@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Чудеса</title>
 <author>Supernatural Worship, Йесус Цултуре</author>
-<hymn_number>1617</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Am7                  Em
@@ -39,4 +37,6 @@
    Кто мёртвым возвращает жизнь,
 .                    C
    Творящий чудеса, Творящий чудеса!</lyrics>
+<hymn_number>1617</hymn_number>
+<title>Чудеса</title>
 </song>

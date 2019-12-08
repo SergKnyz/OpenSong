@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Боже мой это Ты это Ты ПВ1495</title>
-<aka>Как прекрасно всё то что Твое</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Боже мой это Ты это Ты ПВ1495</title>
 <hymn_number>1495</hymn_number>
 <lyrics>[V1]
 .Am
@@ -49,4 +47,6 @@
  Пред величием Твоим я немею.
  Это Ты мне, Спаситель, даешь,
  Все то доброе, что я имею.</lyrics>
+<aka>Как прекрасно всё то что Твое</aka>
+<key>C</key>
 </song>

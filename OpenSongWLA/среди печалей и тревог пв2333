@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Среди печалей и тревог ПВ2333</title>
-<hymn_number>2333</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Среди печалей и тревог
  Житейского волненья
  Лишь Ты Один, Господь мой Бог,
@@ -24,4 +21,7 @@
  Вмиг солнце засияло.
  Я исцелен теперь вполне,
  Жизнь новая настала.</lyrics>
+<hymn_number>2333</hymn_number>
+<title>Среди печалей и тревог ПВ2333</title>
+<key>A</key>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Алексей Шкляев</author>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>402</hymn_number>
+<title>Боже стою я сейчас пред тобой</title>
+<author>Алексей Шкляев</author>
 <lyrics>[V1]
 .C                          G
  Боже стою я сейчас пред тобой,
@@ -37,8 +39,6 @@
  И не смущается сердце у нас,
  Когда в небо возносим хвалебный свой глас,
  Что ты наш Бог, Что ты наш Бог!</lyrics>
-<hymn_number>402</hymn_number>
 <aka>Хвала тебе мой Иисус</aka>
-<title>Боже стою я сейчас пред тобой</title>
 <key>C</key>
 </song>

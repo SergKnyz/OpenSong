@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я убеждён</title>
-<key>E</key>
-<hymn_number>152</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин, Йаке Хамилтон</author>
 <lyrics>[V1]
  1 куплет:
 .Em                  C         D    Em C D
@@ -45,5 +43,7 @@
  Пусть придёт Иисус, пусть придёт Иисус
 .                D                   Am
  Пусть придёт Иисус, пусть придёт Иисус</lyrics>
-<author>Виталий Ефремочкин, Йаке Хамилтон</author>
+<hymn_number>152</hymn_number>
+<title>Я убеждён</title>
+<key>E</key>
 </song>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я каждый день стою на страже</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>797</hymn_number>
+<title>Я каждый день стою на страже</title>
 <author>Сусанна Шарикова</author>
 <lyrics>[V1]
 .Dm           Gm
@@ -39,5 +39,5 @@
  Конец пути не за горой,
  Когда Спаситель мне укажет
  Приют в Отчизне неземной.</lyrics>
-<hymn_number>797</hymn_number>
+<key>D</key>
 </song>

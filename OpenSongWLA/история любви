@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<author>Авана</author>
+<lyrics>[V1]
  1 куплет:
 .  Cm       Bb      G#          Bb
  Историю любви кто может рассказать,
@@ -47,7 +49,5 @@
  Простое чувство в нежной красоте.
  Она несет покой душе, душе.</lyrics>
 <hymn_number>101</hymn_number>
-<author>Авана</author>
-<key>C</key>
 <title>История Любви</title>
 </song>

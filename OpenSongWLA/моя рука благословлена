@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Моя рука благословлена</title>
-<key>F</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .       F             Gm7 C
  Моя рука благословлена.
 .       Gm7  C        F  F7
@@ -15,5 +13,7 @@
    Любовью Своей
 .                 F
    Он наполнил меня.</lyrics>
+<title>Моя рука благословлена</title>
 <hymn_number>203</hymn_number>
+<key>F</key>
 </song>

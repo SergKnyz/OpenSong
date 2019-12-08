@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
-<title>Бог моей жизни</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .D        A  D
  Бог моей жизни!
 .D               Bm
@@ -13,4 +11,6 @@
  Бог моей жизни, Отче!
 .G        Em        A    D
  Только в Тебе, нахожу покой!</lyrics>
+<key>D</key>
+<title>Бог моей жизни</title>
 </song>

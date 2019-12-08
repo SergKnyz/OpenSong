@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<author>Brynza Brothers</author>
+<lyrics>[V1]
  1 куплет:
 .      Gm      D     Gm
  Шаги слышны уже Христовы
@@ -31,7 +33,5 @@
 . Cm      F     Bb
  Снега белее тебя</lyrics>
 <hymn_number>3077</hymn_number>
-<author>Brynza Brothers</author>
 <title>Завтра Будет Поздно</title>
-<key>G</key>
 </song>

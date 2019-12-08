@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>В простоте</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4172</hymn_number>
+<title>К Тебе в простоте иду, жажду я чистоту</title>
+<author>Слово Жизни Москва</author>
 <lyrics>[V1]
  1 куплет:
 .                E               A
@@ -34,8 +36,6 @@
    Как люблю я, как люблю я
 .          A          E
    Как люблю я Бог Тебя</lyrics>
-<hymn_number>4172</hymn_number>
-<author>Слово Жизни Москва</author>
-<title>К Тебе в простоте иду, жажду я чистоту</title>
+<aka>В простоте</aka>
 <key>E</key>
 </song>

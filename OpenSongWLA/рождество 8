@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Рождество</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
+<title>Рождество</title>
+<hymn_number>1250</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .                    A   F#m                 E/G# C#m
@@ -28,6 +29,5 @@
  Если принял ты Христа будешь с Ним в Отчизне!
  Это праздник Рождества - символ новой жизни.
  Если принял ты Христа будешь с Ним в Отчизне!</lyrics>
-<hymn_number>1250</hymn_number>
 <author>Сион</author>
 </song>

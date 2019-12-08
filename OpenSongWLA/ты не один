@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты не один</title>
-<key>B</key>
-<author>Дима Фреш</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .Hm
  Если ты упал и не видно пути
@@ -42,5 +39,8 @@
    Это новый я
 .  A
    Это новый Ты</lyrics>
+<author>Дима Фреш</author>
+<title>Ты не один</title>
 <hymn_number>417</hymn_number>
+<key>B</key>
 </song>

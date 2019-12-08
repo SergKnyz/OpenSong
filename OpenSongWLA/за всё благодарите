@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>За всё благодарите</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .                Gm                   Bb
  Праздник жатвы наступил как ты этот год прожил?
@@ -28,6 +26,8 @@
  Как песок рассыпется и все уйдет в никуда.
  Только милость вечная, Божья бесконечная
  На Земле останется, ведь Он Бог твой.</lyrics>
-<hymn_number>3917</hymn_number>
 <author>Виктор Шатецкий, Алла Чепикова</author>
+<title>За всё благодарите</title>
+<hymn_number>3917</hymn_number>
+<key>G</key>
 </song>

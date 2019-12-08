@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Спасение церковь г. Вишневое</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .     Am   F    Dm         E
  Славою Своей меня Ты осветил,
@@ -27,7 +26,8 @@
    Но, Себя Ты смирил, спасая меня,
 .             Dm        E                 Am
    Крестной смертью открыл мне путь в Небеса.</lyrics>
+<author>Спасение церковь г. Вишневое</author>
+<title>Славою Своей</title>
 <hymn_number>1210</hymn_number>
 <key>A</key>
-<title>Славою Своей</title>
 </song>

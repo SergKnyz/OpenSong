@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>С Тобой Одним весь мир становится другим</title>
-<key>Ab</key>
-<aka>Во мне сияй</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3788</hymn_number>
+<title>С Тобой Одним весь мир становится другим</title>
 <author>YFWorship</author>
 <lyrics>[V1]
  1 куплет:
@@ -46,5 +45,6 @@
    Ты нужен мне, являй Свой свет
 .  Cm Bb
    Дай всем познать Твою любовь</lyrics>
-<hymn_number>3788</hymn_number>
+<aka>Во мне сияй</aka>
+<key>Ab</key>
 </song>

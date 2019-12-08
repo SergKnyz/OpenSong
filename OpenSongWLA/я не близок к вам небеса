@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Сусанна Шарикова</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
+<title>Я не близок к вам небеса</title>
+<hymn_number>905</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .      Hm             F#
@@ -27,7 +29,5 @@
  Как когда нибудь
  Я сольюсь навек с звёздной высотой
  В небесах небес где царит Христос</lyrics>
-<hymn_number>905</hymn_number>
-<title>Я не близок к вам небеса</title>
-<key>B</key>
+<author>Сусанна Шарикова</author>
 </song>

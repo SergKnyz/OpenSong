@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Поклонюсь Тебе всем сердцем</title>
-<author>Виталий Ефремочкин</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Поклонюсь Тебе всем сердцем</title>
+<hymn_number>988</hymn_number>
 <lyrics>[V1]
  1 куплет:
 . A                G
@@ -29,5 +28,6 @@
  Отдаю всё, всё что есть у меня
  Поднимаю глаза к небесам
  Доверяюсь я Господним рукам</lyrics>
-<hymn_number>988</hymn_number>
+<author>Виталий Ефремочкин</author>
+<key>A</key>
 </song>

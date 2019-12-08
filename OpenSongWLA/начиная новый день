@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3258</hymn_number>
 <title>Начиная новый день</title>
 <lyrics>[V1]
 .G              Em                C           D
@@ -25,5 +25,5 @@
  Пусть сияет в них свет от великого Бога - Отца, а-а-а
  Пусть ещё миллионы заблудших людей, заблудших людей
  Наконец то поймут, кто для них всех нужней, всех нужней!</lyrics>
-<hymn_number>3258</hymn_number>
+<key>G</key>
 </song>

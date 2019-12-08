@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Да прославим Тебя</title>
-<time_sig>4/4</time_sig>
-<tempo>130</tempo>
 <lyrics>[C1]
 .   F
    Да прославим Тебя,
@@ -47,5 +44,8 @@
  Да рукоплещут вместе реки и леса,
 .C                  D7
  Ибо Твой свет воссиял во тьме.</lyrics>
+<time_sig>4/4</time_sig>
+<title>Да прославим Тебя</title>
 <hymn_number>92</hymn_number>
+<tempo>130</tempo>
 </song>

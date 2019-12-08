@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Новое Небо</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <author>Simon Khorolskiy</author>
 <lyrics>[V1]
  1 куплет:
@@ -34,4 +33,5 @@
 .  Gm      F        Bb Gm         A
  Напиши; ибо слова сии истинны и верны, истинны и верны.</lyrics>
 <hymn_number>745</hymn_number>
+<title>Новое Небо</title>
 </song>

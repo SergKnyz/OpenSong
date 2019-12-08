@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1119</hymn_number>
 <title>Если пришла беда ПВ1074</title>
-<hymn_number>1119</hymn_number>
 <lyrics>[V1]
  Если пришла беда,
  Кто нам, скажите, поможет?
@@ -24,4 +23,5 @@
  Если скорбей так много.
  И ты познаешь суть
  Счастья в общении с Богом.</lyrics>
+<key>G</key>
 </song>

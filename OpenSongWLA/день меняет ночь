@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>День меняет ночь</title>
-<key>E</key>
-<author>Алексей Грудинский</author>
 <hymn_number>16</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -27,4 +25,6 @@
 [V2]
 .Em   C     G        D      Em C G D
  Небеса поют - открываются больше.</lyrics>
+<author>Алексей Грудинский</author>
+<key>E</key>
 </song>

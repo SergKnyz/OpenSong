@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Ближе к Богу</title>
-<aka>Ты даешь огонь Свой</aka>
-<author>NG Worship</author>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Куплет:
 .          Em        G
  Ты даешь огонь Свой
@@ -26,5 +22,9 @@
    Любовь Христа переполняет
 .        C          G
    Изнутри горит огнём</lyrics>
+<author>NG Worship</author>
+<title>Ближе к Богу</title>
 <hymn_number>64</hymn_number>
+<key>E</key>
+<aka>Ты даешь огонь Свой</aka>
 </song>

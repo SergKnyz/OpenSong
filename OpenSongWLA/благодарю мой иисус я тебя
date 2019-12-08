@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Благодарю мой Иисус я Тебя</title>
-<key>Dm</key>
-<aka>Ты в мир пришел, чтоб спасти здесь меня</aka>
+<hymn_number>4427</hymn_number>
 <lyrics>[V1]
 .Dm     F   Gm   Dm       A
  Благодарю, мой Иисус, я Тебя.
@@ -42,5 +41,6 @@
    Моя хвала Тебе и песнь моя Тебе
    За зелень на лугах, за поле хлеба,
    За счастия минуты на земле.</lyrics>
-<hymn_number>4427</hymn_number>
+<aka>Ты в мир пришел, чтоб спасти здесь меня</aka>
+<key>Dm</key>
 </song>

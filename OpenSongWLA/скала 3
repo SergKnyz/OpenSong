@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Скала</title>
-<key>A</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>3297</hymn_number>
+<title>Скала</title>
+<author>IFound Worship</author>
 <lyrics>[V1]
  1 куплет:
 .A2           E/G#
@@ -24,6 +25,5 @@
  Ты все понимал,
  Ведь был так влюблен,
  Что жизнь отдал - за меня.</lyrics>
-<hymn_number>3297</hymn_number>
-<author>IFound Worship</author>
+<key>A</key>
 </song>

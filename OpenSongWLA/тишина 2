@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1802</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . E Gbm
  Тишина, ночь прикрыла равнину крылом
 .B A B
@@ -20,7 +19,8 @@
  Совершилися ныне на грешной земле
  В величавом безмолвии Божьи дела
  В сердце мир, тишина, тишина.</lyrics>
-<aka>Тишина, ночь прикрыла равнину крылом</aka>
-<key>E</key>
+<hymn_number>1802</hymn_number>
 <title>Тишина</title>
+<key>E</key>
+<aka>Тишина, ночь прикрыла равнину крылом</aka>
 </song>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F</key>
-<title>Хочется в небо</title>
-<author>Sharikov Family Band</author>
-<hymn_number>3207</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Sharikov Family Band</author>
 <lyrics>[V1]
  1 куплет:
 .Fm
@@ -45,4 +42,7 @@
  Встреча с Иисусом, Он ждёт нас там всех нас.
  Он умирал, чтоб мы жили всегда,
  Мы буду петь у престола Отца!</lyrics>
+<hymn_number>3207</hymn_number>
+<title>Хочется в небо</title>
+<key>F</key>
 </song>

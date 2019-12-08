@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Наш Бог чудотворний Бог</title>
-<key>E</key>
-<author>Неизвестный</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
 <lyrics>[V1]
 .Em      Hm       Em     G  D
  Дякую    я за все Ти Господь над усе,
@@ -30,5 +28,7 @@
 
 [C2]
    Приспів: 2 р</lyrics>
+<author>Неизвестный</author>
+<title>Наш Бог чудотворний Бог</title>
 <hymn_number>1156</hymn_number>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Война окончена</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  1 куплет:
 .          G
  Войну окончил, смерть пленил,
@@ -57,7 +55,9 @@
 [V4]
  перевод: Анна Швец
  В оригинале - Ре-мажор, играю аккордами Соль-мажор с капо на 3 ладу</lyrics>
-<hymn_number>2560</hymn_number>
 <author>Bethel Music, Бетхел Мусиц</author>
+<title>Война окончена</title>
+<hymn_number>2560</hymn_number>
+<key>C</key>
 <aka>Войну окончил, смерть пленил,</aka>
 </song>

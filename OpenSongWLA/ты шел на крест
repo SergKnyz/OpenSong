@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты шел на крест</title>
-<key>D</key>
-<author>Кристина Осельская</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <lyrics>[V1]
  1 куплет:
 .     Dm           Gm            A                    Dm
@@ -43,5 +41,7 @@
  Капли крови Твоей не затоптали ноги идущих
  О Голгофа Ты прошла через сердце мое
  Дай познать мне что значит этот крест</lyrics>
+<author>Кристина Осельская</author>
+<title>Ты шел на крест</title>
 <hymn_number>834</hymn_number>
 </song>

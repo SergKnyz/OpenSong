@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Всё от Него и им сотворено</title>
-<aka>Ему за всё слава</aka>
-<author>Селах</author>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Селах</author>
 <lyrics>[V1]
  1 куплет:
 .Em        C    D        Em
@@ -25,4 +22,7 @@
  О, бездна богатства, премудрости Христа.
  Непостижимы судьбы Господа.</lyrics>
 <hymn_number>274</hymn_number>
+<title>Всё от Него и им сотворено</title>
+<key>E</key>
+<aka>Ему за всё слава</aka>
 </song>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Бурное море</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>995</hymn_number>
+<title>По житейскому бурному морю</title>
+<author>Кристалл</author>
 <lyrics>[V1]
  1 куплет:
 .    Dm
@@ -34,8 +36,6 @@
  Доверьте Иисусу себя -
  Незримой рукою поддержит
  Очаг ваш семейный друзья.</lyrics>
-<hymn_number>995</hymn_number>
-<author>Кристалл</author>
+<aka>Бурное море</aka>
 <key>D</key>
-<title>По житейскому бурному морю</title>
 </song>

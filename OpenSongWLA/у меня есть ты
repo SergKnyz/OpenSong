@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>У меня есть Ты</title>
 <author>Они</author>
-<hymn_number>229</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .C                G
@@ -48,4 +46,6 @@
  Тот, Кто за меня на кресте пронзен!
  Все могу я с Ним - Он мне силы дал
  Всё простил, омыл и оправдал!</lyrics>
+<hymn_number>229</hymn_number>
+<title>У меня есть Ты</title>
 </song>

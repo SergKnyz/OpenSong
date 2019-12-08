@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<title>Никогда никогда никогда</title>
-<author>Снежинка</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Никогда никогда никогда</title>
 <hymn_number>2001</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -46,4 +44,6 @@
  Не затмить солнце правды божественной!
  Оно светит, и вот потому
  Этот день мы встречаем торжественно.</lyrics>
+<author>Снежинка</author>
+<key>Bb</key>
 </song>

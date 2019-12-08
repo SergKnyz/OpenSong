@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Псалом 56</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <author>Анна Дригайло</author>
 <lyrics>[V1]
  Куплет:
@@ -68,4 +67,5 @@
 .Dm  Bb  Gm  C
  Я Твой, я Твой, я Твой, я Твой.</lyrics>
 <hymn_number>2941</hymn_number>
+<title>Псалом 56</title>
 </song>

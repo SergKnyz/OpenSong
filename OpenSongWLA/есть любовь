@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>1013</hymn_number>
+<title>Есть любовь</title>
+<author>Imprintband</author>
+<lyrics>[V1]
  1 куплет:
 .D#                       G#
  Ты просто со мной посиди рядом
@@ -36,8 +40,4 @@
  Я не хочу раны сердцу разрывать.
  Я хочу чтобы ты научился любить,
  Мира красоту я хочу показать.</lyrics>
-<hymn_number>1013</hymn_number>
-<author>Imprintband</author>
-<title>Есть любовь</title>
-<key>C</key>
 </song>

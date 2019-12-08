@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>754</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Лехаим</author>
 <lyrics>[V1]
 .Em       Am                 Em
  Моя душа жаждет только Господа,
@@ -34,7 +34,7 @@
 [V6]
  Ты - моя защита непоколебимая.
  Ты - моя защита непоколебимая.</lyrics>
-<author>Лехаим</author>
-<key>E</key>
+<hymn_number>754</hymn_number>
 <title>Моя душа жаждет</title>
+<key>E</key>
 </song>

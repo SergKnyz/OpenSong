@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
-<title>Покажи мне мое сердце</title>
-<author>Сергей Минеев</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Покажи мне мое сердце</title>
 <hymn_number>1158</hymn_number>
 <lyrics>[V1]
  Покажи мне мое сердце,
@@ -19,4 +17,6 @@
  Подари, новую песню, о Своей, вечной любви,
  Я, так хочу, быть с Тобой, вместе,
  каждый миг, во все, мои дни!</lyrics>
+<author>Сергей Минеев</author>
+<key>Em</key>
 </song>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>599</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
 <lyrics>[V1]
  Я слышу голос Твой,
  Зовет меня к Тебе
@@ -35,5 +35,5 @@
  Отец небес, Тебе хвала,
  Хвала Твоей любви!</lyrics>
 <title>Я слышу голос Твой ПВ76</title>
-<key>Eb</key>
+<hymn_number>599</hymn_number>
 </song>

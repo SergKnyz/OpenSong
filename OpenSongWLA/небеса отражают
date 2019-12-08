@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Кристалл</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Небеса отражают</title>
+<hymn_number>1002</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Fm          D#
@@ -27,7 +28,6 @@
  Звёзды нам говорят о Тебе.
  Этот мир созидает сила Твоя
  И любовь открывает путь к Тебе.</lyrics>
-<hymn_number>1002</hymn_number>
-<title>Небеса отражают</title>
+<author>Кристалл</author>
 <key>F</key>
 </song>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><author>Набат</author>
+<lyrics>[V1]
  1 куплет:
 . F              C          F
  Год ушел, как будто бы и не был
@@ -60,7 +61,6 @@
 .           C      D7     Em
    Жизнь Тебе отдаю я сполна!</lyrics>
 <hymn_number>1405</hymn_number>
-<author>Набат</author>
 <title>Улетают года</title>
 <key>F</key>
 </song>

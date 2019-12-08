@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2283</hymn_number>
 <title>Песни</title>
 <author>Александр Контузоров</author>
-<hymn_number>2283</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .C         G             Am
@@ -37,4 +36,5 @@
  Пусть течет рекой живая песня.
  Кто-нибудь услышит невзначай
  И отыщет путь к стране небесной.</lyrics>
+<key>C</key>
 </song>

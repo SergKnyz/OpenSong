@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Вечный свет</title>
-<key>G</key>
-<aka>За густой пеленой наших будничных дел,</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Пирс</author>
 <lyrics>[V1]
  1 куплет:
 .G                D
@@ -30,5 +28,7 @@
  Мы услышать должны дивной музыки звук,
  Этот голос любви, покоряющей слух.</lyrics>
 <hymn_number>491</hymn_number>
-<author>Пирс</author>
+<title>Вечный свет</title>
+<key>G</key>
+<aka>За густой пеленой наших будничных дел,</aka>
 </song>

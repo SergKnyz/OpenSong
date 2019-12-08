@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2257</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Am</key>
+<hymn_number>2257</hymn_number>
+<title>Пой аллилуйя Господу</title>
+<author>Неизвестный, Линда Страссен</author>
 <lyrics>[V1]
 . Am         Em          Am Em
  1. Пой аллилуйя Господу,
@@ -12,7 +15,4 @@
 [V2]
 . Am          Em              Am    Em
  2. Смерть победив, Христос воскрес!</lyrics>
-<author>Неизвестный, Линда Страссен</author>
-<key>Am</key>
-<title>Пой аллилуйя Господу</title>
 </song>

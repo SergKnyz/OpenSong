@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Издали нам сияет страна ПВ509</title>
-<key>G</key>
-<hymn_number>509</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <lyrics>[V1]
  Издали нам сияет страна,
  В нее верою всякий войдет;
@@ -24,4 +22,6 @@
  Что от Духа объяты огнем
  Воспевают Христову любовь,
  Преклонясь пред Его алтарем</lyrics>
+<hymn_number>509</hymn_number>
+<title>Издали нам сияет страна ПВ509</title>
 </song>

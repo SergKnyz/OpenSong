@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>50</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Хвала величию Его!</aka>
+<key>F</key>
+<hymn_number>50</hymn_number>
+<tempo>140</tempo>
+<title>Велик наш Господь</title>
 <lyrics>[V1]
 .   F          B   B C
  Велик наш Господь!
@@ -38,9 +42,5 @@
  Пусть всё живое здесь
 .  D          G
  Славит Господа!</lyrics>
-<tempo>140</tempo>
-<aka>Хвала величию Его!</aka>
-<key>F</key>
-<title>Велик наш Господь</title>
 <time_sig>4/4</time_sig>
 </song>

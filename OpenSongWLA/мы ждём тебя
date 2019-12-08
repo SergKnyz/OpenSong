@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<author>Виталий Ефремочкин</author>
+<lyrics>[V1]
  Куплет:
 .           C             F
  Мы ждём Тебя, мы ждём Тебя,
@@ -45,7 +47,5 @@
 .                 F
    Он дал нам свободу, дал радость нам</lyrics>
 <hymn_number>148</hymn_number>
-<author>Виталий Ефремочкин</author>
 <title>Мы ждём Тебя</title>
-<key>C</key>
 </song>

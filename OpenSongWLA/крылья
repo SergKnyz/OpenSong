@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>A</key>
-<title>Крылья</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .A
  Каждый день я восхищаюсь тем, что сделал Ты для меня Бог.
  Светит солнце, изливая, красоту Твою излучая.
@@ -16,6 +14,8 @@
  Я знаю, Бог со мной в моих мечтаньях.
 .F#m                      D           Dm           A
  Я знаю, верен Он и в обещаньях, никогда не подведёт.</lyrics>
-<hymn_number>59</hymn_number>
 <author>Слово Жизни Music</author>
+<title>Крылья</title>
+<hymn_number>59</hymn_number>
+<key>A</key>
 </song>

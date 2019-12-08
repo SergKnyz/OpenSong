@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>В присутствии Божьем</title>
-<key>G</key>
-<aka>От сияния славы просветлели глаза,</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>4214</hymn_number>
+<title>В присутствии Божьем</title>
+<author>Сергей Перекрёстов</author>
 <lyrics>[V1]
 .G            D
  	От сияния славы просветлели глаза,
@@ -28,6 +28,6 @@
  Я поклоняюсь Богу живому,
  DС#С                 D              G
  Славлю Тебя, Господь, в Духе святом.</lyrics>
-<hymn_number>4214</hymn_number>
-<author>Сергей Перекрёстов</author>
+<aka>От сияния славы просветлели глаза,</aka>
+<key>G</key>
 </song>

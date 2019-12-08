@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Исповедь</title>
-<key>C#m</key>
-<author>Ирина Цуканова</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
+<title>Исповедь</title>
+<hymn_number>1126</hymn_number>
 <lyrics>[V1]
  Куплет:
 .C#m                     G#m
@@ -40,5 +40,5 @@
    Сердце сокрушаешь тайны открываешь
 .   F#m/A            G#m
    Правду совершаешь Боже мой</lyrics>
-<hymn_number>1126</hymn_number>
+<author>Ирина Цуканова</author>
 </song>

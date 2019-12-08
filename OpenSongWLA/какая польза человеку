@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Анастасия Наконечная</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C#m</key>
+<hymn_number>5044</hymn_number>
+<title>Какая польза человеку</title>
+<author>Анастасия Наконечная</author>
 <lyrics>[V1]
  1 куплет:
 .C#m                        A  E                       G#
@@ -75,7 +78,4 @@
    Какая польза, какой в том смысл.
 .         F#m Hm         C#
    Душа дороже вещей земных.</lyrics>
-<hymn_number>5044</hymn_number>
-<title>Какая польза человеку</title>
-<key>C#m</key>
 </song>

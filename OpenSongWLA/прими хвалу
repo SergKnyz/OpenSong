@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>B</key>
-<title>Прими хвалу</title>
-<hymn_number>2709</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
 <lyrics>[V1]
 .Hm                  G      D          A
  Прими хвалу наших сердец Святой, Святой
@@ -14,5 +12,7 @@
 [V2]
 .Em       G        Hm    A
  Святой, Святой, Святой Бог ,</lyrics>
-<author>Виталий Ефремочкин</author>
+<hymn_number>2709</hymn_number>
+<title>Прими хвалу</title>
+<key>B</key>
 </song>

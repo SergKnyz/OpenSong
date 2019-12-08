@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>2899</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
+<hymn_number>2899</hymn_number>
+<title>Рождество</title>
+<author>Белые Крылья</author>
 <lyrics>[V1]
  1 куплет:
 .        C                    Dm
@@ -27,7 +30,4 @@
  И для всех она укажет на рождённого Царя.
  Друг серьёзно ты подумай и сегодня выбирай
  Или страшную погибель или с Богом вечный рай.</lyrics>
-<author>Белые Крылья</author>
-<title>Рождество</title>
-<key>C</key>
 </song>

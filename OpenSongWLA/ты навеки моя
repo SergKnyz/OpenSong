@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Олександер Ломакін</author>
+<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
+<author>Олександер Ломакін</author>
 <lyrics>[V1]
  Когда было тяжело
  Когда боль была на сердце
@@ -29,6 +30,5 @@
  Ты  есть рядом, я живу
  Потому что я люблю</lyrics>
 <hymn_number>1849</hymn_number>
-<key>E</key>
 <title>Ты навеки моя</title>
 </song>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Всю вечность в объятиях Твоих</title>
-<key>C#m</key>
 <hymn_number>448</hymn_number>
 <lyrics>[V1]
  1 куплет:
@@ -50,4 +49,6 @@
 .                H      C#m  A
  Все что есть у нас - Твоё!__</lyrics>
 <author>Слово Жизни Music</author>
+<aka>Бог, Ты открыл нам Себя,</aka>
+<key>C#m</key>
 </song>

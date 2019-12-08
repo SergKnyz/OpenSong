@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Для Тебя жизнь моя</title>
-<key>A</key>
-<author>Алексей Каратаев, Цхрис Томлин</author>
+<hymn_number>4108</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .     Am             G/H  C
@@ -39,5 +38,6 @@
    С радостью исполню я Твою волю!
 .                G        F          C
    С радостью исполню я Твою волю, Твой путь!</lyrics>
-<hymn_number>4108</hymn_number>
+<author>Алексей Каратаев, Цхрис Томлин</author>
+<key>A</key>
 </song>

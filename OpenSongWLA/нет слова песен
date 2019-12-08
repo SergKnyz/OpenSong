@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>нет слова песен</title>
-<key>D</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Adam-Smile</author>
 <lyrics>[V1]
 .D                    C             G
  Они в темноте идут, им не нужен свет;
@@ -54,6 +53,7 @@
    Так как Хозяин в нём-
    Мой Лучший,Верный Друг!</lyrics>
 <hymn_number>3358</hymn_number>
-<author>Adam-Smile</author>
+<title>нет слова песен</title>
+<key>D</key>
 <aka>Без основания</aka>
 </song>

@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
-<title>Видел славу я Твою,</title>
-<aka>Вот я</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><aka>Вот я</aka>
+<key>C</key>
 <hymn_number>263</hymn_number>
+<title>Видел славу я Твою,</title>
+<author>Просто сосуды</author>
 <lyrics>[V1]
  1 куплет:
 .C       F         C G
@@ -46,5 +47,4 @@
    Вот я! Я в Твоих руках!
 .  G   D           A
    Вот я! Пошли меня!</lyrics>
-<author>Просто сосуды</author>
 </song>

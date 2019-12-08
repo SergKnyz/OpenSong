@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Слава!, Слава Богу силы! ИИПВ296</title>
-<key>A</key>
 <lyrics>[V1]
 .     A
  // Слава!
@@ -32,4 +31,5 @@
 .                    D    EA
    Да будет слава Господу!</lyrics>
 <aka>Слава, слава Богу в вышних</aka>
+<key>A</key>
 </song>

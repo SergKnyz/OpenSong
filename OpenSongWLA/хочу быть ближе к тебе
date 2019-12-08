@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>F#m</key>
-<author>Жанат Кусаинова</author>
-<title>Хочу быть ближе к Тебе</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .F#m  D               A      C#
  О. Иисус - Ты мой Спаситель, друг!
 .F#m    D             E
@@ -41,4 +38,7 @@
  За все Твои дела, хочу воздать Тебе, хвалу,
  Ты в каждом стуке сердца,
  Мою любовь, к Тебе прими!</lyrics>
+<key>F#m</key>
+<author>Жанат Кусаинова</author>
+<title>Хочу быть ближе к Тебе</title>
 </song>

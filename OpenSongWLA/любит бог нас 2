@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Любит Бог нас</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1442</hymn_number>
+<title>Любит Бог нас</title>
+<author>Размер неба</author>
 <lyrics>[V1]
  Куплет:
 .G                  C/E
@@ -35,6 +36,5 @@
    Как небо сливается жарко с землей,  сильно сердце бьется внутри так что,
 .        D                                C
    Нет времени себя больше жалеть, когда думаю, что так...</lyrics>
-<hymn_number>1442</hymn_number>
-<author>Размер неба</author>
+<key>G</key>
 </song>

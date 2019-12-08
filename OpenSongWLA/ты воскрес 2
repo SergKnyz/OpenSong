@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
-<title>Ты воскрес</title>
-<author>Анна Поночевная</author>
+<?xml version="1.0" encoding="UTF-8"?><song><title>Ты воскрес</title>
 <hymn_number>4221</hymn_number>
 <lyrics>[V1]
  intro: BPM 128
@@ -52,4 +50,6 @@
    Все грехи наши простив
 .          Bb            C
    Ты воскрес и дал нам жизнь.</lyrics>
+<author>Анна Поночевная</author>
+<key>Eb</key>
 </song>

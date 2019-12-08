@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Хочу воспеть Тебе</title>
-<key>E</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 . E
  Хочу воспеть Тебе больше, чем могу,
 .                 C#m
@@ -25,4 +23,6 @@
  Хочу любить Тебя больше, чем могу,
  Научи искать там, где Божья благодать.
  Хочу любить Тебя.</lyrics>
+<title>Хочу воспеть Тебе</title>
+<key>E</key>
 </song>

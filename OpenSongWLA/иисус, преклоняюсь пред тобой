@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Иисус, преклоняюсь пред Тобой</title>
-<key>B</key>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Виталий Ефремочкин</author>
 <lyrics>[V1]
  Куплет:
 .Hm            G
@@ -14,6 +13,7 @@
 .        F#m           Hm
    Воля Твоя будет во всём!</lyrics>
 <hymn_number>136</hymn_number>
-<author>Виталий Ефремочкин</author>
+<title>Иисус, преклоняюсь пред Тобой</title>
+<key>B</key>
 <aka>Воля Твоя</aka>
 </song>

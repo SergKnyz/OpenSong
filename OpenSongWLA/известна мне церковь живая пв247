@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<title>Известна мне Церковь живая ПВ247</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Известна мне Церковь живая,
  Где сердцу отрадно так быть.
  Христову любовь воспевая,
@@ -30,4 +28,6 @@
  Я был исцелен от неверья,
  Как в Церковь Христову вошел.</lyrics>
 <hymn_number>247</hymn_number>
+<title>Известна мне Церковь живая ПВ247</title>
+<key>Bb</key>
 </song>

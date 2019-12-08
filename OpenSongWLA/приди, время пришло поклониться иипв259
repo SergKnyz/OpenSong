@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>259</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>D</key>
 <lyrics>[V1]
 .D2                        Em7/D D
  Приди, время пришло поклониться,
@@ -26,6 +26,6 @@
 [V2]
 .  D2
  Приди.</lyrics>
-<key>D</key>
+<hymn_number>259</hymn_number>
 <title>Приди, время пришло поклониться ИИПВ259</title>
 </song>

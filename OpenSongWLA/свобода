@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><title>Свобода</title>
+<hymn_number>743</hymn_number>
+<lyrics>[V1]
  Куплет:
 .         A          E         D
  По милости и по любви грех Тобою побеждён
@@ -26,8 +28,6 @@
    Ты устроил путь для нас,
 .   D    E           F#m A
    Когда умер на кресте.</lyrics>
-<hymn_number>743</hymn_number>
 <author>Виталий Ефремочкин</author>
 <key>B</key>
-<title>Свобода</title>
 </song>

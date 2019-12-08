@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><aka>Все расскажи про Него</aka>
-<hymn_number>5378</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><key>Eb</key>
+<aka>Все расскажи про Него</aka>
 <lyrics>[V1]
  Весть об Иисусе скажи мне,
  Все расскажи про Него;
@@ -35,6 +35,6 @@
  Как Он людей возлюбил;
  Слава вовеки Иисусу,
  Он и мой грех искупил!</lyrics>
-<key>Eb</key>
+<hymn_number>5378</hymn_number>
 <title>Весть об Иисусе скажи мне ПВ9</title>
 </song>

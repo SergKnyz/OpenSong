@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Я отдаю</title>
-<key>G</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
 <author>Imprintband</author>
-<hymn_number>4208</hymn_number>
 <lyrics>[V1]
  Intro: BPM: 70
 
@@ -40,4 +38,6 @@
  Не оставишь, всегда утешишь.
  Я сердцем прильну ко кресту, в Тебе только силу найду,
  Побеждаю лишь с Тобою в бою.</lyrics>
+<hymn_number>4208</hymn_number>
+<title>Я отдаю</title>
 </song>

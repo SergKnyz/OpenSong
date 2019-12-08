@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><song><title>Псалом 22</title>
-<key>D</key>
+<hymn_number>1477</hymn_number>
 <lyrics>[V1]
  1 куплет:
 .Dm         Bb                 C                  Am
@@ -39,6 +39,6 @@
  Господь - Пастырь мой, всеми силами Тебя люблю я,
 .Dm       Bb                C                  Am
  Господь мой и Бог, что воздам Тебя я? - «Аллилуйя»!</lyrics>
-<hymn_number>1477</hymn_number>
 <author>Максим Каскун</author>
+<key>D</key>
 </song>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Церковь Божья поднимайся ПВ1059</title>
-<key>C</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Церковь Божья, поднимайся!
  К встрече ты приготовляйся.
  Бог готовых лишь возьмет,
@@ -30,4 +28,6 @@
  О невеста, ободрись!
  Встань, для Бога потрудись!</lyrics>
 <hymn_number>1059</hymn_number>
+<title>Церковь Божья поднимайся ПВ1059</title>
+<key>C</key>
 </song>

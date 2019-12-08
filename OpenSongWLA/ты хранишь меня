@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bb</key>
-<title>Ты хранишь меня</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Слово Жизни Москва</author>
 <lyrics>[V1]
  1 куплет:
 .Bb                      Eb
@@ -36,5 +35,6 @@
 .           Gm     Eb          Bb Dm
    С нами стоишь Ты, Ты до конца__</lyrics>
 <hymn_number>4173</hymn_number>
-<author>Слово Жизни Москва</author>
+<title>Ты хранишь меня</title>
+<key>Bb</key>
 </song>

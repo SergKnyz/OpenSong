@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Зреет в поле пшеница</title>
-<key>C</key>
+<?xml version="1.0" encoding="UTF-8"?><song><key>C</key>
 <author>Неизвестный</author>
-<hymn_number>2784</hymn_number>
 <lyrics>[V1]
 .Cm             Fm G7              Cm
  Зреет в поле пшеница, наклонились колосья,
@@ -29,4 +27,6 @@
  И во сне безмятежном забываем про вечность.
  Друг, прислушайся к небу и услышишь ты голос,
  Голос тихий, тревожный: «Сын Мой, где же твой колос?»</lyrics>
+<hymn_number>2784</hymn_number>
+<title>Зреет в поле пшеница</title>
 </song>

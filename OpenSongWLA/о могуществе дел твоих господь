@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><song><aka>Бог мой и Царь</aka>
-<author>Петр Ашейчик</author>
+<key>C</key>
 <tempo>104</tempo>
+<hymn_number>24</hymn_number>
+<title>О могуществе дел Твоих Господь</title>
+<author>Петр Ашейчик</author>
+<time_sig>4/4</time_sig>
 <lyrics>[V1]
 . C   F  G   C
  Бог мой и Царь!
@@ -20,8 +24,4 @@
    О любви и правде буду петь!
 .        C
    Буду петь!</lyrics>
-<hymn_number>24</hymn_number>
-<key>C</key>
-<title>О могуществе дел Твоих Господь</title>
-<time_sig>4/4</time_sig>
 </song>

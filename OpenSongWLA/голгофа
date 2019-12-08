@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>Fm</key>
+<aka>На Голгофу опустилась ледяная ночь,</aka>
+<lyrics>[V1]
  1 куплет:
 .D#m                  G#m
  На Голгофу опустилась ледяная ночь,
@@ -61,8 +63,7 @@
  Без твоей поддержки, Мой Отец!
  Не вмени им злодеяний, ни укоров, ни страданий,
  Ведь не ведают, что творят!</lyrics>
-<hymn_number>1207</hymn_number>
 <author>Живая капля</author>
 <title>Голгофа</title>
-<key>Fm</key>
+<hymn_number>1207</hymn_number>
 </song>

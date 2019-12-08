@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Ольга Вельгус</author>
-<hymn_number>1072</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1072</hymn_number>
+<title>Молитва</title>
+<author>Ольга Вельгус</author>
 <lyrics>[V1]
 .         Em         F#         Hm
  Я хочу, Господи, похожей быть на Тебя.
@@ -47,6 +48,5 @@
  Ты приготовь меня к встрече, Господь, с Тобой,
 .        Cm         G       Cm
  Чтоб оказалась я верной Твоей слугой!</lyrics>
-<title>Молитва</title>
 <key>E</key>
 </song>

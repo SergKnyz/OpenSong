@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Елеон</author>
-<hymn_number>1794</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>1794</hymn_number>
+<title>Иерусалим</title>
+<author>Елеон</author>
 <lyrics>[V1]
  1 куплет:
 .   Cm                              Fm
@@ -69,5 +70,4 @@
 .  Cm                      Fm     G         Cm Ab Bb Cm
  Царю - царей  навечно Дана, любимая Невеста - Царя.</lyrics>
 <key>C</key>
-<title>Иерусалим</title>
 </song>

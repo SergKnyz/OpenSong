@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>Bm</key>
-<title>За светлый луч, пронзивший тьму вокруг</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .Bm                  F#             Bm
  Благодарю за новый день нам данный свыше
 .           Bm              A      D
@@ -38,5 +36,7 @@
  Обогащает и питает , жизни хлебом
  Чтобы Ему, могли мы доверять.</lyrics>
 <hymn_number>2200</hymn_number>
+<title>За светлый луч, пронзивший тьму вокруг</title>
+<key>Bm</key>
 <aka>Благодарю за новый день нам данный свыше</aka>
 </song>

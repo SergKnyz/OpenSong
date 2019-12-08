@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Дух мой грешный возлюбил ПВ151</title>
-<key>Ab</key>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
  Буду петь, как Искупитель
  Дух мой грешный возлюбил.
  Как страдал Он, Избавитель,
@@ -30,5 +28,7 @@
  Он мне в рай путеводитель,
  Вечно с Ним пребуду я.</lyrics>
 <hymn_number>151</hymn_number>
+<title>Дух мой грешный возлюбил ПВ151</title>
+<key>Ab</key>
 <aka>Буду петь как Искупитель</aka>
 </song>

@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><author>Денис Никитин</author>
-<hymn_number>680</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>680</hymn_number>
+<title>Друзья</title>
+<author>Денис Никитин</author>
 <lyrics>[V1]
  1 куплет:
 .Em         C      G           D
@@ -54,5 +55,4 @@
  Бридж
  Припев</lyrics>
 <key>E</key>
-<title>Друзья</title>
 </song>

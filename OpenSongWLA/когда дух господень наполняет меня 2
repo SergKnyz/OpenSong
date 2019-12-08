@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<author>Фред Хаммонд</author>
-<title>Когда Дух Господень наполняет меня</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .      Em
  Когда Дух Господень наполняет меня,
 .    B          Em
@@ -33,4 +30,7 @@
    Молюсь я, молюсь я, молюсь я как Давид.
    Пою я, пою я, пою я как Давид.
    Танцую, танцую, танцую как Давид.</lyrics>
+<author>Фред Хаммонд</author>
+<key>G</key>
+<title>Когда Дух Господень наполняет меня</title>
 </song>

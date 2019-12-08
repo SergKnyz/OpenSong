@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>E</key>
-<title>Люблю</title>
+<?xml version="1.0" encoding="UTF-8"?><song><author>Краеугольный камень</author>
 <lyrics>[V1]
  1 куплет:
 .  Em                                Am
@@ -40,5 +39,6 @@
  Каждое поднятие с колен - люблю
  Каждое прощение измен - люблю</lyrics>
 <hymn_number>336</hymn_number>
-<author>Краеугольный камень</author>
+<title>Люблю</title>
+<key>E</key>
 </song>

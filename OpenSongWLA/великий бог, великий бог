@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Великий Бог, Великий Бог</title>
-<key>E</key>
-<aka>Ты был, Ты есть и Ты грядёшь</aka>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>146</hymn_number>
+<title>Великий Бог, Великий Бог</title>
+<author>Виталий Ефремочкин, Йаке Хамилтон</author>
 <lyrics>[V1]
  1 куплет:
 .    Em             C
@@ -36,6 +36,6 @@
    Ты так благ, благ Бог мой
 .         Am
    Ты благой ко мне Господь</lyrics>
-<hymn_number>146</hymn_number>
-<author>Виталий Ефремочкин, Йаке Хамилтон</author>
+<aka>Ты был, Ты есть и Ты грядёшь</aka>
+<key>E</key>
 </song>

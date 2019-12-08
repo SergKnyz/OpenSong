@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><song><title>Ты - Царь царей</title>
-<key>B</key>
-<hymn_number>225</hymn_number>
+<?xml version="1.0" encoding="UTF-8"?><song><hymn_number>225</hymn_number>
+<title>Ты - Царь царей</title>
+<author>Тропинка</author>
 <lyrics>[V1]
  Куплет:
 .     D#m              H
@@ -22,5 +22,5 @@
    Тебе принадлежат небо и земля. Аллилуйя.
 .  G#m          Bb  D#m   G#m         Bb  D#m
    Тебе принадлежу и я. Тебе принадлежу и я.</lyrics>
-<author>Тропинка</author>
+<key>B</key>
 </song>

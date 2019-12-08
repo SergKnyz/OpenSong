@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><song><key>G</key>
-<title>Русь</title>
-<hymn_number>3206</hymn_number>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
 .     Gm           Gm
  Босоногая, по распутице,
 .        Gm            D
@@ -65,4 +62,7 @@
 .        D              Gm
  Вечный Бог не забыл тебя!</lyrics>
 <author>Щеглова Н.И, Ковалева Н.А., Nina Kovaleva</author>
+<title>Русь</title>
+<hymn_number>3206</hymn_number>
+<key>G</key>
 </song>

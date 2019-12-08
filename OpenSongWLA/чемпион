@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><song><lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?><song><key>Em</key>
+<hymn_number>3238</hymn_number>
+<title>Чемпион</title>
+<lyrics>[V1]
 .Em            Am
  Много видел я разных Чемпионов-
 .G             D
@@ -38,7 +41,4 @@
  Он один за всех эту тяжесть понес!
  Вырвал нас из ада, из его цепей,
  Человеку навсегда победу принес!</lyrics>
-<hymn_number>3238</hymn_number>
-<key>Em</key>
-<title>Чемпион</title>
 </song>
